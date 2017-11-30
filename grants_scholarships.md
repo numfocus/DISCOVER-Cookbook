@@ -14,7 +14,7 @@ Why funding is important
   - Can also support indigenous populations.  Could not find an agreed upon list of indigenous groups.
   - Need to decide what career stages are eligible.  Just students and post-docs.  Junior faculty/researchers?  Unemployed?
   - The legal issues of specifically funding underrepresented groups varies by country.
-    - ■■Galaxy deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
+    - Galaxy deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
 - Payment
   - Cut a check or submit receipts for reimbursement.
   - Try hard to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
