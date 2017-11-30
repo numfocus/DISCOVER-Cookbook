@@ -57,7 +57,7 @@ Demographic Info
 
 - Guidelines for replacing gender in forms [http://43epnd.axshare.com/gender.html](http://43epnd.axshare.com/gender.html)
 
-Inclusive practices during check-in
+## Inclusive practices during check-in
 
 Pronouns
 
@@ -83,18 +83,3 @@ Social Events
 - Alcohol Considerations
 
 - We recommend the AdaCamp Toolkit&#39;s summary approach to alcohol at events: [https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
-
-Other Considerations
-
-**Further reading:**
-
-- Scent and smoking policy [https://adacamp.org/adacamp-toolkit/policies/#scent](https://adacamp.org/adacamp-toolkit/policies/#scent)
-- Conference booklet template [http://geekfeminism.wikia.com/wiki/Conference\_booklet\_template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
-
-Special Considerations Depending on Geographic Context
-
-E.g. very remote location with no public transit
-
-U.S.-specific information vs. other countries (e.g. ADA protections)
-
- States with discriminatory laws (Needs info)
