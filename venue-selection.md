@@ -1,12 +1,9 @@
-### Venue Selection &amp; On-Site Services
+# Venue Selection &amp; On-Site Services
 
-Accessibility Considerations
-
+##Accessibility Considerations
 - Consider attendees who may need accommodations for a disability
--
-●●
 
-Mobility
+###Mobility
 
 - 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.)
 - Reduce conference sprawl to support access for the mobility-impaired
@@ -14,7 +11,7 @@ Mobility
 - Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.)
 - Be aware of how far/near the closest wheelchair-accessible restrooms are.
 
-Disability
+###Disability
 
 - ✅ Potentially book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees
 - Consider using patterns rather than just color to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues
@@ -30,9 +27,9 @@ Disability
 - Faciliating access for chronically ill/disabled professionals [https://figshare.com/articles/Ecologist\_in\_silico\_Facilitating\_access\_for\_chronically\_ill\_disabled\_ecologists/1502697](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
 - Improving the Color Accessibility for Color Blind Users [https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 
-Bathrooms
+##Bathrooms
 
-Gender-Neutral Bathrooms
+###Gender-Neutral Bathrooms
 
 - Ideally you would provide 3 restrooms: gender-neutral, female, male
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is the best way to ensure that non-binary and trans individuals feel included and welcome at your conference.
@@ -43,7 +40,7 @@ Gender-Neutral Bathrooms
 - 🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom
   - &quot;If you think someone&#39;s gender doesn&#39;t match the sign on the door, please follow these steps: Don&#39;t worry about it, they know better than you.&quot; (via @LGBTplusBristol)
 
-Toiletries/Supplies
+###Toiletries/Supplies
 
 - 🍎 Provide tampons and pads in all restrooms (some people who identify as male have periods and may need them)
 
@@ -53,9 +50,9 @@ Toiletries/Supplies
 - Tech conferences with inclusive restrooms [https://storify.com/cczona/tech-conferences-with-inclusive-restrooms](https://storify.com/cczona/tech-conferences-with-inclusive-restrooms)
 - An easy way to tell if a tech company doesn&#39;t give a sh\*t about women [https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
 
-Dedicated rooms
+##Dedicated rooms
 
-🍎 Nursing, Pumping &amp; Bottle Feeding Rooms
+###🍎 Nursing, Pumping &amp; Bottle Feeding Rooms
 
 The rooms should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory.
 
@@ -84,7 +81,7 @@ The rooms should be clearly labeled to prevent accidental entry, and their locat
 - How to accommodate a breastpumping mom at your event [http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event/)
 - How to Set Up a Lactation Room to Support Breastfeeding at Work [https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
 
-🍎 Quiet Room
+###🍎 Quiet Room
 
 - A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference.
   - No phone calls, talking/socializing, etc.
