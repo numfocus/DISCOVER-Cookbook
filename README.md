@@ -65,87 +65,23 @@ We appreciate the effort and input of the many individuals who contributed to th
 
 Organizing Committee
 
-Venue Selection &amp; On-Site Services
+[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISC-Events-Guide/blob/master/venue-selection.md)
 
-Accessibility Considerations
+[Catering](https://github.com/numfocus/DISC-Events-Guide/blob/master/catering.md)
 
-Mobility
+[Childcare](https://github.com/numfocus/DISC-Events-Guide/blob/master/childcare.md)
 
-Disability
+[Code of Conduct (CoC)](https://github.com/numfocus/DISC-Events-Guide/blob/master/code-of-conduct.md)
 
-Bathrooms
+[Grants/Scholarships](https://github.com/numfocus/DISC-Events-Guide/blob/master/grants_scholarships.md)
 
-Gender-Neutral Bathrooms
+[Participant Selection](https://github.com/numfocus/DISC-Events-Guide/blob/master/participant-selection.md)
 
-Toiletries/Supplies
+[Event Registration](https://github.com/numfocus/DISC-Events-Guide/blob/master/event_registration.md)
 
-Dedicated rooms
+[Inclusive Practices During Check-In](https://github.com/numfocus/DISC-Events-Guide/blob/master/inclusive_practices_during_checkin.md)
 
-🍎 Nursing, Pumping &amp; Bottle Feeding Rooms
+[Other Considerations](https://github.com/numfocus/DISC-Events-Guide/blob/master/other-considerations.md)
 
-🍎 Quiet Room
-
-Catering
-
-Catering Requirements
-
-Childcare
-
-On-Site Childcare Services
-
-Code of Conduct (CoC)
-
-Awareness
-
-Reporting
-
-Enforcement
-
-Grants/Scholarships
-
-Why funding is important
-
-✅ Offer grants to support attendance
-
-Where to seek funding
-
-Participant Selection
-
-Speakers
-
-Invited Speakers
-
-Selected Speakers
-
-Attracting Attendees
-
-Event Registration
-
-What to ask on your registration form (and what not to ask)
-
-Preparing to meet accessibility needs
-
-Supporting Attendance through Grants
-
-Dietary Restrictions
-
-Photo Policy
-
-Code of Conduct
-
-T-Shirts
-
-Demographic Info
-
-Inclusive practices during check-in
-
-Pronouns
-
-Welcoming New Attendees
-
-Social Events
-
-Other Considerations
-
-Special Considerations Depending on Geographic Context
+[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISC-Events-Guide/blob/master/special-considerations.md)
 
