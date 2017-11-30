@@ -5,15 +5,7 @@
   - Collect the data on the registration form - how many people would make use of childcare services or grants?
 - The two general options are either to award childcare grants (people decide how to spend it, e.g. on their home babysitter) or provide on-site services
   - Grants seem to be more popular with attendees
-    -
-■■
-#
-[ANNOTATION:
-
-BY &#39;Gina Helfrich&#39;
-ON &#39;2017-11-30T17:31:37&#39;
-NOTE: &#39;resolve this.&#39;]
-Then the trick is: application &amp; vetting process for determining need
+    - ■■Then the trick is: application &amp; vetting process for determining need
     - ■■Do you have to submit an invoice or receipt from someone with a Tax ID?
     - ■■I.e. how to prevent fraud, provide useful service
 - On-site services can be costly because of additional travel costs for bringing children along.  For those who do bring kids:
