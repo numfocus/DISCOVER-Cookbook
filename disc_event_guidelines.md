@@ -30,27 +30,27 @@ To facilitate ease of use, we have highlighted suggestions that are **easy to im
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
 
-      |
+                                     |
 
-  🍎    |  ✅
+             🍎                      |                ✅
 
-  High Impact,   |  High Impact,
+        High Impact,                 |           High Impact,
 
-  Low Effort   |  High Effort
+        Low Effort                   |           High Effort
 
-      |
+                                     |
 
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 
-      |
+                                    |
 
-      |
+                                    |
 
-  Low Impact,   |  Low Impact,
+         Low Impact,                |           Low Impact,
 
-  Low Effort   |  High Effort
+         Low Effort                 |           High Effort
 
-      |
+                                    |
 
 Acknowledgements:
 
@@ -158,20 +158,6 @@ Accessibility Considerations
 - Consider attendees who may need accommodations for a disability
 -
 ●●
-#
-[ANNOTATION:
-
-BY &#39;Gina Helfrich&#39;
-ON &#39;2017-11-30T18:32:17&#39;
-NOTE: &#39;yep&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Ashley Otero&#39;
-ON &#39;2017-11-30T17:36:13&#39;
-NOTE: &#39;is this a consideration?&#39;]
-Service animals?
 
 Mobility
 
@@ -550,9 +536,7 @@ Pronouns
 - To be aware of: &quot;pins were also tiny (1/2 inch circles) with 60% taken up by the words &quot;pronouns&quot; and spacing.&quot;
 
 **Further reading:**
-
-[insert color-blind examples]
-
+- [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 - [https://adacamp.org/adacamp-toolkit/policies/#photo](https://adacamp.org/adacamp-toolkit/policies/#photo)
 
 Welcoming New Attendees
