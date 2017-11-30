@@ -35,7 +35,7 @@ Where to seek funding
   - Helmsley Foundation
   - Chan-Zuckerburg Foundation
   - PyLadies
-    - ■■Gives scholarships to PyCon participants
+    - Gives scholarships to PyCon participants
 
 **Further reading:**
 
