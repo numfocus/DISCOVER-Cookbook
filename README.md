@@ -63,7 +63,7 @@ We appreciate the effort and input of the many individuals who contributed to th
 
 ### TABLE OF CONTENTS
 
-Organizing Committee
+[Organizing Committee](https://github.com/numfocus/DISC-Events-Guide/blob/master/organizing-committee.md)
 
 [Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISC-Events-Guide/blob/master/venue-selection.md)
 
