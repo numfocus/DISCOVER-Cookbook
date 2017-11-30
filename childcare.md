@@ -5,9 +5,9 @@
   - Collect the data on the registration form - how many people would make use of childcare services or grants?
 - The two general options are either to award childcare grants (people decide how to spend it, e.g. on their home babysitter) or provide on-site services
   - Grants seem to be more popular with attendees
-    - ■■Then the trick is: application &amp; vetting process for determining need
-    - ■■Do you have to submit an invoice or receipt from someone with a Tax ID?
-    - ■■I.e. how to prevent fraud, provide useful service
+    - Then the trick is: application &amp; vetting process for determining need
+    - Do you have to submit an invoice or receipt from someone with a Tax ID?
+    - I.e. how to prevent fraud, provide useful service
 - On-site services can be costly because of additional travel costs for bringing children along.  For those who do bring kids:
   - Cost-free access to the conference center for child caregivers
   - This allows caregivers to come to the conference for infant hand-offs (e.g. for nursing) as opposed to parents losing additional time walking back to hotel rooms.
