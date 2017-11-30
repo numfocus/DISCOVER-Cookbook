@@ -12,8 +12,6 @@
   - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
 - 🍎 Include a short version on the printed schedule as a reminder
 - 🍎 Mention it in welcome talk and start of every day
-
--
   - Mention who to contact if there is a problem/violation
 - If you send out daily event e-mails, include an item on &quot;Seeing or experiencing something that makes you uncomfortable&quot;
   - Remember that you can always speak to one of our ombudspersons about any matter of concern, no matter how small.
@@ -34,7 +32,7 @@
 
 - Be clear on how long it will take to resolve the situation or take an action on the violation
 - If you have a process for recording a CoC violation, ensure that the data are stored securely and that everyone&#39;s identities are protected. Access to the data should be limited.
-- \*\*Discuss: having a process for recording a CoC violation
+- Discuss: having a process for recording a CoC violation
 - When possible, have a third party to review violation report
 - Encourage positive behavior (as opposed to &quot;Don&#39;t do this…..&quot; but &quot;Do this….&quot;)
 - Include list of FAQs
