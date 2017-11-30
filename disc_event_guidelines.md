@@ -4,7 +4,7 @@ Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC
 
 ## Introduction
 
-About this Guide:
+### About this Guide:
 
 This guide is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
 
@@ -12,13 +12,13 @@ It focuses specifically on plans, decisions, and actions organizers can take to 
 
 _Funding to produce this guide was made possible by a generous grant from the_ **Moore Foundation** _._
 
-What this Guide is not:
+### What this Guide is not:
 
 This guide is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
 Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the guide to a more manageable length.
 
-How to use this Guide:
+### How to use this Guide:
 
 You **do not have to implement every suggestion** in the guide in order to &quot;qualify&quot; as having a diverse and inclusive event!
 
