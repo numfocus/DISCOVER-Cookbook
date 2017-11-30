@@ -527,7 +527,7 @@ Demographic Info
 
 - Guidelines for replacing gender in forms [http://43epnd.axshare.com/gender.html](http://43epnd.axshare.com/gender.html)
 
-Inclusive practices during check-in
+## Inclusive practices during check-in
 
 Pronouns
 
@@ -554,7 +554,7 @@ Social Events
 
 - We recommend the AdaCamp Toolkit&#39;s summary approach to alcohol at events: [https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
 
-Other Considerations
+## Other Considerations
 
 **Further reading:**
 
