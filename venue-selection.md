@@ -51,14 +51,14 @@
 - Tech conferences with inclusive restrooms [https://storify.com/cczona/tech-conferences-with-inclusive-restrooms](https://storify.com/cczona/tech-conferences-with-inclusive-restrooms)
 - An easy way to tell if a tech company doesn&#39;t give a sh\*t about women [https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
 
-## Dedicated rooms
+## 🍎 Dedicated rooms
 
 - The rooms should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
-- 🍎 Don&#39;t allow anyone (even organizers) to use the room for other purposes.
+- Don&#39;t allow anyone (even organizers) to use the room for other purposes.
 
 ### 🍎 Nursing &amp; Pumping Room
 
-- 🍎 Ensure there is a dedicated, single-occupancy space with lock.
+- Ensure there is a dedicated, single-occupancy space with lock.
 - For the room to be optimally useful, these things are desired:
   - Locking door
   - Comfortable chair (ideally, with arms that do not have gaps between the armrest and the seat, and a set of firm cushions for positioning an infant)
@@ -90,3 +90,9 @@
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
   - People whose religions require frequent prayer can make use of the quiet room.
+  
+  **NEXT SECTION:**
+- [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
+
+**PREVIOUS SECTION:**
+- [Organizing Committee](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/organizing-committee.md)
