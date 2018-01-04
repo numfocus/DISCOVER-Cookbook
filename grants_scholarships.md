@@ -20,7 +20,7 @@ Registration vs. Travel &amp; Lodging
   - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
   
 - The legal issues of specifically funding underrepresented groups varies by country.
-    - [Galaxy] (https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
+    - [Galaxy](https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
     
 - Payment
   - Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
@@ -31,14 +31,14 @@ Registration vs. Travel &amp; Lodging
 
 - How to attract funding for scholarships?
   - Consider posting an opportunity for attendees or community members to make individual donations in support of travel scholarships.
-  - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships.
+  - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships. (e.g. [PyData offers Diversity Scholarships as sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))
   - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](https://www.generosity.com/community-fundraising/support-open-source-bridge-2016/).)
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
-  - Python Software Foundation
+  - [Python Software Foundation](http://legacy.python.org/psf/grants/)
   - NumFOCUS Foundation
     - Offers grants to organizing committees for diversity scholarships [https://www.numfocus.org/programs/grants-sponsored-events/](https://www.numfocus.org/programs/grants-sponsored-events/)
-  - PyLadies
+  - [PyLadies](http://www.pyladies.com/)
     - Gives scholarships to PyCon participants
 
 **Further reading:**
