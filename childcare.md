@@ -9,7 +9,7 @@
 
 #### Grants
 
-    - Based on our research, grants seem to be more popular with attendees. You might survey your participants to determine their preference for grants vs. on-site childcare services.
+   - Based on our research, grants seem to be more popular with attendees. You might survey your participants to determine their preference for grants vs. on-site childcare services.
       - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
     - For those who do bring kids to the event/conference:
        - Provide cost-free access to the conference center/venue for caregivers/babysitters
