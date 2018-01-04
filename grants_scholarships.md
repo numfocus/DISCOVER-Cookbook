@@ -2,8 +2,8 @@
 
 **Why funding is important**
 
-- Registration vs. Travel &amp; Lodging
-  - Registration waver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
+Registration vs. Travel &amp; Lodging
+- Registration waver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
     - Most [PyData](http://www.pydata.org) Diversity Scholarship recipients indicated that receiving funding to cover registration was make-or-break for their ability to attend. 
 - However, registration waivers alone often aren't enough.
     - Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients who didn&#39;t have additional outside sources of funding for travel &amp; lodging were unable to attend even though their registration was covered.
