@@ -76,3 +76,9 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 - Beyond Guidelines: Setting the stage for good behavior in your community [http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/](http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/)
 - Geek Feminism Wiki: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
 
+---
+**NEXT SECTION:**
+- [Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
+
+**PREVIOUS SECTION:**
+- [Childcare](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/childcare.md)
