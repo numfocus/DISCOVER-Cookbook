@@ -10,3 +10,6 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 **NEXT SECTION:**
 ### [Venue Selection & On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
+
+**PREVIOUS SECTION:**
+### [ReadMe](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/README.md)
