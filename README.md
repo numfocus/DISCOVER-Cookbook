@@ -1,9 +1,9 @@
 # DISC-Events-Guide
-The NumFOCUS DISC Guide to Diverse and Inclusive Conferences and Events Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
+The NumFOCUS DISC Guide to Diverse and Inclusive Conferences and Events is produced by the [NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program](https://www.numfocus.org/programs/diversity-and-inclusion/), with support from the [Moore Foundation](https://www.moore.org/).
 
 ## The NumFOCUS DISC Guide to Diverse and Inclusive Conferences and Events
 
-Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation
+Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program with support from the Moore Foundation.
 
 ## Introduction
 
@@ -27,9 +27,9 @@ You **do not have to implement every suggestion** in the guide in order to &quot
 
 The guide is intended to help you, as an event organizer, to understand the **overall landscape** of best practices for diversity and inclusion.
 
-**We encourage you to do as much as you can manage** , on the understanding that implementing a few well-supported and fully realized suggestions is preferable to implementing many suggestions that are poorly-supported or incomplete.
+**We encourage you to do as much as you can manage**, on the understanding that implementing a few well-supported and fully realized suggestions is preferable to implementing many suggestions that are poorly-supported or incomplete.
 
-To facilitate ease of use, we have highlighted suggestions that are **easy to implement** and which have a **strong positive impact**. These are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎.
+To facilitate ease of use, we have highlighted suggestions that are relatively **easy to implement** and which have a **strong positive impact**. These are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎.
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
 
@@ -55,11 +55,15 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
                                     |
 
-Acknowledgements:
+#### Acknowledgements:
 
-We appreciate the effort and input of the many individuals who contributed to the creation of this guide.
+We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this guide. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this guide. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
 
-- In particular, we thank: Jennifer Klay, Reshama Shaikh, Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, Tania Allard, Gina Helfrich, [more]
+- In particular, we thank: 
+
+- The NumFOCUS DISC Committee members who compiled the initial skeleton of this guide: Jennifer Klay, Reshama Shaikh, and Gina Helfrich.
+
+- Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
 ### TABLE OF CONTENTS
 
