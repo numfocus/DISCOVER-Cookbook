@@ -1,7 +1,5 @@
 # Code of Conduct (CoC)
 
-[**Code of Conduct**](https://docs.google.com/document/d/1-mtxLq0e9TPqcWtCikql6hd_Pva2hfu35yjtrB0PdiM/edit)
-
 ## Goals
 
 **A Code of Conduct should:**
