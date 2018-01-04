@@ -26,7 +26,7 @@
     - Care.com: [https://www.care.com/](https://www.care.com/)
     - Accent: [http://www.accentoca.com/](http://www.accentoca.com/)
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
-  - E.g. coding for kids
+  - E.g. coding for kids as at PyCon UK: http://2017.pyconuk.org/education/
 
 **Further reading:**
 
