@@ -1,31 +1,33 @@
-# DISC-Events-Guide
-The NumFOCUS DISC Guide to Diverse and Inclusive Conferences and Events is produced by the [NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program](https://www.numfocus.org/programs/diversity-and-inclusion/), with support from the [Moore Foundation](https://www.moore.org/).
+# DISC-Events-Cookbook
+The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is produced by the [NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program](https://www.numfocus.org/programs/diversity-and-inclusion/), with support from the [Moore Foundation](https://www.moore.org/).
 
-## The NumFOCUS DISC Guide to Diverse and Inclusive Conferences and Events
+![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)
+
+## The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources)
 
 Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program with support from the Moore Foundation.
 
 ## Introduction
 
-### About this Guide:
+### About this Cookbook:
 
-This guide is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
+This cookbook is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
 
 It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event.
 
-_Funding to produce this guide was made possible by a generous grant from the_ **Moore Foundation** _._
+_Funding to produce this cookbook was made possible by a generous grant from the_ **Moore Foundation** _._
 
-### What this Guide is not:
+### What this Cookbook is not:
 
-This guide is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
+This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
-Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the guide to a more manageable length.
+Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the cookbook to a more manageable length.
 
-### How to use this Guide:
+### How to use this cookbook:
 
-You **do not have to implement every suggestion** in the guide in order to &quot;qualify&quot; as having a diverse and inclusive event!
+You **do not have to implement every suggestion** in the cookbook in order to &quot;qualify&quot; as having a diverse and inclusive event!
 
-The guide is intended to help you, as an event organizer, to understand the **overall landscape** of best practices for diversity and inclusion.
+The cookbook is intended to help you, as an event organizer, to understand the **overall landscape** of best practices for diversity and inclusion.
 
 **We encourage you to do as much as you can manage**, on the understanding that implementing a few well-supported and fully realized suggestions is preferable to implementing many suggestions that are poorly-supported or incomplete.
 
@@ -57,35 +59,35 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
 #### Acknowledgements:
 
-We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this guide. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this guide. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
+We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
 
 - In particular, we thank: 
 
-- The NumFOCUS DISC Committee members who compiled the initial skeleton of this guide: Jennifer Klay, Reshama Shaikh, and Gina Helfrich.
+- The NumFOCUS DISC Committee members who compiled the initial skeleton of this cookbook: Jennifer Klay, Reshama Shaikh, and Gina Helfrich.
 
 - Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
 ### TABLE OF CONTENTS
 
-[Organizing Committee](https://github.com/numfocus/DISC-Events-Guide/blob/master/organizing-committee.md)
+[Organizing Committee](https://github.com/numfocus/DISC-Events-cookbook/blob/master/organizing-committee.md)
 
-[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISC-Events-Guide/blob/master/venue-selection.md)
+[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISC-Events-cookbook/blob/master/venue-selection.md)
 
-[Catering](https://github.com/numfocus/DISC-Events-Guide/blob/master/catering.md)
+[Catering](https://github.com/numfocus/DISC-Events-cookbook/blob/master/catering.md)
 
-[Childcare](https://github.com/numfocus/DISC-Events-Guide/blob/master/childcare.md)
+[Childcare](https://github.com/numfocus/DISC-Events-cookbook/blob/master/childcare.md)
 
-[Code of Conduct (CoC)](https://github.com/numfocus/DISC-Events-Guide/blob/master/code-of-conduct.md)
+[Code of Conduct (CoC)](https://github.com/numfocus/DISC-Events-cookbook/blob/master/code-of-conduct.md)
 
-[Grants/Scholarships](https://github.com/numfocus/DISC-Events-Guide/blob/master/grants_scholarships.md)
+[Grants/Scholarships](https://github.com/numfocus/DISC-Events-cookbook/blob/master/grants_scholarships.md)
 
-[Participant Selection](https://github.com/numfocus/DISC-Events-Guide/blob/master/participant-selection.md)
+[Participant Selection](https://github.com/numfocus/DISC-Events-cookbook/blob/master/participant-selection.md)
 
-[Event Registration](https://github.com/numfocus/DISC-Events-Guide/blob/master/event_registration.md)
+[Event Registration](https://github.com/numfocus/DISC-Events-cookbook/blob/master/event_registration.md)
 
-[Inclusive Practices During Check-In](https://github.com/numfocus/DISC-Events-Guide/blob/master/inclusive_practices_during_checkin.md)
+[Inclusive Practices During Check-In](https://github.com/numfocus/DISC-Events-cookbook/blob/master/inclusive_practices_during_checkin.md)
 
-[Other Considerations](https://github.com/numfocus/DISC-Events-Guide/blob/master/other-considerations.md)
+[Other Considerations](https://github.com/numfocus/DISC-Events-cookbook/blob/master/other-considerations.md)
 
-[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISC-Events-Guide/blob/master/special-considerations.md)
+[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISC-Events-cookbook/blob/master/special-considerations.md)
 
