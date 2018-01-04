@@ -9,4 +9,4 @@ Conference chairs and lead organizers should take special care to recruit an org
 - Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
 
 **NEXT SECTION:**
-### [Venue Selection & On-Site Services](https://github.com/numfocus/DISC-Events-Guide/blob/master/venue-selection.md)
+### [Venue Selection & On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
