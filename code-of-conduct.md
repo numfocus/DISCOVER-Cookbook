@@ -42,7 +42,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 - Make sure that people are aware of reporting mechanisms:
   - Face to face with staff (Who is the dedicated ombudsperson or -persons?)
   - Dedicated email, e.g. to conduct@yourdomain.org
-  - Fill out an online form
+  - Fill out an online form, e.g. http://www.oreilly.com/conferences/report-code-of-conduct.html
 - Consider how a report against an authority figure would be submitted — e.g. if the ombudsperson is the subject of a CoC violation report, who is the report submitted to? (A good reason to have more than one ombudsperson.)
 
 
