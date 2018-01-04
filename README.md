@@ -93,7 +93,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/special-considerations.md)
 
-
+---
 
 ### REQUEST FOR INPUT
 
