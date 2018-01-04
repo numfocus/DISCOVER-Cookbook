@@ -91,6 +91,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISC-Events-cookbook/blob/master/special-considerations.md)
 
+
+
 ### REQUEST FOR INPUT
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
