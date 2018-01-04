@@ -33,7 +33,7 @@
 - Geek Feminism Wiki Childcare [http://geekfeminism.wikia.com/wiki/Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
 - SRCCON childcare [https://srccon.org/childcare/](https://srccon.org/childcare/)
 - Providing conference childcare [https://adacamp.org/adacamp-toolkit/childcare/](https://adacamp.org/adacamp-toolkit/childcare/)
-
+---
 **NEXT SECTION:**
 - [Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
 
