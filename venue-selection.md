@@ -90,7 +90,7 @@
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
   - People whose religions require frequent prayer can make use of the quiet room.
-  
+---
 **NEXT SECTION:**
 - [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
 
