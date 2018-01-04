@@ -21,3 +21,9 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 **Further reading:**
 
 - Inclusive event catering [https://adacamp.org/adacamp-toolkit/inclusive-event-catering/](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/)
+
+**NEXT SECTION:**
+- [Childcare](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/childcare.md)
+
+**PREVIOUS SECTION:**
+- [Venue Selection & On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
