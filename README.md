@@ -23,6 +23,8 @@ This cookbook is **not** intended to provide **general instructions** on how to 
 
 Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the cookbook to a more manageable length.
 
+This cookbook also does not offer reasons or rationale for **why inclusion and diversity are important**. The cookbook presumes the organizing committee is already interested in improving diversity and inclusion at their conference or event, hence the suggestions herein are focused on the &quot;how&quot; rather than the &quot;why&quot;.
+
 ### How to use this cookbook:
 
 You **do not have to implement every suggestion** in the cookbook in order to &quot;qualify&quot; as having a diverse and inclusive event!
