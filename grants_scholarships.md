@@ -1,39 +1,43 @@
 ### Grants/Scholarships
 
-Why funding is important
+**Why funding is important**
 
 - Registration vs. Travel &amp; Lodging
-  - Most [PyData](http://www.pydata.org) Diversity Scholarship attendees indicated that receiving funding to cover registration was make-or-break for their ability to attend. Sometimes those who didn&#39;t have additional funding for travel &amp; lodging were unable to attend even though their registration was covered.
-  - Interest in [Galaxy fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) went up when added covering the first $n of travel costs as well.
+  - Registration waver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
+    - Most [PyData](http://www.pydata.org) Diversity Scholarship recipients indicated that receiving funding to cover registration was make-or-break for their ability to attend. 
+- However, registration waivers alone often aren't enough.
+    - Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients who didn&#39;t have additional outside sources of funding for travel &amp; lodging were unable to attend even though their registration was covered.
+  - Interest in [Galaxy fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) went up when covering the first $n of travel costs was added, as well.
 
-✅ Offer grants to support attendance
+✅ **Offer grants to support attendance**
 
 - Eligibility Requirements
-  - Applicants should be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of color, and/or persons with disabilities; and be unable to attend without some financial assistance.&quot; (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
-  - Can also consider support for applicants from developing economies.  Use the World Bank definitions of low and low-middle income. ( [http://bit.ly/1nO82wD](http://bit.ly/1nO82wD))
-  - Can also support indigenous populations.  Could not find an agreed upon list of indigenous groups.
-  - Need to decide what career stages are eligible.  Just students and post-docs.  Junior faculty/researchers?  Unemployed?
-  - The legal issues of specifically funding underrepresented groups varies by country.
-    - Galaxy deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
+  - Applicants should be 
+    - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
+    - and be unable to attend without some financial assistance. (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
+  - Also consider providing support for applicants from developing economies.
+    - You might use the World Bank definitions of low and low-middle income. ( [http://bit.ly/1nO82wD](http://bit.ly/1nO82wD))
+  - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
+  
+- The legal issues of specifically funding underrepresented groups varies by country.
+    - [Galaxy] (https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
+    
 - Payment
-  - Cut a check or submit receipts for reimbursement.
-  - Try hard to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
+  - Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
+  - We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it. 
+    - Waiting for reimbursement can be a financial burden on scholarship recipients.
 
-Where to seek funding
+**Where to seek funding**
 
-- How to attract funding?
+- How to attract funding for scholarships?
   - Consider posting an opportunity for attendees or community members to make individual donations in support of travel scholarships.
-  - Make corporate sponsor levels specifically tied to travel/lodging and/or registration scholarships.
-  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge did this.)
+  - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships.
+  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](https://www.generosity.com/community-fundraising/support-open-source-bridge-2016/).)
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
-  - Moore Foundation
-  - Sloan Foundation
   - Python Software Foundation
   - NumFOCUS Foundation
-  - Arnold Foundation
-  - Helmsley Foundation
-  - Chan-Zuckerburg Foundation
+    - Offers grants to organizing committees for diversity scholarships [https://www.numfocus.org/programs/grants-sponsored-events/](https://www.numfocus.org/programs/grants-sponsored-events/)
   - PyLadies
     - Gives scholarships to PyCon participants
 
