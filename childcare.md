@@ -1,28 +1,31 @@
 ### Childcare
 
-- ✅ Offer financial support for childcare.
-  - Build it into your budget; link to sponsorships OR university partners OR part of conference registration fee from all attendees goes towards providing this as service, add an option to the registration, &quot;Donate $20 to help with childcare costs.&quot;
-  - Collect the data on the registration form - how many people would make use of childcare services or grants?
-- The two general options are either to award childcare grants (people decide how to spend it, e.g. on their home babysitter) or provide on-site services
-  - Grants seem to be more popular with attendees
-    - Then the trick is: application &amp; vetting process for determining need
-    - Do you have to submit an invoice or receipt from someone with a Tax ID?
-    - I.e. how to prevent fraud, provide useful service
-- On-site services can be costly because of additional travel costs for bringing children along.  For those who do bring kids:
-  - Cost-free access to the conference center for child caregivers
-  - This allows caregivers to come to the conference for infant hand-offs (e.g. for nursing) as opposed to parents losing additional time walking back to hotel rooms.
+✅ Offer financial support for childcare.
+ - Build it into your budget. 
+   - Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service. 
+    - Add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
+    - Collect the data on the registration form. How many people would make use of childcare services or grants?
+  - In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services.
 
-On-Site Childcare Services
+#### Grants
 
-- There are companies that provide childcare at conferences (we can provide the list; make no specific endorsements)
-  - Corporate Kids Events: [https://conferencechildcare.com/](https://conferencechildcare.com/)
-  - American Child Care, Inc.: [http://www.americanchildcare.com/conventions.htm](http://www.americanchildcare.com/conventions.htm)
-  - Kiddie Corp: [http://www.kiddiecorp.com/](http://www.kiddiecorp.com/)
-  - Urbansitter: [https://www.urbansitter.com/](https://www.urbansitter.com/)
-  - Care.com: [https://www.care.com/](https://www.care.com/)
-  - Accent: [http://www.accentoca.com/](http://www.accentoca.com/)
-  - Etc.
-- Could organize a &quot;Parallel&quot; conference for older children
+    - Based on our research, grants seem to be more popular with attendees. You might survey your participants to determine their preference for grants vs. on-site childcare services.
+      - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
+    - For those who do bring kids to the event/conference:
+       - Provide cost-free access to the conference center/venue for caregivers/babysitters
+          - This allows caregivers to come to the conference for e.g. infant hand-offs (for nursing, for example) as opposed to parents losing additional time walking back to hotel rooms.
+      
+#### On-Site Services
+
+- On-site childcare services can be costly for attendees because of additional travel costs for bringing children along. 
+- There are companies that provide childcare at conferences. While NumFOCUS makes no specific endorsements, we did find these companies in our research who are providing event-based childcare:
+    - Corporate Kids Events: [https://conferencechildcare.com/](https://conferencechildcare.com/)
+   - American Child Care, Inc.: [http://www.americanchildcare.com/conventions.htm](http://www.americanchildcare.com/conventions.htm)
+   - Kiddie Corp: [http://www.kiddiecorp.com/](http://www.kiddiecorp.com/)
+    - Urbansitter: [https://www.urbansitter.com/](https://www.urbansitter.com/)
+    - Care.com: [https://www.care.com/](https://www.care.com/)
+    - Accent: [http://www.accentoca.com/](http://www.accentoca.com/)
+- Another possibility is to organize a &quot;parallel&quot; conference for older children
   - E.g. coding for kids
 
 **Further reading:**
