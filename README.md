@@ -69,27 +69,27 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 ### TABLE OF CONTENTS
 
-[Organizing Committee](https://github.com/numfocus/DISC-Events-cookbook/blob/master/organizing-committee.md)
+[Organizing Committee](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/organizing-committee.md)
 
-[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISC-Events-cookbook/blob/master/venue-selection.md)
+[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
 
-[Catering](https://github.com/numfocus/DISC-Events-cookbook/blob/master/catering.md)
+[Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
 
-[Childcare](https://github.com/numfocus/DISC-Events-cookbook/blob/master/childcare.md)
+[Childcare](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/childcare.md)
 
-[Code of Conduct (CoC)](https://github.com/numfocus/DISC-Events-cookbook/blob/master/code-of-conduct.md)
+[Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
 
-[Grants/Scholarships](https://github.com/numfocus/DISC-Events-cookbook/blob/master/grants_scholarships.md)
+[Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
 
-[Participant Selection](https://github.com/numfocus/DISC-Events-cookbook/blob/master/participant-selection.md)
+[Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
 
-[Event Registration](https://github.com/numfocus/DISC-Events-cookbook/blob/master/event_registration.md)
+[Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
 
-[Inclusive Practices During Check-In](https://github.com/numfocus/DISC-Events-cookbook/blob/master/inclusive_practices_during_checkin.md)
+[Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
 
-[Other Considerations](https://github.com/numfocus/DISC-Events-cookbook/blob/master/other-considerations.md)
+[Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
 
-[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISC-Events-cookbook/blob/master/special-considerations.md)
+[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/special-considerations.md)
 
 
 
