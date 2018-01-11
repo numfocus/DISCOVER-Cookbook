@@ -29,3 +29,10 @@
   - Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
 - Alcohol Considerations
   - We recommend the AdaCamp Toolkit&#39;s summary approach to alcohol at events: [https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
+  
+  ---
+**NEXT SECTION:**
+- [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+
+**PREVIOUS SECTION:**
+- [Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
