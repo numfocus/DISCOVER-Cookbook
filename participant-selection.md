@@ -77,6 +77,7 @@
 - Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections
 - Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
 - Is open peer review the way forward? https://www.elsevier.com/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-way-forward
+- Gender bias distorts peer review across fields http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685
 
 ---
 **NEXT SECTION:**
