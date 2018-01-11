@@ -32,7 +32,7 @@
   
   ---
 **NEXT SECTION:**
-- [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+- [Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
 
 **PREVIOUS SECTION:**
-- [Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
+- [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
