@@ -65,9 +65,9 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 - In particular, we thank: 
 
-- The NumFOCUS DISC Committee members who compiled the initial skeleton of this cookbook: Jennifer Klay, Reshama Shaikh, and Gina Helfrich.
+  - The NumFOCUS DISC Committee members who compiled the initial skeleton of this cookbook: Jennifer Klay, Reshama Shaikh, and Gina Helfrich.
 
-- Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
+  - Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
 ### TABLE OF CONTENTS
 
