@@ -4,18 +4,19 @@
 
 #### Invited Speakers
 
-- ✅ Expand conference organizers&#39; networks to go out and find people who might fit the bill but be lesser-known — personal recommendations, look for more than just &quot;the usual suspects&quot;
+- ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
 - Identify a group of people to solicit as conference speakers
-  - Embrace quotas to ensure a diverse speaker pool
-    - Make list of potential speakers who are underrepresented longer than list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list
-  - Keep and maintain a list of people with expertise and their contact info
-  - Expand networks, talk to people directly
-  - &quot;If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.&quot;
+  - Take extra steps to ensure a diverse speaker pool
+    - Make the list of potential speakers who are underrepresented longer than list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
+  - Keep and maintain a list of possible speakers with expertise and their contact info
+  - Research and follow speaker lists compiled by other organizations and communities
+  - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
+  - If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.
 - 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference)
-  - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome
-  - &quot;Speakers who have advice or expertise to share&quot; &gt; everyone has some level of expertise or knowledge to share about what they work on
-- Ensure panels and roundtables include diversity of participants
-  - Make strategic use of moderator role to help support diverse participation
+  - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome.
+  - &quot;Speakers who have advice or expertise to share&quot; &gt; Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
+- Ensure panels and roundtables include a diversity of participants
+  - Make strategic use of the moderator role to help support diverse participation
 
 #### Selected Speakers
 
