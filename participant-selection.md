@@ -62,11 +62,11 @@
     - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
     - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
    - **&quot;Blind&quot; Review**
-   - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
-    - You might create a CFP form that instructs the submitter to withhold identifying information.
-    - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
-    - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
-    - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
+     - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
+      - You might create a CFP form that instructs the submitter to withhold identifying information.
+      - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
+      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
+      - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
     - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
     - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
@@ -76,4 +76,10 @@
 - Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections
 - Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
 
+---
+**NEXT SECTION:**
+- [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
+
+**PREVIOUS SECTION:**
+- [Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
 
