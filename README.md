@@ -89,9 +89,20 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
 
-[Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
+## Other Considerations
 
-[Special Considerations Depending on Geographic Context](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/special-considerations.md)
+**Further reading:**
+
+- Scent and smoking policy [https://adacamp.org/adacamp-toolkit/policies/#scent](https://adacamp.org/adacamp-toolkit/policies/#scent)
+- Conference booklet template [http://geekfeminism.wikia.com/wiki/Conference\_booklet\_template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
+
+
+## Special Considerations Depending on Geographic Context
+
+- Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
+- Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether or not you should choose to host an event or conference there. 
+- We welcome input on considerations for events and conferences in other countries.
+- Additional considerations made need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
 
 ---
 
