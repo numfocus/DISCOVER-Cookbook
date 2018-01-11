@@ -54,7 +54,7 @@
 - For CFP language [https://textio.com/](https://textio.com/)
 - Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
 
-#### ✅ CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
+#### CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
     - &quot;Open&quot; review is a form of review in which the names of the reviewers are made public.
     - &quot;Double-Open&quot; review is when the reviewers know the identity of the proposal author and the proposal author also knows the identity of their reviewers
@@ -70,7 +70,8 @@
   - **Double Open Review**
     - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
     - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
-
+ - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quotdouble&quot so that both parties know each other (double-open) or neither party knows the other (double-closed)
+ 
 **Further reading:**
 
 - Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections
