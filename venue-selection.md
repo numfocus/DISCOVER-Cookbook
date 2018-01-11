@@ -18,6 +18,8 @@
 - Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
 - 🍎 Provide large-text signs and easy-to-read maps.
   - Include maps in advance, with the event schedule.
+- Make sure that hand-held microphones are available
+- Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
 
 **Further Reading:**
 
