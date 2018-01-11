@@ -32,7 +32,7 @@
   
   ---
 **NEXT SECTION:**
-- [Other Considerations](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/other-considerations.md)
+- You have reached the end of the DISCOVER Cookbook.
 
 **PREVIOUS SECTION:**
 - [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
