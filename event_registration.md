@@ -55,7 +55,7 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
   - Not having an answer choice that matches your identity can be a very alienating experience.
 - ✅ Take anonymity and data security seriously. Have a plan for limiting access to this information and keeping it secure.
 - Suggested format for demographic question:
-  - &quot;Do you self-identify as an underrepresented minority in either the PyData/NumFOCUS community or in your professional field?&quot;
+  - &quot;Do you self-identify as an underrepresented minority in either the [conference] community or in your professional field?&quot;
     - &quot;Along which dimension(s) you self-identify as underrepresented? Check all that apply:&quot;
          - Gender identity
          - Ethnicity, nationality, skin color, race
@@ -71,3 +71,10 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 - Guiding principles for handling gender on forms [http://43epnd.axshare.com/gender.html](http://43epnd.axshare.com/gender.html)
 - A Word on Monitoring https://www.cheryl-morgan.com/?p=24245
+
+---
+**NEXT SECTION:**
+- [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+
+**PREVIOUS SECTION:**
+- [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
