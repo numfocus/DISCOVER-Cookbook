@@ -18,53 +18,62 @@
 - Ensure panels and roundtables include a diversity of participants
   - Make strategic use of the moderator role to help support diverse participation
 
-#### Selected Speakers
+#### Selecting Speakers
 
 - 🍎 Call For Proposals (CFP) instructions
   - In the solicitation, be transparent that you want a broad &amp; diverse group to share their expertise.
   - Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
   - If possible, create detailed instructions and/or run workshops to help prepare people to write strong proposals.
-- ✅ CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
-  - [Double-Blind vs Single-Blind Review](https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections)
-  - &quot;Blind&quot; Review
-    - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups.
-    - You might create a CFP form that instructs the submitter to withhold identifying information.
-    - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/assessing team.
-    - If you recognize a submission author and you&#39;re on the review committee, do not grade the submission (recuse yourself).
-    - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that we want.
-  - Double Open Review
-    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-    - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
-- Be clear in who you want
-  - If your conference has a long history and you&#39;re trying to change what it&#39;s like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past
-  - Consider carefully the way you describe your event and the call for proposals in order to avoid turning away or self-de-selecting of potential speakers
+  - Be clear in who you want
+    - If your conference has a long history and you&#39;re trying to change what it&#39;s like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
+  - Consider carefully the way you describe your event and the call for proposals in order to avoid turning away or self-de-selecting of potential speakers.
 - Offer speaker training
   - Let potential speakers know there are resources to help them prepare, and provide them.
-  - Does the content of your talk abide by the code of conduct?
-  - Consider live-streaming or recording your talk
-  - Can the conference help with close captioning a video of your talk?
+  - Ask potential speakers to ensure the content of their talk abides by the code of conduct
   - Consider color-blindness in slide design
   - Provide handouts of slides and/or transcripts (both large and small format)
   - Verbally describe graphs and illustrations
 
 #### Incentivize First-Time Speakers:
 
-- E.g. &quot;We are looking to diversify our speaker panel; we want to ensure that we select a cohort of first-time speakers to ensure we continue to offer professional development opportunities to everyone in the community.&quot;
+- E.g. &quot;We are looking to diversify our speaker panel; we want to select a cohort of first-time speakers to ensure we continue to offer professional development opportunities to everyone in the community.&quot;
+
+### Attracting Attendees
+
+- Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before.
+- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
+- Partner with organizations whose membership you'd like to convince to attend your event.
+- Offer scholarships for first-time and underrepresented attendees.
+- Advertise the Code of Conduct to convey that you are seeking an inclusive environment.
 
 **Further reading:**
 
 - Would I attend my own conference? [http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
 - Getting women to speak at your conference is hard. So? [http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
 - A Better Call for Proposals [http://2016.cssconf.com.au/2016/07/01/cfp.html](http://2016.cssconf.com.au/2016/07/01/cfp.html)
-- Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
 - For CFP language [https://textio.com/](https://textio.com/)
+- Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
 
-### Attracting Attendees
-
-- Advertise the Code of Conduct to convey that you are seeking an inclusive environment
-- Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before
-- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
+#### ✅ CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
+  - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
+    - &quot;Open&quot; review is a form of review in which the names of the reviewers are made public.
+    - &quot;Double-Open&quot; review is when the reviewers know the identity of the proposal author and the proposal author also knows the identity of their reviewers
+    - &quot;Double Blind&quot; review means the reviewers do not know the identity of the proposal author and vice versa. 
+    - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
+    - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
+   - **&quot;Blind&quot; Review**
+   - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
+    - You might create a CFP form that instructs the submitter to withhold identifying information.
+    - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
+    - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
+    - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
+  - **Double Open Review**
+    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
+    - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
 
 **Further reading:**
 
-- Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
+- Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections
+- Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
+
+
