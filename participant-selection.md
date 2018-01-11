@@ -70,7 +70,7 @@
   - **Double Open Review**
     - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
     - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
- - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quotdouble&quot so that both parties know each other (double-open) or neither party knows the other (double-closed)
+ - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed)
  
 **Further reading:**
 
