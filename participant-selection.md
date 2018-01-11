@@ -78,6 +78,7 @@
 - Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
 - Is open peer review the way forward? https://www.elsevier.com/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-way-forward
 - Gender bias distorts peer review across fields http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685
+- How rOpenSci uses Open Code Review to Promote Reproducible Science https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/
 
 ---
 **NEXT SECTION:**
