@@ -61,7 +61,7 @@
     - &quot;Double Blind&quot; review means the reviewers do not know the identity of the proposal author and vice versa. 
     - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
     - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
-   - **&quot;Blind&quot; Review**
+   - **Double &quot;Blind&quot; Review**
      - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
       - You might create a CFP form that instructs the submitter to withhold identifying information.
       - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
