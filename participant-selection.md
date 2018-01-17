@@ -53,6 +53,7 @@
 - A Better Call for Proposals [http://2016.cssconf.com.au/2016/07/01/cfp.html](http://2016.cssconf.com.au/2016/07/01/cfp.html)
 - For CFP language [https://textio.com/](https://textio.com/)
 - Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
+- Global Diversity CFP Day (Saturday 3rd February 2018) https://www.globaldiversitycfpday.com/
 
 #### CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
