@@ -54,6 +54,7 @@
 - For CFP language [https://textio.com/](https://textio.com/)
 - Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
 - Global Diversity CFP Day (Saturday 3rd February 2018) https://www.globaldiversitycfpday.com/
+- Request a Woman Scientist https://500womenscientists.org/request-a-scientist/
 
 #### CFP review (&quot;blind&quot; vs &quot;affirmative action&quot;)
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
