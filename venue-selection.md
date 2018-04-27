@@ -7,7 +7,9 @@
 
 - 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle.
 - 🍎 Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
+- A corridor width of at least 2.5m is required for two power chairs to pass each other.
 - Reduce conference sprawl to support access for people who are mobility-impaired.
+- Consider marking and enforcing "No Standing Zones" through rooms such as foyers that are both gathering areas and regions people must pass through. (A 2.5m "corridor" marked on the ground in yellow tape is ideal.)
 - Consider making remote access available via livestream, recorded talks, etc.
 - Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.)
 - Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom.
