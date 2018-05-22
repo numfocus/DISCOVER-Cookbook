@@ -94,6 +94,7 @@
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
   - People whose religions require frequent prayer can make use of the quiet room.
+- Ideal is to provide one well-lit quiet room, and a second dimly-lit room
 ---
 **NEXT SECTION:**
 - [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
