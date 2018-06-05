@@ -18,8 +18,8 @@
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees.
 - Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
-- 🍎 Provide large-text signs and easy-to-read maps.
-  - Include maps in advance, with the event schedule.
+- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
+- Include maps in advance, with the event schedule.
 - Make sure that hand-held microphones are available
 - Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
 
@@ -31,6 +31,7 @@
 - Venue evaluation [https://adacamp.org/adacamp-toolkit/venue-evaluation/](https://adacamp.org/adacamp-toolkit/venue-evaluation/)
 - Faciliating access for chronically ill/disabled professionals [https://figshare.com/articles/Ecologist\_in\_silico\_Facilitating\_access\_for\_chronically\_ill\_disabled\_ecologists/1502697](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
 - Improving the Color Accessibility for Color Blind Users [https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
+- Accessibility, sensory friendliness and neurodiversity friendliness at events [https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3] (https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via @katsel
 
 ## Bathrooms
 
@@ -96,7 +97,8 @@
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
   - People whose religions require frequent prayer can make use of the quiet room.
-- Ideal is to provide one well-lit quiet room, and a second dimly-lit room
+- Ideal is to provide one well-lit quiet room, and a second dimly-lit room.
+- Consider "quiet areas" if a separate room is not possible.
 ---
 **NEXT SECTION:**
 - [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
