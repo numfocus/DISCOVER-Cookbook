@@ -15,7 +15,7 @@
 
 **Further reading:**
 - Thanks to [OpenNews](https://opennews.org/) and [SRCCON](https://srccon.org/) for the pronoun pins idea
-- [http://www.pronounribbons.org/] (http://www.pronounribbons.org/)
+- http://www.pronounribbons.org
 - Improving the Color Accessibility for Color Blind Users https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/
 - AdaCamp Toolkit on Photography/video/audio recording https://adacamp.org/adacamp-toolkit/policies/#photo
 
