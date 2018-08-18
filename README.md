@@ -89,6 +89,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
 
+%Potential sections that are missing: Assessment of the event%
 ## Taxonomy
 
 **Conference Logistics**
