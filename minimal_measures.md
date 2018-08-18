@@ -17,6 +17,7 @@
 #### Disability
 
 -   🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
+
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees.**
     
 
@@ -28,6 +29,7 @@
     
 
 	-   "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
+	
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.**
     
 
@@ -141,6 +143,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 #### CFP review ("blind" vs "affirmative action")
 
 -   ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it "double" so that both parties know each other (double-open) or neither party knows the other (double-closed)
+
 -   🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference)
     
 
