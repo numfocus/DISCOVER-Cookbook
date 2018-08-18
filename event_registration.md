@@ -1,12 +1,12 @@
 ### Event Registration
 
-<span style="color:red"> Registration </span>, <span style="color:red"> Discrimination </span>, < <span style="color:red"> Giving Participants Room to Be Who They Are </span>, <span style="color:red"> Catering </span>, 
+<span style="color:red"> Registration </span>, <span style="color:red"> Discrimination </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>, <span style="color:red"> Unconscious and Implicit Bias </span>
 
 What to ask on your registration form (and what not to ask)
 
 #### Preparing to meet accessibility needs
 
-<span style="color:red"> People with Disabilities </span>, <span style="color:red"> Mobility Impairment </span>, 
+<span style="color:red"> Registration </span>, <span style="color:red"> People with Disabilities </span>, <span style="color:red"> Mobility Impairment </span>, <span style="color:red"> Hearing Impairment </span>
 
 - Outline any accessibility services you plan to provide on the registration form. Then:
 - 🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
@@ -15,17 +15,21 @@ What to ask on your registration form (and what not to ask)
 
 #### Supporting Attendance through Grants
 
+<span style="color:red"> Registration </span>, <span style="color:red"> Scholarships </span>
+
 - Ask about any grant or scholarship opportunities, e.g. for childcare, scholarships for underrepresented folks
   - &quot;Would you be interested in a grant to cover childcare or on-site childcare services? (yes/no) Which option would be most beneficial for you?&quot;
 
 #### Dietary Restrictions
-span style="color:red"> People with Allergies </span>, <span style="color:red"> Catering </span>, <span style="color:red"> Dietary Restrictions </span>, 
+span style="color:red"> People with Allergies </span>, <span style="color:red"> Catering </span>, <span style="color:red"> Dietary Restrictions </span>, <span style="color:red"> Registration </span>
 
 - 🍎 Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
 - Use an open text box to ask about dietary restrictions. (Forcing registrants to choose from a pre-defined list might miss important allergies or restrictions.) <span style="color:red"> High Impact, Low Effort </span>
   - &quot;Do you have any dietary restrictions we should be aware of? (e.g. allergies)&quot;
 
 #### Photo Policy
+
+<span style="color:red"> Registration </span>, span style="color:red"> Giving Participants Room to Be Who They Are </span>
 
 - 🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out. <span style="color:red"> High Impact, Low Effort </span>
   - (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
@@ -40,6 +44,8 @@ span style="color:red"> People with Allergies </span>, <span style="color:red"> 
 - 🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it. <span style="color:red"> High Impact, Low Effort </span>
 
 #### T-Shirts
+
+<span style="color:red"> Unconscious and Implicit Bias </span>
 
 If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 - Provide shirt sizing information with the registration form where you ask for shirt size. (Provide a wide range of sizes, including plus-size.)
