@@ -109,15 +109,15 @@ We sincerely appreciate the efforts and input of the many individuals who contri
   * Presenter Line-up
 
 **Priorities**
-  * Minimal set of measures
-  * Low Effort, high impact
-  * High effort, high impact
+  * Minimal Set of Measures
+  * Low Effort, High Impact
+  * High effort, High Impact
   
 **Diverse Groups**
   * Parents & Carers
   * Women
   * LGBTQ+
-  * Racial minorities
+  * Racial Minorities
   * Ethnic Minorities
   * Religious Groups
   * Newcomers & First-Timers
@@ -127,7 +127,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
     * Mobility Impairment
   * People with Allergies
   * Global South & Developing Countries
-  * Dietary restrictions
+  * Dietary Restrictions
 
 **Potential Challenges**
   * Unconscious and Implicit Bias
@@ -137,9 +137,9 @@ We sincerely appreciate the efforts and input of the many individuals who contri
   * Stereotyping
 
 **Inclusive Atmosphere**
-  * Giving participants room to be who they are
-  * Being respectful
-  * Being open
+  * Giving Participants Room to Be Who They Are
+  * Being Respectful
+  * Being Open
   * Embracing Diverse Voices and Experiences
 
 
