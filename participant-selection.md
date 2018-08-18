@@ -44,7 +44,7 @@
 ### Attracting Attendees
 
 - Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before.
-- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
+- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend? <span style="color:red"> High Impact, Low Effort </span>
 - Partner with organizations whose membership you'd like to convince to attend your event.
 - Offer scholarships for first-time and underrepresented attendees.
 - Advertise the Code of Conduct to convey that you are seeking an inclusive environment.
