@@ -92,55 +92,55 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 ## Taxonomy
 
 **Conference Logistics**
-  Registration
-  Check-in
-  Accomodation
-  Location & Venue
-  Organisation and Program Committees
-  Scholarships
-  Participant Diversity
-  Talks
-  Poster Sessions
-  Social Events
-  Catering
-  Bathrooms
-  Calls for papers/proposals
-  Code of Conduct
-  Presenter Line-up
+  * Registration
+  * Check-in
+  * Accomodation
+  * Location & Venue
+  * Organisation and Program Committees
+  * Scholarships
+  * Participant Diversity
+  * Talks
+  * Poster Sessions
+  * Social Events
+  * Catering
+  * Bathrooms
+  * Calls for papers/proposals
+  * Code of Conduct
+  * Presenter Line-up
 
 **Priorities**
-  Minimal set of measures
-  Low Effort, high impact
-  High effort, high impact
+  * Minimal set of measures
+  * Low Effort, high impact
+  * High effort, high impact
   
 **Diverse Groups**
-  Parents & Carers
-  Women
-  LGBTQ+
-  Racial minorities
-  Ethnic Minorities
-  Religious Groups
-  Newcomers & First-Timers
-  People with Disabilities
-    Visual Impairments
-    Hearing Impairment
-    Mobility Impairment
-  People with Allergies
-  Global South & Developing Countries
-  Dietary restrictions
+  * Parents & Carers
+  * Women
+  * LGBTQ+
+  * Racial minorities
+  * Ethnic Minorities
+  * Religious Groups
+  * Newcomers & First-Timers
+  * People with Disabilities
+    * Visual Impairments
+    * Hearing Impairment
+    * Mobility Impairment
+  * People with Allergies
+  * Global South & Developing Countries
+  * Dietary restrictions
 
 **Potential Challenges**
-  Unconscious and Implicit Bias
-  Discrimination
-  Sexual Harassment
-  Bullying
-  Stereotyping
+  * Unconscious and Implicit Bias
+  * Discrimination
+  * Sexual Harassment
+  * Bullying
+  * Stereotyping
 
 **Inclusive Atmosphere**
-  Being who you are
-  Being respectful
-  Being open
-  Embracing Diverse Voices and Experiences
+  * Giving participants room to be who they are
+  * Being respectful
+  * Being open
+  * Embracing Diverse Voices and Experiences
 
 
 ## Other Considerations
