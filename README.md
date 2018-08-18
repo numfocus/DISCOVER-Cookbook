@@ -107,11 +107,6 @@ We sincerely appreciate the efforts and input of the many individuals who contri
   * Calls for papers/proposals
   * Code of Conduct
   * Presenter Line-up
-
-**Priorities**
-  * Minimal Set of Measures
-  * Low Effort, High Impact
-  * High effort, High Impact
   
 **Diverse Groups**
   * Parents & Carers
@@ -142,6 +137,11 @@ We sincerely appreciate the efforts and input of the many individuals who contri
   * Being Open
   * Embracing Diverse Voices and Experiences
 
+
+**Minimal Set of Measures**
+A minimal set of high-impact recommendations for conference organisers to consider, tagged as high effort or low effort.
+  * Low Effort, High Impact
+  * High effort, High Impact
 
 ## Other Considerations
 
