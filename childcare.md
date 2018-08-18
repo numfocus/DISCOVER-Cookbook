@@ -1,15 +1,17 @@
 ### Childcare
 
-✅ Offer financial support for childcare.
+<span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
+
+✅ Offer financial support for childcare. <span style="color:red">High Impact, High Effort</span>,
  - Build it into your budget. 
    - Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service. 
     - Add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
     - Collect the data on the registration form. How many people would make use of childcare services or grants?
   - In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services.
 
-#### Grants
-
-   - Based on our research, grants seem to be more popular with attendees. (On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
+#### Grants 
+<span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
+   - Based on our research, grants to cover childcare costs seem to be more popular with attendees. (On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
       - You might survey your participants to determine their preference for grants vs. on-site childcare services.
       - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
     - For those who do bring kids to the event/conference:
