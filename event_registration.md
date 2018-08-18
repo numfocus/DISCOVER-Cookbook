@@ -58,6 +58,8 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 #### Demographic Info
 
+<span style="color:red"> Unconscious and Implicit Bias </span>, <span style="color:red"> Embracing Diverse Voices and Experiences </span>, <span style="color:red"> Stereotyping </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
+
 - **Why do you need it?**
   - We recommend you do not ask for information just &quot;out of curiosity&quot; but rather that there are **planned actions you will take depending on the results** of your demographic question(s).
   - If you are asking just for the purpose of &quot;counting&quot; or ascertaining the diversity of your conference, we suggest doing this in the form of an anonymous post-survey instead, to protect participant privacy.
