@@ -106,7 +106,7 @@
 - Consider "quiet areas" if a separate room is not possible.
 ---
 **NEXT SECTION:**
-- [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
+- [Catering](catering.md)
 
 **PREVIOUS SECTION:**
-- [Organizing Committee](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/organizing-committee.md)
+- [Organizing Committee](organizing-committee.md)
