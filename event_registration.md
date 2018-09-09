@@ -1,10 +1,13 @@
-### Event Registration
+---
+layout: page
+title: Event Registration
+---
 
 <span style="color:red"> Registration </span>, <span style="color:red"> Discrimination </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>, <span style="color:red"> Unconscious and Implicit Bias </span>
 
 What to ask on your registration form (and what not to ask)
 
-#### Preparing to meet accessibility needs
+## Preparing to meet accessibility needs
 
 <span style="color:red"> Registration </span>, <span style="color:red"> People with Disabilities </span>, <span style="color:red"> Mobility Impairment </span>, <span style="color:red"> Hearing Impairment </span>
 
@@ -13,21 +16,21 @@ What to ask on your registration form (and what not to ask)
   - &quot;Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please email [contact@myconference.com](mailto:contact@myconference.com) and include the details of your request.&quot; <span style="color:red"> High Impact, Low Effort </span>
 - Provide any deadlines for requests (it can be difficult to arrange sign-language translation at the last minute, for example).
 
-#### Supporting Attendance through Grants
+## Supporting Attendance through Grants
 
 <span style="color:red"> Registration </span>, <span style="color:red"> Scholarships </span>
 
 - Ask about any grant or scholarship opportunities, e.g. for childcare, scholarships for underrepresented folks
   - &quot;Would you be interested in a grant to cover childcare or on-site childcare services? (yes/no) Which option would be most beneficial for you?&quot;
 
-#### Dietary Restrictions
+## Dietary Restrictions
 span style="color:red"> People with Allergies </span>, <span style="color:red"> Catering </span>, <span style="color:red"> Dietary Restrictions </span>, <span style="color:red"> Registration </span>
 
 - 🍎 Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
 - Use an open text box to ask about dietary restrictions. (Forcing registrants to choose from a pre-defined list might miss important allergies or restrictions.) <span style="color:red"> High Impact, Low Effort </span>
   - &quot;Do you have any dietary restrictions we should be aware of? (e.g. allergies)&quot;
 
-#### Photo Policy
+## Photo Policy
 
 <span style="color:red"> Registration </span>, span style="color:red"> Giving Participants Room to Be Who They Are </span>
 
@@ -39,11 +42,11 @@ span style="color:red"> People with Allergies </span>, <span style="color:red"> 
 
 - Geek Feminism Photography [http://geekfeminism.wikia.com/wiki/Photography](http://geekfeminism.wikia.com/wiki/Photography)
 
-#### Code of Conduct
+## Code of Conduct
 
 - 🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it. <span style="color:red"> High Impact, Low Effort </span>
 
-#### T-Shirts
+## T-Shirts
 
 <span style="color:red"> Unconscious and Implicit Bias </span>
 
@@ -56,7 +59,7 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 - Geek Feminism T-Shirts [http://geekfeminism.wikia.com/wiki/T-shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
 - Unisex Swag Shirts Are Harming Your Community http://cczona.com/unisex-swag-shirts-are-harming-your-community/
 
-#### Demographic Info
+## Demographic Info
 
 <span style="color:red"> Unconscious and Implicit Bias </span>, <span style="color:red"> Embracing Diverse Voices and Experiences </span>, <span style="color:red"> Stereotyping </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
 
