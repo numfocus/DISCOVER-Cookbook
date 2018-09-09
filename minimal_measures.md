@@ -4,7 +4,7 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 
 ***As a rule of thumb, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
-## Venue Selection & On-Site Services
+## [Venue Selection &amp; On-Site Services](venue-selection.md)
 
 ### Accessibility Considerations
 
@@ -37,7 +37,7 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.**
     
 
-### Toiletries/Supplies
+#### Toiletries/Supplies
 
 -   🍎 Provide tampons and pads in all restrooms (some people who identify as male have periods and may need them)
     
@@ -106,7 +106,7 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 -   Consider "quiet areas" if a separate room is not possible.
     
 
-## Code of Conduct (CoC)
+## [Code of Conduct (CoC)](code-of-conduct.md)
 
 ### Awareness
 
@@ -136,7 +136,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 -   🍎 Mention it in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
     
 
-## Participant and Speaker Selection
+## [Participant and Speaker Selection](participant-selection.md)
 
 ### Speakers
 
@@ -191,7 +191,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
   
 
-## Event Registration
+## [Event Registration](event_registration.md)
 What to ask on your registration form (and what not to ask)
 
 ### Preparing to meet accessibility needs
@@ -222,29 +222,24 @@ What to ask on your registration form (and what not to ask)
 
 	-   (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
 
-### Childcare questions at registration
-
--   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
-    
--   Collect the data on the registration form. How many people would make use of childcare services or grants?
-
 #### Code of Conduct
 
 -   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
 
-## Childcare
+## [Childcare](childcare.md)
 
 ✅ Offer financial support for childcare.
 
 -   Build it into your budget.
     
     -   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service.
+    -   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
+    -   Collect the data on the registration form. How many people would make use of childcare services or grants?
     
-
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
     
     
-## Catering
+## [Catering](catering.md)
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
@@ -279,9 +274,9 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 	-   Halal
     
 
-## Inclusive practices during check-in
+## [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
 
-#### 🍎 Photography Permissions
+### 🍎 Photography Permissions
 
 -   Managing photography opt-outs:
     
@@ -289,7 +284,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 	-   Badge lanyard at registration should be made available to indicate photo preferences (green = photos fine; yellow = ask first; red = no photos)
     
 
-#### 🍎 Pronoun Pins, Buttons, or Ribbons
+### 🍎 Pronoun Pins, Buttons, or Ribbons
 
 -   Indicating pronouns:
     
@@ -309,7 +304,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 
 		-   Have custom ones printed for Zi/Zir and a "Fill in your own" ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
     
-## Grants/Scholarships
+## [Grants/Scholarships](grants_scholarships.md)
 
 ✅ Offer grants to support attendance
 
@@ -348,3 +343,10 @@ Making sure that your attendees have something they can eat at mealtimes is an i
     
 
 		-   Waiting for reimbursement can be a financial burden on scholarship recipients.
+		
+## [Assessment of the event](assessment.md)
+
+ ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
+
+See whether there is any correlation between being part of a minority group and how welcoming the conference felt
+You can consider specifically asking about inclusion/diversity on the survey
