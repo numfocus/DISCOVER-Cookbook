@@ -89,6 +89,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
 
+[Minimal Set of Measures](minimal_measures.md)
+
 %Potential sections that are missing: Assessment of the event%
 ## Taxonomy
 
