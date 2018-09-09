@@ -87,7 +87,7 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 ---
 **NEXT SECTION:**
-- [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+- [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
 
 **PREVIOUS SECTION:**
-- [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
+- [Participant Selection](participant-selection.md)
