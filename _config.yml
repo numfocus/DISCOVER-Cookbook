@@ -9,15 +9,15 @@ permalink:           pretty
 
 # Setup
 title:               DISCOVER Cookbook
-tagline:             'Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources'
-description:         'The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.'
+tagline:             'Diverse & Inclusive Spaces and Conferences'
+description:         'The NumFOCUS DISCOVER Cookbook'
 url:                 https://discover-cookbook.github.io/
-giturl:				       https://discover-cookbook.github.io/
+giturl:				       https://github.com/discover-cookbook/discover-cookbook.github.io
 baseurl:             https://discover-cookbook.github.io/
 paginate:            5
 
 # Custom vars
 version:             0.0.1
 
-github:
+github: discover-cookbook
 repo: https://github.com/discover-cookbook/discover-cookbook.github.io
