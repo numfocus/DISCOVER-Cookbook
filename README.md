@@ -59,6 +59,7 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
                                     |
 
+The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](minimal_measures.md)
 #### Acknowledgements:
 
 We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
@@ -70,6 +71,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
   - Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
 ### TABLE OF CONTENTS
+
+[Summary - the most important suggestions](minimal_measures.md)
 
 [Organizing Committee](organizing-committee.md)
 
@@ -88,8 +91,6 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 [Event Registration](event_registration.md)
 
 [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
-
-[Minimal Set of Measures](minimal_measures.md)
 
 [Assessment of the event](assessment.md)
 
