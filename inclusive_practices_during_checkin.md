@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inclusive practices during check-in
---
+---
 
 <span style="color:red"> Check-in</span>
 
