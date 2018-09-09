@@ -59,7 +59,8 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
                                     |
 
-The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](minimal_measures.md)
+The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](minimal_measures.md).
+
 #### Acknowledgements:
 
 We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
