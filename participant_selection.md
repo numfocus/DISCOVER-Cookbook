@@ -1,8 +1,12 @@
-## Participant and Speaker Selection
-<span style="color:red"> Participant Diversity </span>, <span style="color:red"> Presenter Line-up </span>, <span style="color:red"> Embracing Diverse Voices </span>, <span style="color:red"> Unconscious and Implicit Bias </span>
-### Speakers
+---
+layout: default
+title: Participant and Speaker Selection
+---
 
-#### Invited Speakers
+<span style="color:red"> Participant Diversity </span>, <span style="color:red"> Presenter Line-up </span>, <span style="color:red"> Embracing Diverse Voices </span>, <span style="color:red"> Unconscious and Implicit Bias </span>
+## Speakers
+
+### Invited Speakers
 
 - ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions. <span style="color:red"> High Impact, High Effort </span>
 - Identify a group of people to solicit as conference speakers
@@ -18,7 +22,7 @@
 - Ensure panels and roundtables include a diversity of participants
   - Make strategic use of the moderator role to help support diverse participation
 
-#### Selecting Speakers
+### Selecting Speakers
 <span style="color:red"> Calls for Papers and Proposals</span>, <span style="color:red"> Presenter Line-up </span>, <span style="color:red"> Code of Conduct </span>
 
 - 🍎 Call For Proposals (CFP) instructions <span style="color:red"> High Impact, Low Effort </span>, <span style="color:red"> Visual Impairment </span>, <span style="color:red"> Hearing Impairment </span>
@@ -35,13 +39,13 @@
   - Provide handouts of slides and/or transcripts (both large and small format)
   - Verbally describe graphs and illustrations
 
-#### Incentivize First-Time Speakers:
+### Incentivize First-Time Speakers:
 
 <span style="color:red"> Newcomers & First-Timers </span>
 
 - E.g. &quot;We are looking to diversify our speaker panel; we want to select a cohort of first-time speakers to ensure we continue to offer professional development opportunities to everyone in the community.&quot;
 
-### Attracting Attendees
+## Attracting Attendees
 
 - Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before.
 - 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend? <span style="color:red"> High Impact, Low Effort </span>
@@ -59,7 +63,7 @@
 - Global Diversity CFP Day (Saturday 3rd February 2018) https://www.globaldiversitycfpday.com/
 - Request a Woman Scientist https://500womenscientists.org/request-a-scientist/
 
-#### Call For Proposals review (&quot;blind&quot; vs &quot;affirmative action&quot;)
+### Call For Proposals review (&quot;blind&quot; vs &quot;affirmative action&quot;)
 
 <span style="color:red"> Unconscious and Implicit Bias </span>, <span style="color:red"> Discrimination </span>, <span style="color:red"> Calls for Papers & Proposals </span>, <span style="color:red"> Organisation and Program Committees </span>
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
