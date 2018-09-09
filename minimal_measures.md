@@ -220,9 +220,9 @@ What to ask on your registration form (and what not to ask)
 
 ### Childcare questions at registration
 
-	-   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
+-   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
     
-	-   Collect the data on the registration form. How many people would make use of childcare services or grants?
+-   Collect the data on the registration form. How many people would make use of childcare services or grants?
 
 #### Code of Conduct
 
@@ -234,7 +234,7 @@ What to ask on your registration form (and what not to ask)
 
 -   Build it into your budget.
     
-    	-   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service.
+    -   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service.
     
 
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
