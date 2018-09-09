@@ -1,4 +1,7 @@
-# Venue Selection &amp; On-Site Services
+---
+layout: default
+title: Venue Selection &amp; On-Site Services
+---
 
 ## Accessibility Considerations
 - Consider attendees who may need accommodations for a disability
