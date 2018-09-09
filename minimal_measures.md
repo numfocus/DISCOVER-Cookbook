@@ -4,6 +4,12 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 
 ***As a rule of thumb, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
+## [Organizing Committee](organizing-committee.md)
+✅ The organizing committee itself should reflect the diversity you want to create in your conference! 
+Prioritizing diversity starts with you. <span style="color:red"> High Impact, High Effort </span>
+
+Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
+
 ## [Venue Selection &amp; On-Site Services](venue-selection.md)
 
 ### Accessibility Considerations
