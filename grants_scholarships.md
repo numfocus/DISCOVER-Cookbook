@@ -51,7 +51,7 @@ Registration vs. Travel &amp; Lodging
 
 ---
 **NEXT SECTION:**
-- [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
+- [Participant Selection](participant-selection.md)
 
 **PREVIOUS SECTION:**
-- [Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
+- [Code of Conduct (CoC)](code-of-conduct.md)
