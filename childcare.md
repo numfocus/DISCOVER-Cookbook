@@ -1,4 +1,7 @@
-### Childcare
+---
+layout: page
+title: Childcare
+---
 
 <span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
 
