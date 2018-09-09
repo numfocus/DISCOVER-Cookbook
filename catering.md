@@ -1,5 +1,7 @@
-
-### Catering
+---
+layout: page
+title: Catering
+---
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
