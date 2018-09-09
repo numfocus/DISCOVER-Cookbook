@@ -75,7 +75,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Grants/Scholarships](grants_scholarships.md)
 
-[Participant Selection](participant-selection.md)
+[Participant Selection](participant_selection.md)
 
 [Event Registration](event_registration.md)
 
