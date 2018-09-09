@@ -73,21 +73,21 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Organizing Committee](organizing-committee.md)
 
-[Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
+[Venue Selection &amp; On-Site Services](venue-selection.md)
 
-[Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
+[Catering](catering.md)
 
-[Childcare](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/childcare.md)
+[Childcare](childcare.md)
 
-[Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
+[Code of Conduct (CoC)](code-of-conduct.md)
 
-[Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
+[Grants/Scholarships](grants_scholarships.md)
 
-[Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
+[Participant Selection](participant-selection.md)
 
-[Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
+[Event Registration](event_registration.md)
 
-[Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+[Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
 
 %Potential sections that are missing: Assessment of the event%
 ## Taxonomy
