@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About
-
 ## About this Cookbook:
 
 This cookbook is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
