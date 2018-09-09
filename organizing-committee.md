@@ -1,4 +1,7 @@
-## Organizing Committee
+---
+layout: default
+title: Organizing Committee
+---
 
 <span style="color:red"> Organisation and Program Committees </span>, <span style="color:red"> Embracing Diverse Voices & Experiences</span>, <span style="color:red"> Unconscious and Implicit Bias </span>
 
