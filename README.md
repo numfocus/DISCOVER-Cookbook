@@ -92,6 +92,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 [Minimal Set of Measures](minimal_measures.md)
 
 [Assessment of the event](assessment.md)
+
 ## Taxonomy
 
 **Conference Logistics**
