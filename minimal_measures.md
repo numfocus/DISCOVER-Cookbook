@@ -55,54 +55,19 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
     
 -   For the room to be optimally useful, these things are desired:
 
-    -   Locking door
-    
-    -   Comfortable chair (ideally, with arms that do not have gaps between the armrest and the seat, and a set of firm cushions for positioning an infant)
-    
-	-   A desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet
-    
-	-   Cleaning wipes, paper towels, and a garbage can for maintaining cleanliness
-    
-	-   Masking tape and a marker for labeling milk bottles and pump parts
-    
-	-   Close proximity to a sink for hand washing and washing of pump parts
-    
-	-   A refrigerator for storage of pumped milk (could be in the pumping room, or ideally accessible outside of the room but nearby)
-    
-	-   If possible, a dimmable light or a small lamp could be provided instead of bright overhead lighting
-    
+    -   Locking door, Comfortable chair, a desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet, cleaning wipes, paper towels, and a garbage can, masking tape and a marker for labeling milk bottles and pump parts, close proximity to a sink for hand washing and washing of pump parts, a refrigerator for storage of pumped milk  in the pumping room or nearby, dim lighting
 
 #### 🍎 Gender-Neutral Bottle Feeding Room
 
 -   Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
     
--   This should be a separate, additional room ( NOT the same as the nursing and pumping room ). It could accommodate multiple babies at a time and be equipped with:
-    
-	-   Multiple comfortable chairs with broad armrests to facilitate bottle feeding positions
-    
-	-   A bottle warmer
-    
-	-   Paper towels, cleaning wipes and garbage can for cleanliness
-    
-	-   Dim lighting and in a quiet area of the conference center/venue
-    
-	-   Clearly labeled to prevent accidental entry, though a locking door is not necessary
+-   This should be a separate, additional room ( NOT the same as the nursing and pumping room ) which should be clearly labelled. It could accommodate multiple babies at a time and be equipped with: multiple comfortable chairs with broad armrests to facilitate bottle feeding positions, a bottle warmer, paper towels, cleaning wipes and garbage can for cleanliness, dim lighting and in a quiet area of the conference center/venue
     
 
 #### 🍎 Quiet Room
 
--   A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference.
-    
+-   A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference; no phone calls, talking/socializing, notification beeps! People whose religions require frequent prayer can make use of the quiet room.
 
-	-   No phone calls, talking/socializing, etc.
-    
-	-   Put notifications on silent/vibrate.
-    
-	-   People whose religions require frequent prayer can make use of the quiet room.
-    
-
--   Ideal is to provide one well-lit quiet room, and a second dimly-lit room.
-    
 -   Consider "quiet areas" if a separate room is not possible.
     
 
@@ -113,23 +78,12 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 Make sure that everyone involved in your conference/event is aware that the CoC applies to them: that not only includes participants, but also speakers, sponsors, committee members etc.
 
 -   🍎 Tick box at registration that confirms that the participant has read it
-    
-
-	-   A pop-up with a short version may also be a good idea.
-    
-	-   Provide a link to the full ("less quick") version of the Code of Conduct, hosted on its own page.    
 
 -   🍎 Include a copy of the CoC in the sponsor packet
     
 -   🍎 Mention that the CoC applies to the speakers in the speaker guidelines
     
 -   🍎 Ensure that CoC is easily accessible on the conference website
-    
-
-	-   Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
-    
-	-   Implement additional web-based highlights of the CoC via loading pages, pop-ups, screen savers, etc.
-    
 
 -   🍎 Include a short version on the printed schedule as a reminder
     
@@ -140,49 +94,28 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
 ### Speakers
 
+-   🍎 Consider the specific wording of how you solicit talks, e.g. call for "Speakers who have advice or expertise to share" rather than "experts in best practices"
+
 #### Invited Speakers
 -   ✅ Reach beyond the conference organizers' own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just "the usual suspects" and reach out to your wider network for ideas, suggestions, and introductions.
-    
-
-#### CFP review ("blind" vs "affirmative action")
-
--   ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it "double" so that both parties know each other (double-open) or neither party knows the other (double-closed)
-
--   🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference)
-    
-
-	-   E.g. "Experts in best practices" may turn away people who don't self-identify as "expert" or who have impostor syndrome.
-    
-	-   "Speakers who have advice or expertise to share" > Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
-    
-
--   Ensure panels and roundtables include a diversity of participants
-    
-
-	-   Make strategic use of the moderator role to help support diverse participation
-    
 
 #### Selecting Speakers
 
--   🍎 Call For Proposals (CFP) instructions
+-   🍎 Call For Proposals instructions -- be clear who you want
     
-
 	-   In the solicitation, be transparent that you want a broad & diverse group to share their expertise.
     
 	-   Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
     
-	-   If possible, create detailed instructions and/or run workshops to help prepare people to write strong proposals.
-    
-	-   Be clear in who you want
+
+	-   If your conference has a long history and you're trying to change what it's like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
+   
+
+#### Call for Proposals Review
+
+-   ✅ There are many approaches to reviewing and selecting conference contributions and there is no foolproof type of review that always avoids biases. Regardless of which approach you choose, open or anonymized, we encourage you to make it "double" so that both parties know each other (double-open) or neither party knows the other (double-closed)
     
 
-		-   If your conference has a long history and you're trying to change what it's like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
-    
-
-	-   Consider carefully the way you describe your event and the call for proposals in order to avoid turning away or self-de-selecting of potential speakers.
-    
-
-  
 
 ### Attracting Attendees
 
