@@ -211,6 +211,22 @@ What to ask on your registration form (and what not to ask)
 
 -   🍎 Ask for dietary restrictions on the registration form. Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
     
+#### Photo Policy
+
+-   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
+    
+
+	-   (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
+
+### Childcare questions at registration
+
+	-   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
+    
+	-   Collect the data on the registration form. How many people would make use of childcare services or grants?
+
+#### Code of Conduct
+
+-   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
 
 ## Childcare
 
@@ -218,30 +234,12 @@ What to ask on your registration form (and what not to ask)
 
 -   Build it into your budget.
     
-
-	-   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service.
-    
-	-   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
-    
-	-   Collect the data on the registration form. How many people would make use of childcare services or grants?
+    	-   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service.
     
 
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
     
-
-#### Photo Policy
-
--   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
     
-
-	-   (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
-    
-
-#### Code of Conduct
-
--   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
-    
-
 ## Catering
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
