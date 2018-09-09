@@ -41,7 +41,7 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
                                      |
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 
                                     |
 
