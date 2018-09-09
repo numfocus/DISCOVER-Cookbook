@@ -81,28 +81,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
     
 
 -   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
--   ✅ Common dietary needs to plan for:
-    
-
-	-   Gluten free
-    
-	-   Dairy free
-    
-	-   Vegan
-    
-	-   Vegetarian
-    
-	-   Pork free
-    
-	-   Shellfish free
-    
-	-   Soy free
-    
-	-   Nut free - especially peanut (this is usually a serious allergy so take extra care)
-    
-	-   Kosher
-	    
-	-   Halal
+-   ✅ Common dietary needs to plan for: gluten free, dairy free, vegan, vegetarian, pork free, shellfish free, soy free, nut free - especially peanut (this is usually a serious allergy so take extra care), kosher, halal
 
 ## [Code of Conduct (CoC)](code-of-conduct.md)
 
@@ -154,8 +133,6 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
 -   🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
     
-
-  
 
 ## [Event Registration](event_registration.md)
 What to ask on your registration form (and what not to ask)
@@ -223,17 +200,7 @@ What to ask on your registration form (and what not to ask)
 	-   Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
     
 	-   Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color).
-    
 
-		-   Be sure to choose colors that works for folks with color-blindness. With color-coded pins, needing to actually read them is a stress case rather than the norm. Because people are used to the ease of the normal case, they're more willing to take a little extra effort to read for the stress cases. (purple: he, yellow: she, green: they, blue: ask)
-    
-		-   To be aware of: Make pins large enough to be easily seen. Made the pronoun itself the largest text, rather than the word "Pronouns".
-    
-
-	-   Another option for pronoun indication is ribbons.
-    
-
-		-   Have custom ones printed for Zi/Zir and a "Fill in your own" ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
     
 ## [Grants/Scholarships](grants_scholarships.md)
 
@@ -245,25 +212,9 @@ What to ask on your registration form (and what not to ask)
 	-   Applicants should be
     
 
-		-   from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
+	-   from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
     
-		-   and be unable to attend without some financial assistance. (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
-    
-
-	-   Also consider providing support for applicants from developing economies.
-    
-
-		-   You might use the World Bank definitions of low and low-middle income. ([http://bit.ly/1nO82wD](http://bit.ly/1nO82wD))
-    
-
-	-   Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
-    
-
--   The legal issues of specifically funding underrepresented groups varies by country.
-    
-
-	-   [Galaxy](https://galaxyproject.org/) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
-    
+	-   and be unable to attend without some financial assistance. (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
 
 -   Payment
     
@@ -273,7 +224,7 @@ What to ask on your registration form (and what not to ask)
 	-   We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
     
 
-		-   Waiting for reimbursement can be a financial burden on scholarship recipients.
+	-   Waiting for reimbursement can be a financial burden on scholarship recipients.
 		
 ## [Assessment of the event](assessment.md)
 
