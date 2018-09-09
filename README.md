@@ -137,25 +137,3 @@ A minimal set of high-impact recommendations for conference organisers to consid
   * Low Effort, High Impact
   * High effort, High Impact
 
-## Other Considerations
-
-**Further reading:**
-
-- Scent and smoking policy [https://adacamp.org/adacamp-toolkit/policies/#scent](https://adacamp.org/adacamp-toolkit/policies/#scent)
-- Conference booklet template [http://geekfeminism.wikia.com/wiki/Conference\_booklet\_template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
-
-
-## Special Considerations Depending on Geographic Context
-
-- Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
-- Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether or not you should choose to host an event or conference there. 
-- We welcome input on considerations for events and conferences in other countries.
-- Additional considerations made need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
-
----
-
-### REQUEST FOR INPUT
-
-NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
-
-For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see https://www.numfocus.org/programs/diversity-and-inclusion/.
