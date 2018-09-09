@@ -71,7 +71,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 ### TABLE OF CONTENTS
 
-[Organizing Committee](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/organizing-committee.md)
+[Organizing Committee](organizing-committee.md)
 
 [Venue Selection &amp; On-Site Services](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/venue-selection.md)
 
