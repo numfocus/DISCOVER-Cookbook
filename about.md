@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 # About
 
 ## About this Cookbook:
