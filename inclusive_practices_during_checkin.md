@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Inclusive practices during check-in
 ---
 
