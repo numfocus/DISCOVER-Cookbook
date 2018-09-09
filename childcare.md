@@ -37,7 +37,7 @@
 - Providing conference childcare [https://adacamp.org/adacamp-toolkit/childcare/](https://adacamp.org/adacamp-toolkit/childcare/)
 ---
 **NEXT SECTION:**
-- [Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
+- [Code of Conduct (CoC)](code-of-conduct.md)
 
 **PREVIOUS SECTION:**
-- [Catering](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/catering.md)
+- [Catering](catering.md)
