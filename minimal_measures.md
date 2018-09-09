@@ -132,7 +132,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 -   🍎 Mention it in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
     
 
-## Participant Selection
+## Participant and Speaker Selection
 
 ### Speakers
 
@@ -187,16 +187,17 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
   
 
-### Event Registration
+## Event Registration
+What to ask on your registration form (and what not to ask)
 
-#### Preparing to meet accessibility needs
+### Preparing to meet accessibility needs
 
 -   🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
     
 
 	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please email contact@myconference.com and include the details of your request."
 
-#### Demographic Info
+### Demographic Info
 
 -   ✅ If you do collect demographic info, be thoughtful about the structure of the questions so that they are inclusive and don't contribute to alienating or "othering" marginalized people.
     
@@ -205,9 +206,13 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
     
 
 -   ✅ Take anonymity and data security seriously. Have a plan for limiting access to this information and keeping it secure.
+
+### Dietary Restrictions
+
+-   🍎 Ask for dietary restrictions on the registration form. Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
     
 
-### Childcare
+## Childcare
 
 ✅ Offer financial support for childcare.
 
@@ -222,15 +227,11 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
     
 
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
-
-#### Dietary Restrictions
-
--   🍎 Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
     
 
 #### Photo Policy
 
--   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out.
+-   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
     
 
 	-   (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
@@ -241,7 +242,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 -   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
     
 
-### Catering
+## Catering
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
@@ -306,7 +307,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 
 		-   Have custom ones printed for Zi/Zir and a "Fill in your own" ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
     
-### Grants/Scholarships
+## Grants/Scholarships
 
 ✅ Offer grants to support attendance
 
