@@ -12,7 +12,7 @@ title: Childcare
     - Collect the data on the registration form. How many people would make use of childcare services or grants?
   - In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services.
 
-#### Grants 
+## Grants 
 
    - Based on our research, grants to cover childcare costs seem to be more popular with attendees. (On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
       - You might survey your participants to determine their preference for grants vs. on-site childcare services.
@@ -21,7 +21,7 @@ title: Childcare
        - Provide cost-free access to the conference center/venue for caregivers/babysitters
           - This allows caregivers to come to the conference for e.g. infant hand-offs (for nursing, for example) as opposed to parents losing additional time walking back to hotel rooms.
       
-#### On-Site Services
+## On-Site Services
  
 - There are companies that provide childcare at conferences. While NumFOCUS makes no specific endorsements, we did find these companies in our research who are providing event-based childcare:
     - Corporate Kids Events: [https://conferencechildcare.com/](https://conferencechildcare.com/)
