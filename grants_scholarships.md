@@ -1,4 +1,7 @@
-### Grants/Scholarships
+---
+layout: page
+title: Grants/Scholarships
+---
 
 <span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity </span>, <span style="color:red">Global South and Developing Countries </span>, <span style="color:red">Newcomers & First-Timers </span>, <span style="color:red"> Location & Venue </span>
 
