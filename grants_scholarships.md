@@ -40,14 +40,14 @@ Registration vs. Travel &amp; Lodging
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
   - [Python Software Foundation](http://legacy.python.org/psf/grants/)
-  - NumFOCUS Foundation
-    - Offers grants to organizing committees for diversity scholarships [https://www.numfocus.org/programs/grants-sponsored-events/](https://www.numfocus.org/programs/grants-sponsored-events/)
+  - [NumFOCUS Foundation](https://www.numfocus.org/programs/grants-sponsored-events/)
+    - Offers grants to organizing committees for diversity scholarships
   - [PyLadies](http://www.pyladies.com/)
     - Gives scholarships to PyCon participants
 
 **Further reading:**
 
-- Travel grants toolkit [https://adacamp.org/adacamp-toolkit/travel-grants/](https://adacamp.org/adacamp-toolkit/travel-grants/)
+- [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
 ---
 **NEXT SECTION:**
 - [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
