@@ -45,4 +45,4 @@
 - You have reached the end of the DISCOVER Cookbook.
 
 **PREVIOUS SECTION:**
-- [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
+- [Event Registration](event_registration.md)
