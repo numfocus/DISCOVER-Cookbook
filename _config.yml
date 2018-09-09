@@ -19,5 +19,4 @@ paginate:            5
 # Custom vars
 version:             0.0.1
 
-github: discover-cookbook
-repo: https://github.com/discover-cookbook/discover-cookbook.github.io
+github.repo: https://github.com/discover-cookbook/discover-cookbook.github.io
