@@ -70,6 +70,39 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 
 -   Consider "quiet areas" if a separate room is not possible.
     
+## [Catering](catering.md)
+
+Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
+
+-   Best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
+    
+
+	-   🍎 Ask your caterer to create and provide the labels.
+    
+
+-   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
+-   ✅ Common dietary needs to plan for:
+    
+
+	-   Gluten free
+    
+	-   Dairy free
+    
+	-   Vegan
+    
+	-   Vegetarian
+    
+	-   Pork free
+    
+	-   Shellfish free
+    
+	-   Soy free
+    
+	-   Nut free - especially peanut (this is usually a serious allergy so take extra care)
+    
+	-   Kosher
+	    
+	-   Halal
 
 ## [Code of Conduct (CoC)](code-of-conduct.md)
 
@@ -170,41 +203,6 @@ What to ask on your registration form (and what not to ask)
     -   Collect the data on the registration form. How many people would make use of childcare services or grants?
     
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
-    
-    
-## [Catering](catering.md)
-
-Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
-
--   Best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
-    
-
-	-   🍎 Ask your caterer to create and provide the labels.
-    
-
--   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
--   ✅ Common dietary needs to plan for:
-    
-
-	-   Gluten free
-    
-	-   Dairy free
-    
-	-   Vegan
-    
-	-   Vegetarian
-    
-	-   Pork free
-    
-	-   Shellfish free
-    
-	-   Soy free
-    
-	-   Nut free - especially peanut (this is usually a serious allergy so take extra care)
-    
-	-   Kosher
-	    
-	-   Halal
     
 
 ## [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
