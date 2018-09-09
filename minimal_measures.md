@@ -1,4 +1,8 @@
-# Minimal Set of measures
+# Summary
+** The easiest and most impactful measures**
+Making your conference inclusive and encouraging diversity is a breeze! Just follow the measures below. The are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
+
+***As a rule of thumb, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
 ## Venue Selection & On-Site Services
 
