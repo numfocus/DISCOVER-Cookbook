@@ -91,7 +91,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Minimal Set of Measures](minimal_measures.md)
 
-%Potential sections that are missing: Assessment of the event%
+[Assessment of the event](assessment.md)
 ## Taxonomy
 
 **Conference Logistics**
