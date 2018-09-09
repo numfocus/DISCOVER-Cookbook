@@ -84,7 +84,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 
 ---
 **NEXT SECTION:**
-- [Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
+- [Grants/Scholarships](grants_scholarships.md)
 
 **PREVIOUS SECTION:**
-- [Childcare](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/childcare.md)
+- [Childcare](childcare.md)
