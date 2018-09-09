@@ -89,8 +89,8 @@
 
 ---
 **NEXT SECTION:**
-- [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
+- [Event Registration](event_registration.md)
 
 **PREVIOUS SECTION:**
-- [Grants/Scholarships](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/grants_scholarships.md)
+- [Grants/Scholarships](grants_scholarships.md)
 
