@@ -89,6 +89,61 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
 
+%Potential sections that are missing: Assessment of the event%
+## Taxonomy
+
+**Conference Logistics**
+  * Registration
+  * Check-in
+  * Accomodation
+  * Location & Venue
+  * Organisation and Program Committees
+  * Scholarships
+  * Participant Diversity
+  * Talks
+  * Poster Sessions
+  * Social Events
+  * Catering
+  * Bathrooms
+  * Calls for papers/proposals
+  * Code of Conduct
+  * Presenter Line-up
+  
+**Diverse Groups**
+  * Parents & Carers
+  * Women
+  * LGBTQ+
+  * Racial Minorities
+  * Ethnic Minorities
+  * Religious Groups
+  * Newcomers & First-Timers
+  * People with Disabilities
+    * Visual Impairments
+    * Hearing Impairment
+    * Mobility Impairment
+  * People with Allergies
+  * Global South & Developing Countries
+  * Dietary Restrictions
+
+**Potential Challenges**
+  * Unconscious and Implicit Bias
+  * Discrimination
+  * Sexual Harassment
+  * Bullying
+  * Stereotyping
+
+**Inclusive Atmosphere**
+  * Giving Participants Room to Be Who They Are
+  * Being Respectful
+  * Being Open
+  * Embracing Diverse Voices and Experiences
+
+
+**Minimal Set of Measures**
+A minimal set of high-impact recommendations for conference organisers to consider, tagged as high effort or low effort.
+  * Low Effort, High Impact
+  * High effort, High Impact
+
 ## Other Considerations
 
 **Further reading:**
