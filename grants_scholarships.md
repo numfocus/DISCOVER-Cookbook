@@ -48,6 +48,7 @@ Registration vs. Travel &amp; Lodging
 **Further reading:**
 
 - [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
+
 ---
 **NEXT SECTION:**
 - [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
