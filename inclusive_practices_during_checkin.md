@@ -1,13 +1,16 @@
-## Inclusive practices during check-in
+---
+layout: default
+title: Inclusive practices during check-in
+--
 
 <span style="color:red"> Check-in</span>
 
-#### 🍎 Photography Permissions 
+## 🍎 Photography Permissions 
 <span style="color:red"> Check-in</span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>, <span style="color:red"> Being Respectful </span>
  - Managing photography opt-outs: 
     - Badge lanyard at registration should be made available to indicate photo preferences (green = photos fine; yellow = ask first; red = no photos) 
 
-#### 🍎 Pronoun Pins, Buttons, or Ribbons
+## 🍎 Pronoun Pins, Buttons, or Ribbons
 <span style="color:red"> LGBTQ+ </span>, <span style="color:red"> Check-in</span>
   - Indicating pronouns:
     - Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
@@ -23,7 +26,7 @@
 - Improving the Color Accessibility for Color Blind Users https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/
 - AdaCamp Toolkit on Photography/video/audio recording https://adacamp.org/adacamp-toolkit/policies/#photo
 
-#### Welcoming New Attendees
+## Welcoming New Attendees
 
 <span style="color:red"> Newcomers & First-Timers</span>, <span style="color:red"> Being Open</span>
 
@@ -31,7 +34,7 @@
   - Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
 - Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
 
-#### Social Events
+## Social Events
 <span style="color:red">Social Events</span>, <span style="color:red"> Newcomers & First-Timers</span>
 
 - &quot;First-Time Attendee&quot; lunch/dinner/coffee-break as a welcome and safe place for attendees to ask questions.
