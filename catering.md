@@ -21,9 +21,11 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 - 🍎 Ask your caterer to create and provide labels with lists of ingredients for each dish.
     - Best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. &quot;gluten-free, vegan,  includes peanuts&quot;). 
 - 🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated. 
+
 **Further reading:**
 
 - Inclusive event catering [https://adacamp.org/adacamp-toolkit/inclusive-event-catering/](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/)
+
 ---
 **NEXT SECTION:**
 - [Childcare](childcare.md)
