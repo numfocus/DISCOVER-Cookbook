@@ -3,8 +3,6 @@ layout: page
 title: Event Registration
 ---
 
-**Tags:** <span style="color:red"> Registration </span>, <span style="color:red"> Discrimination </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>, <span style="color:red"> Unconscious and Implicit Bias </span>,  <span style="color:red"> People with Disabilities </span>,
-
 What to ask on your registration form (and what not to ask)
 
 ## Preparing to meet accessibility needs
