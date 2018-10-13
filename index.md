@@ -35,7 +35,7 @@ For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS posit
 - [Participant Selection](participant_selection.md)
 - [Event Registration](event_registration.md)
 - [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
-- [Assessment of the Event](assessment.md)
+- [Assessment of the Event](https://discover-cookbook.github.io/assessment/)
 
 ### About this Cookbook
 - [Introduction & How to Use This Cookbook](index.md)
