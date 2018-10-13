@@ -20,7 +20,7 @@ NumFOCUS invites the community to make suggestions for improvements to the DISCO
 For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see https://www.numfocus.org/programs/diversity-and-inclusion/.
 
 ### TABLE OF CONTENTS
-###Suggestions
+### Suggestions
 
 - [Summary - the most important suggestions](minimal_measures.md)
 - [Organizing Committee](organizing-committee.md)
@@ -34,7 +34,8 @@ For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS posit
 - [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
 - [Assessment of the Event](assessment.md)
 
-###About this Cookbook
+### About this Cookbook
+- [Introduction & How to Use This Cookbook](index.md)
 - [About](about.md)
 - [Taxonomy](taxonomy.md)
 
