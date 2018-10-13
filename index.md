@@ -22,21 +22,21 @@ For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS posit
 ### TABLE OF CONTENTS
 ###Suggestions
 
-[Summary - the most important suggestions](minimal_measures.md)
-[Organizing Committee](organizing-committee.md)
-[Venue Selection &amp; On-Site Services](venue-selection.md)
-[Catering](catering.md)
-[Childcare](childcare.md)
-[Code of Conduct (CoC)](code-of-conduct.md)
-[Grants/Scholarships](grants_scholarships.md)
-[Participant Selection](participant_selection.md)
-[Event Registration](event_registration.md)
-[Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
-[Assessment of the Event](assessment.md)
+- [Summary - the most important suggestions](minimal_measures.md)
+- [Organizing Committee](organizing-committee.md)
+- [Venue Selection &amp; On-Site Services](venue-selection.md)
+- [Catering](catering.md)
+- [Childcare](childcare.md)
+- [Code of Conduct (CoC)](code-of-conduct.md)
+- [Grants/Scholarships](grants_scholarships.md)
+- [Participant Selection](participant_selection.md)
+- [Event Registration](event_registration.md)
+- [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+- [Assessment of the Event](assessment.md)
 
 ###About this Cookbook
-[About](about.md)
-[Taxonomy](taxonomy.md)
+- [About](about.md)
+- [Taxonomy](taxonomy.md)
 
 ### How to use this cookbook:
 
