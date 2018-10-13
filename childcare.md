@@ -3,9 +3,9 @@ layout: page
 title: Childcare
 ---
 
-<span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
+**Tags:** <span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
 
-✅ Offer financial support for childcare. <span style="color:red">High Impact, High Effort</span>,
+✅ Offer financial support for childcare.
  - Build it into your budget. 
    - Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as service. 
     - Add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
