@@ -9,15 +9,35 @@ The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Over
 
 ![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)
 
-## The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources)
-
-Produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program with support from the Moore Foundation.
-
 ## Introduction
 
 This cookbook is intended as a resource for **organizers of conferences and events** to **support and encourage diversity and inclusion** at those events. This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. 
 
 Read more about this cookbook [here](about.md)
+
+### TABLE OF CONTENTS
+
+[Summary - the most important suggestions](minimal_measures.md)
+
+[Organizing Committee](organizing-committee.md)
+
+[Venue Selection &amp; On-Site Services](venue-selection.md)
+
+[Catering](catering.md)
+
+[Childcare](childcare.md)
+
+[Code of Conduct (CoC)](code-of-conduct.md)
+
+[Grants/Scholarships](grants_scholarships.md)
+
+[Participant Selection](participant_selection.md)
+
+[Event Registration](event_registration.md)
+
+[Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+
+[Assessment of the event](assessment.md)
 
 ### How to use this cookbook:
 
@@ -65,29 +85,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
   - Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
-### TABLE OF CONTENTS
 
-[Summary - the most important suggestions](minimal_measures.md)
-
-[Organizing Committee](organizing-committee.md)
-
-[Venue Selection &amp; On-Site Services](venue-selection.md)
-
-[Catering](catering.md)
-
-[Childcare](childcare.md)
-
-[Code of Conduct (CoC)](code-of-conduct.md)
-
-[Grants/Scholarships](grants_scholarships.md)
-
-[Participant Selection](participant_selection.md)
-
-[Event Registration](event_registration.md)
-
-[Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
-
-[Assessment of the event](assessment.md)
 
 ## Taxonomy
 
