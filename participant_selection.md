@@ -3,8 +3,10 @@ layout: page
 title: Participant and Speaker Selection
 ---
 
-**Tags:** <span style="color:red"> Participant Diversity</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Embracing Diverse Voices</span>, <span style="color:red"> Unconscious and Implicit Bias</span>
+
 ## Speakers
+
+**Tags:** <span style="color:red"> Participant Diversity</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Embracing Diverse Voices</span>, <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Tokenism</span>
 
 ### Invited Speakers
 
@@ -46,6 +48,8 @@ title: Participant and Speaker Selection
 - E.g. &quot;We are looking to diversify our speaker panel; we want to select a cohort of first-time speakers to ensure we continue to offer professional development opportunities to everyone in the community.&quot;
 
 ## Attracting Attendees
+
+**Tags:** <span style="color:red"> Participant Diversity</span>, <span style="color:red"> Embracing Diverse Voices</span>, <span style="color:red"> Unconscious and Implicit Bias</span>
 
 - Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before.
 - 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
