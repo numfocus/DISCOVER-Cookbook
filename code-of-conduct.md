@@ -3,7 +3,7 @@ layout: page
 title: Code of Conduct (CoC)
 ---
 
-***Tags:*** <span style="color:red"> Code of Conduct </span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
+***Tags:*** <span style="color:red"> Code of Conduct</span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>
 
  - 🍎 Articulate a Code of Conduct for your event
   - Get inspired by Codes of Conduct that have been phrased for other conferences (see also "Further Reading")
