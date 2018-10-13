@@ -3,9 +3,9 @@ layout: page
 title: Code of Conduct (CoC)
 ---
 
-<span style="color:red"> Code of Conduct </span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
+***Tags:*** <span style="color:red"> Code of Conduct </span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying </span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
 
- - 🍎 Articulate a Code of Conduct for your event <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
+ - 🍎 Articulate a Code of Conduct for your event
   - Get inspired by Codes of Conduct that have been phrased for other conferences (see also "Further Reading")
  
 ## Goals
@@ -26,17 +26,16 @@ Additional ways to support and implement your Code of Conduct:
 
 Make sure that **everyone involved in your conference/event** is aware that the Code of Conduct applies to them: that not only includes participants, but also speakers, sponsors, committee members etc.
 
- - 🍎 Tick box at registration that confirms that the participant has read the Code of Conduct <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
+ - 🍎 Tick box at registration that confirms that the participant has read the Code of Conduct
      - A pop-up with a short version may also be a good idea.
      - Provide a link to the full ("less quick") version of the Code of Conduct, hosted on its own page.
-     <span style="color:red">High Impact, Low Effort</span>
- - 🍎 Include a copy of the Code of Conduct in the sponsor packet <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
- - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines <span style="color:red">High Impact, Low Effort</span> <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
- - 🍎 Ensure that Code of Conduct is **easily** accessible on the conference website <span style="color:red">High Impact, Low Effort</span> <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
+ - 🍎 Include a copy of the Code of Conduct in the sponsor packet
+ - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines
+ - 🍎 Ensure that Code of Conduct is **easily** accessible on the conference website
    - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
    - Implement additional web-based highlights of the CoC via loading pages, pop-ups, screen savers, etc.
- - 🍎 Include a short version of the Code of Conduct on the printed schedule as a reminder <span style="color:red">High Impact, Low Effort</span> <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
- - 🍎 Mention the Code of Conduct in the welcome talk and at the start of every day, including who to contact if there is a problem/violation <span style="color:red">High Impact, Low Effort</span> <span style="color:red">High Impact, Low Effort</span>, <span style="color:red"> Code of Conduct </span>
+ - 🍎 Include a short version of the Code of Conduct on the printed schedule as a reminder
+ - 🍎 Mention the Code of Conduct in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
  - If you send out daily event e-mails, include an item on &quot;Seeing or experiencing something that makes you uncomfortable&quot;
   - &quot;Remember that you can always speak to one of our ombudspersons about any matter of concern, no matter how small.&quot;
 - Include short blurbs about the Code of Conduct during breaks (e.g. during slide breaks), on websites, etc. 
