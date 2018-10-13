@@ -48,13 +48,13 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 ---
 
-### REQUEST FOR INPUT
+## REQUEST FOR INPUT
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
 For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see https://www.numfocus.org/programs/diversity-and-inclusion/.
 
-#### Acknowledgements:
+## Acknowledgements:
 
 We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
 
