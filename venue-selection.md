@@ -73,7 +73,7 @@ title: Venue Selection &amp; On-Site Services
 
 ### 🍎 Nursing &amp; Pumping Room
 
-**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Women</span>, <span style="color:red">Low Effort, High Impact</span>
+**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Women</span>
 
 - Ensure there is a dedicated, single-occupancy space with lock.
 - For the room to be optimally useful, these things are desired:
@@ -88,7 +88,7 @@ title: Venue Selection &amp; On-Site Services
 
 ### 🍎 Gender-Neutral Bottle Feeding Room
 
-**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Low Effort, High Impact</span>
+**Tags:** <span style="color:red">Parents & Carers</span>
 
   - Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
   - This should be a separate, additional room ( **NOT the same as the nursing and pumping room** ). It could accommodate multiple babies at a time and be equipped with:
