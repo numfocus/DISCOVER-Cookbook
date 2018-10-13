@@ -79,4 +79,4 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
 The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](minimal_measures.md).
 
-
+Please see the [NumFOCUS Privacy Policy](https://numfocus.org/privacy-policy) for more information about how we collect data.
