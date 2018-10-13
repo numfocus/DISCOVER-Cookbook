@@ -8,22 +8,26 @@ title: Venue Selection &amp; On-Site Services
 
 ### Mobility
 
-- 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle. <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Low Effort, High Impact</span>
-- 🍎 Create wide aisles (2.5m so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room. <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Low Effort, High Impact</span>
-- Reduce conference sprawl to support access for people who are mobility-impaired.  <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>
-- Consider marking and enforcing "No Standing Zones" through rooms such as foyers that are both gathering areas and regions people must pass through. (A 2.5m "corridor" marked on the ground in yellow tape is ideal.)  <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>
-- Consider making remote access available via livestream, recorded talks, etc. <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>
-- Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.) <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red"> Location & Venue</span>
-- Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Bathrooms</span>
+**Tags:** <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red"> Location & Venue</span>, <span style="color:red">Bathrooms</span>
+
+- 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle. 
+- 🍎 Create wide aisles (2.5m so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room.
+- Reduce conference sprawl to support access for people who are mobility-impaired.
+- Consider marking and enforcing "No Standing Zones" through rooms such as foyers that are both gathering areas and regions people must pass through. (A 2.5m "corridor" marked on the ground in yellow tape is ideal.)
+- Consider making remote access available via livestream, recorded talks, etc.
+- Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.)
+- Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. 
 
 ### Disability
 
-- ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. <span style="color:red">People with Disabilities</span>, <span style="color:red">Hearing Impairment</span>, <span style="color:red">High Effort, High Impact</span>
-- Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues. <span style="color:red">People with Disabilities</span>, <span style="color:red">Visual Impairment</span>
-- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision. <span style="color:red">People with Disabilities</span>, <span style="color:red">Visual Impairment</span>, <span style="color:red">Low Effort, High Impact</span>
-- Include maps in advance, with the event schedule. <span style="color:red">People with Disabilities</span>, <span style="color:red">Newcomers & First-Timers</span>
-- Make sure that hand-held microphones are available <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>
-- Encourage session chairs to repeat questions from the audience over the mic so everyone can hear <span style="color:red">People with Disabilities</span>, <span style="color:red">Hearing Impairment</span>
+**Tags:** <span style="color:red">People with Disabilities</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Mobility Impairment</span>, <span style="color:red">Hearing Impairment</span>, <span style="color:red">Other Impairments</span>, <span style="color:red">Visual Impairment</span>
+
+- ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. 
+- Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
+- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
+- Include maps in advance, with the event schedule. 
+- Make sure that hand-held microphones are available 
+- Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
 
 **Further Reading:**
 
@@ -37,21 +41,23 @@ title: Venue Selection &amp; On-Site Services
 
 ## Bathrooms
 
+**Tags**: <span style="color:red">Location & Venue</span>, <span style="color:red">Bathrooms</span>, <span style="color:red">LGBTQ+</span>, <span style="color:red">Women</span>, <span style="color:red">People with Allergies</span>
+
 ### Gender-Neutral Bathrooms
 
 - Ideally you would provide 3 restrooms: gender-neutral, female, male.
-- ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference. <span style="color:red">Bathrooms</span>, <span style="color:red">LGBTQ+</span>, <span style="color:red">High Effort, High Impact</span>
+- ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms if the venue signs are traditional &quot;men&#39;s&quot; and &quot;women&#39;s&quot; rooms:
   - &quot;With Urinals&quot; / &quot;Without Urinals&quot;
   - &quot;All Gender Restroom&quot;
-  - &quot;No Assumptions. No Gender Roles. Just Toilets.&quot; <span style="color:red">Bathrooms</span>, <span style="color:red">Location & Venue</span>, <span style="color:red">LGBTQ+</span>
-- 🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom <span style="color:red">Bathrooms</span>, <span style="color:red">LGBTQ+</span>, <span style="color:red">Low Effort, High Impact</span>
+  - &quot;No Assumptions. No Gender Roles. Just Toilets.&quot; 
+- 🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom 
   - &quot;If you think someone&#39;s gender doesn&#39;t match the sign on the door, please follow these steps: Don&#39;t worry about it, they know better than you.&quot; (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
 ### Toiletries/Supplies
 
-- 🍎 Provide tampons and pads in **all** restrooms (some people who identify as male have periods and may need them) rooms <span style="color:red">Bathrooms</span>, <span style="color:red">Women</span>, <span style="color:red">Low Effort, High Impact</span>
-- Consider using fragrance-free hand wash and reducing the use of air fresheners to help those with chemical sensitivities. <span style="color:red">People with Allergies</span> <span style="color:red">Bathrooms</span>
+- 🍎 Provide tampons and pads in **all** restrooms (some people who identify as male have periods and may need them) rooms
+- Consider using fragrance-free hand wash and reducing the use of air fresheners to help those with chemical sensitivities.
 
 **Further Reading:**
 
@@ -67,7 +73,7 @@ title: Venue Selection &amp; On-Site Services
 
 ### 🍎 Nursing &amp; Pumping Room
 
-<span style="color:red">Parents & Carers</span>, <span style="color:red">Women</span>, <span style="color:red">Low Effort, High Impact</span>
+**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Women</span>, <span style="color:red">Low Effort, High Impact</span>
 
 - Ensure there is a dedicated, single-occupancy space with lock.
 - For the room to be optimally useful, these things are desired:
@@ -82,7 +88,7 @@ title: Venue Selection &amp; On-Site Services
 
 ### 🍎 Gender-Neutral Bottle Feeding Room
 
-<span style="color:red">Parents & Carers</span>, <span style="color:red">Low Effort, High Impact</span>
+**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Low Effort, High Impact</span>
 
   - Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
   - This should be a separate, additional room ( **NOT the same as the nursing and pumping room** ). It could accommodate multiple babies at a time and be equipped with:
@@ -99,7 +105,7 @@ title: Venue Selection &amp; On-Site Services
 
 ### 🍎 Quiet Room
 
-<span style="color:red">Religious Groups</span>, <span style="color:red">Being Respectful</span>, <span style="color:red">Giving participants room to be who they are </span>, <span style="color:red">Low Effort, High Impact</span>
+**Tags:** <span style="color:red">Religious Groups</span>, <span style="color:red">Being Respectful</span>, <span style="color:red">Giving participants room to be who they are </span>
 
 - A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference.
   - No phone calls, talking/socializing, etc.
