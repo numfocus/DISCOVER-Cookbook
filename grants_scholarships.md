@@ -3,7 +3,7 @@ layout: page
 title: Grants/Scholarships
 ---
 
-<span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity </span>, <span style="color:red">Global South and Developing Countries </span>, <span style="color:red">Newcomers & First-Timers </span>, <span style="color:red"> Location & Venue </span>
+**Tags:** <span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity</span>, <span style="color:red">Global South and Developing Countries</span>, <span style="color:red">Newcomers & First-Timers</span>, <span style="color:red"> Location & Venue</span>
 
 **Why funding is important**
 
@@ -15,8 +15,6 @@ Registration vs. Travel &amp; Lodging
   - Interest in [Galaxy fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) went up when covering the first $n of travel costs was added, as well.
 
 ✅ **Offer grants to support attendance**
-
-<span style="color:red">High Impact, High Effort</span>
 
 - Eligibility Requirements
   - Applicants should be 
