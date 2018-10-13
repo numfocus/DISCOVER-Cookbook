@@ -4,12 +4,14 @@ title: Home
 ---
 
 # DISCOVER Cookbook
+---
 
 ![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)
 
 The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is produced by the [NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program](https://www.numfocus.org/programs/diversity-and-inclusion/), with support from the [Moore Foundation](https://www.moore.org/).
 
 ## Introduction
+---
 
 This cookbook is intended as a resource for **organizers of conferences and events** to **support and encourage diversity and inclusion** at those events. This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. 
 
@@ -19,7 +21,8 @@ NumFOCUS invites the community to make suggestions for improvements to the DISCO
 
 For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see https://www.numfocus.org/programs/diversity-and-inclusion/.
 
-### TABLE OF CONTENTS
+## TABLE OF CONTENTS
+---
 ### Suggestions
 
 - [Summary - the most important suggestions](minimal_measures.md)
@@ -39,7 +42,8 @@ For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS posit
 - [About](about.md)
 - [Taxonomy](taxonomy.md)
 
-### How to use this cookbook:
+## How to use this cookbook
+---
 
 You **do not have to implement every suggestion** in the cookbook in order to &quot;qualify&quot; as having a diverse and inclusive event!
 
