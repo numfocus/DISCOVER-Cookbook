@@ -7,7 +7,7 @@ What to ask on your registration form (and what not to ask)
 
 ## Preparing to meet accessibility needs
 
-**Tags**: <span style="color:red"> Registration</span>, <span style="color:red"> People with Disabilities</span> 
+**Tags**: <span style="color:red"> Registration</span>, <span style="color:red">People with Disabilities</span> 
 
 - Outline any accessibility services you plan to provide on the registration form. Then:
 - 🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
