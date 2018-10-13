@@ -3,12 +3,12 @@ layout: page
 title: Participant and Speaker Selection
 ---
 
-<span style="color:red"> Participant Diversity </span>, <span style="color:red"> Presenter Line-up </span>, <span style="color:red"> Embracing Diverse Voices </span>, <span style="color:red"> Unconscious and Implicit Bias </span>
+**Tags:** <span style="color:red"> Participant Diversity</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Embracing Diverse Voices</span>, <span style="color:red"> Unconscious and Implicit Bias</span>
 ## Speakers
 
 ### Invited Speakers
 
-- ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions. <span style="color:red"> High Impact, High Effort </span>
+- ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
 - Identify a group of people to solicit as conference speakers
   - Take extra steps to ensure a diverse speaker pool
     - Make the list of potential speakers who are underrepresented longer than list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
@@ -16,16 +16,16 @@ title: Participant and Speaker Selection
   - Research and follow speaker lists compiled by other organizations and communities
   - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
   - If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.
-- 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference) <span style="color:red"> High Impact, Low Effort </span>
+- 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference) 
   - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome.
   - &quot;Speakers who have advice or expertise to share&quot; &gt; Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
 - Ensure panels and roundtables include a diversity of participants
   - Make strategic use of the moderator role to help support diverse participation
 
 ### Selecting Speakers
-<span style="color:red"> Calls for Papers and Proposals</span>, <span style="color:red"> Presenter Line-up </span>, <span style="color:red"> Code of Conduct </span>
+**Tags:** <span style="color:red"> Calls for Papers and Proposals</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Code of Conduct</span>
 
-- 🍎 Call For Proposals (CFP) instructions <span style="color:red"> High Impact, Low Effort </span>, <span style="color:red"> Visual Impairment </span>, <span style="color:red"> Hearing Impairment </span>
+- 🍎 Call For Proposals (CFP) instructions
   - In the solicitation, be transparent that you want a broad &amp; diverse group to share their expertise.
   - Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
   - If possible, create detailed instructions and/or run workshops to help prepare people to write strong proposals.
@@ -41,14 +41,14 @@ title: Participant and Speaker Selection
 
 ### Incentivize First-Time Speakers:
 
-<span style="color:red"> Newcomers & First-Timers </span>
+**Tags:** <span style="color:red"> Newcomers & First-Timers</span>
 
 - E.g. &quot;We are looking to diversify our speaker panel; we want to select a cohort of first-time speakers to ensure we continue to offer professional development opportunities to everyone in the community.&quot;
 
 ## Attracting Attendees
 
 - Be clear about what your event is about, explain it to people who are less familiar and haven&#39;t attended before.
-- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend? <span style="color:red"> High Impact, Low Effort </span>
+- 🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
 - Partner with organizations whose membership you'd like to convince to attend your event.
 - Offer scholarships for first-time and underrepresented attendees.
 - Advertise the Code of Conduct to convey that you are seeking an inclusive environment.
@@ -65,7 +65,7 @@ title: Participant and Speaker Selection
 
 ### Call For Proposals review (&quot;blind&quot; vs &quot;affirmative action&quot;)
 
-<span style="color:red"> Unconscious and Implicit Bias </span>, <span style="color:red"> Discrimination </span>, <span style="color:red"> Calls for Papers & Proposals </span>, <span style="color:red"> Organisation and Program Committees </span>
+**Tags:** <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Discrimination</span>, <span style="color:red"> Calls for Papers & Proposals</span>, <span style="color:red"> Organisation and Program Committees</span>
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
     - &quot;Open&quot; review is a form of review in which the names of the reviewers are made public.
     - &quot;Double-Open&quot; review is when the reviewers know the identity of the proposal author and the proposal author also knows the identity of their reviewers
