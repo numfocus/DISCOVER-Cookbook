@@ -31,6 +31,7 @@ Throughout the cookbook, we have tagged the individual recommendations with tags
     * Visual Impairments
     * Hearing Impairment
     * Mobility Impairment
+    * Other Impairments
   * People with Allergies
   * Global South & Developing Countries
   * Dietary Restrictions
@@ -41,6 +42,7 @@ Throughout the cookbook, we have tagged the individual recommendations with tags
   * Sexual Harassment
   * Bullying
   * Stereotyping
+  * Tokenizing
 
 **Inclusive Atmosphere**
   * Giving Participants Room to Be Who They Are
