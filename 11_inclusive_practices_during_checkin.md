@@ -21,9 +21,9 @@ title: Inclusive practices during check-in
 
 **Further reading:**
 - Thanks to [OpenNews](https://opennews.org/) and [SRCCON](https://srccon.org/) for the pronoun pins idea
-- http://www.pronounribbons.org
-- Improving the Color Accessibility for Color Blind Users https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/
-- AdaCamp Toolkit on Photography/video/audio recording https://adacamp.org/adacamp-toolkit/policies/#photo
+- [Pronoun Ribbons](http://www.pronounribbons.org)
+- [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
+- [AdaCamp Toolkit on Photography/video/audio recording](https://adacamp.org/adacamp-toolkit/policies/#photo)
 
 ## Welcoming New Attendees
 
@@ -40,11 +40,11 @@ title: Inclusive practices during check-in
 - Consider diversifying the time of day that social events happen.
   - Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
 - Alcohol Considerations
-  - We recommend the AdaCamp Toolkit&#39;s summary approach to alcohol at events: [https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
+  - We recommend the [AdaCamp Toolkit&#39;s summary approach to alcohol at events](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
   
   ---
 **NEXT SECTION:**
-- [Assessment of the Event](assessment.md)
+- [Assessment of the Event](12_assessment.md)
 
 **PREVIOUS SECTION:**
-- [Event Registration](event_registration.md)
+- [Event Registration](10_event_registration.md)
