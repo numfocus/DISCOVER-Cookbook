@@ -21,7 +21,7 @@ Registration vs. Travel &amp; Lodging
     - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
     - and be unable to attend without some financial assistance. (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
   - Also consider providing support for applicants from developing economies.
-    - You might use the World Bank definitions of low and low-middle income. ([http://bit.ly/1nO82wD](http://bit.ly/1nO82wD))
+    - You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and low-middle income.
   - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
   
 - The legal issues of specifically funding underrepresented groups varies by country.
@@ -52,7 +52,7 @@ Registration vs. Travel &amp; Lodging
 
 ---
 **NEXT SECTION:**
-- [Participant Selection](participant-selection.md)
+- [Participant Selection](09_participant_selection.md)
 
 **PREVIOUS SECTION:**
-- [Code of Conduct (CoC)](code-of-conduct.md)
+- [Code of Conduct (CoC)](07_code_of_conduct.md)
