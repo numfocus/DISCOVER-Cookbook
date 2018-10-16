@@ -33,12 +33,12 @@ What to ask on your registration form (and what not to ask)
 **Tags:** <span style="color:red"> Registration</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>
 
 - 🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out.
-  - (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
+  - (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
 
 
 **Further reading:**
 
-- Geek Feminism Photography [http://geekfeminism.wikia.com/wiki/Photography](http://geekfeminism.wikia.com/wiki/Photography)
+- [Geek Feminism Photographyy](http://geekfeminism.wikia.com/wiki/Photography)
 
 ## Code of Conduct
 **Tags:** <span style="color:red"> Code of Conduct </span>
@@ -55,8 +55,8 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 **Further reading:**
 
-- Geek Feminism T-Shirts [http://geekfeminism.wikia.com/wiki/T-shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
-- Unisex Swag Shirts Are Harming Your Community http://cczona.com/unisex-swag-shirts-are-harming-your-community/
+- [Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
+- [Unisex Swag Shirts Are Harming Your Community](http://cczona.com/unisex-swag-shirts-are-harming-your-community/)
 
 ## Demographic Info
 
@@ -84,12 +84,12 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
          
 **Further reading:**
 
-- Guiding principles for handling gender on forms [http://43epnd.axshare.com/gender.html](http://43epnd.axshare.com/gender.html)
-- A Word on Monitoring https://www.cheryl-morgan.com/?p=24245
+- [Guiding principles for handling gender on forms](http://43epnd.axshare.com/gender.html)
+- [A Word on Monitoring](https://www.cheryl-morgan.com/?p=24245)
 
 ---
 **NEXT SECTION:**
-- [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+- [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
 
 **PREVIOUS SECTION:**
-- [Participant Selection](participant-selection.md)
+- [Participant Selection](09_participant_selection.md)
