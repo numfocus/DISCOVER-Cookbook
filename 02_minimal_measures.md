@@ -152,7 +152,7 @@ What to ask on your registration form (and what not to ask)
 -   🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
     
 
-	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please email contact@myconference.com and include the details of your request."
+	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
 
 ### Demographic Info
 
