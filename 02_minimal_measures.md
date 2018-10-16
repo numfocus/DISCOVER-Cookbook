@@ -80,7 +80,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 -   Consider "quiet areas" if a separate room is not possible.
     
-## [Catering](catering.md)
+## [Catering](05_catering.md)
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
