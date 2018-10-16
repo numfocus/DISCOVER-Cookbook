@@ -59,13 +59,13 @@ title: Participant and Speaker Selection
 
 **Further reading:**
 
-- Would I attend my own conference? [http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
-- Getting women to speak at your conference is hard. So? [http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
-- A Better Call for Proposals [http://2016.cssconf.com.au/2016/07/01/cfp.html](http://2016.cssconf.com.au/2016/07/01/cfp.html)
-- For CFP language [https://textio.com/](https://textio.com/)
-- Inclusive Approaches to Recruitment & Outreach https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/
-- Global Diversity CFP Day (Saturday 3rd February 2018) https://www.globaldiversitycfpday.com/
-- Request a Woman Scientist https://500womenscientists.org/request-a-scientist/
+- [Would I attend my own conference?](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
+- [Getting women to speak at your conference is hard. So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
+- [A Better Call for Proposals](http://2016.cssconf.com.au/2016/07/01/cfp.html)
+- [For CFP language](https://textio.com/)
+- [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
+- [Global Diversity CFP Day (Saturday 3rd February 2018)](https://www.globaldiversitycfpday.com/)
+- [Request a Woman Scientist](https://500womenscientists.org/request-a-scientist/)
 
 ### Call For Proposals review (&quot;blind&quot; vs &quot;affirmative action&quot;)
 
@@ -84,21 +84,21 @@ title: Participant and Speaker Selection
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
     - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-    - Sample guidelines for reviewers in double open review systems: [https://scipy2017.scipy.org/ehome/220975/532468/](https://scipy2017.scipy.org/ehome/220975/532468/)
+    - [Sample guidelines for reviewers in double open review systems](https://scipy2017.scipy.org/ehome/220975/532468/)
  - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
  
 **Further reading:**
 
-- Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections
-- Anonymous Talk Review Is Amazing [https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
-- Is open peer review the way forward? https://www.elsevier.com/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-way-forward
-- Gender bias distorts peer review across fields http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685
-- How rOpenSci uses Open Code Review to Promote Reproducible Science https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/
+- [Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen](https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections)
+- [Anonymous Talk Review Is Amazing](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/)
+- [Is open peer review the way forward?](https://www.elsevier.com/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-way-forward)
+- [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
+- [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
 
 ---
 **NEXT SECTION:**
-- [Event Registration](event_registration.md)
+- [Event Registration](10_event_registration.md)
 
 **PREVIOUS SECTION:**
-- [Grants/Scholarships](grants_scholarships.md)
+- [Grants/Scholarships](08_grants_scholarships.md)
 
