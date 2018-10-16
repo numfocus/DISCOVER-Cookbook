@@ -35,8 +35,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 **Further reading:**
 
-- Scent and smoking policy [https://adacamp.org/adacamp-toolkit/policies/#scent](https://adacamp.org/adacamp-toolkit/policies/#scent)
-- Conference booklet template [http://geekfeminism.wikia.com/wiki/Conference\_booklet\_template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
+- [Scent and smoking policy](https://adacamp.org/adacamp-toolkit/policies/#scent)
+- [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
 
 
 ## Special Considerations Depending on Geographic Context
@@ -52,4 +52,4 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
-For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see https://www.numfocus.org/programs/diversity-and-inclusion/.
+For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see [Diversity and Inclusion](https://www.numfocus.org/programs/diversity-and-inclusion/).
