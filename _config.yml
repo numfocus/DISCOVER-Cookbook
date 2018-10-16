@@ -13,7 +13,7 @@ tagline:             'Diverse & Inclusive Spaces and Conferences'
 description:         'The NumFOCUS DISCOVER Cookbook'
 #url:                 https://discover-cookbook.github.io/
 giturl:				       https://github.com/discover-cookbook/discover-cookbook.github.io
-baseurl:             https://discover-cookbook.github.io/ 
+#baseurl:             https://discover-cookbook.github.io/ 
 paginate:            5
 
 # Custom vars
