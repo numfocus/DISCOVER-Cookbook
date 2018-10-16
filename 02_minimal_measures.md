@@ -8,13 +8,13 @@ Making your conference inclusive and encouraging diversity is a breeze! Just fol
 
 ***As a rule of thumb, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
-## [Organizing Committee](organizing-committee.md)
+## [Organizing Committee](03_organizing_committee.md)
 ✅ The organizing committee itself should reflect the diversity you want to create in your conference! 
 Prioritizing diversity starts with you. <span style="color:red"> High Impact, High Effort </span>
 
 Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
 
-## [Venue Selection &amp; On-Site Services](venue-selection.md)
+## [Venue Selection &amp; On-Site Services](04_venue_selection.md)
 
 ### Accessibility Considerations
 
@@ -93,7 +93,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 -   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
 -   ✅ Common dietary needs to plan for: gluten free, dairy free, vegan, vegetarian, pork free, shellfish free, soy free, nut free - especially peanut (this is usually a serious allergy so take extra care), kosher, halal
 
-## [Code of Conduct (CoC)](code-of-conduct.md)
+## [Code of Conduct (CoC)](07_code_of_conduct.md)
 
 ### Awareness
 
@@ -112,7 +112,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 -   🍎 Mention it in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
     
 
-## [Participant and Speaker Selection](participant-selection.md)
+## [Participant and Speaker Selection](09_participant_selection.md)
 
 ### Speakers
 
@@ -144,7 +144,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 -   🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
     
 
-## [Event Registration](event_registration.md)
+## [Event Registration](10_event_registration.md)
 What to ask on your registration form (and what not to ask)
 
 ### Preparing to meet accessibility needs
@@ -173,13 +173,13 @@ What to ask on your registration form (and what not to ask)
 -   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
     
 
-	-   (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
+	-   (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
 
 #### Code of Conduct
 
 -   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
 
-## [Childcare](childcare.md)
+## [Childcare](06_childcare.md)
 
 ✅ Offer financial support for childcare.
 
@@ -192,7 +192,7 @@ What to ask on your registration form (and what not to ask)
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services. 
     
 
-## [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+## [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
 
 ### 🍎 Photography Permissions
 
@@ -212,7 +212,7 @@ What to ask on your registration form (and what not to ask)
 	-   Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color).
 
     
-## [Grants/Scholarships](grants_scholarships.md)
+## [Grants/Scholarships](08_grants_scholarships.md)
 
 ✅ Offer grants to support attendance
 
@@ -236,7 +236,7 @@ What to ask on your registration form (and what not to ask)
 
 	-   Waiting for reimbursement can be a financial burden on scholarship recipients.
 		
-## [Assessment of the event](assessment.md)
+## [Assessment of the event](12_assessment.md)
 
  ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
 
