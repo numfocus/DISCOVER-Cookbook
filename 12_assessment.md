@@ -14,4 +14,4 @@ You can consider specifically asking about inclusion/diversity on the survey
 - Communicate any findings to the next organizing committee if the conference/event is part of a series
 
 **PREVIOUS SECTION:**
-- [Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+- [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
