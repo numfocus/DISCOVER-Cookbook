@@ -24,24 +24,24 @@ title: Childcare
 ## On-Site Services
  
 - There are companies that provide childcare at conferences. While NumFOCUS makes no specific endorsements, we did find these companies in our research who are providing event-based childcare:
-    - Corporate Kids Events: [https://conferencechildcare.com/](https://conferencechildcare.com/)
-   - American Child Care, Inc.: [http://www.americanchildcare.com/conventions.htm](http://www.americanchildcare.com/conventions.htm)
-   - Kiddie Corp: [http://www.kiddiecorp.com/](http://www.kiddiecorp.com/)
-    - Urbansitter: [https://www.urbansitter.com/](https://www.urbansitter.com/)
-    - Care.com: [https://www.care.com/](https://www.care.com/)
-    - Accent: [http://www.accentoca.com/](http://www.accentoca.com/)
+    - [Corporate Kids Events](https://conferencechildcare.com/)
+   - [American Child Care, Inc.](http://www.americanchildcare.com/conventions.htm)
+   - [Kiddie Corp](http://www.kiddiecorp.com/)
+    - [Urbansitter](https://www.urbansitter.com/)
+    - [Care.com](https://www.care.com/)
+    - [Accent](http://www.accentoca.com/)
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
-  - E.g. coding for kids as at PyCon UK: http://2017.pyconuk.org/education/
+  - E.g. [coding for kids as at PyCon UK](http://2017.pyconuk.org/education/)
 
 **Further reading:**
 
-- Geek Feminism Wiki Childcare [http://geekfeminism.wikia.com/wiki/Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
-- SRCCON childcare [https://srccon.org/childcare/](https://srccon.org/childcare/)
-- Providing conference childcare [https://adacamp.org/adacamp-toolkit/childcare/](https://adacamp.org/adacamp-toolkit/childcare/)
+- [Geek Feminism Wiki Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
+- [SRCCON childcare](https://srccon.org/childcare/)
+- [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
 ---
 **NEXT SECTION:**
-- [Code of Conduct (CoC)](code-of-conduct.md)
+- [Code of Conduct (CoC)](07_code_of_conduct.md)
 
 **PREVIOUS SECTION:**
-- [Catering](catering.md)
+- [Catering](05_catering.md)
