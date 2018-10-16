@@ -31,13 +31,13 @@ title: Venue Selection &amp; On-Site Services
 
 **Further Reading:**
 
-- Accessible conference guide [http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/)
-- Supporting deaf/hard of hearing people at conferences [https://adacamp.org/adacamp-toolkit/supporting-deaf-people/](https://adacamp.org/adacamp-toolkit/supporting-deaf-people/)
-- Demarcated access Lanes [https://adacamp.org/adacamp-toolkit/access-lanes/](https://adacamp.org/adacamp-toolkit/access-lanes/)
-- Venue evaluation [https://adacamp.org/adacamp-toolkit/venue-evaluation/](https://adacamp.org/adacamp-toolkit/venue-evaluation/)
-- Faciliating access for chronically ill/disabled professionals [https://figshare.com/articles/Ecologist\_in\_silico\_Facilitating\_access\_for\_chronically\_ill\_disabled\_ecologists/1502697](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
-- Improving the Color Accessibility for Color Blind Users [https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
-- Accessibility, sensory friendliness and neurodiversity friendliness at events [https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3] (https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via @katsel
+- [Accessible conference guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/)
+- [Supporting deaf/hard of hearing people at conferences](https://adacamp.org/adacamp-toolkit/supporting-deaf-people/)
+- [Demarcated access Lanes](https://adacamp.org/adacamp-toolkit/access-lanes/)
+- [Venue evaluation](https://adacamp.org/adacamp-toolkit/venue-evaluation/)
+- [Faciliating access for chronically ill/disabled professionals](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
+- [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
+- [Accessibility, sensory friendliness and neurodiversity friendliness at events](https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via [@katsel](https://gist.github.com/katsel)
 
 ## Bathrooms
 
@@ -61,10 +61,10 @@ title: Venue Selection &amp; On-Site Services
 
 **Further Reading:**
 
-- Gender neutral restrooms [https://adacamp.org/adacamp-toolkit/gender-neutral-restrooms/](https://adacamp.org/adacamp-toolkit/gender-neutral-restrooms/)
-- Tech conferences with inclusive restrooms [https://storify.com/cczona/tech-conferences-with-inclusive-restrooms](https://storify.com/cczona/tech-conferences-with-inclusive-restrooms)
-- An easy way to tell if a tech company doesn&#39;t give a sh\*t about women [https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
-- Queerly Represent Me: Planning an Inclusive Event https://queerlyrepresent.me/resources/articles/event-accessibility
+- [Gender neutral restrooms](https://adacamp.org/adacamp-toolkit/gender-neutral-restrooms/)
+- [Tech conferences with inclusive restrooms](https://storify.com/cczona/tech-conferences-with-inclusive-restrooms)
+- [An easy way to tell if a tech company doesn&#39;t give a sh\*t about women](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
+- [Queerly Represent Me: Planning an Inclusive Event](https://queerlyrepresent.me/resources/articles/event-accessibility)
 
 ## 🍎 Dedicated rooms
 
@@ -100,8 +100,8 @@ title: Venue Selection &amp; On-Site Services
 
 **Further Reading:**
 
-- How to accommodate a breastpumping mom at your event [http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event/)
-- How to Set Up a Lactation Room to Support Breastfeeding at Work [https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
+- [How to accommodate a breastpumping mom at your event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event/)
+- [How to Set Up a Lactation Room to Support Breastfeeding at Work](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
 
 ### 🍎 Quiet Room
 
@@ -115,7 +115,7 @@ title: Venue Selection &amp; On-Site Services
 - Consider "quiet areas" if a separate room is not possible.
 ---
 **NEXT SECTION:**
-- [Catering](catering.md)
+- [Catering](05_catering.md)
 
 **PREVIOUS SECTION:**
-- [Organizing Committee](organizing-committee.md)
+- [Organizing Committee](03_organizing_committee.md)
