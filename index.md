@@ -15,7 +15,7 @@ The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Over
 
 This cookbook is intended as a resource for **organizers of conferences and events** to **support and encourage diversity and inclusion** at those events. This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. 
 
-Read more about this cookbook [here](01_about.md)
+Read more about this cookbook [here](./01_about.md)
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
@@ -56,6 +56,6 @@ We also encourage you to do **at least one thing** in the &quot;High Impact, Hig
 
                                     |
 
-The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](02_minimal_measures.md).
+The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](./02_minimal_measures.md).
 
 Please see the [NumFOCUS Privacy Policy](https://numfocus.org/privacy-policy) for more information about how we collect data.
