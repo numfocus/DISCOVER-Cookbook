@@ -62,7 +62,6 @@ title: Venue Selection &amp; On-Site Services
 **Further Reading:**
 
 - [Gender neutral restrooms](https://adacamp.org/adacamp-toolkit/gender-neutral-restrooms/)
-- [Tech conferences with inclusive restrooms](https://storify.com/cczona/tech-conferences-with-inclusive-restrooms)
 - [An easy way to tell if a tech company doesn&#39;t give a sh\*t about women](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
 - [Queerly Represent Me: Planning an Inclusive Event](https://queerlyrepresent.me/resources/articles/event-accessibility)
 
