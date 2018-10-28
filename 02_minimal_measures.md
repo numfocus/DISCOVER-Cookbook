@@ -242,3 +242,11 @@ What to ask on your registration form (and what not to ask)
 
 See whether there is any correlation between being part of a minority group and how welcoming the conference felt
 You can consider specifically asking about inclusion/diversity on the survey
+
+
+---
+**NEXT SECTION:**
+- [Organizing Committee](03_organizing_committee.md)
+
+**PREVIOUS SECTION:**
+- [Home](index.md)
