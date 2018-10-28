@@ -37,7 +37,7 @@ Registration vs. Travel &amp; Lodging
 - How to attract funding for scholarships?
   - Consider posting an opportunity for attendees or community members to make individual donations in support of travel scholarships.
   - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships. (e.g. [PyData offers Diversity Scholarships as sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))
-  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](https://www.generosity.com/community-fundraising/support-open-source-bridge-2016/).)
+  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](http://opensourcebridge.org/blog/2016/05/childcare-and-scholarships/).)
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
   - [Python Software Foundation](http://legacy.python.org/psf/grants/)
