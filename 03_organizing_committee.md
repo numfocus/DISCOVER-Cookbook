@@ -19,4 +19,4 @@ Conference chairs and lead organizers should take special care to recruit an org
 - [Venue Selection & On-Site Services](04_venue_selection.md)
 
 **PREVIOUS SECTION:**
-- [Home](index.md)
+- [Summary](02_minimal_measures.md)
