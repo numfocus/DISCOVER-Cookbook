@@ -17,7 +17,7 @@ This cookbook is intended as a resource for **organizers of conferences and even
 
 Read more about this cookbook [here](/01_about.md).
 
-NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via [pull request (PR)](https://github.com/numfocus/DISCOVER-Cookbook/pulls). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/). You can also [open an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues) to suggest an update.
+NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via [pull request (PR)](https://github.com/numfocus/DISCOVER-Cookbook). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/). You can also [open an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues) to suggest an update.
 
 For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see [NumFOCUS Diversity and Inclusion Program](https://www.numfocus.org/programs/diversity-and-inclusion/).
 
