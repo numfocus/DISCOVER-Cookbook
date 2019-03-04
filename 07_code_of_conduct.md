@@ -36,6 +36,8 @@ Make sure that **everyone involved in your conference/event** is aware that the 
    - Implement additional web-based highlights of the CoC via loading pages, pop-ups, screen savers, etc.
  - 🍎 Include a short version of the Code of Conduct on the printed schedule as a reminder
  - 🍎 Mention the Code of Conduct in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
+ - 🍎 Place Code of Conduct reminders on tables at lunch and also signs in rooms reminding people during the day
+ - 🍎 Create a large banner sign at key entrances on the Code of Conduct as a reminder.
  - If you send out daily event e-mails, include an item on &quot;Seeing or experiencing something that makes you uncomfortable&quot;
   - &quot;Remember that you can always speak to one of our ombudspersons about any matter of concern, no matter how small.&quot;
 - Include short blurbs about the Code of Conduct during breaks (e.g. during slide breaks), on websites, etc. 
