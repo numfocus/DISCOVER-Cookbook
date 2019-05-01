@@ -16,27 +16,27 @@ For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS posit
 
 ### TABLE OF CONTENTS
 
-[Summary - the most important suggestions](minimal_measures.md)
+[Summary - the most important suggestions](02_minimal_measures.md)
 
-[Organizing Committee](organizing-committee.md)
+[Organizing Committee](03_organizing_committee.md)
 
-[Venue Selection &amp; On-Site Services](venue-selection.md)
+[Venue Selection &amp; On-Site Services](04_venue_selection.md)
 
-[Catering](catering.md)
+[Catering](05_catering.md)
 
-[Childcare](childcare.md)
+[Childcare](06_childcare.md)
 
-[Code of Conduct (CoC)](code-of-conduct.md)
+[Code of Conduct (CoC)](07_code_of_conduct.md)
 
-[Grants/Scholarships](grants_scholarships.md)
+[Grants/Scholarships](08_grants_scholarships.md)
 
-[Participant Selection](participant_selection.md)
+[Participant Selection](09_participant_selection.md)
 
-[Event Registration](event_registration.md)
+[Event Registration](10_event_registration.md)
 
-[Inclusive Practices During Check-In](inclusive_practices_during_checkin.md)
+[Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
 
-[Assessment of the event](assessment.md)
+[Assessment of the event](12_assessment.md)
 
 
 ### How to use this cookbook:
