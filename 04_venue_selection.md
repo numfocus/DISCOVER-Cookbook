@@ -24,7 +24,9 @@ title: Venue Selection &amp; On-Site Services
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. 
 - Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
-- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
+- Provide large-text signs and easy-to-read maps.
+- Provide large-print copies of printed materials, such as program booklets, via printing normally A5 documents on A4, or folded A4-booklets on A3.
+- 🍎 Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
 - Include maps in advance, with the event schedule. 
 - Make sure that hand-held microphones are available 
 - Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
