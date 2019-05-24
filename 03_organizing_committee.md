@@ -5,10 +5,10 @@ title: Organizing Committee
 
 **Tags:** <span style="color:red"> Organisation and Program Committees</span>, <span style="color:red"> Embracing Diverse Voices & Experiences</span>, <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Tokenism</span>
 
-✅ The organizing committee itself should reflect the diversity you want to create in your conference! 
+The organizing committee itself should reflect the diversity you want to create in your conference! 
 Prioritizing diversity starts with you.
 
-Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
+✅ Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
 
 - Look for balance along many dimensions: seniority, topical expertise, geography, academia/industry, gender/racial/ethnic balance, disability status, academic lineage and many more.
 - Ensure good mix of long-term expertise and institutional memory with a flow of new people.
