@@ -49,16 +49,15 @@ title: Venue Selection &amp; On-Site Services
 
 - Ideally you would provide 3 restrooms: gender-neutral, female, male.
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
-- How to re-label bathrooms if the venue signs are traditional &quot;men&#39;s&quot; and &quot;women&#39;s&quot; rooms:
-  - &quot;With Urinals&quot; / &quot;Without Urinals&quot;
-  - &quot;All Gender Restroom&quot;
-  - &quot;No Assumptions. No Gender Roles. Just Toilets.&quot; 
-- 🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom 
+- How to re-label bathrooms:
+  - 🍎 List the specific amenities and what type of restroom it is. For example:
+  - &quot;All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table&quot; ([see example](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc))
+  - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom 
   - &quot;If you think someone&#39;s gender doesn&#39;t match the sign on the door, please follow these steps: Don&#39;t worry about it, they know better than you.&quot; (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
 ### Toiletries/Supplies
 
-- 🍎 Provide tampons and pads in **all** restrooms (some people who identify as male have periods and may need them) rooms
+- 🍎 Provide tampons and pads in **all** restrooms (some people who identify as male have periods and may need them)
 - Consider using fragrance-free hand wash and reducing the use of air fresheners to help those with chemical sensitivities.
 
 **Further Reading:**
