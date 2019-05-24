@@ -12,6 +12,9 @@ See whether there is any correlation between being part of a minority group and 
 - Make sure you review the survey outcomes after the meeting with your organizing committee
 - Communicate any findings to the next organizing committee if the conference/event is part of a series
 
+**Further Reading**
+Be sure to check out the [Event Registration](https://discover-cookbook.numfocus.org/10_event_registration/) section on "Demographic Info" before undertaking any survey that asks participants for information on their identity.
+
 **PREVIOUS SECTION:**
 - [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
 
