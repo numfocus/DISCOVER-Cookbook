@@ -86,6 +86,8 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 - [Guiding principles for handling gender on forms](http://43epnd.axshare.com/gender.html)
 - [A Word on Monitoring](https://www.cheryl-morgan.com/?p=24245)
+- [Respectful Collection of Demographic Data](https://medium.com/@anna.sarai.rosenberg/respectful-collection-of-demographic-data-56de9fcb80e2)
+- [Open Demographics](https://github.com/drnikki/open-demographics/tree/master/docs/_sources/questions)
 
 ---
 **NEXT SECTION:**
