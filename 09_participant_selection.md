@@ -67,7 +67,7 @@ title: Participant and Speaker Selection
 - [Global Diversity CFP Day (Saturday 3rd February 2018)](https://www.globaldiversitycfpday.com/)
 - [Request a Woman Scientist](https://500womenscientists.org/request-a-scientist/)
 
-### Call For Proposals review (&quot;blind&quot; vs &quot;affirmative action&quot;)
+### Call For Proposals review (&quot;double-blind&quot; vs &quot;affirmative action&quot;)
 
 **Tags:** <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Discrimination</span>, <span style="color:red"> Calls for Papers & Proposals</span>, <span style="color:red"> Organisation and Program Committees</span>
   - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
@@ -95,6 +95,10 @@ title: Participant and Speaker Selection
 - [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
 - [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
 - [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
+Encourage double-blind reviewing processes.
+- [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
+- [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
+- [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
 
 ---
 **NEXT SECTION:**
