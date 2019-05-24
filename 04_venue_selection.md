@@ -103,14 +103,14 @@ title: Venue Selection &amp; On-Site Services
 - [How to accommodate a breastpumping mom at your event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event/)
 - [How to Set Up a Lactation Room to Support Breastfeeding at Work](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
 
-### 🍎 Quiet Room
+### 🍎 Quiet Room (also Prayer Room)
 
 **Tags:** <span style="color:red">Religious Groups</span>, <span style="color:red">Being Respectful</span>, <span style="color:red">Giving participants room to be who they are </span>
 
 - A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference.
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
-  - People whose religions require frequent prayer can make use of the quiet room.
+  - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
 - Ideal is to provide one well-lit quiet room, and a second dimly-lit room.
 - Consider "quiet areas" if a separate room is not possible.
 ---
