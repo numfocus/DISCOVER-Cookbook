@@ -18,18 +18,25 @@ title: Venue Selection &amp; On-Site Services
 - Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.)
 - Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. 
 
-### Disability
+### Create Access Visual & Hearing Disabilities
 
 **Tags:** <span style="color:red">People with Disabilities</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Mobility Impairment</span>, <span style="color:red">Hearing Impairment</span>, <span style="color:red">Other Impairments</span>, <span style="color:red">Visual Impairment</span>
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. 
+  - If budget does not allow for both sign-language interpreters and captioning, we suggest that you opt for captioning as it tends to create more access for a greater number of people. (See "Further Reading" below.)
+- Select a venue that has a hearing loop, or audio induction loop (a special type of sound system for use by people with hearing aids) and make sure it is used
+
+#### Signage
 - Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
 - Provide large-text signs and easy-to-read maps.
+- Send maps to attendees in advance, with the event schedule. 
 - Provide large-print copies of printed materials, such as program booklets, via printing normally A5 documents on A4, or folded A4-booklets on A3.
+
+#### Microphones
 - 🍎 Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
-- Include maps in advance, with the event schedule. 
 - Make sure that hand-held microphones are available 
 - Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
+- Session chairs should ensure that the microphone is used (even if the speaker thinks their voice is loud enough)
 
 **Further Reading:**
 
@@ -40,6 +47,9 @@ title: Venue Selection &amp; On-Site Services
 - [Faciliating access for chronically ill/disabled professionals](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
 - [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 - [Accessibility, sensory friendliness and neurodiversity friendliness at events](https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via [@katsel](https://gist.github.com/katsel)
+- [Captioning vs Sign Language – A No Brainer?](https://therebuttal2.com/2016/01/28/captioning-vs-sign-language-a-no-brainer/)
+- [A Note From Your Colleagues With Hearing Loss: Just Use a Microphone Already](https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916)
+- [What is a hearing loop?](https://www.hearinglink.org/living/loops-equipment/hearing-loops/what-is-a-hearing-loop/)
 
 ## Bathrooms
 
