@@ -14,9 +14,14 @@ Conference chairs and lead organizers should take special care to recruit an org
 - Ensure good mix of long-term expertise and institutional memory with a flow of new people.
 - Avoid cronyism: Use algorithmic and term-limited approaches to constitute the steering committee.
 
+When creating the organizing committee, be aware of the specific roles assigned to individuals. Avoid a situation in which the “housekeeping” roles are all assigned to women or other individuals from underrepresented groups. The goal is to achieve diversity across many roles, including those of high technical prestige.
+- Consider having a member of the organizing committee specifically responsible for mitigating/preventing bias and weaving inclusivity throughout the conference (e.g. "diversity chair" or co-chairs).
+- “We tried but they turned us down.” For both organizing committee and also program committee be ready with “spare” names. Since there are relatively fewer women and underrepresented minorities in the community, they are often asked to do disproportionate amounts of service, and thus are frequently forced to say no at a higher rate.
+
 **Further Reading:**
 
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
+- [CRA-W Best Practices: Guidelines in Running an Inclusive Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf)
 
 ---
 **NEXT SECTION:**
