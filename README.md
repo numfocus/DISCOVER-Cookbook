@@ -2,6 +2,8 @@
 
 The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is produced by the [NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program](https://www.numfocus.org/programs/diversity-and-inclusion/), with support from the [Moore Foundation](https://www.moore.org/).
 
+*Are you reading this on GitHub? The cookbook is available as a website here: https://discover-cookbook.numfocus.org/*
+
 ![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)
 
 ## Introduction
