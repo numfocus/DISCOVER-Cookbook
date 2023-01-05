@@ -3,6 +3,8 @@ layout: page
 title: Code of Conduct (CoC)
 ---
 
+# Code of Conduct (CoC)
+
 ***Tags:*** <span style="color:red"> Code of Conduct</span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>
 
  - 🍎 Articulate a Code of Conduct for your event
@@ -86,9 +88,3 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 - [Beyond Guidelines: Setting the stage for good behavior in your community](http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 
----
-**NEXT SECTION:**
-- [Grants/Scholarships](08_grants_scholarships.md)
-
-**PREVIOUS SECTION:**
-- [Childcare](06_childcare.md)

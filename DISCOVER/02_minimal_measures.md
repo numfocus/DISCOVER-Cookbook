@@ -3,6 +3,8 @@ layout: page
 title: Summary
 ---
 
+# Summary
+
 ## The easiest and most impactful measures
 Making your conference inclusive and encouraging diversity is a breeze! Just follow the measures below. The are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
 
@@ -242,10 +244,3 @@ What to ask on your registration form (and what not to ask)
 
 See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
 
-
----
-**NEXT SECTION:**
-- [Organizing Committee](03_organizing_committee.md)
-
-**PREVIOUS SECTION:**
-- [Home](index.md)

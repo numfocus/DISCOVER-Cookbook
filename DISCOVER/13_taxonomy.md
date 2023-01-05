@@ -1,5 +1,9 @@
+---
+layout: page
+title: Taxonomy
+---
 
-## Taxonomy
+# Taxonomy
 Throughout the cookbook, we have tagged the individual recommendations with tags from the taxonomy below.
 
 **Conference Logistics**

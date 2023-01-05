@@ -3,6 +3,7 @@ layout: page
 title: Inclusive practices during check-in
 ---
 
+# Inclusive practices during check-in
 
 ## 🍎 Photography Permissions 
 **Tags:** <span style="color:red"> Check-in</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>, <span style="color:red"> Being Respectful</span>
@@ -42,9 +43,3 @@ title: Inclusive practices during check-in
 - Alcohol Considerations
   - We recommend the [AdaCamp Toolkit&#39;s summary approach to alcohol at events](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
   
-  ---
-**NEXT SECTION:**
-- [Assessment of the Event](12_assessment.md)
-
-**PREVIOUS SECTION:**
-- [Event Registration](10_event_registration.md)

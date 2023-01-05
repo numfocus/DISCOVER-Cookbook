@@ -3,6 +3,8 @@ layout: page
 title: Catering
 ---
 
+# Catering
+
 **Tags:** <span style="color:red">Religious Groups</span>, <span style="color:red">People with Allergies</span>, <span style="color:red">Ethnic Minorities</span>, <span style="color:red">Dietary Restrictions</span>
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
@@ -25,11 +27,4 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 **Further reading:**
 
 - [Inclusive event catering](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/)
-
----
-**NEXT SECTION:**
-- [Childcare](06_childcare.md)
-
-**PREVIOUS SECTION:**
-- [Venue Selection & On-Site Services](04_venue_selection.md)
 

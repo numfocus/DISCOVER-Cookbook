@@ -3,6 +3,8 @@ layout: page
 title: Grants/Scholarships
 ---
 
+# Grants/Scholarships
+
 **Tags:** <span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity</span>, <span style="color:red">Global South and Developing Countries</span>, <span style="color:red">Newcomers & First-Timers</span>, <span style="color:red"> Location & Venue</span>
 
 **Why funding is important**
@@ -50,9 +52,3 @@ Registration vs. Travel &amp; Lodging
 
 - [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
 
----
-**NEXT SECTION:**
-- [Participant Selection](09_participant_selection.md)
-
-**PREVIOUS SECTION:**
-- [Code of Conduct (CoC)](07_code_of_conduct.md)

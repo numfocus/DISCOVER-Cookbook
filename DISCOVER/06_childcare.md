@@ -3,6 +3,8 @@ layout: page
 title: Childcare
 ---
 
+# Childcare
+
 **Tags:** <span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
 
 ✅ Offer financial support for childcare.
@@ -39,9 +41,3 @@ title: Childcare
 - [SRCCON childcare](https://srccon.org/childcare/)
 - [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
----
-**NEXT SECTION:**
-- [Code of Conduct (CoC)](07_code_of_conduct.md)
-
-**PREVIOUS SECTION:**
-- [Catering](05_catering.md)

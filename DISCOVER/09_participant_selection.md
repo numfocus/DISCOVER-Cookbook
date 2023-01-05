@@ -3,6 +3,7 @@ layout: page
 title: Participant and Speaker Selection
 ---
 
+# Participant and Speaker Selection
 
 ## Speakers
 
@@ -100,10 +101,4 @@ Encourage double-blind reviewing processes.
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
 - [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
 
----
-**NEXT SECTION:**
-- [Event Registration](10_event_registration.md)
-
-**PREVIOUS SECTION:**
-- [Grants/Scholarships](08_grants_scholarships.md)
 

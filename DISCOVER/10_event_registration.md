@@ -3,6 +3,8 @@ layout: page
 title: Event Registration
 ---
 
+# Event Registration
+
 What to ask on your registration form (and what not to ask)
 
 ## Preparing to meet accessibility needs
@@ -89,9 +91,3 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 - [Respectful Collection of Demographic Data](https://medium.com/@anna.sarai.rosenberg/respectful-collection-of-demographic-data-56de9fcb80e2)
 - [Open Demographics](https://github.com/drnikki/open-demographics/tree/master/docs/_sources/questions)
 
----
-**NEXT SECTION:**
-- [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
-
-**PREVIOUS SECTION:**
-- [Participant Selection](09_participant_selection.md)

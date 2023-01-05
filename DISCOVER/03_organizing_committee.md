@@ -3,6 +3,8 @@ layout: page
 title: Organizing Committee
 ---
 
+# Organizing Committee
+
 **Tags:** <span style="color:red"> Organisation and Program Committees</span>, <span style="color:red"> Embracing Diverse Voices & Experiences</span>, <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Tokenism</span>
 
 The organizing committee itself should reflect the diversity you want to create in your conference! 
@@ -28,9 +30,3 @@ When creating the organizing committee, be aware of the specific roles assigned 
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
 - [CRA-W Best Practices: Guidelines in Running an Inclusive Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf)
 
----
-**NEXT SECTION:**
-- [Venue Selection & On-Site Services](04_venue_selection.md)
-
-**PREVIOUS SECTION:**
-- [Summary](02_minimal_measures.md)

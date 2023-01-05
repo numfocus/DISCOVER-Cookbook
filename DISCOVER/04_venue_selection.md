@@ -3,6 +3,8 @@ layout: page
 title: Venue Selection &amp; On-Site Services
 ---
 
+# Venue Selection &amp; On-Site Services
+
 ## Accessibility Considerations
 - Consider attendees who may need accommodations for a disability
 
@@ -123,9 +125,3 @@ title: Venue Selection &amp; On-Site Services
   - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
 - Ideal is to provide one well-lit quiet room, and a second dimly-lit room.
 - Consider "quiet areas" if a separate room is not possible.
----
-**NEXT SECTION:**
-- [Catering](05_catering.md)
-
-**PREVIOUS SECTION:**
-- [Organizing Committee](03_organizing_committee.md)

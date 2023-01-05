@@ -1,0 +1,37 @@
+# .github/workflows/preview.yml
+name: Deploy PR previews
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+concurrency: preview-${{ github.ref }}
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        pip install jupyter-book
+
+    - name: Build the book
+      run: |
+        jupyter-book build DISCOVER
+
+    - name: Deploy PR Preview
+      uses: rossjrw/pr-preview-action@v1.2.0
+      with:
+        source-dir: ./DISCOVER/_build/html/
