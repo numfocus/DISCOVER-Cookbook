@@ -1,8 +1,4 @@
----
-layout: page
-title: Code of Conduct (CoC)
----
-
+(code_of_conduct)=
 # Code of Conduct (CoC)
 
 ***Tags:*** <span style="color:red"> Code of Conduct</span>, <span style="color:red"> Being Respectful</span>, <span style="color:red"> Sexual Harassment</span>, <span style="color:red"> Bullying</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>

@@ -1,8 +1,4 @@
----
-layout: page
-title: Inclusive practices during check-in
----
-
+(inclusive_practices_during_check-in)=
 # Inclusive practices during check-in
 
 ## 🍎 Photography Permissions 

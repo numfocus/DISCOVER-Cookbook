@@ -1,8 +1,4 @@
----
-layout: page
-title: Assessment of the event
----
-
+(assessment_of_the_event)=
 # Assessment of the event
 
  ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
