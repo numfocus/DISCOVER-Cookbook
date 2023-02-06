@@ -1,8 +1,4 @@
----
-layout: page
-title: Summary
----
-
+(summary=)
 # Summary
 
 ## The easiest and most impactful measures
