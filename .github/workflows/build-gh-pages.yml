@@ -21,6 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install jupyter-book
+        pip install sphinx-tags
 
     - name: Build the book
       run: |
