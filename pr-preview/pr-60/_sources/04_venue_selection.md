@@ -3,15 +3,14 @@ layout: page
 title: Venue Selection &amp; On-Site Services
 ---
 
+```{tags} Mobility-Impairment, People-with-Disabilities, Location-and-Venue, Bathrooms, Hearing-Impairment, Visual-Impairment, Other-Impairments, LGBTQ+, Women, People-with-Allergies, Parents-and-Carers, Religious-Groups, Being-Respectful, Giving-Participants-Room-To-Be-Who-They-Are
+```
 # Venue Selection &amp; On-Site Services
 
 ## Accessibility Considerations
 - Consider attendees who may need accommodations for a disability
 
 ### Mobility
-
-```{tags} Mobility-Impairment, People-with-Disabilities, Location-and-Venue, Bathrooms, Hearing-Impairment, Visual-Impairment, Other-Impairments, LGBTQ+, Women, People-with-Allergies, Parents-and-Carers, Religious-Groups, Being-Respectful, Giving-Participants-Room-To-Be-Who-They-Are
-```
 
 - 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle. 
 - 🍎 Create wide aisles (2.5m so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room.
