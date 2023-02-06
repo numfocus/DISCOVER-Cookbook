@@ -1,4 +1,4 @@
-(About=)
+(about=)
 # About
 
 ## About this Cookbook:
