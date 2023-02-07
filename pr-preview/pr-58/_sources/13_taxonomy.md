@@ -1,5 +1,5 @@
 (topics)=
-# Taxonomy
+# Glossary
 Throughout the cookbook, we have tagged the individual recommendations with tags from the taxonomy below.
 
 **Conference Logistics**
