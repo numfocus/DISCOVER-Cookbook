@@ -1,10 +1,9 @@
-# My tags: Location-and-Venue
+# My tags: Global-South-and-Developing-Countries
 
 ```{toctree}
 ---
 maxdepth: 1
 caption: With this tag
 ---
-../04_venue_selection.md
 ../08_grants_scholarships.md
 ```

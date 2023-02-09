@@ -1,7 +1,8 @@
+```{tags} Scholarships, Participant-Diversity, Global-South-and-Developing-Countries, Newcomers-and-First-Timers, Location-and-Venue
+```
+
 (grants_scholarships)=
 # Grants/Scholarships
-
-**Tags:** <span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity</span>, <span style="color:red">Global South and Developing Countries</span>, <span style="color:red">Newcomers & First-Timers</span>, <span style="color:red"> Location & Venue</span>
 
 **Why funding is important**
 

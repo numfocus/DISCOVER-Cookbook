@@ -1,4 +1,4 @@
-```{tags} Organisation-and-Program-Committees, Embracing-Diverse-Voices-and-Experiences, Unconscious-and-Implicit-Bias, Tokenism
+```{tags} Organization-and-Program-Committees, Embracing-Diverse-Voices-and-Experiences, Unconscious-and-Implicit-Bias, Tokenism
 ```
 
 (organizing_committee)=

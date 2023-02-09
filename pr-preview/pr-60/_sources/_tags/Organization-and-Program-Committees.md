@@ -1,4 +1,4 @@
-# My tags: Organisation-and-Program-Committees
+# My tags: Organization-and-Program-Committees
 
 ```{toctree}
 ---

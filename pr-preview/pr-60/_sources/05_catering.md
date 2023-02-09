@@ -1,4 +1,4 @@
-```{tags} Religious-Groups, People-with-Allergies, Ethnic-Minorities, Dietary-Restrictions
+```{tags} Religious-Groups, People-with-Allergies, Ethnic-Minorities, Dietary-Restrictions, Catering
 ```
 
 (catering)=
