@@ -1,11 +1,7 @@
----
-layout: page
-title: Code of Conduct (CoC)
----
-
 ```{tags} Code-of-Conduct, Being-Respectful, Sexual-Harassment, Bullying, Giving-Participants-Room-To-Be-Who-They-Are
 ```
 
+(code_of_conduct)=
 # Code of Conduct (CoC)
 
  - 🍎 Articulate a Code of Conduct for your event

@@ -1,11 +1,7 @@
----
-layout: page
-title: Catering
----
-
 ```{tags} Religious-Groups, People-with-Allergies, Ethnic-Minorities, Dietary-Restrictions
 ```
 
+(catering)=
 # Catering
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.

@@ -1,11 +1,7 @@
----
-layout: page
-title: Childcare
----
-
 ```{tags} Parents-and-Carers, Participant-Diversity, Scholarships
 ```
 
+(childcare)=
 # Childcare
 
 ✅ Offer financial support for childcare.

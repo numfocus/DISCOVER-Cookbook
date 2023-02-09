@@ -1,10 +1,6 @@
----
-layout: page
-title: Venue Selection &amp; On-Site Services
----
-
 ```{tags} Mobility-Impairment, People-with-Disabilities, Location-and-Venue, Bathrooms, Hearing-Impairment, Visual-Impairment, Other-Impairments, LGBTQ+, Women, People-with-Allergies, Parents-and-Carers, Religious-Groups, Being-Respectful, Giving-Participants-Room-To-Be-Who-They-Are
 ```
+(venue_selection_and_on-site_services)=
 # Venue Selection &amp; On-Site Services
 
 ## Accessibility Considerations
@@ -44,7 +40,7 @@ title: Venue Selection &amp; On-Site Services
 - [Supporting deaf/hard of hearing people at conferences](https://adacamp.org/adacamp-toolkit/supporting-deaf-people/)
 - [Demarcated access Lanes](https://adacamp.org/adacamp-toolkit/access-lanes/)
 - [Venue evaluation](https://adacamp.org/adacamp-toolkit/venue-evaluation/)
-- [Faciliating access for chronically ill/disabled professionals](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
+- [Facilitating access for chronically ill/disabled professionals](https://figshare.com/articles/Ecologist_in_silico_Facilitating_access_for_chronically_ill_disabled_ecologists/1502697)
 - [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 - [Accessibility, sensory friendliness and neurodiversity friendliness at events](https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via [@katsel](https://gist.github.com/katsel)
 - [Captioning vs Sign Language – A No Brainer?](https://therebuttal2.com/2016/01/28/captioning-vs-sign-language-a-no-brainer/)
