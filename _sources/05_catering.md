@@ -1,8 +1,4 @@
----
-layout: page
-title: Catering
----
-
+(catering)=
 # Catering
 
 **Tags:** <span style="color:red">Religious Groups</span>, <span style="color:red">People with Allergies</span>, <span style="color:red">Ethnic Minorities</span>, <span style="color:red">Dietary Restrictions</span>

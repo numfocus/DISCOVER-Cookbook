@@ -1,8 +1,4 @@
----
-layout: page
-title: Event Registration
----
-
+(event_registration)=
 # Event Registration
 
 What to ask on your registration form (and what not to ask)

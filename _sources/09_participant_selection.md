@@ -1,8 +1,4 @@
----
-layout: page
-title: Participant and Speaker Selection
----
-
+(participant_and_speaker_selection)=
 # Participant and Speaker Selection
 
 ## Speakers
