@@ -1,8 +1,4 @@
----
-layout: page
-title: About
----
-
+(about)=
 # About
 
 ## About this Cookbook:

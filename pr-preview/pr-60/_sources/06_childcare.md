@@ -1,11 +1,8 @@
----
-layout: page
-title: Childcare
----
+```{tags} Parents-and-Carers, Participant-Diversity, Scholarships
+```
 
+(childcare)=
 # Childcare
-
-**Tags:** <span style="color:red">Parents and Carers</span>, <span style="color:red">Participant Diversity</span>, <span style="color:red">Scholarships</span>
 
 ✅ Offer financial support for childcare.
  - Build it into your budget. 

@@ -1,10 +1,9 @@
-# My tags: Being-Respectful
+# My tags: Sexual-Harassment
 
 ```{toctree}
 ---
 maxdepth: 1
 caption: With this tag
 ---
-../04_venue_selection.md
 ../07_code_of_conduct.md
 ```

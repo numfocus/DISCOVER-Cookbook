@@ -1,4 +1,4 @@
-# My tags: People-with-Allergies
+# My tags: Ethnic-Minorities
 
 ```{toctree}
 ---
@@ -6,5 +6,4 @@ maxdepth: 1
 caption: With this tag
 ---
 ../05_catering.md
-../04_venue_selection.md
 ```

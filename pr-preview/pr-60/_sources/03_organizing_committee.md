@@ -1,11 +1,7 @@
----
-layout: page
-title: Organizing Committee
----
-
 ```{tags} Organisation-and-Program-Committees, Embracing-Diverse-Voices-and-Experiences, Unconscious-and-Implicit-Bias, Tokenism
 ```
 
+(organizing_committee)=
 # Organizing Committee
 
 The organizing committee itself should reflect the diversity you want to create in your conference! 

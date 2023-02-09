@@ -1,17 +1,13 @@
----
-layout: page
-title: Taxonomy
----
-
-# Taxonomy
+(topics)=
+# Glossary
 Throughout the cookbook, we have tagged the individual recommendations with tags from the taxonomy below.
 
 **Conference Logistics**
   * Registration
   * Check-in
-  * Accomodation
+  * Accommodation
   * Location & Venue
-  * Organisation and Program Committees
+  * Organization and Program Committees
   * Scholarships
   * Participant Diversity
   * Talks
