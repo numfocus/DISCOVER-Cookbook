@@ -30,6 +30,7 @@ jobs:
 
     - name: Build the book
       run: |
+        rm -rf DISCOVER/_tags/*
         jupyter-book build DISCOVER
 
     - name: Deploy PR Preview

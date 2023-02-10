@@ -25,6 +25,7 @@ jobs:
 
     - name: Build the book
       run: |
+        rm -rf DISCOVER/_tags/*
         jupyter-book build DISCOVER
 
     - name: Push book HTML to gh-pages
