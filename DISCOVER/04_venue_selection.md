@@ -1,3 +1,5 @@
+```{tags} Mobility-Impairment, People-with-Disabilities, Location-and-Venue, Bathrooms, Hearing-Impairment, Visual-Impairment, Other-Impairments, LGBTQ+, Women, People-with-Allergies, Parents-and-Carers, Religious-Groups, Being-Respectful, Giving-Participants-Room-To-Be-Who-They-Are
+```
 (venue_selection_and_on-site_services)=
 # Venue Selection &amp; On-Site Services
 
@@ -5,8 +7,6 @@
 - Consider attendees who may need accommodations for a disability
 
 ### Mobility
-
-**Tags:** <span style="color:red">Mobility Impairment</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red"> Location & Venue</span>, <span style="color:red">Bathrooms</span>
 
 - 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle. 
 - 🍎 Create wide aisles (2.5m so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room.
@@ -17,8 +17,6 @@
 - Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. 
 
 ### Create Access Visual & Hearing Disabilities
-
-**Tags:** <span style="color:red">People with Disabilities</span>, <span style="color:red">People with Disabilities</span>, <span style="color:red">Mobility Impairment</span>, <span style="color:red">Hearing Impairment</span>, <span style="color:red">Other Impairments</span>, <span style="color:red">Visual Impairment</span>
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. 
   - If budget does not allow for both sign-language interpreters and captioning, we suggest that you opt for captioning as it tends to create more access for a greater number of people. (See "Further Reading" below.)
@@ -51,8 +49,6 @@
 
 ## Bathrooms
 
-**Tags**: <span style="color:red">Location & Venue</span>, <span style="color:red">Bathrooms</span>, <span style="color:red">LGBTQ+</span>, <span style="color:red">Women</span>, <span style="color:red">People with Allergies</span>
-
 ### Gender-Neutral Bathrooms
 
 - Ideally you would provide 3 restrooms: gender-neutral, female, male.
@@ -81,8 +77,6 @@
 
 ### 🍎 Nursing &amp; Pumping Room
 
-**Tags:** <span style="color:red">Parents & Carers</span>, <span style="color:red">Women</span>
-
 - Ensure there is a dedicated, single-occupancy space with lock.
 - For the room to be optimally useful, these things are desired:
   - Locking door
@@ -95,8 +89,6 @@
   - If possible, a dimmable light or a small lamp could be provided instead of bright overhead lighting
 
 ### 🍎 Gender-Neutral Bottle Feeding Room
-
-**Tags:** <span style="color:red">Parents & Carers</span>
 
   - Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
   - This should be a separate, additional room ( **NOT the same as the nursing and pumping room** ). It could accommodate multiple babies at a time and be equipped with:
@@ -112,8 +104,6 @@
 - [How to Set Up a Lactation Room to Support Breastfeeding at Work](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
 
 ### 🍎 Quiet Room (also Prayer Room)
-
-**Tags:** <span style="color:red">Religious Groups</span>, <span style="color:red">Being Respectful</span>, <span style="color:red">Giving participants room to be who they are </span>
 
 - A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference.
   - No phone calls, talking/socializing, etc.

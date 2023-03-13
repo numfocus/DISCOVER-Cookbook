@@ -21,3 +21,12 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# config sphinx tags extension
+sphinx:
+  extra_extensions:
+   - sphinx_tags
+  config:
+    tags_create_tags: True
+    tags_extension: ["md"]  # using MyST, not default: ["rst"]
+    suppress_warnings: ["etoc.toctree"]

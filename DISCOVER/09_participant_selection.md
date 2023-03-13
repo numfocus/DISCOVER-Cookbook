@@ -1,9 +1,10 @@
+```{tags} Participant-Diversity, Presenter-Line-up, Embracing-Diverse-Voices-and-Experiences, Unconscious-and-Implicit-Bias, Tokenism
+```
+
 (participant_and_speaker_selection)=
 # Participant and Speaker Selection
 
 ## Speakers
-
-**Tags:** <span style="color:red"> Participant Diversity</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Embracing Diverse Voices</span>, <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Tokenism</span>
 
 ### Invited Speakers
 

@@ -1,5 +1,6 @@
 # Jupyterbook output files (html):
 DISCOVER/_build/
+DISCOVER/_tags/
 
 # Pycharm
 .idea/
