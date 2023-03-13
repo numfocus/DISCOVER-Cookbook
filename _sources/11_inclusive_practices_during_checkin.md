@@ -1,13 +1,16 @@
+```{tags} Check-in, Giving-Participants-Room-To-Be-Who-They-Are, Being-Respectful, LGBTQ+, Newcomers-and-First-Timers, Being-Open, Social-Events
+```
+
 (inclusive_practices_during_check-in)=
 # Inclusive practices during check-in
 
 ## 🍎 Photography Permissions 
-**Tags:** <span style="color:red"> Check-in</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>, <span style="color:red"> Being Respectful</span>
+
  - Managing photography opt-outs: 
     - Badge lanyard at registration should be made available to indicate photo preferences (green = photos fine; yellow = ask first; red = no photos) 
 
 ## 🍎 Pronoun Pins, Buttons, or Ribbons
-**Tags:** <span style="color:red"> LGBTQ+</span>, <span style="color:red"> Check-in</span>
+
   - Indicating pronouns:
     - Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
     - Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color). 
@@ -24,14 +27,11 @@
 
 ## Welcoming New Attendees
 
-**Tags:** <span style="color:red"> Newcomers & First-Timers</span>, <span style="color:red"> Being Open</span>
-
 - Ribbons for badges can be useful, e.g. &quot;First-Time Attendee.&quot; 
   - Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
 - Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
 
 ## Social Events
-**Tags:** <span style="color:red">Social Events</span>, <span style="color:red"> Newcomers & First-Timers</span>
 
 - &quot;First-Time Attendee&quot; lunch/dinner/coffee-break as a welcome and safe place for attendees to ask questions.
 - Consider diversifying the time of day that social events happen.
