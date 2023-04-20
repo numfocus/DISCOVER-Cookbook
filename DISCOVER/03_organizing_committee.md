@@ -10,7 +10,7 @@ Prioritizing diversity starts with you.
 ✅ Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
 
 - Look for balance along many dimensions: seniority, topical expertise, geography, academia/industry, gender/racial/ethnic balance, disability status, academic lineage and many more.
-- Ensure good mix of long-term expertise and institutional memory with a flow of new people.
+- Ensure a good mix of long-term expertise and institutional memory with a flow of new people.
 - Avoid cronyism: Use algorithmic and term-limited approaches to constitute the steering committee.
 
 Offer in-person or online “unconscious bias”, harassment, and ethics training materials for steering committee members and major conference organizers.
@@ -20,7 +20,7 @@ Offer in-person or online “unconscious bias”, harassment, and ethics trainin
 
 When creating the organizing committee, be aware of the specific roles assigned to individuals. Avoid a situation in which the “housekeeping” roles are all assigned to women or other individuals from underrepresented groups. The goal is to achieve diversity across many roles, including those of high technical prestige.
 - Consider having a member of the organizing committee specifically responsible for mitigating/preventing bias and weaving inclusivity throughout the conference (e.g. "diversity chair" or co-chairs).
-- “We tried but they turned us down.” For both organizing committee and also program committee be ready with “spare” names. Since there are relatively fewer women and underrepresented minorities in the community, they are often asked to do disproportionate amounts of service, and thus are frequently forced to say no at a higher rate.
+- “We tried, but they turned us down.” For both the organizing committee and also the program committee be ready with “spare” names. Since there are relatively fewer women and underrepresented minorities in the community, they are often asked to do disproportionate amounts of service, and thus are frequently forced to say no at a higher rate.
 
 **Further Reading:**
 

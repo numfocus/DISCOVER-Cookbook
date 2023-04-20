@@ -8,18 +8,18 @@
 
 ### Mobility
 
-- 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle. 
-- 🍎 Create wide aisles (2.5m so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room.
+- 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily accessible seats, such as at the end of a row on the aisle. 
+- 🍎 Create wide aisles (2.5 m, so two power chairs can pass each other) between chairs to make it easier for people who are mobility-impaired to navigate the room.
 - Reduce conference sprawl to support access for people who are mobility-impaired.
-- Consider marking and enforcing "No Standing Zones" through rooms such as foyers that are both gathering areas and regions people must pass through. (A 2.5m "corridor" marked on the ground in yellow tape is ideal.)
+- Consider marking and enforcing "No Standing Zones" through rooms such as foyers that are both gathering areas and regions people must pass through. (A 2.5 m "corridor" marked on the ground in yellow tape is ideal.)
 - Consider making remote access available via livestream, recorded talks, etc.
-- Make sure the building is wheelchair accessible. (In U.S. this is typically required by law.)
-- Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. 
+- Make sure the building is wheelchair accessible. (In the U.S. this is typically required by law.)
+- Be aware of how far/near the closest wheelchair-accessible restrooms are. Attempt to shorten this distance when possible, and be sure all staff know where to direct attendees who require a wheelchair-accessible restroom. 
 
 ### Create Access Visual & Hearing Disabilities
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees. 
-  - If budget does not allow for both sign-language interpreters and captioning, we suggest that you opt for captioning as it tends to create more access for a greater number of people. (See "Further Reading" below.)
+  - If the budget does not allow for both sign-language interpreters and captioning, we suggest that you opt for captioning, as it tends to create more access for a higher number of people. (See "Further Reading" below.)
 - Select a venue that has a hearing loop, or audio induction loop (a special type of sound system for use by people with hearing aids) and make sure it is used
 
 #### Signage
@@ -55,9 +55,9 @@
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms:
   - 🍎 List the specific amenities and what type of restroom it is. For example:
-  - &quot;All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table&quot; ([see example](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc))
-  - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the &quot;wrong&quot; restroom 
-  - &quot;If you think someone&#39;s gender doesn&#39;t match the sign on the door, please follow these steps: Don&#39;t worry about it, they know better than you.&quot; (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
+  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" ([see example](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc))
+  - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
+  - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
 ### Toiletries/Supplies
 
@@ -67,13 +67,13 @@
 **Further Reading:**
 
 - [Gender neutral restrooms](https://adacamp.org/adacamp-toolkit/gender-neutral-restrooms/)
-- [An easy way to tell if a tech company doesn&#39;t give a sh\*t about women](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
+- [An easy way to tell if a tech company doesn't give a sh\*t about women](https://medium.com/@melissamcewen/an-easy-way-to-tell-if-a-tech-company-doesnt-give-a-s-about-women-fb6f61249e3d)
 - [Queerly Represent Me: Planning an Inclusive Event](https://queerlyrepresent.me/resources/articles/event-accessibility)
 
 ## 🍎 Dedicated rooms
 
 - The rooms should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
-- Don&#39;t allow anyone (even organizers) to use the room for other purposes.
+- Don't allow anyone (even organizers) to use the room for other purposes.
 
 ### 🍎 Nursing &amp; Pumping Room
 
@@ -84,14 +84,14 @@
   - A desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet
   - Cleaning wipes, paper towels, and a garbage can for maintaining cleanliness
   - Masking tape and a marker for labeling milk bottles and pump parts
-  - Close proximity to a sink for hand washing and washing of pump parts
-  - A refrigerator for storage of pumped milk (could be in the pumping room, or ideally accessible outside of the room but nearby)
+  - Proximity to a sink for handwashing and washing of pump parts
+  - A refrigerator for storage of pumped milk (could be in the pumping room, or ideally accessible outside the room but nearby)
   - If possible, a dimmable light or a small lamp could be provided instead of bright overhead lighting
 
 ### 🍎 Gender-Neutral Bottle Feeding Room
 
   - Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
-  - This should be a separate, additional room ( **NOT the same as the nursing and pumping room** ). It could accommodate multiple babies at a time and be equipped with:
+  - This should be a separate, additional room (**NOT the same as the nursing and pumping room**). It could accommodate multiple babies at a time and be equipped with:
     - Multiple comfortable chairs with broad armrests to facilitate bottle feeding positions
     - A bottle warmer
     - Paper towels, cleaning wipes and garbage can for cleanliness
@@ -109,5 +109,5 @@
   - No phone calls, talking/socializing, etc.
   - Put notifications on silent/vibrate.
   - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
-- Ideal is to provide one well-lit quiet room, and a second dimly-lit room.
+- Ideal is to provide one well lit quiet room, and a second dimly lit room.
 - Consider "quiet areas" if a separate room is not possible.
