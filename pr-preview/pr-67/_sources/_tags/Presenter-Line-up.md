@@ -1,9 +1,0 @@
-# My tags: Presenter-Line-up
-
-```{toctree}
----
-maxdepth: 1
-caption: With this tag
----
-../09_participant_selection.md
-```
