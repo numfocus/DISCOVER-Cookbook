@@ -45,7 +45,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 - Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
 - Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether or not you should choose to host an event or conference there. 
 - We welcome input on considerations for events and conferences in other countries.
-- Additional considerations made need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
+- Additional considerations may need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
 
 ---
 
