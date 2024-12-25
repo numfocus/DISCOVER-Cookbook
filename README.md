@@ -4,7 +4,11 @@ The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: 
 
 # How to run the book locally
 
-Create a local python environment and install the jupyter-book (either conda or with pip)
+Create a local python environment and install the following:
+jupyter-book (either conda or with pip)
+python
+sphinx-tags
+
 
 ``` sh
 jupyter-book build DISCOVER

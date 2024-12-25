@@ -3,6 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python
-  - jupyter-book
-  - sphinx-tags
+- python
+- jupyter-book
+- sphinx-tags
