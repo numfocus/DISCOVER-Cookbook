@@ -3,7 +3,7 @@
 
 ***As a general rule, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
-Making your conference inclusive and encouraging diversity is a breeze!
+Making your conference inclusive and encouraging diversity is more achievable. The measures below are explained in more depth in the other pages of this Cookbook.
 
 ## What are the easiest and most impactful measures?
  
