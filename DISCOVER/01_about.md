@@ -18,7 +18,7 @@ This cookbook is **not** intended to provide **general instructions** on how to 
 
 Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the cookbook to a more manageable length.
 
-This cookbook also does not offer reasons or rationale for **why inclusion and diversity are important**. The cookbook presumes the organizing committee is already interested in improving diversity and inclusion at their conference or event, hence the suggestions herein are focused on the &quot;how&quot; rather than the &quot;why&quot;.
+This cookbook also does not offer reasons or rationale for **why inclusion and diversity are important**. The cookbook presumes the organizing committee is already interested in improving diversity and inclusion at their conference or event. Hence the suggestions herein are focused on the &quot;how&quot; rather than the &quot;why&quot;.
 
 
 ## Acknowledgements:
@@ -43,7 +43,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 ## Special Considerations Depending on Geographic Context
 
 - Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
-- Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether or not you should choose to host an event or conference there. 
+- Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether you should choose to host an event or conference there. 
 - We welcome input on considerations for events and conferences in other countries.
 - Additional considerations may need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
 
