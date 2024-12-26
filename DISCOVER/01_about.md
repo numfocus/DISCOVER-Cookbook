@@ -1,6 +1,9 @@
 (about)=
 # About
 
+## TL;DR
+This cookbook is intended as a resource for organizers of conferences and events with a particular focus on the tech sector in the United States. It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event. The cookbook does not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
+
 ## About this Cookbook:
 
 This cookbook is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
@@ -42,7 +45,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 - Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
 - Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether you should choose to host an event or conference there. 
 - We welcome input on considerations for events and conferences in other countries.
-- Additional considerations made need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
+- Additional considerations may need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
 
 ---
 
