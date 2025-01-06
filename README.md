@@ -1,6 +1,6 @@
 # DISCOVER-handbook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
 
@@ -64,15 +64,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jeffrin2005"><img src="https://avatars.githubusercontent.com/u/135723871?v=4?s=100" width="100px;" alt="Jeffrin Jojo"/><br /><sub><b>Jeffrin Jojo</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=Jeffrin2005" title="Documentation">📖</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kafui4k"><img src="https://avatars.githubusercontent.com/u/14028900?v=4?s=100" width="100px;" alt="Kafui Alordo"/><br /><sub><b>Kafui Alordo</b></sub></a><br /><a href="#ideas-kafui4k" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mikofski.github.io/"><img src="https://avatars.githubusercontent.com/u/1385621?v=4?s=100" width="100px;" alt="Mark Mikofski"/><br /><sub><b>Mark Mikofski</b></sub></a><br /><a href="#maintenance-mikofski" title="Maintenance">🚧</a> <a href="#ideas-mikofski" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=mikofski" title="Documentation">📖</a> <a href="https://github.com/numfocus/DISCOVER-Cookbook/pulls?q=is%3Apr+reviewed-by%3Amikofski" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://salman-ch.netlify.app"><img src="https://avatars.githubusercontent.com/u/151463017?v=4?s=100" width="100px;" alt="Muhammad Salman"/><br /><sub><b>Muhammad Salman</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=SalmanDeveloperz" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://linkedin.com/in/noatamir"><img src="https://avatars.githubusercontent.com/u/6564007?v=4?s=100" width="100px;" alt="Noa Tamir"/><br /><sub><b>Noa Tamir</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/pulls?q=is%3Apr+reviewed-by%3Anoatamir" title="Reviewed Pull Requests">👀</a> <a href="#ideas-noatamir" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Oloni"><img src="https://avatars.githubusercontent.com/u/40644425?v=4?s=100" width="100px;" alt="Oloni"/><br /><sub><b>Oloni</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=Oloni" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://trallard.dev"><img src="https://avatars.githubusercontent.com/u/23552331?v=4?s=100" width="100px;" alt="Tania Allard"/><br /><sub><b>Tania Allard</b></sub></a><br /><a href="#maintenance-trallard" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://terezaiofciu.com"><img src="https://avatars.githubusercontent.com/u/6162692?v=4?s=100" width="100px;" alt="Tereza Iofciu"/><br /><sub><b>Tereza Iofciu</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=terezaif" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#question-tkoyama010" title="Answering Questions">💬</a> <a href="#maintenance-tkoyama010" title="Maintenance">🚧</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#question-tkoyama010" title="Answering Questions">💬</a> <a href="#maintenance-tkoyama010" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kasiarachuta"><img src="https://avatars.githubusercontent.com/u/64444247?v=4?s=100" width="100px;" alt="kasiarachuta"/><br /><sub><b>kasiarachuta</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=kasiarachuta" title="Documentation">📖</a></td>
     </tr>
   </tbody>
