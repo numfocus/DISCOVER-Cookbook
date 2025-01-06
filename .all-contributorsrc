@@ -65,7 +65,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5127634?v=4",
       "profile": "https://www.oxinabox.net/",
       "contributions": [
-        "doc"
+        "doc",
+        "ideas"
       ]
     },
     {
@@ -134,7 +135,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/3665420?v=4",
       "profile": "https://github.com/ashleymaguire",
       "contributions": [
-        "doc"
+        "doc",
+        "maintenance",
+        "ideas"
       ]
     },
     {
@@ -206,7 +209,45 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/2507232?v=4",
       "profile": "https://reshamas.github.io",
       "contributions": [
-        "doc"
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "munkm",
+      "name": "Madicken Munk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6745434?v=4",
+      "profile": "http://munkm.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "tnabtaf",
+      "name": "Dave Clements",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1622414?v=4",
+      "profile": "https://galaxyproject.org/people/dave-clements/",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "katsel",
+      "name": "Kat Hoessel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6429934?v=4",
+      "profile": "https://github.com/katsel",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "choldgraf",
+      "name": "Chris Holdgraf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1839645?v=4",
+      "profile": "http://chrisholdgraf.com",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
