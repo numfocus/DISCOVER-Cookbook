@@ -1,6 +1,6 @@
 # DISCOVER-handbook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
 
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://trallard.dev"><img src="https://avatars.githubusercontent.com/u/23552331?v=4?s=100" width="100px;" alt="Tania Allard"/><br /><sub><b>Tania Allard</b></sub></a><br /><a href="#maintenance-trallard" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://terezaiofciu.com"><img src="https://avatars.githubusercontent.com/u/6162692?v=4?s=100" width="100px;" alt="Tereza Iofciu"/><br /><sub><b>Tereza Iofciu</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=terezaif" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#question-tkoyama010" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kasiarachuta"><img src="https://avatars.githubusercontent.com/u/64444247?v=4?s=100" width="100px;" alt="kasiarachuta"/><br /><sub><b>kasiarachuta</b></sub></a><br /><a href="https://github.com/numfocus/DISCOVER-Cookbook/commits?author=kasiarachuta" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
