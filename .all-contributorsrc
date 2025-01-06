@@ -131,6 +131,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SalmanDeveloperz",
+      "name": "Muhammad Salman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151463017?v=4",
+      "profile": "http://salman-ch.netlify.app",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
