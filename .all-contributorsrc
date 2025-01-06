@@ -207,6 +207,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "munkm",
+      "name": "Madicken Munk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6745434?v=4",
+      "profile": "http://munkm.github.io",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
