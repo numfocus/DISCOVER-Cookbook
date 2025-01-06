@@ -99,6 +99,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "mikofski",
+      "name": "Mark Mikofski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1385621?v=4",
+      "profile": "https://mikofski.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
