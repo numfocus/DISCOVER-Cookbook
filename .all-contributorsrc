@@ -70,6 +70,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "terezaif",
+      "name": "Tereza Iofciu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6162692?v=4",
+      "profile": "http://terezaiofciu.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
