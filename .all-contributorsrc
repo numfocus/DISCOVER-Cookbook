@@ -170,6 +170,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "discover-cookbook",
+      "name": "discover-cookbook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43108644?v=4",
+      "profile": "https://github.com/discover-cookbook",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
