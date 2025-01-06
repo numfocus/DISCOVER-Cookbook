@@ -1,8 +1,8 @@
 ```{tags} Registration, People-with-Disabilities, Scholarships, People-with-Allergies, Catering,  Dietary-Restrictions, Giving-Participants-Room-To-Be-Who-They-Are, Code-of-Conduct, Unconscious-and-Implicit-Bias, Embracing-Diverse-Voices-and-Experiences, Stereotyping
 ```
 
-(event_registration)=
-# Event Registration
+(Website & Registration)=
+# Website & Registration
 
 What to ask on your registration form (and what not to ask)
 
