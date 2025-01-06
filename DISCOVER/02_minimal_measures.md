@@ -175,7 +175,7 @@ What to ask on your registration form (and what not to ask)
 -   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
 
 
-	-   (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
+	-   (see lanyard/photography explanation under [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md))
 
 #### Code of Conduct
 
@@ -194,7 +194,7 @@ What to ask on your registration form (and what not to ask)
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services.
 
 
-## [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
+## [Inclusive Practices During Check-In] (11_inclusive_practices_during_checkin.md)
 
 ### 🍎 Photography Permissions
 
