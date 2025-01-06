@@ -229,6 +229,15 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "katsel",
+      "name": "Kat Hoessel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6429934?v=4",
+      "profile": "https://github.com/katsel",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
