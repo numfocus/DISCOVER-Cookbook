@@ -231,7 +231,8 @@
       "profile": "https://galaxyproject.org/people/dave-clements/",
       "contributions": [
         "doc",
-        "maintenance"
+        "maintenance",
+        "ideas"
       ]
     },
     {
@@ -257,6 +258,24 @@
       "name": "Jennifer Klay",
       "avatar_url": "https://avatars.githubusercontent.com/u/1399548?v=4",
       "profile": "https://github.com/dedx",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    { 
+      "login": "sarahsupp",
+      "name": "Sarah Supp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1189512?v=4",
+      "profile": "http://www.sarahsupp.org",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "rgaiacs",
+      "name": "Raniere Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1506457?v=4",
+      "profile": "http://rgaiacs.com",
       "contributions": [
         "ideas"
       ]
