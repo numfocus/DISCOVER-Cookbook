@@ -28,24 +28,23 @@ To facilitate ease of use, we have highlighted suggestions that are relatively *
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
 
                                      |
-
              🍎                      |                ✅
 
-        High Impact,                 |           High Impact,
+        High Impact,                 |           High Impact, 🚀
 
-        Low Effort                   |           High Effort
+        Low Effort ✨                |           High Effort 💪
 
                                      |
 
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 
-                                    |
+                                     |
 
-                                    |
+                                     |
+            🍏                                      ❌
+         Low Impact,                 |           Low Impact, 😔
 
-         Low Impact,                |           Low Impact,
-
-         Low Effort                 |           High Effort
+         Low Effort 💤               |           High Effort 🛠️
 
                                     |
 
