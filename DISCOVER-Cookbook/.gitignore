@@ -1,0 +1,14 @@
+# Jupyterbook output files (html):
+DISCOVER/_build/
+DISCOVER/_tags/
+
+# Pycharm
+.idea/
+
+# For people using venv
+.venv
+.env
+venv/
+
+# in case of using pyenv
+.python-version

@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 01_about
+- file: 02_minimal_measures
+- file: 03_organizing_committee
+- file: 04_venue_selection
+- file: 05_catering
+- file: 06_childcare
+- file: 07_code_of_conduct
+- file: 08_grants_scholarships
+- file: 09_participant_selection
+- file: 10_event_registration
+- file: 11_inclusive_practices_during_checkin
+- file: 12_assessment
+- file: 14_how_to_contribute
+- file: _tags/tagsindex

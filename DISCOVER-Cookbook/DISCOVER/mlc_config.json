@@ -1,0 +1,17 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916"
+    },
+    {
+      "pattern": "https://www.hearinglink.org/living/loops-equipment/hearing-loops/what-is-a-hearing-loop/"
+    },
+    {
+      "pattern": "https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc"
+    },
+    {
+      "pattern": "https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106"
+    }
+  ],
+  "timeout": "10s"
+}
