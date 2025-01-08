@@ -26,7 +26,8 @@
       "profile": "https://github.com/tkoyama010",
       "contributions": [
         "question",
-        "maintenance"
+        "maintenance",
+        "doc"
       ]
     },
     {
@@ -262,7 +263,7 @@
         "ideas"
       ]
     },
-    { 
+    {
       "login": "sarahsupp",
       "name": "Sarah Supp",
       "avatar_url": "https://avatars.githubusercontent.com/u/1189512?v=4",
