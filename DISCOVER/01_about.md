@@ -37,7 +37,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 **Further reading:**
 
 - [Scent and smoking policy](https://adacamp.org/adacamp-toolkit/policies/#scent)
-- [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
+<!-- NOT FOUND- [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)-->
+
 
 
 ## Special Considerations Depending on Geographic Context

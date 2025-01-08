@@ -26,15 +26,17 @@
     - [Corporate Kids Events](https://conferencechildcare.com/)
    - [American Child Care, Inc.](http://www.americanchildcare.com/conventions.htm)
    - [Kiddie Corp](http://www.kiddiecorp.com/)
+    <!-- ACCESS DENIED
     - [Urbansitter](https://www.urbansitter.com/)
     - [Care.com](https://www.care.com/)
-    - [Accent](http://www.accentoca.com/)
+    - [Accent](http://www.accentoca.com/)-->
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
   - E.g. [coding for kids as at PyCon UK](http://2017.pyconuk.org/education/)
 
 **Further reading:**
 
-- [Geek Feminism Wiki Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
-- [SRCCON childcare](https://srccon.org/childcare/)
+<!--ACESS DENIED- [Geek Feminism Wiki Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
+NO LONGER AVAILABLE
+- [SRCCON childcare](https://srccon.org/childcare/)-->
 - [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
