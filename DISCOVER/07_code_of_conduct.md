@@ -83,7 +83,4 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 **Managing a Code of Conduct**
 - [NYC PyLadies Meetup: Managing our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/)
 <!-- Citation: "Beyond Guidelines: Setting the Stage for Good Behavior in Your Community," CMX Hub. Available at: http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/ (Currently unavailable). -->
-
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
-
-

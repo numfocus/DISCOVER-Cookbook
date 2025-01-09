@@ -40,7 +40,6 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 - [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
 
 
-
 ## Special Considerations Depending on Geographic Context
 
 - Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
