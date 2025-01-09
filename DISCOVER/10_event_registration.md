@@ -32,8 +32,7 @@ What to ask on your registration form (and what not to ask)
 
 **Further reading:**
 
-<!--- ACCESS BLOCKED
-[Geek Feminism Photography](http://geekfeminism.wikia.com/wiki/Photography)-->
+[Geek Feminism Photography](http://geekfeminism.wikia.com/wiki/Photography)
 
 ## Code of Conduct
 
@@ -46,7 +45,6 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 - Describe the cut in gender-neutral terms (e.g. &quot;fitted&quot; vs. &quot;straight-cut&quot;) with photo examples, rather than using gender-loaded terms (&quot;men&#39;s,&quot; &quot;women&#39;s,&quot; &quot;unisex&quot;).
 
 **Further reading:**
-
 
 -[Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
 - [Unisex Swag Shirts Are Harming Your Community](http://cczona.com/unisex-swag-shirts-are-harming-your-community/)
