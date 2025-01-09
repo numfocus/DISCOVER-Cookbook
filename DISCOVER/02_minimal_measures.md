@@ -226,7 +226,8 @@ What to ask on your registration form (and what not to ask)
 
 	-   from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
 
-	-   and be unable to attend without some financial assistance. <!--(language adapted from NOT FOUND[The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))-->
+	-   and be unable to attend without some financial assistance. 
+<!-- Comment: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference -->
 
 -   Payment
 

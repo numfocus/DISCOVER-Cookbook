@@ -47,8 +47,8 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 **Further reading:**
 
-<!-- ACCESS BLOCKED
-[Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)-->
+
+-[Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
 - [Unisex Swag Shirts Are Harming Your Community](http://cczona.com/unisex-swag-shirts-are-harming-your-community/)
 
 ## Demographic Info
