@@ -35,7 +35,7 @@
 
 **Further reading:**
 
--ACESS DENIED- [Geek Feminism Wiki Childcare]( http://geekfeminism.wikia.com/wiki/Childcare)
+- [Geek Feminism Wiki Childcare]( http://geekfeminism.wikia.com/wiki/Childcare)
 - [SRCCON childcare]( https://web.archive.org/web/20160810112024/http://srccon.org/childcare)
 - [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
