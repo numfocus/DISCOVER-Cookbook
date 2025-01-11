@@ -42,8 +42,8 @@ This matrix categorizes tasks based on their effort and impact, helping prioriti
 The matrix is divided into four quadrants:
 1. **Top-left (🍎)**: High Impact, Low Effort, represented by a red apple emoji.
 2. **Top-right (✅)**: High Impact, High Effort, represented by a white heavy check mark emoji.
-3. **Bottom-left**: Low Impact, Low Effort, with no emoji.
-4. **Bottom-right**: Low Impact, High Effort, with no emoji.
+3. **Bottom-left**: Low Impact, Low Effort.
+4. **Bottom-right**: Low Impact, High Effort.
 
 Axes:
 - **Horizontal (Impact)**: Ranges from Low (left) to High (right).
