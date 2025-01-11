@@ -27,27 +27,28 @@ To facilitate ease of use, we have highlighted suggestions that are relatively *
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
 
-                                     |
+## Effort-Impact Matrix
 
-             🍎                      |                ✅
+This matrix categorizes tasks based on their effort and impact, helping prioritize activities effectively.  
 
-        High Impact,                 |           High Impact,
+|                 | **High Impact**                          | **Low Impact**                           |
+|-----------------|------------------------------------------|------------------------------------------|
+| **Low Effort**  | 🍎 **High Impact, Low Effort**           | **Low Impact, Low Effort**              |
+| **High Effort** | ✅ **High Impact, High Effort**          | **Low Impact, High Effort**             |
 
-        Low Effort                   |           High Effort
+---
 
-                                     |
+### Accessibility Description
+The matrix is divided into four quadrants:
+1. **Top-left (🍎)**: High Impact, Low Effort, represented by a red apple emoji.
+2. **Top-right (✅)**: High Impact, High Effort, represented by a white heavy check mark emoji.
+3. **Bottom-left**: Low Impact, Low Effort, with no emoji.
+4. **Bottom-right**: Low Impact, High Effort, with no emoji.
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+Axes:
+- **Horizontal (Impact)**: Ranges from Low (left) to High (right).
+- **Vertical (Effort)**: Ranges from Low (bottom) to High (top).
 
-                                    |
-
-                                    |
-
-         Low Impact,                |           Low Impact,
-
-         Low Effort                 |           High Effort
-
-                                    |
 
 The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](/02_minimal_measures.md).
 
