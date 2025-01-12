@@ -22,3 +22,24 @@ Event organizers often collect sensitive attendee information, such as contact d
 4. **Prepare for Potential Breaches**  
    - Create a comprehensive data breach response plan.  
    - Communicate promptly and transparently with affected individuals in case of a breach.  
+5. **Use a Firewall to Block Unauthorized Access to Your Network and Devices**
+
+   - **Windows**: Built-in Windows Firewall (enabled by default).
+   - **Mac**: Built-in Firewall (enable it under System Preferences > Security & Privacy).
+   - **Advanced Users**: [pfSense](https://www.pfsense.org/), [ZoneAlarm](https://www.zonealarm.com/).
+6. **Set Up a Reliable Backup Plan**
+
+Creating a backup plan is essential for safeguarding your data from accidental deletion, hardware failure, or cyberattacks like ransomware. Here’s how to establish a robust backup strategy:
+
+- **Use Local Backups**:
+  - Store your important files on external drives such as USBs or external hard drives.
+  - Recommended tools:
+    - **Windows**: File History or Backup and Restore.
+    - **Mac**: Time Machine (automatic backups).
+
+- **Use Cloud Backups**:
+  - Protect your data with secure cloud storage solutions.
+  - Recommended services:
+    - [Backblaze](https://www.backblaze.com/) (Cloud backup for full systems).
+    - [Google Drive](https://drive.google.com/).
+    - [Dropbox](https://www.dropbox.com/).
