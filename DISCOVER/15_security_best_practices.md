@@ -43,3 +43,13 @@ Creating a backup plan is essential for safeguarding your data from accidental d
     - [Backblaze](https://www.backblaze.com/) (Cloud backup for full systems).
     - [Google Drive](https://drive.google.com/).
     - [Dropbox](https://www.dropbox.com/).
+- **Follow the 3-2-1 Backup Rule**:
+  - Keep **3 copies** of your data: 1 primary and 2 backups.
+  - Use **2 different storage types** (e.g., external drive and cloud).
+  - Store **1 copy offsite** to ensure data safety in case of disasters.
+
+- **Automate Your Backups**:
+  - Schedule regular backups (daily, weekly, or monthly) to ensure all new files are saved.
+
+- **Test Your Backups Regularly**:
+  - Periodically check that your backup files are complete and can be restored without errors.
