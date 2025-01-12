@@ -19,3 +19,6 @@ Event organizers often collect sensitive attendee information, such as contact d
 3. **Follow Legal and Ethical Standards**  
    - Review applicable privacy regulations for your region, such as GDPR or CCPA.  
    - Clearly inform participants how their data will be used, and obtain their consent.  
+4. **Prepare for Potential Breaches**  
+   - Create a comprehensive data breach response plan.  
+   - Communicate promptly and transparently with affected individuals in case of a breach.  
