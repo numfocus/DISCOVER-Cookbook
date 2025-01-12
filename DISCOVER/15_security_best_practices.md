@@ -103,3 +103,7 @@ Creating a backup plan is essential for safeguarding your data from accidental d
    nc -zv <target-ip> 1-1000
    ```
    This scans ports 1 through 1000 to identify which are open.
+   ### Important Safety Tips:
+- **Always ensure you have permission** to run `netcat` commands on any system or network.
+- Unauthorized use of `netcat` could lead to legal consequences or compromise system security.
+- Use `netcat` only in controlled environments or for legitimate purposes such as system testing and troubleshooting.
