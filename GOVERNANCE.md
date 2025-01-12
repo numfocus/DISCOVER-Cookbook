@@ -2,7 +2,7 @@
 
 The purpose of this document is to outline the purpose, roles, and decision processes for this repository. The hope is to guide the community on how to accept contributions and maintain the cookbook to the standards of the NumFOCUS Community. This document should not be taken as
 
-# **Open Source Project � Objectives**
+# **Open Source Project Objectives**
 
 * Conference Organizer Enablement
   - Conference organizers should be able to easily access and use the handbook
@@ -27,8 +27,6 @@ The purpose of this document is to outline the purpose, roles, and decision proc
 * NumFOCUS Administration Board
   - Approve member elections to DISC Committee
   - Provide oversight for committee
-
-
 # **Acceptance Criteria and Process**
   - All source code and document copyrights will be owned by Contributer
   - Submissions of source code and documents implies a perpetual MIT license to the DISCOVER community
