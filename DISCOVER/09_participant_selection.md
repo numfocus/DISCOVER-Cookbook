@@ -81,8 +81,8 @@
       - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
-     Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-     [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
+    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
+    - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
  - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
  
 **Further reading:**
