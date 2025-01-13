@@ -245,5 +245,5 @@ What to ask on your registration form (and what not to ask)
 
  ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
 
- See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
+See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
 
