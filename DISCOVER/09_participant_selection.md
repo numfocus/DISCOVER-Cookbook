@@ -58,7 +58,7 @@
 **Further reading:**
 
 - [Would I attend my own conference?](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
- -[Getting women to speak at your conference is hard. So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
+- [Getting women to speak at your conference is hard. So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
 - [A Better Call for Proposals](https://web.archive.org/web/20211123193159/http://2016.cssconf.com.au/2016/07/01/cfp.html)
 - [For CFP language](https://textio.com/)
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
