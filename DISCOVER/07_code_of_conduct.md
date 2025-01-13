@@ -69,7 +69,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 **Why You Need a Code of Conduct**
 - [Why to have a CoC and how to make one](http://incisive.nu/2014/codes-of-conduct/)
 - [Why conferences need a code of conduct](https://jacobian.org/writing/codes-of-conduct/)
-The importance of having a code of conduct cannot be overstated. [^code-of-conduct]
+- The importance of having a code of conduct cannot be overstated. [^code-of-conduct]
 [^code-of-conduct]: Rachel Nabors, "You Literally Cannot Pay Me to Speak Without a Code of Conduct," published September 1, 2015. Available at: [Rachel Nabors' Blog](http://rachelnabors.com/2015/09/01/code-of-conduct/) (currently unavailable).
 - [Human Decency Is Not Enough: Why Cons Need Better Anti-Harassment Policies](https://www.wired.com/2013/07/convention-harassment-comic-con/)
 - [Should my tech conference community have a code of conduct and recommended resources](http://wunder.schoenaberselten.com/2016/02/17/should-my-tech-conference-community-have-a-code-of-conduct-recommended-resources/)
@@ -83,6 +83,6 @@ The importance of having a code of conduct cannot be overstated. [^code-of-condu
 
 **Managing a Code of Conduct**
 - [NYC PyLadies Meetup: Managing our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/)
-Setting the stage for good behavior in your community is crucial for fostering a positive environment. [^cmx-hub]
+- Setting the stage for good behavior in your    community is crucial for fostering a positive environment. [^cmx-hub]
 [^cmx-hub]: "Beyond Guidelines: Setting the Stage for Good Behavior in Your Community," CMX Hub. Available at: [CMX Hub Article](http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/) (currently unavailable).
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
