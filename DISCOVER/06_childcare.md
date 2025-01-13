@@ -26,8 +26,8 @@
     - [Corporate Kids Events](https://conferencechildcare.com/)
    - [American Child Care, Inc.](http://www.americanchildcare.com/conventions.htm)
    - [Kiddie Corp](http://www.kiddiecorp.com/)
-    <!-- ACCESS DENIED: This link is only accessible within the United States. 
-    - [Urbansitter](https://www.urbansitter.com/) -->
+UrbanSitter provides a platform for finding babysitters. [^us-access]
+[^us-access]: The link is only accessible within the United States: [UrbanSitter](https://www.urbansitter.com/).
     - [Care.com](https://www.care.com/)
     - [Accent](http://www.accentoca.com/)
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
