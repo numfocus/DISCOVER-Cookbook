@@ -49,5 +49,4 @@ Registration vs. Travel &amp; Lodging
 **Further reading:**
 
 - [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
-                     
-                     
+

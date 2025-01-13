@@ -86,5 +86,4 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 - Setting the stage for good behavior in your    community is crucial for fostering a positive environment. [^cmx-hub]
 [^cmx-hub]: "Beyond Guidelines: Setting the Stage for Good Behavior in Your Community," CMX Hub. Available at: [CMX Hub Article](http://cmxhub.com/article/beyond-guidelines-setting-the-stage-for-good-behavior-in-your-community/) (currently unavailable).
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
-                  
-                  
+

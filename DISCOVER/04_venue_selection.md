@@ -114,4 +114,3 @@ A note from your colleagues with hearing loss: just use a microphone already. [^
   - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
 - Ideal is to provide one well lit quiet room, and a second dimly lit room.
 - Consider "quiet areas" if a separate room is not possible.
-
