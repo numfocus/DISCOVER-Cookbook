@@ -39,6 +39,3 @@
 - [SRCCON childcare](https://web.archive.org/web/20160810112024/http://srccon.org/childcare)
 - [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
-
-
-

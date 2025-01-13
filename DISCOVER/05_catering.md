@@ -25,5 +25,3 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 
 - [Inclusive event catering](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/)
 
-
-

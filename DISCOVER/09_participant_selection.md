@@ -98,4 +98,3 @@ Encourage double-blind reviewing processes.
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
 - [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
 
-

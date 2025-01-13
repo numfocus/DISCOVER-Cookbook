@@ -7,4 +7,5 @@ If you find this Cookbook useful please support NumFOCUS and our work in these w
 * If you have a GitHub account, "star" the [repository](https://github.com/numfocus/DISCOVER-handbook) to elevate its visibility
 * Include a link on your events website to credit NumFOCUS:  `Reference:  [NumFOCUS DISCOVER Diversity and Inclusion Cookbook](https://discover-cookbook.numfocus.org)`
 * Any feedback, positive or suggestions, is welcome and can be placed under [Issues](https://github.com/numfocus/DISCOVER-handbook/issues)
+ 
                 
