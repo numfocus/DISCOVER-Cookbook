@@ -57,7 +57,6 @@
   - 🍎 List the specific amenities and what type of restroom it is. For example:
   - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" Example image from a Google Groups attachment (currently inaccessible). [^lf-source]
 [^lf-source]: Original link: [DSC_1789.JPG](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc).
-
  - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
   - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
