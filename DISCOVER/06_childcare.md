@@ -26,7 +26,7 @@
     - [Corporate Kids Events](https://conferencechildcare.com/)
    - [American Child Care, Inc.](http://www.americanchildcare.com/conventions.htm)
    - [Kiddie Corp](http://www.kiddiecorp.com/)
-   - UrbanSitter provides a platform for      finding babysitters. [^us-access]
+   - UrbanSitter provides a platform for finding babysitters. [^us-access]
    [^us-access]: The link is only accessible within the United States: [UrbanSitter](https://www.urbansitter.com/).
     - [Care.com](https://www.care.com/)
     - [Accent](http://www.accentoca.com/)
