@@ -44,7 +44,7 @@
 - [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 - [Accessibility, sensory friendliness and neurodiversity friendliness at events](https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via [@katsel](https://gist.github.com/katsel)
 - [Captioning vs Sign Language – A No Brainer?](https://therebuttal2.com/2016/01/28/captioning-vs-sign-language-a-no-brainer/)
-- [A Note From Your Colleagues With Hearing Loss: Just Use a Microphone Already](https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916)(*subscription may be required for full access*)..
+- [A Note From Your Colleagues With Hearing Loss: Just Use a Microphone Already](https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916) (*Subscription may be required for full access*)..
 - [What is a hearing loop?]( https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/)
 
 ## Bathrooms
