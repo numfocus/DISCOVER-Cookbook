@@ -23,6 +23,8 @@ html:
   use_repository_button: true
   html_in_header:
     - '<script src="_static/logo-switcher.js"></script>'
+  extra_css:
+    - _static/mainLogo.css
 
 # config sphinx tags extension
 sphinx:
