@@ -27,27 +27,9 @@ To facilitate ease of use, we have highlighted suggestions that are relatively *
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
 
-                                     |
-
-             🍎                      |                ✅
-
-        High Impact,                 |           High Impact,
-
-        Low Effort                   |           High Effort
-
-                                     |
-
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
-
-                                    |
-
-                                    |
-
-         Low Impact,                |           Low Impact,
-
-         Low Effort                 |           High Effort
-
-                                    |
+| High Impact, Low Effort 🍎 | High Impact, High Effort ✅ |
+|---------------------------|----------------------------|
+| Low Impact, Low Effort    | Low Impact, High Effort   |
 
 The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](/02_minimal_measures.md).
 

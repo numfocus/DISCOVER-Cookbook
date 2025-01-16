@@ -1,0 +1,13 @@
+[console_scripts]
+jcache=jupyter_cache.cli.commands.cmd_main:jcache
+
+[jcache.executors]
+local-parallel=jupyter_cache.executors.basic:JupyterExecutorLocalMproc
+local-serial=jupyter_cache.executors.basic:JupyterExecutorLocalSerial
+temp-parallel=jupyter_cache.executors.basic:JupyterExecutorTempMproc
+temp-serial=jupyter_cache.executors.basic:JupyterExecutorTempSerial
+
+[jcache.readers]
+jupytext=jupyter_cache.readers:jupytext_reader
+nbformat=jupyter_cache.readers:nbf_reader
+

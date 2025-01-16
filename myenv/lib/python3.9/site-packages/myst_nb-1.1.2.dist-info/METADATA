@@ -1,0 +1,103 @@
+Metadata-Version: 2.1
+Name: myst-nb
+Version: 1.1.2
+Summary: A Jupyter Notebook Sphinx reader built on top of the MyST markdown parser.
+Keywords: markdown,lexer,parser,jupyter,docutils,sphinx
+Author-email: ExecutableBookProject <chrisj_sewell@hotmail.com>
+Maintainer-email: Angus Hollands <goosey15@gmail.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing :: Markup
+Requires-Dist: importlib_metadata
+Requires-Dist: ipython
+Requires-Dist: jupyter-cache>=0.5
+Requires-Dist: nbclient
+Requires-Dist: myst-parser>=1.0.0
+Requires-Dist: nbformat>=5.0
+Requires-Dist: pyyaml
+Requires-Dist: sphinx>=5
+Requires-Dist: typing-extensions
+Requires-Dist: ipykernel
+Requires-Dist: pre-commit ; extra == "code_style"
+Requires-Dist: alabaster ; extra == "rtd"
+Requires-Dist: altair ; extra == "rtd"
+Requires-Dist: bokeh ; extra == "rtd"
+Requires-Dist: coconut>=1.4.3 ; extra == "rtd"
+Requires-Dist: ipykernel>=5.5 ; extra == "rtd"
+Requires-Dist: ipywidgets ; extra == "rtd"
+Requires-Dist: jupytext>=1.11.2 ; extra == "rtd"
+Requires-Dist: matplotlib ; extra == "rtd"
+Requires-Dist: numpy ; extra == "rtd"
+Requires-Dist: pandas ; extra == "rtd"
+Requires-Dist: plotly ; extra == "rtd"
+Requires-Dist: sphinx-book-theme>=0.3 ; extra == "rtd"
+Requires-Dist: sphinx-copybutton ; extra == "rtd"
+Requires-Dist: sphinx-design ; extra == "rtd"
+Requires-Dist: sphinxcontrib-bibtex ; extra == "rtd"
+Requires-Dist: sympy ; extra == "rtd"
+Requires-Dist: coverage>=6.4 ; extra == "testing"
+Requires-Dist: beautifulsoup4 ; extra == "testing"
+Requires-Dist: ipykernel>=5.5 ; extra == "testing"
+Requires-Dist: ipython!=8.1.0 ; extra == "testing"
+Requires-Dist: ipywidgets>=8 ; extra == "testing"
+Requires-Dist: jupytext>=1.11.2 ; extra == "testing"
+Requires-Dist: matplotlib==3.7.* ; extra == "testing"
+Requires-Dist: nbdime ; extra == "testing"
+Requires-Dist: numpy ; extra == "testing"
+Requires-Dist: pandas ; extra == "testing"
+Requires-Dist: pyarrow ; extra == "testing"
+Requires-Dist: pytest ; extra == "testing"
+Requires-Dist: pytest-cov>=3 ; extra == "testing"
+Requires-Dist: pytest-regressions ; extra == "testing"
+Requires-Dist: pytest-param-files ; extra == "testing"
+Requires-Dist: sympy>=1.10.1 ; extra == "testing"
+Project-URL: Documentation, https://myst-nb.readthedocs.io
+Project-URL: Homepage, https://github.com/executablebooks/myst-nb
+Provides-Extra: code_style
+Provides-Extra: rtd
+Provides-Extra: testing
+
+# MyST-NB
+
+[![Github-CI][github-ci]][github-link]
+[![Coverage Status][codecov-badge]][codecov-link]
+[![Documentation Status][rtd-badge]][rtd-link]
+[![PyPI][pypi-badge]][pypi-link]
+[![Conda Version][conda-badge]][conda-link]
+
+A collection of tools for working with Jupyter Notebooks in Sphinx.
+
+The primary tool this package provides is a Sphinx parser for `ipynb` files.
+This allows you to directly convert Jupyter Notebooks into Sphinx documents.
+It relies heavily on the [`MyST` parser](https://github.com/executablebooks/myst-parser).
+
+For more information, [see the MyST-NB documentation](https://myst-nb.readthedocs.io/en/latest/)
+
+## Contributing
+
+We welcome all contributions!
+See the [Contributing Guide](https://myst-nb.readthedocs.io/en/latest/reference/contributing.html) for more details.
+
+[github-ci]: https://github.com/executablebooks/MyST-NB/workflows/continuous-integration/badge.svg?branch=master
+[github-link]: https://github.com/executablebooks/MyST-NB
+[rtd-badge]: https://readthedocs.org/projects/myst-nb/badge/?version=latest
+[rtd-link]: https://myst-nb.readthedocs.io/en/latest/?badge=latest
+[codecov-badge]: https://codecov.io/gh/executablebooks/MyST-NB/branch/master/graph/badge.svg
+[codecov-link]: https://codecov.io/gh/executablebooks/MyST-NB
+[pypi-badge]: https://img.shields.io/pypi/v/myst-nb.svg
+[pypi-link]: https://pypi.org/project/myst-nb
+[conda-badge]: https://img.shields.io/conda/vn/conda-forge/myst-nb.svg
+[conda-link]: https://anaconda.org/conda-forge/myst-nb
+

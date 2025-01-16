@@ -1,0 +1,6 @@
+[console_scripts]
+sphinx-etoc=sphinx_external_toc.cli:main
+
+[jb.cmdline]
+toc=sphinx_external_toc.cli:main
+

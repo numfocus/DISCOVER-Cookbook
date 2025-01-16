@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: sphinx-thebe
+Version: 0.3.1
+Summary: Integrate interactive code blocks into your documentation with Thebe and Binder.
+Project-URL: Homepage, https://github.com/executablebooks/sphinx-thebe
+Author-email: Executable Books Team <executablebooks@gmail.com>
+Maintainer-email: Executable Books Team <executablebooks@gmail.com>
+License-Expression: MIT
+License-File: LICENSE
+Keywords: development,docutils,sphinx
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+Requires-Dist: sphinx>=4
+Provides-Extra: dev
+Requires-Dist: sphinx-thebe[testing]; extra == 'dev'
+Provides-Extra: sphinx
+Requires-Dist: myst-nb; extra == 'sphinx'
+Requires-Dist: sphinx-book-theme; extra == 'sphinx'
+Requires-Dist: sphinx-copybutton; extra == 'sphinx'
+Requires-Dist: sphinx-design; extra == 'sphinx'
+Provides-Extra: testing
+Requires-Dist: beautifulsoup4; extra == 'testing'
+Requires-Dist: matplotlib; extra == 'testing'
+Requires-Dist: myst-nb>=1.0.0rc0; extra == 'testing'
+Requires-Dist: pytest; extra == 'testing'
+Requires-Dist: pytest-regressions; extra == 'testing'
+Requires-Dist: sphinx-copybutton; extra == 'testing'
+Requires-Dist: sphinx-design; extra == 'testing'
+Description-Content-Type: text/markdown
+
+# sphinx-thebe
+
+[![Documentation](https://readthedocs.org/projects/sphinx-thebe/badge/?version=latest)](https://sphinx-thebe.readthedocs.io/en/latest/?badge=latest)
+[![PyPI](https://img.shields.io/pypi/v/sphinx-thebe.svg)](https://pypi.org/project/sphinx-thebe)
+
+Integrate interactive code blocks into your documentation with Thebe and Binder.
+
+See [the sphinx-thebe documentation](https://sphinx-thebe.readthedocs.io/en/latest/) for more details!
+
+## Install
+
+To install `sphinx-thebe` first clonse and install it:
+
+```
+pip install sphinx-thebe
+```
+
+Then, add it to your Sphinx site's `conf.py` file:
+
+```
+extensions = [
+    ...
+    "sphinx_thebe"
+    ...
+]
+```
+
+See [the sphinx-thebe documentation](https://sphinx-thebe.readthedocs.io/en/latest/) for more details!
