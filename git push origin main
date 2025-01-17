@@ -1,0 +1,3419 @@
+[33mcommit 9abc6be1f7f993aa7076794367cbe56f9c8c9af7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcreate-docs[m[33m)[m
+Author: speco29 <sdiya5556@gmail.com>
+Date:   Fri Jan 17 15:50:48 2025 +0530
+
+    creating contribution guide for the contributors to get simple guide in order to work on the project
+
+[33mcommit 3918f0f9956e2cdf3f9a9de6ac4257bd117bf3d3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: bdaa830 f76730e
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Jan 15 06:46:11 2025 -0600
+
+    Merge pull request #157 from numfocus/tkoyama010-patch-1
+    
+    update all-contributors badge to new version
+
+[33mcommit f76730eed6eb7619569f2acf83442cfb54c29f1e[m
+Author: Tetsuo Koyama <tkoyama010@gmail.com>
+Date:   Mon Jan 13 09:50:12 2025 +0900
+
+    update all-contributors badge to new version
+
+[33mcommit bdaa830e1a06d7d8de42502dc2424db1a917dcc2[m
+Merge: e010714 d116d22
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Jan 8 05:51:00 2025 -0600
+
+    Merge pull request #145 from numfocus/all-contributors/add-tkoyama010
+    
+    docs: add tkoyama010 as a contributor for doc
+
+[33mcommit d116d2264cc10137331ec3f7f8b05b8a8fe71808[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Jan 8 11:49:48 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 95b4410471087719c9552f5fa375128f072b85a9[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Jan 8 11:49:47 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit e0107146c2ff4ce33b1c4963716b494036ae5cf1[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Jan 8 05:43:10 2025 -0600
+
+    Fixes broken json
+
+[33mcommit 3be6f7afc54423f9eeadb23f632a9b3d1b665cc7[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 07:19:22 2025 -0600
+
+    Fix Ashley Otero picture
+
+[33mcommit 0dfd1d673ed686820241734003294973e9b9c5a6[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 07:16:53 2025 -0600
+
+    docs: add Ashley Otero as a contributor for ideas.
+
+[33mcommit df625c58ed7dd2c02b06b62ac0df3babfa2c4a1f[m
+Merge: 75fc901 0d05ba1
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 07:01:56 2025 -0600
+
+    Merge pull request #139 from numfocus/all-contributors/add-dedx
+    
+    docs: add dedx as a contributor for ideas
+
+[33mcommit 0d05ba1a7776866f33453ee2c0cdcca6ea41ac5a[m
+Merge: 9d6c3ac 75fc901
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 07:01:48 2025 -0600
+
+    Merge branch 'main' into all-contributors/add-dedx
+
+[33mcommit 75fc9018742f416ead44d53c833f847de2cb63e5[m
+Merge: ec1a50f 68153bb
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 07:00:33 2025 -0600
+
+    Merge pull request #138 from numfocus/all-contributors/add-tnabtaf
+    
+    docs: add tnabtaf as a contributor for ideas
+
+[33mcommit ec1a50fbbdc4f31e04284ccfa9b409421ea093e7[m
+Merge: 92f36a9 4804cc2
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 06:56:17 2025 -0600
+
+    Merge pull request #140 from numfocus/all-contributors/add-sarahsupp
+    
+    docs: add sarahsupp as a contributor for ideas
+
+[33mcommit 4804cc23e1367107c29997181edc5b1b5bbbf12c[m
+Merge: 36fea34 92f36a9
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 06:55:56 2025 -0600
+
+    Merge branch 'main' into all-contributors/add-sarahsupp
+
+[33mcommit 92f36a90d15a7516d7d76e5c84b269d7d7ba098f[m
+Merge: 1952b6c c2ef4d4
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 06:53:03 2025 -0600
+
+    Merge pull request #141 from numfocus/all-contributors/add-rgaiacs
+    
+    docs: add rgaiacs as a contributor for ideas
+
+[33mcommit c2ef4d412dcd34305ee945e7da1614e1b4d8bde5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:52:23 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 8e8ec91fea1925677a3534ed2d7ab95a0214e17b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:52:22 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit 36fea34869b06b5ca5ffdfe94331083171503c47[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:51:34 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit e65e23caeae54143ca4370b483ef6e5da21cea33[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:51:33 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit 9d6c3ac160a90727005b8dd2569f86e3b0586960[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:46:22 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 4cf322c9245a48b4ee0e5e16ff839058c6484531[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:46:22 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit 68153bb51792d543b2d90deeb6ad5c149caac5d1[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:44:46 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit d9960664073eb9fb818dd425ecd5007512a47571[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:44:45 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit 1952b6c6732fe4c992295c7615a8ab8bd5d522d1[m
+Merge: 75c0f66 954b5b6
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 06:41:51 2025 -0600
+
+    Merge pull request #137 from numfocus/all-contributors/add-trallard
+    
+    docs: add trallard as a contributor for ideas
+
+[33mcommit 954b5b6db1f735660a0814f53d321d54419f1611[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:40:27 2025 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 7d579cd7102594de97c39b8ad8cb2118c01943c2[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 12:40:26 2025 +0000
+
+    docs: update README.md [skip ci]
+
+[33mcommit 75c0f66027e3287ae2cfaa8de50043de20c1913a[m
+Merge: 8576d07 fc00f8a
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Tue Jan 7 06:38:09 2025 -0600
+
+    Merge pull request #136 from numfocus/tkoyama010-patch-1
+    
+    Create CODE_OF_CONDUCT.md
+
+[33mcommit fc00f8ae91dce792159c8844ad82925323888214[m
+Author: Tetsuo Koyama <tkoyama010@gmail.com>
+Date:   Tue Jan 7 01:58:30 2025 +0900
+
+    Create CODE_OF_CONDUCT.md
+
+[33mcommit 8576d07febabe488339502e50873e707e11a2de5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:46:04 2025 +0900
+
+    docs: add noatamir as a contributor for maintenance (#135)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit c75c011205831cce37949b1190c3c0acc8ad8d16[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:45:04 2025 +0900
+
+    docs: add terezaif as a contributor for ideas (#134)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+    Co-authored-by: Tetsuo Koyama <tkoyama010@gmail.com>
+
+[33mcommit 0bcbee3bbb342d9429e75047bbbbb812c2f85f5c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:41:19 2025 +0900
+
+    docs: add choldgraf as a contributor for ideas (#133)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 191b3523f081f15557a51d009159ca9159a5a4ad[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:39:52 2025 +0900
+
+    docs: add oxinabox as a contributor for ideas (#132)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 7cab4fb8f60bf177412a7c9066cc676b5ebda0fb[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:38:28 2025 +0900
+
+    docs: add katsel as a contributor for ideas (#131)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 52880d216f5132a0a4ab95cc790bbcb2eaff32a3[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:37:17 2025 +0900
+
+    docs: add reshamas as a contributor for ideas (#130)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit e3275c4f6a397b1bc61863c31ff67834767ccc02[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:35:52 2025 +0900
+
+    docs: add ashleymaguire as a contributor for ideas (#129)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 4d919c26cc3750853652383556d37535c966656b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:34:07 2025 +0900
+
+    docs: add tnabtaf as a contributor for maintenance (#128)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+    Co-authored-by: Tetsuo Koyama <tkoyama010@gmail.com>
+
+[33mcommit 32c66a526fecd48b47c73735acb5e3a1fbc5d19f[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:31:55 2025 +0900
+
+    docs: add ashleymaguire as a contributor for maintenance (#127)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 328b616b4ada35827614fe6d3036ae9fb0292ed5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:29:24 2025 +0900
+
+    docs: add tnabtaf as a contributor for doc (#126)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit e5374499f56b9035a311f3f3a0ecfd6173dc3aa5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:26:56 2025 +0900
+
+    docs: add munkm as a contributor for ideas (#125)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 0241c35065901aa504dcb7d6bad4fc041d95cc46[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:25:47 2025 +0900
+
+    docs: add terezaif as a contributor for maintenance (#124)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 58d64044185be1081876398876dcaa647d67e68f[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:23:24 2025 +0900
+
+    docs: add reshamas as a contributor for doc (#123)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 591642565f9103aec57a99221477a8bcb69bc23b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:21:53 2025 +0900
+
+    docs: add Akhil-Jasson as a contributor for doc (#122)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 85646214e2f3828270714e900567a5af2e3d6d0b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:20:15 2025 +0900
+
+    docs: add Kmwai as a contributor for doc (#121)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 696d2c317aaf1ef82f9aad536e39bf2d75fde9a1[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:18:36 2025 +0900
+
+    docs: add discover-cookbook as a contributor for doc (#120)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 47f3a9536e93541a9194f236470a7c73e708d3fe[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:17:30 2025 +0900
+
+    docs: add kasiarachuta-zz as a contributor for ideas (#119)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit fb4c9059a9d849e9db0409fc8598d3c9f0aeb4a8[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:15:34 2025 +0900
+
+    docs: add Dr-G as a contributor for review (#118)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit f377e5f7024470ab27139987a7efc966ad7c790a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:11:44 2025 +0900
+
+    docs: add kafui4k as a contributor for ideas (#117)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit d55a238a3013e978dd6941792408244616a8709a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:10:40 2025 +0900
+
+    docs: add Jeffrin2005 as a contributor for doc (#115)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 2e94546fed694d0c6e7520f42baa4653405320e2[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:08:19 2025 +0900
+
+    docs: add aterrel as a contributor for review (#112)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit dfbd241feb89b5a4af880fb2c973de9a521e88d5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:06:34 2025 +0900
+
+    docs: add SalmanDeveloperz as a contributor for doc (#114)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit a4273770133d37a9c06a0ca2cc28901d6b6fb328[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:03:24 2025 +0900
+
+    docs: add mikofski as a contributor for review (#111)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit cc8fa4c72629894a451708a0b27181ac532b6e08[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 01:02:04 2025 +0900
+
+    docs: add noatamir as a contributor for ideas (#110)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit e6acb1b1633a129b4ccd09014d996accf883ad0e[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:59:18 2025 +0900
+
+    docs: add tkoyama010 as a contributor for maintenance (#109)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 5c2d07e22834e99fc7cbd45a771ff260670f3dd1[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:58:01 2025 +0900
+
+    docs: add ashleymaguire as a contributor for doc (#108)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit a600a5398be0ec4dfb32d3da05e725da1ecf76ec[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:56:47 2025 +0900
+
+    docs: add kasiarachuta as a contributor for doc (#107)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 8ef6c7fb961d5b175779ab4f9d27f084050bd825[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:54:36 2025 +0900
+
+    docs: add mikofski as a contributor for doc (#106)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 425071119ef6d3b0badbf9549034e2e6998a2fc5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:52:20 2025 +0900
+
+    docs: add mikofski as a contributor for ideas (#105)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 47614d3b54769afcd916e125c763c5c3ed2b650c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:50:36 2025 +0900
+
+    docs: add mikofski as a contributor for maintenance (#104)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 3faaa22c130123645e76a5cc2169757e41942d5f[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:49:00 2025 +0900
+
+    docs: add Dr-G as a contributor for ideas (#103)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 88e8bd7101f3eca1f935df527e98465c31d62e49[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:47:41 2025 +0900
+
+    docs: add trallard as a contributor for maintenance (#102)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 62e57f8b1edeaeab8dc7464619199e94cfbe4789[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:46:32 2025 +0900
+
+    docs: add Dr-G as a contributor for doc (#101)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 40edca779dbf377486e5d0be965932baa0e3b1e2[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:44:28 2025 +0900
+
+    docs: add noatamir as a contributor for review (#100)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 183cb80589bbdceb907f43f28ede26e8832680e4[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:43:18 2025 +0900
+
+    docs: add terezaif as a contributor for doc (#99)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit bfa2bbcbb38f75d51275574ac8476f00705cf34b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:41:07 2025 +0900
+
+    docs: add Gina as a contributor for doc (#98)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 6c656c99e058ce3d4e6fa9d99a6eaf31cd1325e1[m
+Author: Tetsuo Koyama <tkoyama010@gmail.com>
+Date:   Tue Jan 7 00:39:10 2025 +0900
+
+    Set Bot configuration `contributorsSortAlphabetically` True (#97)
+
+[33mcommit 5287302521f802d3258fed287ca42c6fe858b099[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:37:06 2025 +0900
+
+    docs: add oxinabox as a contributor for doc (#96)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit a6ed57dda9885cd6e40376e6936365a28287ce2c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:36:13 2025 +0900
+
+    docs: add Dr-G as a contributor for maintenance (#95)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit d98760d13441b05af456345ef9841d9725e7c5ce[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:33:57 2025 +0900
+
+    docs: add Oloni as a contributor for doc (#94)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 073e1d521960aa6ed28b1379317aae3755d15ef2[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:30:34 2025 +0900
+
+    docs: add bozicb as a contributor for doc (#93)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 4bb003838fb33a8e3697d0b5c1d7478ad285ff5c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:24:52 2025 +0900
+
+    docs: add tkoyama010 as a contributor for question (#91)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit 826674675fd5600de0e5154aba39de1e208552fa[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jan 7 00:20:10 2025 +0900
+
+    docs: add aterrel as a contributor for ideas (#90)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: create .all-contributorsrc [skip ci]
+    
+    ---------
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+[33mcommit fe62fb3fc2579dc749fe31074490cfc86d540824[m
+Merge: 7c685b4 f1d64da
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:32:25 2024 -0600
+
+    Merge pull request #66 from numfocus/langauageTool
+    
+    Checking readability with LanguageTool (WIP)
+
+[33mcommit f1d64da22ea7e4929d41ef2c2b80c93cf3b57141[m
+Merge: db4c495 7c685b4
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:28:59 2024 -0600
+
+    Merge remote-tracking branch 'numfocus/main' into langauageTool
+
+[33mcommit 7c685b4061e444932b7235d2dd56ded2724e5ba4[m
+Merge: 7dfeec9 91d6527
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:08:16 2024 -0600
+
+    Merge pull request #73 from SalmanDeveloperz/fix-typo-issue-63
+    
+    Fix issue #63: Improve tone and fix typo in 02_minimal_measures.md
+
+[33mcommit 7dfeec9d0638aa78f9499c8f8f19df009bbb051b[m
+Merge: 9a6ef8e 031006f
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:07:18 2024 -0600
+
+    Merge pull request #77 from Akhil-Jasson/74-Install-Instructions-need-more-detail
+    
+    #74 Issue: Update README with Instructions for Installing Dependencies for Local Setup
+
+[33mcommit 9a6ef8e07c16496ebf3a6757ba71e489cde6fd31[m
+Merge: b1cb4f9 c2e9dcb
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:04:51 2024 -0600
+
+    Merge pull request #78 from aterrel/76-py13-support
+    
+    Updates github builder to 3.13
+
+[33mcommit c2e9dcb17a064ff1ca69d7bcb6f7781080b908ab[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Thu Dec 26 07:03:51 2024 -0600
+
+    Downgrades build action python version
+
+[33mcommit 031006fffe45d8e05d56c0387e3935cd3e93a74a[m
+Author: Akhil-Jasson <akhilinian@gmail.com>
+Date:   Wed Dec 25 23:29:24 2024 +0530
+
+    Update README to Ensure Instructions Align with CI/CD Tested Method
+    
+    This commit updates the README.md to align the setup instructions with the CI/CD-tested method, ensuring that the instructions are easier to maintain and do not require manual updates every time dependencies change.
+
+[33mcommit 95f43536b9d17cfbe13546c6c836931788e95121[m
+Merge: 61a9263 b506671
+Author: Akhil-Jasson <akhilinian@gmail.com>
+Date:   Wed Dec 25 23:22:59 2024 +0530
+
+    Merge branch '74-Install-Instructions-need-more-detail' of https://github.com/Akhil-Jasson/DISCOVER-Cookbook into 74-Install-Instructions-need-more-detail
+
+[33mcommit 61a92637cf8febeea3e0a1b93f8fdd02e8885d3f[m
+Author: Akhil-Jasson <akhilinian@gmail.com>
+Date:   Wed Dec 25 23:21:19 2024 +0530
+
+    Update README to Ensure Instructions Align with CI/CD Tested Method
+    
+    This commit updates the README.md to align the setup instructions with the CI/CD-tested method, ensuring that the instructions are easier to maintain and do not require manual updates every time dependencies change.
+
+[33mcommit 8a50d68f4cdb3a1ea029b5cd7d92b31ba08d1f9f[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Dec 25 08:30:00 2024 -0600
+
+    Update failing workflow to manual
+
+[33mcommit 025c1d4325685a918566bbda9e18c032ea4136a3[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Dec 25 08:21:01 2024 -0600
+
+    Use python 3.12.8, update preview file as well
+
+[33mcommit 5a5014f7e5e60870507f7d11cc774c6b18a0e020[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Dec 25 07:11:52 2024 -0600
+
+    Updates github builder to 3.13
+
+[33mcommit b50667116eec9b617c8d634ed08e608462d29979[m
+Author: Akhil-Jasson <akhilinian@gmail.com>
+Date:   Tue Dec 24 03:09:09 2024 +0530
+
+    Update README with Instructions for Installing Dependencies for Local Setup
+    
+    This pull request updates the README.md to provide clearer instructions for setting up the Jupyter Book locally. The following changes were made:
+    
+    - Clarified that users need to install both jupyter-book and sphinx-tags dependencies to run the book locally.
+    
+    - Added installation instructions for both pip and Conda.
+
+[33mcommit 91d652792f69b40c889b59b0a898e5688294a569[m
+Author: code2x <chmsalman199@gmail.com>
+Date:   Mon Dec 23 15:26:22 2024 +0500
+
+    Updated changes based on review feedback
+
+[33mcommit b1cb4f9e0ae010aaa27404163b9219bf9dabda9d[m
+Merge: 4799120 6cf39c2
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Sun Dec 22 15:02:35 2024 -0600
+
+    Merge pull request #65 from numfocus/check-markdown-links
+    
+    Create checklink.yml
+
+[33mcommit 47991204a63ae1a185a5472a97a6334748e3d65a[m
+Merge: d45d24f bd6d5a1
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Sun Dec 22 14:52:47 2024 -0600
+
+    Merge pull request #71 from Jeffrin2005/issue-69-fix
+    
+    Fix Issue #69 - Correct Typo in About Section
+
+[33mcommit 85f0c930225219e09f53a5ffc276b1297062a2e1[m
+Author: code2x <chmsalman199@gmail.com>
+Date:   Thu Dec 19 22:09:16 2024 +0500
+
+    fix-typo-issue-63
+
+[33mcommit bd6d5a189ae342f4323f8293e74d8db0a6fcb655[m
+Author: Jeffrin Jojo <135723871+Jeffrin2005@users.noreply.github.com>
+Date:   Tue Nov 19 21:31:30 2024 +0530
+
+    Fix Issue #69: Correct typo in About section
+
+[33mcommit d45d24f2b4a5486b7f485eda151ea78903c38f9b[m
+Merge: c215e8f 359ba12
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon May 15 22:59:34 2023 -0700
+
+    Merge pull request #67 from numfocus/55-add-summaries-at-the-beginning-of-each-page-tldr-style
+    
+    55 add summaries at the beginning of each page tldr style
+
+[33mcommit 359ba12cb36cd41e7162054ddc93df4bc43e4c42[m
+Author: Tereza Iofciu <tereza@macbook>
+Date:   Mon May 8 18:55:54 2023 +0200
+
+    tldr minimal measures
+
+[33mcommit 6cf39c27c96751cbf936f79d3c19ef8dcf606bd8[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon May 8 09:55:51 2023 -0700
+
+    move checklink to .github/workflows
+
+[33mcommit a1031fc660dbcd50c23c7bac6d26a6939d574d08[m
+Author: Tereza Iofciu <tereza@macbook>
+Date:   Mon May 8 18:43:26 2023 +0200
+
+    tldr about
+
+[33mcommit c215e8ff2f2049a9d80c99b82731ce0ff823d1a9[m
+Merge: 585955e 3d4b779
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Tue Mar 14 08:24:53 2023 -0700
+
+    Merge pull request #64 from numfocus/mikofski/remove_glossary_gh61
+    
+    remove glossary
+
+[33mcommit db4c4954c251ce49c4ff11c636b08b24b22ade22[m
+Author: noatamir <6564007+noatamir@users.noreply.github.com>
+Date:   Mon Mar 13 19:08:35 2023 +0100
+
+    corrections
+
+[33mcommit 3d4b779f05e172ffdeb9f1e4fcf6b49d3a90db25[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Mar 13 11:07:10 2023 -0700
+
+    Delete 13_taxonomy.md
+    
+    this file was replaced by the sphinx-tags extension so not necessary any longer
+
+[33mcommit b844e0c102a7481e5ed0d4739c5593b3f9b4413a[m
+Author: Tereza Iofciu <6162692+terezaif@users.noreply.github.com>
+Date:   Mon Mar 13 18:24:49 2023 +0100
+
+    Create checklink.yml
+    
+    https://github.com/marketplace/actions/markdown-link-check
+
+[33mcommit fae13d126f0f54f174bdbb7381c659cbaaf26dc1[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Mar 13 10:21:36 2023 -0700
+
+    remove taxonomy page from toc
+    
+    * closes #61
+
+[33mcommit 585955ef00d7b78864b2c1bb9750eec92e9a56ed[m
+Merge: 5f48987 feed447
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Mar 13 10:11:58 2023 -0700
+
+    Merge pull request #60 from numfocus/issue-49-rethink-tags
+    
+    use Sphinx-Tags and replace Taxonomy page
+
+[33mcommit feed447204e9bea3d10b3a905efaaebc5813e925[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Fri Feb 10 13:08:42 2023 -0800
+
+    apply Melissa's suggestions, supress toctree warning, rm _tags/*
+
+[33mcommit 22bf99da71d931932ecaf950e7d643389f96bc6e[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Feb 9 02:43:20 2023 -0800
+
+    update tags on 11_checkin and change glossary label
+
+[33mcommit ed631b309bcc93c9ea72ee5d6bd7736b7721af8f[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Feb 9 02:29:55 2023 -0800
+
+    update tags on 10_registration
+
+[33mcommit d02c657c0871b79dc9e4bf63f804cccf81e7d09d[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Feb 9 02:21:27 2023 -0800
+
+    update tags in 08_grants and 09_participants
+    
+    Signed-off-by: Mark Mikofski <bwana.marko@yahoo.com>
+
+[33mcommit f022e5092eb293627559bfcc2a71f515721223d9[m
+Merge: 99e75f2 5f48987
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Feb 9 02:06:46 2023 -0800
+
+    Merge branch 'main' into issue-49-rethink-tags
+
+[33mcommit 99e75f24a3f0146fb70f9e6e99e3e742b065c940[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Feb 9 01:39:54 2023 -0800
+
+    tags on catering, childcare, CoC
+
+[33mcommit 5f48987b69a3c56de791b4657d4b55aadc92f462[m
+Merge: 09159c8 674ebe6
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Thu Feb 9 01:27:04 2023 -0800
+
+    Merge pull request #58 from numfocus/issue-50-remove-jekyll-tags
+    
+    migrate jekyll metadata to JBook
+
+[33mcommit 674ebe61ad828e00c35b12ec91024f81dec2e6b8[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Tue Feb 7 09:17:30 2023 -0800
+
+    Update DISCOVER/13_taxonomy.md
+    
+    replace taxonomy header with glossary
+    
+    Co-authored-by: Tereza Iofciu <6162692+terezaif@users.noreply.github.com>
+
+[33mcommit c84d54ed843eb1a85ba1089a921d58da7519b214[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 14:41:21 2023 -0800
+
+    move tags to top of venue page
+
+[33mcommit 00c0ef6800c79a9b7de2c6f1bcfad05dadcbf381[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 14:31:20 2023 -0800
+
+    add sphinx-tags to gh workflows
+
+[33mcommit e192c74a078b25db67a12bbfa1ac89cc959659ab[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 14:04:37 2023 -0800
+
+    use Sphinx-Tags
+    
+    - gitignore _tags generated output
+    - replace html with tagsline from Organizing Committee page to use
+      {tags} role from sphinx-tag at top-level before titles and section
+      hearders
+    - ditto for venue selection page, collapse and consolidate all tags from
+      subsections to top-of-page, remove any redundancy
+    - update environment.yml to include sphinx-tags
+
+[33mcommit 1eab27e5e919b4f2f0e5530b4d07a8d93b7f3b31[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 11:54:35 2023 -0800
+
+    fix link to event registration from assessment page
+
+[33mcommit 4b10f91c9c4ab83994ffe4af4a2c9584030d2676[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 11:39:00 2023 -0800
+
+    replace Jekyll front matter with JBook labels
+    
+    - addresses #50
+    - venue_selection_and_on-site_services
+    - catering
+    - childcare
+    - code_of_conduct
+    - grants_scholarships
+    - participant_and_speaker_selection
+    - event_registration
+    - inclusive_practices_during_check-in
+    - assessment_of_the_event
+    - taxonomy changed to topics
+    - how_to_contribute
+
+[33mcommit 391a5f2cfd808cd4669392fe3cde009a9c5d2328[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Mon Feb 6 11:25:21 2023 -0800
+
+    fix jbook labels syntax
+
+[33mcommit 6b1481c973901034e11aee9e64b9e686556f1266[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Feb 6 11:10:26 2023 -0800
+
+    replace Jekyll metadata with JBook label
+    
+    - addresses #50
+    - should we use hyphens/dashes or underscores in labels? using underscores for now to match file name convention
+    - using lower case
+    - this page is referenced from `02_minimal_measures.md` using same name as section heading, so could use the `{ref}` role and drop the alternate text b/c it's identical to the section title, but not necessary
+
+[33mcommit aec5b50219963a8f910642dc770070315ff1afae[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Feb 6 11:04:21 2023 -0800
+
+    use lower case for cross reference labels in About
+
+[33mcommit 8841ae0783ec4f6e66cca8cf6388c3111e2b2e66[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Feb 6 11:03:52 2023 -0800
+
+    delete Jekyll metadata from 02_minimal_measures
+    
+    - addresses #50
+    - let's use lower case for all labels, should I add something to contribution guide? Is there a contribution guide?
+
+[33mcommit d3f2f5ead35ebfcc878fbe134c81b1049bae1595[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Feb 6 10:56:35 2023 -0800
+
+    delete jekyll metadata from Intro
+    
+    * addresses #50
+    * note there is a hyperlink to the about page on L12: `[here](/01_about.md)`, but it uses markdown which JBook recognizes as a `{doc}` role, so no change needed
+
+[33mcommit fd4bba8452842a0b0934b3993a755bb68963df38[m
+Author: Mark Mikofski <mikofski@berkeley.edu>
+Date:   Mon Feb 6 10:50:44 2023 -0800
+
+    delete jekyll metatags from About
+    
+    * closes #50
+    * add JBook section label (sorta unnecessary)
+
+[33mcommit 09159c8d8e25c90e172b3f163420b5a9f11f1621[m
+Author: Mark Mikofski <bwana.marko@yahoo.com>
+Date:   Thu Jan 5 13:17:01 2023 -0800
+
+    migrate DISCOVER cookbook from Jekyll to JupyterBook
+    
+    * make a new "main" branch on DISCOVER-Cookbook from master to maintain
+      history
+    * copy changes from DISCOVER-handbook repo to new "main" branch
+    * update Jupyterbook .config file to point repo links to Cookbook
+    * force push to GitHub (fingers crossed)
+
+[33mcommit 57dec362c79d7c26c6351147a9e3650639e8c2a0[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue May 28 14:10:14 2019 -0500
+
+    Update README.md
+    
+    add link to website
+
+[33mcommit e09ab89690c718bf5026cdb393743b8a2949b3b6[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 16:54:01 2019 -0500
+
+    Dr g patch 5 (#33)
+    
+    * Update 10_event_registration.md
+    
+    add resources on asking demographics questions
+    
+    * Update 12_assessment.md
+    
+    add link to Demographic Info section
+
+[33mcommit 247e76c49d4b1b9440cc3da86b645100d4af5da4[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 15:50:15 2019 -0500
+
+    Update 04_venue_selection.md (#32)
+    
+    * Update 04_venue_selection.md
+    
+    Add resources and suggestions from #25
+    
+    * Update 04_venue_selection.md
+    
+    add information on hearing loops
+    
+    update section heading to focus on "create access" rather than "disability"
+
+[33mcommit 05a1dc90caece0248c78ffa676127e571474641e[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 15:31:12 2019 -0500
+
+    Update 04_venue_selection.md
+    
+    add example of daily prayer for Muslims, add prayer to main title of Quiet Room section
+
+[33mcommit 0f0bbc073d1dbb5013c98fbbe1bf5b007fafe574[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 15:18:22 2019 -0500
+
+    Dr g patch 3 (#31)
+    
+    * Update 03_organizing_committee.md
+    
+    add detail re: organizing committee diversity from https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf
+    
+    * Update 03_organizing_committee.md
+    
+    add further information from CRA-W Best Practices: Guidelines in Running an Inclusive Conference
+    
+    * Update 03_organizing_committee.md
+    
+    add info re: training your organizing committee members
+    
+    * Update 03_organizing_committee.md
+    
+    Move checkmark to appropriate section now that it is longer.
+    
+    * Update 09_participant_selection.md
+
+[33mcommit c0c14e1f67e3a4e43468ea276f3123a59a3a34e2[m
+Merge: a96e1ae fb8c983
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 11:25:44 2019 -0500
+
+    Merge pull request #30 from numfocus/Dr-G-patch-2
+    
+    Update 04_venue_selection.md
+
+[33mcommit fb8c98368864f5fe386c17545fbeb29b513bbdf5[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 11:25:33 2019 -0500
+
+    Update 04_venue_selection.md
+    
+    add more specific instructions re: how to label bathrooms at conferences
+
+[33mcommit a96e1ae40b1c4c98cba5ddd43d3e05f8f5e4dd95[m
+Merge: 76a925a e20198b
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 10:39:27 2019 -0500
+
+    Merge pull request #26 from oxinabox/patch-4
+    
+    Add about large print
+
+[33mcommit 76a925a720d258a3b95a238a3d5a7c2b21446e0a[m
+Merge: 83fa5d4 e25052f
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 10:28:59 2019 -0500
+
+    Merge pull request #29 from numfocus/Dr-G-patch-1
+    
+    Update 09_participant_selection.md
+
+[33mcommit e25052f6761241c0ecf488e3055da119a5a87ca3[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri May 24 10:28:40 2019 -0500
+
+    Update 09_participant_selection.md
+    
+    Add resource: Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon
+
+[33mcommit 83fa5d45ec28176f92ce948f979e359677438994[m
+Merge: efb125f 378720e
+Author: Madicken Munk <madicken.munk@gmail.com>
+Date:   Tue Apr 30 22:26:21 2019 -0500
+
+    Merge pull request #24 from oxinabox/patch-3
+    
+    Fix broken internal links in README.md
+
+[33mcommit e20198ba1d66cc6ed59a5ef715bbfb75a0b1ca2e[m
+Author: Lyndon White <oxinabox@ucc.asn.au>
+Date:   Sun Apr 21 09:49:38 2019 +0100
+
+    add about large print
+
+[33mcommit 378720e94d840d735b3dcfd54d4bc36b7c6bdef6[m
+Author: Lyndon White <oxinabox@ucc.asn.au>
+Date:   Sun Apr 21 09:16:14 2019 +0100
+
+    Fix broken internal links in README.md
+
+[33mcommit efb125f7378bf459c1044ed7aec2a4ec8da13c51[m
+Author: Reshama Shaikh <reshama.shaikh@gmail.com>
+Date:   Mon Mar 4 18:11:10 2019 -0500
+
+    added CoC reminders
+    
+    added the following.  credit to O'Reilly Media at their recent Software Architecture conference:
+     - 🍎 Place Code of Conduct reminders on tables at lunch and also signs in rooms reminding people during the day
+     - 🍎 Create a large banner sign at key entrances on the Code of Conduct as a reminder.
+    
+    @Dr-G
+
+[33mcommit f15f1861c421877774d5cb7c5daff4bb29fc7e05[m
+Author: Reshama Shaikh <reshama.shaikh@gmail.com>
+Date:   Mon Mar 4 18:05:25 2019 -0500
+
+    added Feedback section
+    
+    @Dr-G
+
+[33mcommit 07d1f6fdeee6a613d3d59db2d50ed9bd88b6b365[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Wed Feb 27 09:49:30 2019 -0600
+
+    Update index.md
+    
+    update PR link
+
+[33mcommit e5f75465b4b0408ca10e0c8e5012f39356afb91f[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Wed Feb 27 09:37:05 2019 -0600
+
+    Update index.md
+    
+    added missing period.
+
+[33mcommit 59b5fc36d1f3333a13d041fb736f243d36fa3272[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Wed Feb 27 09:36:03 2019 -0600
+
+    Update index.md
+    
+    add links to PR and issues
+
+[33mcommit bbbf1016b2b94ee6f44ac334b175e4e53c082016[m
+Author: Andy R. Terrel <andy.terrel@gmail.com>
+Date:   Wed Feb 27 04:59:59 2019 -0800
+
+    Create CNAME
+
+[33mcommit b47b350028addcf56698ef440e30ccd80e469b1c[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Nov 25 16:44:43 2018 +0000
+
+    "rule of thumb"
+    
+    substituted by "general rule"
+
+[33mcommit a035ce4a4ce0f710bdeacdb888ad97d06d1a162f[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:24:31 2018 +0000
+
+    fixed typos
+
+[33mcommit 5c8e74ce28962bab81cd1608a0b00584e7291cfa[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:23:44 2018 +0000
+
+    fixed typos and added link...
+    
+    ... back to home page
+
+[33mcommit 0d2b2d42b4c1f43eb248182c7020955a71ff81c7[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:17:29 2018 +0000
+
+    fixed link
+
+[33mcommit 2d5f6d59b2fb76c012b9990038321d135fc3e7b7[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:09:06 2018 +0000
+
+    took out storify link
+    
+    .. doesn't work anymore since storify has been discontinued
+
+[33mcommit 467b037f844f99d789f5fb200ca15ba087a6be08[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:05:25 2018 +0000
+
+    added links to next section...
+    
+    and previous section at the bottom
+
+[33mcommit 84c15f94c588f976d981eb309a713a2fdfa51647[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 13:03:15 2018 +0000
+
+    updated links at bottom
+
+[33mcommit 9f8a9271420305e87de9c88616bb5e79efeebb55[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Oct 28 12:56:05 2018 +0000
+
+    fixed typo
+
+[33mcommit da542742c7d28c83e03ae0f4ab73d9d100f9e436[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:27:42 2018 +0100
+
+    Update sidebar.html
+
+[33mcommit e8b3c891e8c5b840212567ee96be160a9b2d4e4d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:21:35 2018 +0100
+
+    Update 12_assessment.md
+
+[33mcommit 6a275e49dbfbde97b281155fbc97bdf80d60eb16[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:21:09 2018 +0100
+
+    Update 11_inclusive_practices_during_checkin.md
+
+[33mcommit c7b24f5c5c9e40ede29acf099699b1d59a619eb9[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:14:09 2018 +0100
+
+    Update 10_event_registration.md
+
+[33mcommit 37ef22a3506b5cd76c4bae510515b6fbd06d56cf[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:10:34 2018 +0100
+
+    Update 09_participant_selection.md
+
+[33mcommit 6fbbbbec607b034890cd1ff7911ed8dff0ef41a8[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:05:51 2018 +0100
+
+    Update 08_grants_scholarships.md
+
+[33mcommit 2095cf0d6faf6da402daffe5aa6684107874df49[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 14:03:24 2018 +0100
+
+    Update 07_code_of_conduct.md
+
+[33mcommit 2a6f5680999d37cdd9ab0179be301d70067119a5[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:38:01 2018 +0100
+
+    Update 06_childcare.md
+
+[33mcommit 45142b2aac612f01a5ff9fcf2571b3dd48a2ff1d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:34:49 2018 +0100
+
+    Update 05_catering.md
+
+[33mcommit 6bf89f1b76293d8d79c534e94e812cd0be96489f[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:34:00 2018 +0100
+
+    Update 04_venue_selection.md
+
+[33mcommit 23553a35773bd8c6228d8e8d0b8cb7cecfb58241[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:26:06 2018 +0100
+
+    Update 03_organizing_committee.md
+
+[33mcommit 975f2dab87b46024506d7f1783cad4a0ce1e73f1[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:24:07 2018 +0100
+
+    Update 02_minimal_measures.md
+
+[33mcommit 07680d947f255513cf9e84b90cd794d641ea49ff[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:18:15 2018 +0100
+
+    Update 01_about.md
+
+[33mcommit 231f1ae09420f96564ff66189866cd2e0402ca9d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:14:48 2018 +0100
+
+    Update 03_organizing_committee.md
+
+[33mcommit d3243efe39a86e143b6ef89a428f0c0f63779ef3[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:13:04 2018 +0100
+
+    Update 02_minimal_measures.md
+
+[33mcommit cdbd554c0b148e40f3fb5940b14a75ee663c179e[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:10:35 2018 +0100
+
+    Update sidebar.html
+
+[33mcommit 45b5a2d72c73e6dec7e61a47b4996949a5de64dd[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:10:02 2018 +0100
+
+    Update head.html
+
+[33mcommit 7c4a2bfdb600252157d4ff8c8abbb20d99e9c169[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 13:06:26 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 022a8e495c1df165bed975b113b5d1d1597214a9[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:58:10 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 08749e1671d47887557109af871169d2501bb83c[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:57:57 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 7fbce8dec1c6d8c3182808f2e310578e360b511c[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:54:49 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 3916d30231b8c872858ac91d4929806eb400f0f5[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:45:11 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 4591128ea0892f2e804729551e1eb705f53b38d4[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:40:52 2018 +0100
+
+    Update 02_minimal_measures.md
+
+[33mcommit 82bba7caa399b707f6fabcbe010c0b28f6dadb9d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:34:40 2018 +0100
+
+    Update _config.yml
+
+[33mcommit bf39354fa582e23523294ac3bc0be5a8282d0e02[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:33:22 2018 +0100
+
+    Update 03_organizing_committee.md
+
+[33mcommit 56c646b1c7e76fc94e292dbdb4c92c0f01144e06[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:27:36 2018 +0100
+
+    broken links fix attempt 3
+
+[33mcommit e569b2adef606a2c0a85f9ebe080756ec4b8eeed[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 12:23:24 2018 +0100
+
+    broken links fix attempt 2
+
+[33mcommit 666a38b9de7b2af2cf2d649845351b22d55a7744[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:42:12 2018 +0100
+
+    some links fixed
+
+[33mcommit 9795bc21a3bd8c3091ad9c19e8d8238a73f3adda[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:39:25 2018 +0100
+
+    links fixed
+
+[33mcommit 4a96712d79a553327980524799ba0afac33c66b4[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:34:19 2018 +0100
+
+    Update index.md
+
+[33mcommit 26df7341e42c16f9b3761f35659b0d45d34f1964[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:28:41 2018 +0100
+
+    Rename taxonomy.md to 13_taxonomy.md
+
+[33mcommit 803ac49d3372b788419d8c9d54b58fb02e4f05be[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:27:38 2018 +0100
+
+    Rename assessment.md to 12_assessment.md
+
+[33mcommit 17b315b4d78943a0aac308ca699af77c5f6ed9d7[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:26:53 2018 +0100
+
+    Rename inclusive_practices_during_checkin.md to 11_inclusive_practices_during_checkin.md
+
+[33mcommit ff7d1576ced4f258f6a8d01aaafed42a6e0db835[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:26:16 2018 +0100
+
+    Rename event_registration.md to 10_event_registration.md
+
+[33mcommit 167f2c4165722067154ae1c821425cb10bf77e39[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:22:50 2018 +0100
+
+    Rename participant_selection.md to 09_participant_selection.md
+
+[33mcommit 589ce88d537294f700dfeb935d700a5c0c3d51fb[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:20:14 2018 +0100
+
+    Rename grants_scholarships.md to 08_grants_scholarships.md
+
+[33mcommit 51e3a8fff0054c1137904d767e66e42228817172[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:19:00 2018 +0100
+
+    Rename code-of-conduct.md to 07_code_of_conduct.md
+
+[33mcommit 9fb48fba369d7606aa2fcfea99f679b1a3e2c3bb[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:17:53 2018 +0100
+
+    Rename childcare.md to 06_childcare.md
+
+[33mcommit 70f2c5cf1c676f21f1956256cb7773c06a327ba7[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:17:14 2018 +0100
+
+    Rename catering.md to 05_catering.md
+
+[33mcommit 1d58b7a3039acaa65215fe4adc4ce83885e55538[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:14:45 2018 +0100
+
+    Rename venue-selection.md to 04_venue_selection.md
+
+[33mcommit df0161b049177b1dd6259b69e29f3048db430203[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:09:39 2018 +0100
+
+    Rename organizing-committee.md to 03_organizing_committee.md
+
+[33mcommit 00d775c2091fe7819fb91055aac0768dee4a89f2[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:08:06 2018 +0100
+
+    Rename minimal_measures.md to 02_minimal_measures.md
+
+[33mcommit f20b3c41b4db8341b5a0c4dfb30fcdb4a0f91f2a[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Tue Oct 16 00:04:07 2018 +0100
+
+    name changed
+
+[33mcommit b73f7193b53570e09305efaaed3dc1c610fb7805[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:45:17 2018 +0100
+
+    tags again
+
+[33mcommit 510c0b4eebf58693b126d0693384b277ba266fb7[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:44:01 2018 +0100
+
+    Tags
+
+[33mcommit c49f14abc38340afe5553bf73e9f31aedf768661[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:35:27 2018 +0100
+
+    tags
+
+[33mcommit 92e0004224937055d043baeabd66d1c4cf241352[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:32:57 2018 +0100
+
+    formatting
+
+[33mcommit e1c4988c27f2ad97f0c33b6b2cf44ec86c15accd[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:32:19 2018 +0100
+
+    tags again
+
+[33mcommit 4c3055949f7ec8763f30173196b17f99f34c795f[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:30:50 2018 +0100
+
+    tags again
+
+[33mcommit 7a58363f7634322494c47a92e1b722419ee67b75[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:29:17 2018 +0100
+
+    Tags
+
+[33mcommit a64d992bcb0a2aeed80a7f5d856fb61107a22763[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:26:49 2018 +0100
+
+    Update organizing-committee.md
+
+[33mcommit 534a893ecc5d3df477a5f0dd4a9a2c784d6210bf[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:24:58 2018 +0100
+
+    tags
+
+[33mcommit 8c58e1026bb574ce59c2556fd4335e05b24bea06[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:23:33 2018 +0100
+
+    typo
+
+[33mcommit 35f421c9cc97d353160c690410aa1deb5b4b7b0d[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:22:41 2018 +0100
+
+    typo
+
+[33mcommit f6b8739ac2514ac589de08544dba42ed9edc7a08[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:21:03 2018 +0100
+
+    tags again
+
+[33mcommit b69c0bd1b96a6c716505a546149ed715837d769f[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:20:13 2018 +0100
+
+    tags again
+
+[33mcommit 5d5e110b65bfc50ea8f4fbaa4da3ba43b9022828[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:17:43 2018 +0100
+
+    tags again
+
+[33mcommit f6be46740c19a66bd45793ae6c66020b7c8348d2[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:16:58 2018 +0100
+
+    tags
+
+[33mcommit 7b2e3d24494e09ec4cee812cf9a26862e4e378a3[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:14:57 2018 +0100
+
+    additions
+    
+    after feedback from Kasia
+
+[33mcommit 17f02a3a6f6d774cdc651970ea4fb322646fbfb2[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:10:46 2018 +0100
+
+    tags
+
+[33mcommit 7eae72391520d3785bea9ce97e5f55563349f23b[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:06:19 2018 +0100
+
+    formatting
+
+[33mcommit 32d964c4bd5b3e16f62188f7bc981437fb802e2a[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:05:04 2018 +0100
+
+    tags
+
+[33mcommit ecccd7e48c54c9ee7ef98c02f7fd17324e511a96[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 14:03:52 2018 +0100
+
+    Update index.md
+
+[33mcommit 351c0f97a81e564d76697aaaefa32cc4b43c7b4c[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:58:14 2018 +0100
+
+    formatting
+
+[33mcommit bb92a8f2f6d12a4978bcea9f69431cf8142a89f7[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:57:18 2018 +0100
+
+    tags
+
+[33mcommit 6a149cb6c749478bc0817e2cf1c93f51a6496111[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:56:50 2018 +0100
+
+    Update catering.md
+
+[33mcommit de5f4733c7c1a8a26d5b5a6042268f85ada37a5b[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:56:22 2018 +0100
+
+    Update catering.md
+
+[33mcommit 809191dbb272302bb52e17ce065ee91fff574f72[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:55:10 2018 +0100
+
+    simplified tags
+
+[33mcommit 90fc6e95725f7ca62a26eeb8f52fe2a419e15170[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:52:50 2018 +0100
+
+    Update assessment.md
+
+[33mcommit 6a284bbeea4fa83a539a68f004d48feb2c2f2274[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:46:25 2018 +0100
+
+    reverting test changes
+
+[33mcommit c4c7fee4fb562fbe60958e152f09ea57ca2f9937[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:43:34 2018 +0100
+
+    testing permalinks
+
+[33mcommit ad462147522c5faac040238ba491fc244f2492e0[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:34:58 2018 +0100
+
+    test
+
+[33mcommit bd860962ecc5e69996562b3d69c310144723644d[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:27:41 2018 +0100
+
+    Update index.md
+
+[33mcommit 5fc0ea068e856e514a6083eaafe11d188fb2c4f3[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:24:43 2018 +0100
+
+    Update index.md
+
+[33mcommit f75a748a5dc106dea28f3552b5d4fc0678e20051[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:23:11 2018 +0100
+
+    Update index.md
+
+[33mcommit ed601304c428184e8eb2dad572e78275b39e54ce[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:21:46 2018 +0100
+
+    shortened
+    
+    and updated TOC
+
+[33mcommit 1c0a2aacb00b5d77560a1d488fc8d210991136aa[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:19:01 2018 +0100
+
+    Create taxonomy.md
+
+[33mcommit 6a89d307ed8587b437f28bfb5807cb49e6ddb031[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:14:50 2018 +0100
+
+    shortened and changed order
+
+[33mcommit 3b269265805fe5a31b597cc8a1876ec22f20a1f2[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:08:59 2018 +0100
+
+    shortened and changed order
+
+[33mcommit 4e52d9dc5b7925ffcf75747a571927183dbaef73[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:04:21 2018 +0100
+
+    typos
+
+[33mcommit 2a33a5362947903ba8a738e418439fb351be0afd[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:03:14 2018 +0100
+
+    fixed formatting
+
+[33mcommit 6d1ba784abc6c1f2ecbcf2623f50d99da6770193[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Oct 13 13:02:10 2018 +0100
+
+    added acknowledgements
+
+[33mcommit 9030fea84a8d779959c1424ff6199456b800f1ce[m
+Author: Mwai <mwai@Misfit.local>
+Date:   Mon Sep 17 15:27:12 2018 +0100
+
+    reverting
+
+[33mcommit da13a7df12ba3a42a0f3585c6f2518fbbb829915[m
+Author: Mwai <mwai@Misfit.local>
+Date:   Mon Sep 17 15:18:05 2018 +0100
+
+    baseurl test
+
+[33mcommit d50133766f1b85f424a7aa491e9310ccc5c2db5a[m
+Author: Mwai <mwai@Misfit.local>
+Date:   Mon Sep 17 15:16:11 2018 +0100
+
+    baseurl test
+
+[33mcommit 3242d20a020fc1564a9d2a905ebcbc7dbc428dd9[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Mon Sep 10 00:00:23 2018 +0100
+
+    Update google_analytics.html
+
+[33mcommit 1c9faf5547c55cb479ffdb0be1d6a74bf63c9db2[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 23:58:15 2018 +0100
+
+    Create google_analytics.html
+
+[33mcommit 82c5ed92f0fd2576f48ccef677d7ce50df4779b1[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 23:57:09 2018 +0100
+
+    Update default.html
+
+[33mcommit bc382250a50a2ef6c9d25ed0764d6a41260d0f10[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:15:01 2018 +0100
+
+    Update sidebar.html
+
+[33mcommit 6d959be6f294646c1d46e2df44e5d9e19860a957[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:11:54 2018 +0100
+
+    Update venue-selection.md
+
+[33mcommit 9b20a046620bc90916c4d392b4d6efa831a3e722[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:11:41 2018 +0100
+
+    Update participant_selection.md
+
+[33mcommit af3b897260513fc446d4d8d3167f88b9d61ea556[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:11:23 2018 +0100
+
+    Update organizing-committee.md
+
+[33mcommit 443aac565a34c6e7787ee1b1cce006023888a366[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:11:07 2018 +0100
+
+    Update minimal_measures.md
+
+[33mcommit f15f90c899a8b5b5c2ba5f16629aa9615918ca7b[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:10:46 2018 +0100
+
+    Update inclusive_practices_during_checkin.md
+
+[33mcommit f90fcba4727b272f782f223432978b08bd4261ee[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:06:40 2018 +0100
+
+    Update index.md
+
+[33mcommit e0cea059131ea880b75ac9670cf951f8e091255d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:04:22 2018 +0100
+
+    Update index.md
+
+[33mcommit 9b76aa0e9744defcc81ebb498d8ec8d177897b0d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:03:52 2018 +0100
+
+    Update _config.yml
+
+[33mcommit e4a9814d98a9cd4ef3c72842708e33c58116fbed[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 16:00:04 2018 +0100
+
+    Update _config.yml
+
+[33mcommit a05b5846c88f87ab0e40395f11b756920b7ff94f[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:57:31 2018 +0100
+
+    Update _config.yml
+
+[33mcommit 8a96a236e2228b51012b243caff15f7e043d98b5[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:50:29 2018 +0100
+
+    Update venue-selection.md
+
+[33mcommit d2bc871a9edc27b369567bd11e68f5ca8afe038f[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:49:52 2018 +0100
+
+    Update participant_selection.md
+
+[33mcommit 855f8a4c670ad21885f9c5dfdbb5bef3a49e4af7[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:48:50 2018 +0100
+
+    Update organizing-committee.md
+
+[33mcommit e165a1b41a1fac57b017d08e79611c13c7b3befd[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:48:15 2018 +0100
+
+    Update minimal_measures.md
+
+[33mcommit 93006054744fee12d1aebceaa288ceb67d68ac48[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:46:09 2018 +0100
+
+    Update inclusive_practices_during_checkin.md
+
+[33mcommit 4f1418f3697bbee53d41639ba4db30e73694a673[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:45:51 2018 +0100
+
+    Update inclusive_practices_during_checkin.md
+
+[33mcommit 9ba9eaef35b2a0a78a8ca86b3383dbc8b22f47fa[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:44:57 2018 +0100
+
+    Update grants_scholarships.md
+
+[33mcommit 01309411262eaa3ba534415800d83493ab61a3b1[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:44:20 2018 +0100
+
+    Update event_registration.md
+
+[33mcommit 4bc882b876f0c31f65ad1183b6b99a5a09c280b8[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:43:16 2018 +0100
+
+    Update childcare.md
+
+[33mcommit 64b30264ee09d1f475e74d0f7e1f6063d11f383a[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:42:52 2018 +0100
+
+    Update code-of-conduct.md
+
+[33mcommit b495babed347678e536629018f3459500308e8ce[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:42:17 2018 +0100
+
+    Update childcare.md
+
+[33mcommit 063c65afc5e7cfbab0e5d7a2bad4987d6de57abe[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:41:38 2018 +0100
+
+    Update catering.md
+
+[33mcommit 53fe853f9a1a46ec3bac0d712f4eb223a6a00f68[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:40:23 2018 +0100
+
+    Update assessment.md
+
+[33mcommit 719ade074a25492945d2e04f1c229be64a569b68[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:38:32 2018 +0100
+
+    Update index.md
+
+[33mcommit 0926bd32749935cbb6f16d1c4719a8ef4ff3839d[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:36:17 2018 +0100
+
+    Update index.md
+
+[33mcommit 2b6a5c4b79e63136132738b16276ead31be0fc36[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:34:57 2018 +0100
+
+    Update README.md
+
+[33mcommit 0ce8394f0277d12e3a0b0a2c296a149d5834ff89[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:32:25 2018 +0100
+
+    Create index.md
+
+[33mcommit e52bd0c5f3b80a18e22a613acc892f4057f5dd78[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:31:07 2018 +0100
+
+    Delete index.html
+
+[33mcommit d40e85063638d46c10f9d28e40220870ef9dafcf[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:29:06 2018 +0100
+
+    Update README.md
+
+[33mcommit 7c105f0d02e65a17bc7a4a71595a656988ec85a4[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:27:37 2018 +0100
+
+    Create index.html
+
+[33mcommit 2c8a3fee2108a313ec40b3495bbe2a2c3bd5914e[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:26:17 2018 +0100
+
+    Update README.md
+
+[33mcommit e9625e8f3f49dd0833727c8a89499667be72c1de[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:24:52 2018 +0100
+
+    Update README.md
+
+[33mcommit 689bafccc39323bf20f1d97dda4673fcaf3d7be3[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:22:28 2018 +0100
+
+    Update README.md
+
+[33mcommit 809fc48ab303ad48d5707893f7045ced98402a5b[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:18:48 2018 +0100
+
+    Update about.md
+
+[33mcommit 3196eb60d8a2772398efad927124b1f34ce21303[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:12:23 2018 +0100
+
+    Create page.html
+
+[33mcommit 9596fb0dd4d06716cc6e90d9bc373a3f4c4406f5[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 15:07:32 2018 +0100
+
+    Update about.md
+
+[33mcommit 7db7762b887fa0b71d619b1d5e05d20dcf1016a3[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 14:20:27 2018 +0100
+
+    Update default.html
+
+[33mcommit 835bfa626ffd4b0ae710dc0851436516ae5bee22[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 14:18:40 2018 +0100
+
+    Update default.html
+
+[33mcommit e3f0a02a16f8fd929c2d16dcc21e5d9d1b2b989b[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 14:18:03 2018 +0100
+
+    Update default.html
+
+[33mcommit a60b47de92f5e3f50084654b7f92ee9304a51cc2[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 14:12:24 2018 +0100
+
+    Update sidebar.html
+
+[33mcommit 26c953cc830f3d41540b97aa845225e2b71fc5c2[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 14:07:33 2018 +0100
+
+    Add files via upload
+
+[33mcommit 0a475d9abc859ab0e6e4f9ff411ab9f7f690dd49[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:45:07 2018 +0100
+
+    Create syntax.css
+
+[33mcommit 4c2360b27edf72a6152c22b68313b84ab9c4dc11[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:44:34 2018 +0100
+
+    Create poole.css
+
+[33mcommit 3af96ec4ddfe36ea32023a5e1acb530640dcdb43[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:43:02 2018 +0100
+
+    Create lanyon.css
+
+[33mcommit bdc2ca34d8cb5cdad1a5cd647e9153742371fefe[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:42:16 2018 +0100
+
+    Create custom.css
+
+[33mcommit 8b22e7ee9d8beaf20ef47287a7d49c8015a84576[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:36:42 2018 +0100
+
+    Update default.html
+
+[33mcommit 158d728f6e157dcfccf59aad556662f0ec583faf[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:35:24 2018 +0100
+
+    Create head.html
+
+[33mcommit 5021b55957b691a04f9eb60ac69963a5847fdcc2[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:31:58 2018 +0100
+
+    Update default.html
+
+[33mcommit bb8ec9e41b49b9b96165b4c4a3afd09c367c804c[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:30:24 2018 +0100
+
+    Create default.html
+
+[33mcommit fa54789b57038be4b18fe18541fe4337ce92f302[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:17:06 2018 +0100
+
+    Update participant_selection.md
+
+[33mcommit 7649cac1a13c8bc0c2ee1f7f312685d82dd6297a[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 13:13:42 2018 +0100
+
+    create participant selection
+
+[33mcommit 814f3c4f25da55c4a28a1a2c87bf653854061254[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 13:09:56 2018 +0100
+
+    fixed typo
+
+[33mcommit 2396c6fde00ee372505ecd153b0f4aab0ad5cf30[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:04:02 2018 +0100
+
+    Update venue-selection.md
+
+[33mcommit 0c732b8014e8fff8c9c49c4c86639c1a1168468f[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:03:40 2018 +0100
+
+    Update organizing-committee.md
+
+[33mcommit f1cf8d42efbcd9f79fc26060963e27dbd99ccb22[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:02:52 2018 +0100
+
+    Update inclusive_practices_during_checkin.md
+
+[33mcommit b9b72c56fccc1c2b438992a77032c3cbec181ddc[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:02:32 2018 +0100
+
+    Update grants_scholarships.md
+
+[33mcommit 312ef459b67eb63691ab363526293526d3f2631e[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:02:11 2018 +0100
+
+    Update event_registration.md
+
+[33mcommit d76b23db37dc1234e55e80ffbf21fd5c8f2291a5[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:01:28 2018 +0100
+
+    Update childcare.md
+
+[33mcommit b8987b7d1b04400d80b27f24cf779e2d0beea17c[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 13:00:32 2018 +0100
+
+    added stuff from readme
+
+[33mcommit d507301971476e7340d0a344eaf053b6e59dde47[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 13:00:15 2018 +0100
+
+    Update catering.md
+
+[33mcommit e7b46744d31e44b3d4cb6d329af133f6597bc771[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:59:59 2018 +0100
+
+    cut out stuff for about.md
+
+[33mcommit 4b9467599f6a8e7ac40ec02daae26e3e215705bb[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:53:25 2018 +0100
+
+    added acknowledgements
+
+[33mcommit 4997cb0a25e17f474b2392cc9776b59d16e361ca[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:51:49 2018 +0100
+
+    cut out about bit
+
+[33mcommit e783f2b2437da7925902af21767a2ebbff492929[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:50:31 2018 +0100
+
+    create about.md
+
+[33mcommit d4f75c9ef4facbffbad6e211059c128b15a8dab4[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:46:20 2018 +0100
+
+    added organizing committee section
+
+[33mcommit 323186cb16a22dfbc75ea66974415e464c7bfd7e[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:44:46 2018 +0100
+
+    made text more concise
+
+[33mcommit fe9f16d718bc4d8efba937353954e9acc0cd6be6[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:42:09 2018 +0100
+
+    changed order
+
+[33mcommit 82866f4e3155c10de1cc72e9e99f1479b6300b1f[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 12:40:56 2018 +0100
+
+    more concise
+
+[33mcommit 9f215346485acf03ac5c2aedd68c724b440920b8[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 12:39:55 2018 +0100
+
+    Create sidebar.html
+
+[33mcommit 605f474c45e0a15afba82dbe52df46d58d44cabd[m
+Author: Mwai <mwai@Misfit.home>
+Date:   Sun Sep 9 12:33:41 2018 +0100
+
+    format link
+
+[33mcommit 10f8791bf3f7e9acb2716a73a25bca1bd75a5e40[m
+Author: Mwai <mwai@Misfit.home>
+Date:   Sun Sep 9 12:14:40 2018 +0100
+
+    format links
+
+[33mcommit 11d57124b4960fb0f92fd5e584d9162f8f68333f[m
+Author: Mwai <mwai@Misfit.home>
+Date:   Sun Sep 9 11:59:16 2018 +0100
+
+    formatting
+
+[33mcommit 5c7486f8f8311341e1cb830f90bd69d048804e95[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:40:02 2018 +0100
+
+    typo fixed
+
+[33mcommit 5e6f96495c6c5359e65964b902c28bcf2090b904[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:36:56 2018 +0100
+
+    added summary links
+
+[33mcommit 179488b3222b98545b2bc5dcfb85efbf5bc757d2[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:31:19 2018 +0100
+
+    links and some formattinga
+    
+    added links to the more extensive pages
+
+[33mcommit 4ebf95d6d98b8ee701956c7f606e7b89752738dd[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:22:38 2018 +0100
+
+    formatting
+
+[33mcommit db911f672b71f0073b7695988b37f783a8224076[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:21:58 2018 +0100
+
+    added introduction
+
+[33mcommit 8abc7838667e894eb2ddb20533f9e9a79b25049e[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 11:07:54 2018 +0100
+
+    Update README.md
+
+[33mcommit 8f99dce85bbe99bfddb24e73c8ca2a318ac6a56b[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:07:17 2018 +0100
+
+    wording change
+
+[33mcommit a57377d949ed3b8c71716536635841af1b446d32[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:06:42 2018 +0100
+
+    added link to assessment subpage
+
+[33mcommit 5fd845243498ea632fc51aea706518a965bd5243[m
+Author: Bojan Božić <boj.bozic@gmail.com>
+Date:   Sun Sep 9 11:06:37 2018 +0100
+
+    Rename Assessment to assessment.md
+
+[33mcommit 76b11b25467667a64aab2a6e25412c30b596626d[m
+Merge: 8e2a3ef 898d193
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:04:48 2018 +0100
+
+    Merge pull request #3 from Oloni/patch-2
+    
+    create assessment
+
+[33mcommit 898d193d17d983c0ac0bf57e25ab2ec2165b3ce5[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 11:02:39 2018 +0100
+
+    create assessment
+
+[33mcommit 8e2a3ef461054a000018fe47a1bb099974fe6f8f[m
+Author: discover-cookbook <43108644+discover-cookbook@users.noreply.github.com>
+Date:   Sun Sep 9 10:54:42 2018 +0100
+
+    Update README.md
+
+[33mcommit eb2552aff23ec53b8239043123da7a44b7a68003[m
+Author: discover-cookbook <43108644+discover-cookbook@users.noreply.github.com>
+Date:   Sun Sep 9 10:51:00 2018 +0100
+
+    Update README.md
+
+[33mcommit cdebd140dfbe01b0729037441b8e4244e643afa5[m
+Author: discover-cookbook <43108644+discover-cookbook@users.noreply.github.com>
+Date:   Sun Sep 9 10:49:20 2018 +0100
+
+    Update README.md
+
+[33mcommit 88d3cd909dc817f3774ac1c161ebec3e936321e5[m
+Merge: d3b0d7a 3474167
+Author: discover-cookbook <43108644+discover-cookbook@users.noreply.github.com>
+Date:   Sun Sep 9 10:34:23 2018 +0100
+
+    Merge pull request #1 from discover-cookbook/AddTaxonomy
+    
+    Add taxonomy
+
+[33mcommit 34741674b7a6c66a2c12f1b5a96decd1c32a4808[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 10:24:11 2018 +0100
+
+    formatting
+
+[33mcommit bea50da64249c57f61778cc88df9edcbb560e860[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 10:21:25 2018 +0100
+
+    made more changes to headings
+    
+    ... to make them more logical -- pulled apart general childcare from childcare questions at registration
+
+[33mcommit 0c22247e842fbaff0f6e451bcc35cefb154b2443[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sun Sep 9 10:00:16 2018 +0100
+
+    updating headings
+    
+    Some headings were at a different spot in the hierarchy than they ought to be, changed that. Also added a sentence under "Event registration" to make clear what the suggestions pertain to.
+
+[33mcommit 52c70ea5811d691af30ea5036c5f348c20f7ca2a[m
+Author: Mwai Karimi <lwrncmwai@hotmail.com>
+Date:   Sat Aug 18 17:15:25 2018 +0100
+
+    Update minimal_measures.md
+
+[33mcommit 63bd44210d7c0a7c6c5dce5f44c6579390573647[m
+Author: Mwai Karimi <lwrncmwai@hotmail.com>
+Date:   Sat Aug 18 17:13:35 2018 +0100
+
+    Rename minimal_measures to minimal_measures.md
+
+[33mcommit 8786fdf53121fdcd57bf17b3a3c55f8bbd258dde[m
+Author: Mwai Karimi <lwrncmwai@hotmail.com>
+Date:   Sat Aug 18 17:13:03 2018 +0100
+
+    added minimal_measures md
+
+[33mcommit c245f300db2b2778dc4c96a19f5028560aebbe8b[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 13:19:30 2018 +0100
+
+    added taxonomy tags
+
+[33mcommit e3908e25363c7284097eaeac06ed027753f60aa0[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 13:09:21 2018 +0100
+
+    added taxonomy tags
+
+[33mcommit 8d947cdbf4d6b3f9573434c2612e0fce2caf8078[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 13:06:57 2018 +0100
+
+    additional taxonomy tags added
+
+[33mcommit 7ce5f608b37ce40bb330c00aba9a2fc319a89475[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 13:04:39 2018 +0100
+
+    which sections may be missing
+    
+    added comment on potential additional section.
+
+[33mcommit 2b564ff009a1886c5a06e2bd55bd8957ad4a89ab[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 13:01:04 2018 +0100
+
+    added taxonomy tags
+
+[33mcommit 7b30b793f94e9287eb6edb5030342373565c4fb0[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 12:56:04 2018 +0100
+
+    Update README.md
+
+[33mcommit fac5b7879d14b00f4e928b7ff363ed280467dda5[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 12:42:47 2018 +0100
+
+    tags added
+
+[33mcommit dbbc192a57894d2c71278e4c4785f6b97237c589[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 12:27:37 2018 +0100
+
+    added taxonomy tags 2
+
+[33mcommit b3aa44a2071aaf547d46d3105a805c9f010ee089[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 12:26:12 2018 +0100
+
+    added taxonomy tags
+
+[33mcommit dfd2d496dee3935268a6d463e557a57c77c8a4b1[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:59:53 2018 +0100
+
+    Update grants_scholarships.md
+
+[33mcommit f2120b93c6f026a73f416e45c01b99ab0f76d097[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:55:54 2018 +0100
+
+    tags and self contained bullet points
+    
+    Added taxonomy tags and made some of the bullet points self-contained so they can be pulled out without losing context. Substituted "CoC" by "Code of Conduct". Added recommendation "Have a code of conduct"
+
+[33mcommit 90a368a0cdf7db98f647b0c94923e686e187a26c[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:44:43 2018 +0100
+
+    corrected tags
+
+[33mcommit 0e8add28cf7c1a6d7694b59e259a53a28fb080c9[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:43:46 2018 +0100
+
+    added tags from taxonomy
+
+[33mcommit 11fc5b6e3477dfeca800cfa8d75c62fff4987327[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:36:36 2018 +0100
+
+    added taxonomy tags
+
+[33mcommit 8599784933cef121c1a47b5e2b595f8210630666[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:29:06 2018 +0100
+
+    added more tags on high impact/low effort permutations
+
+[33mcommit a69307dc2ffad7eeffe404b2bf6fe508b9708358[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:27:25 2018 +0100
+
+    typos and capitalization improved
+
+[33mcommit 053ab2f826989c79530e2b8abab553114562629f[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 11:09:03 2018 +0100
+
+    adding taxonomy tags to Venue Selection
+    
+    All tags should turn red in html, search for <span style="color:red"> </span>
+
+[33mcommit 1cef13baefbce61687bf9d5d11c832257261f5f6[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 10:07:40 2018 +0100
+
+    taxonomy improvement, bulleted list
+    
+    made the taxonomy into bulleted list
+
+[33mcommit ebb34bbf9c51211a4c033eed70efebacc6db38cb[m
+Author: Oloni <40644425+Oloni@users.noreply.github.com>
+Date:   Sat Aug 18 10:02:14 2018 +0100
+
+    Taxonomy draft added to the readme file
+    
+    Taxonomy will be used later to tag recommendations
+
+[33mcommit d3b0d7a3fe84911970d298b682bce229faa38882[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue Jun 5 15:59:17 2018 -0500
+
+    Update inclusive_practices_during_checkin.md
+
+[33mcommit 7a2872011267d6fd70b339bd344ece7bdb7ceb24[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue Jun 5 15:57:43 2018 -0500
+
+    Update inclusive_practices_during_checkin.md
+    
+    Add information on pronoun ribbons
+    https://github.com/numfocus/DISCOVER-Cookbook/issues/17
+
+[33mcommit cd8d4d07fe8a0dd8b4ecb41209044b31e81a63ab[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue Jun 5 15:51:40 2018 -0500
+
+    Update venue-selection.md
+    
+    Added information & resources on sensory friendliness
+
+[33mcommit e1ce4a30c9f86fd88f48d96e66b8a39751404464[m
+Merge: 108ad1f 6a4fbd5
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue May 22 14:17:01 2018 -0500
+
+    Merge pull request #15 from oxinabox/patch-2
+    
+    Add about corridors for wheelchairs
+
+[33mcommit 108ad1f2e6e5c7b087986072469ef93d733a8720[m
+Merge: 622d362 3a5fd76
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue May 22 14:15:47 2018 -0500
+
+    Merge pull request #16 from oxinabox/patch-3
+    
+    Add about room brightness
+
+[33mcommit 3a5fd76617321cfa9eb720ffa912d5734c28084f[m
+Author: Lyndon White <oxinabox@ucc.asn.au>
+Date:   Fri Apr 27 15:28:41 2018 +0800
+
+    Add about room brightness
+
+[33mcommit 6a4fbd5d9f505ef71e5336e9c96bde2e3c2881ed[m
+Author: Lyndon White <oxinabox@ucc.asn.au>
+Date:   Fri Apr 27 15:24:26 2018 +0800
+
+    Update venue-selection.md
+
+[33mcommit 622d362791fa37fe8ec7f3ac151082403959fb14[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Mon Jan 29 11:51:14 2018 -0600
+
+    Update participant-selection.md
+    
+    added Request a Woman Scientist https://500womenscientists.org/request-a-scientist/ resource to Further Reading
+
+[33mcommit e19acea240ad63e7cb698c4cd210a4cd3a4105f3[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Tue Jan 16 18:28:50 2018 -0600
+
+    Update participant-selection.md
+    
+    added to further reading:
+    - Global Diversity CFP Day (Saturday 3rd February 2018) https://www.globaldiversitycfpday.com/
+
+[33mcommit 2b1164d98fd946704a082226bb889e1991c05d35[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Fri Jan 12 09:52:25 2018 -0600
+
+    Update participant-selection.md
+    
+    fixed name of double blind review section
+
+[33mcommit b1f08490f26dd4cdabcaa6562244151e4e1c22ec[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:33:13 2018 -0600
+
+    Update venue-selection.md
+    
+    closing https://github.com/numfocus/DISCOVER-Cookbook/issues/13
+
+[33mcommit 960e61679bcb4f951e062ba5dcfdd3924eb6e191[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:29:53 2018 -0600
+
+    Set theme jekyll-theme-slate
+
+[33mcommit 1c06f5974c48153b8562075f338cec603527c0fb[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:23:37 2018 -0600
+
+    Update README.md
+    
+    formatting
+
+[33mcommit 27da4f990082e98db673ac82d6a02e1612e4fab7[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:23:00 2018 -0600
+
+    Update inclusive_practices_during_checkin.md
+    
+    updated "next section"
+
+[33mcommit 7a0d58bf593d6503d9a3a1e894ed1877fee41c29[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:22:25 2018 -0600
+
+    Delete special-considerations.md
+    
+    put in-line on main page instead
+
+[33mcommit 6a324d18b94b5bdb42dd8f8e059faa38ce01bfdb[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:22:15 2018 -0600
+
+    Delete other-considerations.md
+    
+    put in-line on main page instead
+
+[33mcommit e16210b4fa46518025a9bf6abee39cf7d34abf1d[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:21:56 2018 -0600
+
+    Update README.md
+    
+    changed last two sections to be in-line text instead of separate pages
+
+[33mcommit e207b043d94e67c367bfbdcb7634d5367796df0f[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:15:15 2018 -0600
+
+    Update inclusive_practices_during_checkin.md
+    
+    fixed previous & next sections
+
+[33mcommit 642c6eb6f29b30737fcdbfa5e725d34fca9ea0e9[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:13:58 2018 -0600
+
+    Update inclusive_practices_during_checkin.md
+    
+    added previous & next sections
+
+[33mcommit 86ce02dc13eb5ec7e1c4681b3b16971df4e6c472[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 17:11:07 2018 -0600
+
+    Update inclusive_practices_during_checkin.md
+    
+    updated content
+
+[33mcommit ce0b25c2dd6a8f890d5b2df3c1c1a1b2e76ad7a7[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:51:23 2018 -0600
+
+    Update event_registration.md
+    
+    added next & previous sections
+
+[33mcommit 5c40f6caca2a821be175630ee8002a836890d965[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:49:03 2018 -0600
+
+    Update event_registration.md
+    
+    revised content
+
+[33mcommit 638bdf0eac9d949b3f736a124aaae79b03d3c16b[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:40:46 2018 -0600
+
+    Update participant-selection.md
+    
+    added further reading
+
+[33mcommit 4ce6c84bb4299ab736237feaaedb79ebe469e036[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:38:12 2018 -0600
+
+    Update venue-selection.md
+    
+    added further reading
+
+[33mcommit 48d656d85ace3bfed7705c14d6adf391393ec30d[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:34:56 2018 -0600
+
+    Update participant-selection.md
+    
+    added further reading
+
+[33mcommit f0227f9c2c96c0c52804442a17d81328ae0f9a7d[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:24:35 2018 -0600
+
+    Update participant-selection.md
+    
+    formatting
+
+[33mcommit 588ac198193406917a8d142dd8750ca2237661ca[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:23:03 2018 -0600
+
+    Update participant-selection.md
+    
+    added recommendation re: review
+
+[33mcommit 30cbc31d58b209a8a5225d92e8cc19c37c7b2256[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:12:27 2018 -0600
+
+    Update participant-selection.md
+    
+    added to further reading re: open peer review
+
+[33mcommit 65f57fddaedf9b52a51da4e138e49a2bbe40ccf7[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:09:58 2018 -0600
+
+    Update participant-selection.md
+    
+    added next & previous sections, formatting
+
+[33mcommit 97bac1a9fac10c4ec0008c8d3bc9a32d8987d42b[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 16:07:05 2018 -0600
+
+    Update participant-selection.md
+    
+    Updated content
+
+[33mcommit a7a66efcc4a3dc2e26ee7709f26b6ff6f434be3c[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 11 14:01:52 2018 -0600
+
+    Update participant-selection.md
+    
+    updated Invited Speakers content
+
+[33mcommit ef6881446a326419ede8ada2f55a4728efe85ad5[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 17:00:20 2018 -0600
+
+    Update participant-selection.md
+    
+    added further reading
+
+[33mcommit 376b17755f2eef86ad0a38fbddbb4c11a221d065[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:58:45 2018 -0600
+
+    Update grants_scholarships.md
+    
+    previous & next section added
+
+[33mcommit f15afae7fc4c0f493b88c47d253644dd0e147004[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:57:19 2018 -0600
+
+    Update grants_scholarships.md
+    
+    formatting
+
+[33mcommit 383f2900c262d7a313d3bf2643878bb39c319d42[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:53:48 2018 -0600
+
+    Update grants_scholarships.md
+    
+    formatting
+
+[33mcommit c6012c31e1efb53b1b9d9613d5fd5f338317a9be[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:52:20 2018 -0600
+
+    Update grants_scholarships.md
+    
+    formatting
+
+[33mcommit 79d26711ee3a3b46108c9d891281aec53ce421c3[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:51:35 2018 -0600
+
+    Update grants_scholarships.md
+    
+    updated content
+
+[33mcommit cbc5db4aa2d8f232187c144d364e8e1ce703e00d[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:33:56 2018 -0600
+
+    Update code-of-conduct.md
+    
+    added next & previous sections
+
+[33mcommit 62f64975d8d7b20c24f855b88e3dfa3fef905418[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:31:58 2018 -0600
+
+    Update code-of-conduct.md
+    
+    added example of reporting form
+
+[33mcommit 5633422e83f487cc2bc0623f8a019500a304323a[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:30:17 2018 -0600
+
+    Update code-of-conduct.md
+
+[33mcommit bc235cc18e1509f5f948bd33b4173c503d9edbcb[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:30:01 2018 -0600
+
+    Update code-of-conduct.md
+    
+    updated further reading
+
+[33mcommit 1c927d8715eeeae4acb0e56705d4a53ebfc9c699[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 16:15:30 2018 -0600
+
+    Update code-of-conduct.md
+    
+    updates to content, further reading
+
+[33mcommit f46175b6e1bb57f2c90f1003275375d5943ef0b9[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:51:52 2018 -0600
+
+    Update README.md
+    
+    formatting
+
+[33mcommit d601d6f01eb43962e826d7ca440fce8dcff103bb[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:51:34 2018 -0600
+
+    Update organizing-committee.md
+    
+    formatting
+
+[33mcommit 679ca67efca054bdc5c749f33fae300e70deb043[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:51:20 2018 -0600
+
+    Update venue-selection.md
+    
+    formatting
+
+[33mcommit 75c06010dc2eea2737242d1d65182533cbea78ab[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:51:04 2018 -0600
+
+    Update catering.md
+    
+    formatting
+
+[33mcommit d7920db7ea60185fdc932f867fb15cd069b515b0[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:50:45 2018 -0600
+
+    Update childcare.md
+    
+    formatting
+
+[33mcommit 137d1fe25fb212e9fee93b913a14f02dd823c704[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:49:09 2018 -0600
+
+    Update childcare.md
+    
+    next & previous sections added
+
+[33mcommit e98e80cf625e53bfc104a0f539d1609cb87bed23[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:46:58 2018 -0600
+
+    Update childcare.md
+    
+    added PyConUK reference
+
+[33mcommit 110d787c3b29ab86f4a9c4b7ae4b0b7b605cc69c[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:44:52 2018 -0600
+
+    Update childcare.md
+    
+    formatting
+
+[33mcommit fd042e8e79df0ca174ed6c775eebb9d035bf000b[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:36:25 2018 -0600
+
+    Update childcare.md
+    
+    formatting
+
+[33mcommit 264c006ec6f13439438a371addd0ae0ee214d6ef[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 15:35:17 2018 -0600
+
+    Update childcare.md
+    
+    updated content
+
+[33mcommit 5da2e9ac666691c9d20e545d9f4233446b38dc52[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:37:22 2018 -0600
+
+    Update catering.md
+    
+    Added next & previous sections
+
+[33mcommit 4a01bfe1e44ec2a99ab5b36f92b8b06eb24ace4e[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:36:06 2018 -0600
+
+    Update catering.md
+
+[33mcommit 3de3e2d0f5969b1482152baa283c3abce65e94bf[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:20:42 2018 -0600
+
+    Update venue-selection.md
+    
+    formatting
+
+[33mcommit 6e7de29b18ffb1463191ce0c475e28c8f8733db0[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:19:36 2018 -0600
+
+    Update venue-selection.md
+    
+    added next/previous section, updated low-hanging fruit icons
+
+[33mcommit 533ee9e464a77b3eec42c720a1beab598ddaff93[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:17:50 2018 -0600
+
+    Update venue-selection.md
+    
+    expanded recommendations
+
+[33mcommit 68b2b89e74a7d2391e23b9e7e5123247e8a63137[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 13:04:13 2018 -0600
+
+    Update README.md
+    
+    expanded "what this cookbook is not" section
+
+[33mcommit 254d93ae28acb7a4996c5ceeff0e3215fb4b732a[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:56:20 2018 -0600
+
+    Update organizing-committee.md
+    
+    proofreading
+
+[33mcommit dd1f3655336cf8594c248d1097e2bb562a0e2580[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:55:44 2018 -0600
+
+    Update organizing-committee.md
+    
+    formatting
+
+[33mcommit 62fc4d01851986df4f91611fd4765bb6dea962e0[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:55:13 2018 -0600
+
+    Update organizing-committee.md
+    
+    added "Previous Section"
+
+[33mcommit d86206c5f4e1486aa428075e814fb4b2e1523730[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:54:16 2018 -0600
+
+    Update organizing-committee.md
+    
+    updated url w/new repo name
+
+[33mcommit 5f63b25f1c34616157ad066ad69aba1e868d3f1c[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:53:50 2018 -0600
+
+    Update README.md
+    
+    updated urls w/new repo name
+
+[33mcommit c7475a8f8fc6ef618b5fa32d0081c5cc791fb87b[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:52:10 2018 -0600
+
+    Update README.md
+    
+    spacing.
+
+[33mcommit 545e0ab62296b604fd1b934b80fdc6759c8928e2[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:51:40 2018 -0600
+
+    Update README.md
+    
+    Added Request for Input section.
+
+[33mcommit 66343ea2ce80bb14f48e7716f37e5972340d0863[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:45:05 2018 -0600
+
+    Update README.md
+    
+    fixed title
+
+[33mcommit 585b501672f8b599261711e20c5bd856d10a5510[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:42:08 2018 -0600
+
+    Update README.md
+    
+    changed "guide" to "cookbook"
+
+[33mcommit 61e10c0af92672d1d0e7c86a17b10c3b921a9524[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:32:07 2018 -0600
+
+    Update organizing-committee.md
+    
+    Added link to Next Section
+
+[33mcommit 415fa9d33eaed979923d6d2842a3f16034435181[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:30:12 2018 -0600
+
+    Update organizing-committee.md
+    
+    Added further reading
+
+[33mcommit 864f79ccd258c5c634827af821960c63e16672a2[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Jan 4 12:27:22 2018 -0600
+
+    Update README.md
+    
+    Expanded Acknowledgements section
+
+[33mcommit 4015d66ee5936a2a73061cd3acaf13d7613cac7f[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:36:40 2017 -0500
+
+    Update README.md
+    
+    Adding organizing committee link
+
+[33mcommit 9d16a0008e65d0817d5b8d5ddf0bd7032cd47406[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:35:55 2017 -0500
+
+    Create organizing-committee.md
+
+[33mcommit 2bcc56b2358d144e75106539caebad87d885b4d3[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:34:49 2017 -0500
+
+    Update README.md
+    
+    Linking in table of contents
+
+[33mcommit a63c4873cee12c877d6780509cb25f043160fb15[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:29:22 2017 -0500
+
+    Delete disc_event_guidelines.md
+
+[33mcommit bf3785760cd0590ff522ccc36fafdd6f690f833b[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:28:21 2017 -0500
+
+    Update README.md
+    
+    moving intro text to this file
+
+[33mcommit 6dcea78a7e9f1470aa4473fbf305fe92ca44165b[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 16:08:18 2017 -0500
+
+    Update disc_event_guidelines.md
+
+[33mcommit 0bd19a527f4ae58bd48902a9c5636b03ba3819b9[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 16:07:49 2017 -0500
+
+    Add files via upload
+
+[33mcommit e95adbdbab6abcdf657d19204076a8864ef573d0[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 16:07:32 2017 -0500
+
+    Update event_registration.md
+
+[33mcommit 42f23f13335076bf276112a7f79f2941efaab571[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 16:07:02 2017 -0500
+
+    Update event_registration.md
+
+[33mcommit 1a0fe3685499af1b91b96687f26f8b5db62bcfee[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:06:34 2017 -0500
+
+    Create special-considerations.md
+
+[33mcommit 2af91e90fa477231ade6cf6e14608dfa3bb6ba4d[m
+Author: Dave Clements <clements@galaxyproject.org>
+Date:   Thu Nov 30 16:06:28 2017 -0500
+
+    Update code-of-conduct.md
+
+[33mcommit e56dd0c63822ef5ce3787f0cc66263959b59ef0c[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:06:12 2017 -0500
+
+    Update other-considerations.md
+    
+    moving Special Considerations Depending on Geographic Context to new file
+
+[33mcommit 09b1c9aa4063add5df3b4287acba1d1161fbc6ef[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:04:46 2017 -0500
+
+    Create other-considerations.md
+
+[33mcommit 057fadf8dcfe7abd1883bd091ba351f1893f26df[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 16:02:58 2017 -0500
+
+    Add files via upload
+
+[33mcommit 3a56f51bb678360bb617a237b057e031fbad2b07[m
+Author: Dave Clements <clements@galaxyproject.org>
+Date:   Thu Nov 30 16:02:44 2017 -0500
+
+    Code of conduct.  First version is a straight copy.
+
+[33mcommit a125687bfcc938e984faae33080e70858a0a1044[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 16:02:22 2017 -0500
+
+    Create participant-selection.md
+
+[33mcommit e3e4b033dfd81376ec37813a2ad2e85915087f30[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:57:51 2017 -0500
+
+    Update grants_scholarships.md
+
+[33mcommit c697af45ba55e6e010480571d4fe41d1b353862a[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:57:38 2017 -0500
+
+    Update grants_scholarships.md
+
+[33mcommit 7fff55365f67f2ac20314a8bcf95f1a072d7f280[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:57:13 2017 -0500
+
+    Add files via upload
+
+[33mcommit f79aea2f1e953d3bf56ef76b1c54d8647121270e[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:55:18 2017 -0500
+
+    Update childcare.md
+
+[33mcommit 431f7164e29344185574c18700dc547915e1377a[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:55:04 2017 -0500
+
+    Update childcare.md
+
+[33mcommit a9e18c89a86b98c864d51f86bbe4775327ff02c0[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 15:54:53 2017 -0500
+
+    Update venue-selection.md
+
+[33mcommit 2c3b02ee7fb258ea61681d8d72e91c7e73a64f42[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 15:53:40 2017 -0500
+
+    Update venue-selection.md
+
+[33mcommit 9ff55a81450314193d028af00b3a6e248114474b[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:52:59 2017 -0500
+
+    Add files via upload
+
+[33mcommit 707f0d9b60a302b643e5847b98f7c08bece0288e[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 15:50:44 2017 -0500
+
+    Rename venue-selection to venue-selection.md
+
+[33mcommit e8f301eaa8734a6a85a7244c2a21f91121e5f6e6[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 15:50:28 2017 -0500
+
+    Create venue-selection
+
+[33mcommit 9a1ce242ed6573e8333082e031857c51a2a1091f[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:48:27 2017 -0500
+
+    Add files via upload
+
+[33mcommit 22f484fc7eba18fc4f5c8f73f3234315ba95bc2c[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Nov 30 15:39:35 2017 -0500
+
+    Update disc_event_guidelines.md
+    
+    Added Level 3 Headers
+
+[33mcommit c925d845890c894fe67622e42abc17e9586e0926[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:37:29 2017 -0500
+
+    Delete DISCUnconference
+
+[33mcommit ca93abc8d4604180e0fbb96516d4913d21add997[m
+Author: Ashley Otero <ashley.r.otero@gmail.com>
+Date:   Thu Nov 30 15:36:28 2017 -0500
+
+    Update disc_event_guidelines.md
+    
+    Fixing the low-hanging fruit matrix.
+
+[33mcommit 785e04265129a7659d42b7e9917daf9a91122925[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:29:06 2017 -0500
+
+    Add files via upload
+
+[33mcommit 9041b9a49201057725a4fb3ef722c92fb3fe4e53[m
+Author: Kasia Rachuta <korachuta@gmail.com>
+Date:   Thu Nov 30 15:26:59 2017 -0500
+
+    Create DISCUnconference
+
+[33mcommit 17f7ecec99b9446f86c0b62b5f6847afcb3a70c6[m
+Author: Gina <Dr-G@users.noreply.github.com>
+Date:   Thu Nov 30 15:05:00 2017 -0500
+
+    Initial commit
