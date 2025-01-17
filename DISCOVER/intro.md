@@ -26,28 +26,56 @@ The cookbook is intended to help you, as an event organizer, to understand the *
 To facilitate ease of use, we have highlighted suggestions that are relatively **easy to implement** and which have a **strong positive impact**. These are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎.
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
+                                                                           
+<!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
+    <div style="background-color: #f0f0f0; border: 2px solid #ccc; height:138px; padding: 20px; text-align: center; border-radius: 10px;">
+        <div style="font-size: 20px;">🍎</div>
+        <p>High Impact</p>
+        <p>Low Effort</p>
+    </div>
+    <div style="background-color: #f0f0f0; border: 2px solid #ccc; padding: 20px; height:138px; text-align: center; border-radius: 10px;">
+        <div style="font-size: 20px;">✅</div>
+        <p>High Impact</p>
+        <p>High Effort</p>
+    </div>
+    <div style="background-color: #f0f0f0; border: 2px solid #ccc; padding: 20px; text-align: center; border-radius: 10px; height:138px; display:flex; align-items: center;flex-direction: column; justify-content: center; ">
+        <div style="font-size: 40px;"></div>
+        <p>Low Impact</p>
+        <p>Low Effort</p>
+    </div>
+    <div style="background-color: #f0f0f0; border: 2px solid #ccc; padding: 20px; text-align: center; border-radius: 10px; height:138px; display:flex; align-items: center;flex-direction: column; justify-content: center; ">
+        <div style="font-size: 40px;"></div>
+        <p>Low Impact</p>
+        <p>High Effort</p>
+    </div>
+</div> -->                                                                                               <div style="background-color: #f0f0f0; width: 100%; max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 10px;">
+                                                                                                                          
+                                                │                                                                          
+                            🍎                                    ✅                                                        
+                                                │                                                                          
+                         High Impact,                        High Impact,                                                  
+                                                │                                                                          
+                         Low Effort                          Low Effort                                                    
+                                                │                                                                          
+                                                                                                                           
+                                                │                                                                          
+                                                                                                                           
+── ── ── ── ──  ── ─  ── ── ── ── ── ── ── ── ──  ── ── ── ── ── ── ──  ─ ── ── ── ── ── ── ── ── ── ─                     
+                                                                                                                           
+                                                │                                                                          
+                                                                                                                           
+                                                │                                                                          
+                         Low Impact,                         Low Impact,                                                   
+                                                │                                                                          
+                         Low Effort                          High Effort                                                   
+                                                │                                                                          
+                                                                                                                           
+                                                │                                                                          
+                                                                                                                           
+                                     
+</div>
 
-                                     |
 
-             🍎                      |                ✅
-
-        High Impact,                 |           High Impact,
-
-        Low Effort                   |           High Effort
-
-                                     |
-
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
-
-                                    |
-
-                                    |
-
-         Low Impact,                |           Low Impact,
-
-         Low Effort                 |           High Effort
-
-                                    |
 
 The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](/02_minimal_measures.md).
 
