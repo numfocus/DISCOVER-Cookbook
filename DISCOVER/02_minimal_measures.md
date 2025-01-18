@@ -32,12 +32,25 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 #### Disability
 
--   🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
+- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
 
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees.**
 
 
+- 🍎Ensure the venue is wheelchair accessible, including entrances, seating areas, restrooms, and stages. Provide ramps, elevators, and designated accessible seating.
+
+
+- ✅Offer sign language interpreters, captioning services, and assistive listening devices. Ensure that printed materials are available in braille or large print, and consider using accessible fonts and colors for better readability.
+
+
+- 🍎Have trained staff or volunteers available to assist attendees with disabilities. This can include helping with registration, guiding them to different areas, or providing any necessary support during the event.
+
+
+
 ### Bathrooms
+- ✅Ensure that restrooms are accessible to individuals with disabilities. This includes providing wide doorways,    grab bars, lower sinks and mirrors, and ample space for maneuvering wheelchairs. Clearly mark accessible restrooms and ensure they are conveniently located.
+
+
 
 #### Gender-Neutral Bathrooms
 
