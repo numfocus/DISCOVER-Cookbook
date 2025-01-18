@@ -3,12 +3,39 @@
 
 The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
 
+If you are looking to read the book please visit https://discover-cookbook.numfocus.org/ for a live version of the book. This is the code that powers that website and is intended for maintainers and contributors.
 
-# How to run the book locally
+
+## Ways to contribute to this repository
+
+The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
+
+### Ideas, Questions, and Discussions
+
+Please contribute ideas, questions, and discussions for content or enhancements over in [the discussions tab](https://github.com/numfocus/DISCOVER-Cookbook/discussions).
+
+### Problems or Tracking of Work Items from Ideas, Questions, or Discussions
+
+Please add issues on [the github issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/discussions). 
+
+### Content and Design
+
+While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but just understand that it will take time to add. Please start an idea in the discussions, then move to making an issue once there is approval for the content to be added to the book. After that issue is made we feel free to open [a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls) against the repository to begin the review process.
+
+### Bug fixes
+
+For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
+
+### See Also
+
+For more information, see the `contributing.md` file with a fuller guide on how to contribute.
+
+
+## How to run the book locally
 
 Create a local python environment and install all the required dependencies using the following commands (either with conda or pip)
 
-## If Using Conda
+### If Using Conda
 1. Create the Conda Environment
 ```sh
 conda env create -f environment.yml
@@ -22,7 +49,7 @@ conda activate DISCOVER-handbook
 jupyter-book build DISCOVER
 ```
 
-## If Using pip
+### If Using pip
 1. Create a Virtual Environment (optional)
 ```sh
 python -m venv myenv
@@ -44,6 +71,7 @@ pip install -r requirements.txt
 ``` sh
 jupyter-book build DISCOVER
 ```
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
