@@ -26,28 +26,10 @@ The cookbook is intended to help you, as an event organizer, to understand the *
 To facilitate ease of use, we have highlighted suggestions that are relatively **easy to implement** and which have a **strong positive impact**. These are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎.
 
 We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
-
-                                     |
-
-             🍎                      |                ✅
-
-        High Impact,                 |           High Impact,
-
-        Low Effort                   |           High Effort
-
-                                     |
-
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
-
-                                    |
-
-                                    |
-
-         Low Impact,                |           Low Impact,
-
-         Low Effort                 |           High Effort
-
-                                    |
+|                           | **Low Effort**      | **High Effort**     |
+|---------------------------|---------------------|---------------------|
+| **High Impact**           | 🍎 Quick Wins       | ✅ Do These          |
+| **Low Impact**            | 🗓️ Schedule (Chores) | 🛑 Stop Doing        |
 
 The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](/02_minimal_measures.md).
 
