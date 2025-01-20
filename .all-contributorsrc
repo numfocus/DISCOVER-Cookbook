@@ -16,7 +16,8 @@
       "contributions": [
         "ideas",
         "review",
-        "maintenance"
+        "maintenance",
+        "question"
       ]
     },
     {
@@ -27,7 +28,8 @@
       "contributions": [
         "question",
         "maintenance",
-        "doc"
+        "doc",
+        "review"
       ]
     },
     {
@@ -288,6 +290,15 @@
       "profile": "",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "pratham15541",
+      "name": "Pratham ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109359719?v=4",
+      "profile": "https://github.com/pratham15541",
+      "contributions": [
+        "code"
       ]
     }
   ],
