@@ -3,7 +3,7 @@
 
 title: DISCOVER
 author: Community
-logo: logo.png
+logo: _static/logo-light.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -21,6 +21,10 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  html_in_header:
+    - '<script src="_static/logo-switcher.js"></script>'
+  extra_css:
+    - _static/mainLogo.css
 
 # config sphinx tags extension
 sphinx:
