@@ -18,7 +18,7 @@ Registration vs. Travel &amp; Lodging
 - Eligibility Requirements
   - Applicants should be 
     - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
-    -   and be unable to attend without some financial assistance [^lf-source].
+    - and be unable to attend without some financial assistance [^lf-source].
   - Also consider providing support for applicants from developing economies.
     - You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and low-middle income.
   - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
