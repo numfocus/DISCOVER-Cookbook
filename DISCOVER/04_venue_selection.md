@@ -44,8 +44,8 @@
 - [Improving the Color Accessibility for Color Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)
 - [Accessibility, sensory friendliness and neurodiversity friendliness at events](https://gist.github.com/katsel/b8fbd1a35734708d5e654bb5153a5aa3) via [@katsel](https://gist.github.com/katsel)
 - [Captioning vs Sign Language – A No Brainer?](https://therebuttal2.com/2016/01/28/captioning-vs-sign-language-a-no-brainer/)
-- [A Note From Your Colleagues With Hearing Loss: Just Use a Microphone Already](https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916)
-- [What is a hearing loop?](https://www.hearinglink.org/living/loops-equipment/hearing-loops/what-is-a-hearing-loop/)
+- [A Note From Your Colleagues With Hearing Loss: Just Use a Microphone Already](https://www.chronicle.com/article/A-Note-From-Your-Colleagues/245916) (*Subscription may be required for full access*)
+- [What is a hearing loop?]( https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/)
 
 ## Bathrooms
 
@@ -55,7 +55,7 @@
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms:
   - 🍎 List the specific amenities and what type of restroom it is. For example:
-  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" ([see example](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc))
+  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" Example image from a Google Groups attachment (currently inaccessible). [^lf-source]
   - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
   - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
@@ -100,8 +100,8 @@
 
 **Further Reading:**
 
-- [How to accommodate a breastpumping mom at your event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event/)
-- [How to Set Up a Lactation Room to Support Breastfeeding at Work](https://www.thespruce.com/lactation-room-breastfeeding-at-work-3545106)
+- [How to accommodate a breastpumping mom at your event](http://miriamposner.com/blog/how-to-accommodate-a-breastpumping-mom-at-your-event)
+- [How to Set Up a Lactation Room to Support Breastfeeding at Work](https://web.archive.org/web/20190717082756/https://www.verywellfamily.com/lactation-room-breastfeeding-at-work-3545106)
 
 ### 🍎 Quiet Room (also Prayer Room)
 
@@ -111,3 +111,4 @@
   - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
 - Ideal is to provide one well lit quiet room, and a second dimly lit room.
 - Consider "quiet areas" if a separate room is not possible.
+ [^lf-source]: Original link: [DSC_1789.JPG](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc).

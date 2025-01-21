@@ -23,18 +23,18 @@
 ## On-Site Services
  
 - There are companies that provide childcare at conferences. While NumFOCUS makes no specific endorsements, we did find these companies in our research who are providing event-based childcare:
-    - [Corporate Kids Events](https://conferencechildcare.com/)
+   - [Corporate Kids Events](https://conferencechildcare.com/)
    - [American Child Care, Inc.](http://www.americanchildcare.com/conventions.htm)
    - [Kiddie Corp](http://www.kiddiecorp.com/)
-    - [Urbansitter](https://www.urbansitter.com/)
-    - [Care.com](https://www.care.com/)
-    - [Accent](http://www.accentoca.com/)
+   - [UrbanSitter](https://www.urbansitter.com/) provides a platform for finding babysitters. (*This link is only accessible within the United States*)
+   - [Care.com](https://www.care.com/)
+   - [Accent](http://www.accentoca.com/)
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
   - E.g. [coding for kids as at PyCon UK](http://2017.pyconuk.org/education/)
 
 **Further reading:**
 
 - [Geek Feminism Wiki Childcare](http://geekfeminism.wikia.com/wiki/Childcare)
-- [SRCCON childcare](https://srccon.org/childcare/)
+- [SRCCON childcare](https://web.archive.org/web/20160810112024/http://srccon.org/childcare)
 - [Providing conference childcare](https://adacamp.org/adacamp-toolkit/childcare/)
 
