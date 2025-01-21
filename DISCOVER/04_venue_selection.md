@@ -112,4 +112,3 @@
 - Ideal is to provide one well lit quiet room, and a second dimly lit room.
 - Consider "quiet areas" if a separate room is not possible.
 - [^lf-source]: Original link: [DSC_1789.JPG](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc).
-  
