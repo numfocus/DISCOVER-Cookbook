@@ -1,7 +1,7 @@
 (about)=
 # About
 
-## TL;DR
+## Summary
 This cookbook is intended as a resource for organizers of conferences and events with a particular focus on the tech sector in the United States. It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event. The cookbook does not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
 ## About this Cookbook:
