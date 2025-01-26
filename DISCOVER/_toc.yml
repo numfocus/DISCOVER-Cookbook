@@ -1,6 +1,5 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
 chapters:
@@ -17,4 +16,5 @@ chapters:
 - file: 11_inclusive_practices_during_checkin
 - file: 12_assessment
 - file: 14_how_to_contribute
+- file: 15_security_best_practices
 - file: _tags/tagsindex
