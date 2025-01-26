@@ -318,6 +318,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kamila-NF",
+      "name": "Kamila Stepniowska",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142047555?v=4",
+      "profile": "https://github.com/kamila-NF",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
