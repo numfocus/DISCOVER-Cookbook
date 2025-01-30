@@ -1,12 +1,12 @@
 ## DISCOVER Handbook Governance Guide
 
-The purpose of this document is to outline the purpose, roles, and decision processes for this repository. The hope is to guide the community on how to accept contributions and maintain the cookbook to the standards of the NumFOCUS Community. This document should not be taken as
+The purpose of this document is to outline the purpose, roles, and decision processes for this repository. The hope is to guide the community on how to accept contributions and maintain the cookbook to the standards of the NumFOCUS Community. 
 
 # **Open Source Project Objectives**
 
 * Conference Organizer Enablement
   - Conference organizers should be able to easily access and use the handbook
-  - Every effort will be made to be responsive to ISV issues
+  - Every effort will be made to be responsive to issues
 * Repo Quality
   - Repo remains in healthy state with good-quality, consistent codebase
   - Continuous Integration: Using Github Actions we are able to deploy the guide, preview pull-requests, and run quality checks on content.
