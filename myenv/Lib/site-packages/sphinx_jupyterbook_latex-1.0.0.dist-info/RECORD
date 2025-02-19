@@ -1,0 +1,17 @@
+sphinx_jupyterbook_latex-1.0.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+sphinx_jupyterbook_latex-1.0.0.dist-info/LICENSE,sha256=aWHeuj6barS8jPykGz6P449WpH1QFrCo7vlElsOsob4,1529
+sphinx_jupyterbook_latex-1.0.0.dist-info/METADATA,sha256=9F6tWpZNnV5rtL4xK4QaikqOsaAw_dqFmji-_emsxec,3708
+sphinx_jupyterbook_latex-1.0.0.dist-info/RECORD,,
+sphinx_jupyterbook_latex-1.0.0.dist-info/WHEEL,sha256=EZbGkh7Ie4PoZfRQ8I0ZuP9VklN_TvcZ6DSE5Uar4z4,81
+sphinx_jupyterbook_latex/__init__.py,sha256=DfJTSXy0FPY_SvheXgQ7-JBXPLgZm5Zz9PDwCuXkeyw,1481
+sphinx_jupyterbook_latex/__pycache__/__init__.cpython-312.pyc,,
+sphinx_jupyterbook_latex/__pycache__/events.cpython-312.pyc,,
+sphinx_jupyterbook_latex/__pycache__/nodes.cpython-312.pyc,,
+sphinx_jupyterbook_latex/__pycache__/transforms.cpython-312.pyc,,
+sphinx_jupyterbook_latex/events.py,sha256=TM91Hyrr8ZZ8ruMjkhbnIamL1ytpqJ5iOQur8rj-q4I,4522
+sphinx_jupyterbook_latex/nodes.py,sha256=fBXGDGrj3kFar9x0BNiayVHqyHrJl-lgheK8R_Ivt58,4100
+sphinx_jupyterbook_latex/py.typed,sha256=8PjyZ1aVoQpRVvt71muvuq5qE-jTFZkK-GLHkhdebmc,26
+sphinx_jupyterbook_latex/theme/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sphinx_jupyterbook_latex/theme/__pycache__/__init__.cpython-312.pyc,,
+sphinx_jupyterbook_latex/theme/jupyterBook.cls,sha256=LkDjkjRYgzrql-8JMg5FmvZLU2OCB4pOUwy29pkw-Zc,2881
+sphinx_jupyterbook_latex/transforms.py,sha256=DOmJ40AJGwPvgoyMAKetQW3XAi-tbRMBYXL8QkA6DgE,18143

@@ -1,0 +1,94 @@
+Metadata-Version: 2.1
+Name: sphinx-togglebutton
+Version: 0.3.2
+Summary: Toggle page content and collapse admonitions in Sphinx.
+Home-page: https://github.com/executablebooks/sphinx-togglebutton
+Author: Chris Holdgraf
+Author-email: choldgraf@berkeley.edu
+License: MIT License
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: setuptools
+Requires-Dist: wheel
+Requires-Dist: sphinx
+Requires-Dist: docutils
+Provides-Extra: sphinx
+Requires-Dist: matplotlib ; extra == 'sphinx'
+Requires-Dist: numpy ; extra == 'sphinx'
+Requires-Dist: myst-nb ; extra == 'sphinx'
+Requires-Dist: sphinx-book-theme ; extra == 'sphinx'
+Requires-Dist: sphinx-design ; extra == 'sphinx'
+Requires-Dist: sphinx-examples ; extra == 'sphinx'
+
+# sphinx-togglebutton
+
+A small sphinx extension to make it possible to add a "toggle button" to
+sections of your page. This allows you to:
+
+- Collapse Sphinx admonitions (notes, warnings, etc) so that their content is hidden
+  until users click a toggle button.
+- Collapse arbitrary chunks of content on your page with a `collapse` directive.
+
+![Demonstration of Sphinx Togglebutton](https://user-images.githubusercontent.com/1839645/152654312-a72a320f-e1e0-40be-95ae-3ed34facc4d3.gif)
+
+
+Installation
+============
+
+You can install `sphinx-togglebutton` with `pip`:
+
+```bash
+pip install sphinx-togglebutton
+```
+
+Usage
+=====
+
+In your `conf.py` configuration file, add `sphinx_togglebutton`
+to your extensions list.
+
+E.g.:
+
+```python
+extensions = [
+    ...
+    'sphinx_togglebutton'
+    ...
+]
+```
+Now, whenever you wish for an admonition to be toggle-able, add the
+`:class: dropdown` parameter to the admonition directive that you use.
+
+For example, this code would create a toggle-able "note" admonition
+that starts hidden:
+
+```rst
+.. note::
+    :class: dropdown
+
+    This is my note.
+```
+
+Clicking on the toggle button will toggle the item's visibility.
+
+You may also **show the content by default**. To do so, add the `dropdown`
+class *as well as* a `toggle-shown` class, like so:
+
+```rst
+.. note::
+    :class: dropdown, toggle-shown
+
+    This is my note.
+```
+
+You can also use **containers** to add arbitrary toggle-able code. For example,
+here's a container with an image inside:
+
+```rst
+.. container:: toggle, toggle-hidden
+
+    .. admonition:: Look at that, an image!
+
+        .. image:: https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif
+```

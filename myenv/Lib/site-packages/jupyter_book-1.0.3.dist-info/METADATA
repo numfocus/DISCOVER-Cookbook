@@ -1,0 +1,123 @@
+Metadata-Version: 2.1
+Name: jupyter-book
+Version: 1.0.3
+Summary: Build a book with Jupyter Notebooks and Sphinx.
+Keywords: reproducible,science,environments,scholarship,notebook
+Author-email: Executable Book Project <executablebooks@gmail.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing :: Markup
+Requires-Dist: click>=7.1,<9
+Requires-Dist: Jinja2
+Requires-Dist: jsonschema<5
+Requires-Dist: linkify-it-py>=2,<3
+Requires-Dist: myst-nb>=1,<3
+Requires-Dist: myst-parser>=1,<3
+Requires-Dist: pyyaml
+Requires-Dist: sphinx>=5,<8
+Requires-Dist: sphinx-comments
+Requires-Dist: sphinx-copybutton
+Requires-Dist: sphinx-external-toc>=1.0.1,<2
+Requires-Dist: sphinx-jupyterbook-latex>=1,<2
+Requires-Dist: sphinx-design>=0.5,<1
+Requires-Dist: sphinx-thebe>=0.3.1,<1
+Requires-Dist: sphinx-book-theme>=1.1.0,<2
+Requires-Dist: sphinx_togglebutton
+Requires-Dist: sphinxcontrib-bibtex>=2.5.0,<3
+Requires-Dist: sphinx-multitoc-numbering>=0.1.3,<1
+Requires-Dist: pre-commit~=3.1 ; extra == "code_style"
+Requires-Dist: pyppeteer ; extra == "pdfhtml"
+Requires-Dist: altair ; extra == "sphinx"
+Requires-Dist: bokeh ; extra == "sphinx"
+Requires-Dist: folium ; extra == "sphinx"
+Requires-Dist: ipywidgets ; extra == "sphinx"
+Requires-Dist: jupytext ; extra == "sphinx"
+Requires-Dist: matplotlib ; extra == "sphinx"
+Requires-Dist: nbclient ; extra == "sphinx"
+Requires-Dist: numpy>=2 ; extra == "sphinx"
+Requires-Dist: pandas ; extra == "sphinx"
+Requires-Dist: plotly ; extra == "sphinx"
+Requires-Dist: sphinx-click ; extra == "sphinx"
+Requires-Dist: sphinx-examples ; extra == "sphinx"
+Requires-Dist: sphinx_inline_tabs ; extra == "sphinx"
+Requires-Dist: sphinx-proof ; extra == "sphinx"
+Requires-Dist: sphinxext-rediraffe~=0.2.3 ; extra == "sphinx"
+Requires-Dist: sympy ; extra == "sphinx"
+Requires-Dist: altair ; extra == "testing"
+Requires-Dist: beautifulsoup4 ; extra == "testing"
+Requires-Dist: beautifulsoup4 ; extra == "testing"
+Requires-Dist: cookiecutter ; extra == "testing"
+Requires-Dist: coverage ; extra == "testing"
+Requires-Dist: jupytext ; extra == "testing"
+Requires-Dist: pandas ; extra == "testing"
+Requires-Dist: pyppeteer ; extra == "testing"
+Requires-Dist: pytest>=6.2.4 ; extra == "testing"
+Requires-Dist: pytest-cov ; extra == "testing"
+Requires-Dist: pytest-regressions ; extra == "testing"
+Requires-Dist: pytest-timeout ; extra == "testing"
+Requires-Dist: pytest-xdist ; extra == "testing"
+Requires-Dist: sphinx_click ; extra == "testing"
+Requires-Dist: sphinx_inline_tabs ; extra == "testing"
+Requires-Dist: pydata-sphinx-theme>=0.15.3 ; extra == "testing"
+Requires-Dist: texsoup ; extra == "testing"
+Requires-Dist: numpy>=2 ; extra == "testing"
+Requires-Dist: matplotlib ; extra == "testing"
+Project-URL: Documentation, https://jupyterbook.org
+Project-URL: Funding, https://executablebooks.org
+Project-URL: Homepage, https://executablebooks.org/
+Project-URL: Source, https://github.com/executablebooks/jupyter-book/
+Project-URL: Tracker, https://github.com/executablebooks/jupyter-book/issues
+Provides-Extra: code_style
+Provides-Extra: pdfhtml
+Provides-Extra: sphinx
+Provides-Extra: testing
+
+# <img src="https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/logo-square.svg" width=40 /> Jupyter Book
+
+[![Jupyter Book Badge](docs/images/badge.svg)](https://jupyterbook.org)
+[![CircleCI](https://circleci.com/gh/executablebooks/jupyter-book.svg?style=svg)](https://circleci.com/gh/executablebooks/jupyter-book)
+[![codecov](https://codecov.io/gh/executablebooks/jupyter-book/branch/master/graph/badge.svg)](https://codecov.io/gh/executablebooks/jupyter-book)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.2561065)
+[![PyPI][pypi-badge]][pypi-link]
+[![Conda][conda-badge]][conda-link]
+
+Jupyter Book is an open-source tool for building publication-quality books and documents from computational material.
+
+Jupyter Book allows users to
+
+* write their content in [markdown files](https://myst-parser.readthedocs.io/en/latest/) or [Jupyter](https://jupyter.org/) notebooks,
+* include computational elements (e.g., code cells) in either type,
+* include rich syntax such as citations, cross-references, and numbered equations, and
+* using a simple command, run the embedded code cells, [cache](https://jupyter-cache.readthedocs.io/en/latest/) the outputs and convert this content into:
+    * a web-based interactive book and
+    * a publication-quality PDF.
+
+## Governance of this project
+Jupyter Book 1.x is now in a maintenance phase, where new feature requests have lower priority than bugfixes. Jupyter Book 2.x will be built on the new [MyST-MD document engine](https://mystmd.org/). See [our blog post](https://executablebooks.org/en/latest/blog/2024-05-20-jupyter-book-myst/) for more information.
+
+## Contribute or improve the book
+
+Notice some inefficient CSS? A typo in the text? Want to add a cool feature so that others
+can enjoy the improvements to Jupyter Books? Check out the [Jupyter Book Contributor's
+Guide](https://jupyterbook.org/contribute/intro.html). We'd love your help!
+
+## Acknowledgements
+
+Jupyter Book is maintained and primarily developed by
+the [Executable Book Project](https://executablebooks.org).
+
+[pypi-badge]: https://img.shields.io/pypi/v/jupyter-book.svg
+[pypi-link]: https://pypi.org/project/jupyter-book
+[conda-badge]: https://anaconda.org/conda-forge/jupyter-book/badges/version.svg
+[conda-link]: https://anaconda.org/conda-forge/jupyter-book
+
