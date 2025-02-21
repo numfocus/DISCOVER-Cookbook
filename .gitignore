@@ -1,31 +1,15 @@
-# JupyterBook output files (HTML & cache)
+# Jupyterbook output files (html):
 DISCOVER/_build/
 DISCOVER/_tags/
 
-# PyCharm project settings
+# Pycharm
 .idea/
 
-# Virtual environments
-.venv/
-.env/
+# For people using venv
+.venv
+.env
 venv/
 myenv/
 
-# Pyenv version file
+# in case of using pyenv
 .python-version
-
-# Cache and compiled files
-__pycache__/
-*.py[cod]
-*.swp
-*.swo
-
-# Logs and temp files
-logs/
-*.log
-.DS_Store
-
-# Environment and dependency files
-.envrc
-.env.local
-.vscode/
