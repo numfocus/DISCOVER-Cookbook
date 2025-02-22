@@ -52,16 +52,16 @@ jupyter-book build DISCOVER
 ### If Using pip
 1. Create a Virtual Environment (optional)
 ```sh
-python -m venv myenv
+python -m venv .venv
 ```
 2. Activate the virtual Environment (optional)
 - on Windows:
 ```sh
-myenv\Scripts\activate
+.venv\Scripts\activate
 ```
 - on macOS/Linux:
 ```sh
-source myenv/bin/activate
+source .venv/bin/activate
 ```
 3. Install the required dependencies
 ```sh
