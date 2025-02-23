@@ -59,7 +59,7 @@
 
 - [Would I attend my own conference?](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
 - [Getting women to speak at your conference is hard. So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
-- [A Better Call for Proposals](http://2016.cssconf.com.au/2016/07/01/cfp.html)
+- [A Better Call for Proposals](https://web.archive.org/web/20211123193159/http://2016.cssconf.com.au/2016/07/01/cfp.html)
 - [For CFP language](https://textio.com/)
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
 - [Global Diversity CFP Day (Saturday 3rd February 2018)](https://www.globaldiversitycfpday.com/)
@@ -82,7 +82,7 @@
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
     - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-    - [Sample guidelines for reviewers in double open review systems](https://scipy2017.scipy.org/ehome/220975/532468/)
+    - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
  - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
  
 **Further reading:**
