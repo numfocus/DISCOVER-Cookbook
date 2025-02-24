@@ -9,7 +9,7 @@ DISCOVER/_tags/
 .venv
 .env
 venv/
-myenv/
+
 
 # in case of using pyenv
 .python-version
