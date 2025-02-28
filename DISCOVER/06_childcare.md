@@ -1,5 +1,6 @@
-```{tags} Parents-and-Carers, Participant-Diversity, Scholarships
-```
+
+{tags: Mobility-Impairment, People-with-Disabilities, Location-and-Venue, Bathrooms, Hearing-Impairment,Visual-Impairment, Other-Impairments, LGBTQ+, Women, People-with-Allergies, Parents-and-Carers, Religious-Groups, Being-Respectful, Giving-Participants-Room-To-Be-Who-They-Are}
+
 
 (childcare)=
 # Childcare
