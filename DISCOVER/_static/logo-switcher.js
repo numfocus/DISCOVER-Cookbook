@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (isTagsFolder) {
       // Code for tags folder files
-      console.log("dfjksndfknsdf");
       const logos = document.querySelectorAll('.logo__image');
 
       logos.forEach(logo => {
