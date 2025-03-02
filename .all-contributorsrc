@@ -336,6 +336,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "AR21SM",
+      "name": "Ashish Mahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179873264?v=4",
+      "profile": "https://github.com/AR21SM",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
