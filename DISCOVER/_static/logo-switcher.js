@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const isTagsFolder = window.location.pathname.includes('/_tags/'); // Check if in tags folder
+  const isTagsFolder = window.location.pathname.includes('/_tags/'); 
 
   if (isTagsFolder) {
       // Code for tags folder files
