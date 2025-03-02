@@ -336,6 +336,24 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "AR21SM",
+      "name": "Ashish Mahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179873264?v=4",
+      "profile": "https://github.com/AR21SM",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "trivia67",
+      "name": "Priya Kholiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137710127?v=4",
+      "profile": "https://github.com/trivia67",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
