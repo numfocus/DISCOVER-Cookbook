@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (logo.classList.contains('only-light')) {
       logo.src = isTagsFolder ? '../_static/logo-light.png' : '_static/logo-light.png';// Replacing with the light logo
     } else if (logo.classList.contains('only-dark')) {
-      logo.src = isTagsFolder ? '../_static/logo-dark.png' : '_static/logo-dark.png';d // Replacing with the dark logo
+      logo.src = isTagsFolder ? '../_static/logo-dark.png' : '_static/logo-dark.png';// Replacing with the dark logo
     }
   });
 
