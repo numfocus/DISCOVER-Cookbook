@@ -19,12 +19,13 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
-  use_repository_button: true
   html_in_header:
-    - '<script src="_static/logo-switcher.js"></script>'
+    - '<script src="_static/scripts/pydata-sphinx-theme.js"></script>'  
+    - '<script src="_static/logo-switcher.js"></script>'                
+    - '<script src="_static/toggle-theme.js"></script>' 
   extra_css:
     - _static/mainLogo.css
+    - _static/toggle-theme.css
 
 # config sphinx tags extension
 sphinx:

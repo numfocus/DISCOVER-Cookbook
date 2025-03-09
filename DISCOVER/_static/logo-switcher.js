@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const logos = document.querySelectorAll('.logo__image');
-
+    const isTagsFolder = window.location.pathname.includes('/_tags/');
     logos.forEach(logo => {
       if (logo.classList.contains('only-light')) {
-        logo.src = '_static/logo-light.png'; // Replacing with the light logo
+        logo.src = isTagsFolder ? '../_static/logo-light.png' : '_static/logo-light.png';
       } else if (logo.classList.contains('only-dark')) {
-        logo.src = '_static/logo-dark.png'; // Replacing with the dark logo
+        logo.src = isTagsFolder ? '../_static/logo-dark.png' : '_static/logo-dark.png'; 
       }
     });
 

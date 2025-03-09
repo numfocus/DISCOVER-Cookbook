@@ -1,0 +1,22 @@
+[data-mode="auto"] { 
+    display: none !important;  
+}
+
+.theme-switch-button {
+    cursor: pointer !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: inline-flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.theme-switch-button svg {
+    transition: opacity 0.2s ease-in-out !important;
+}
+
+.theme-switch-button:hover svg {
+    transform: scale(1.05) !important;
+}
