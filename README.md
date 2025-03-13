@@ -3,12 +3,12 @@
 
 The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
 
-If you are looking to read the book please visit https://discover-cookbook.numfocus.org/ for a live version of the book. This is the code that powers that website and is intended for maintainers and contributors.
+If you are looking to read the book please visit https://discover-cookbook.numfocus.org/ for a live version of the book. This is the code that powers that website and is intended for offerings and contributors.
 
 
 ## Ways to contribute to this repository
 
-The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
+The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of offering:
 
 ### Ideas, Questions, and Discussions
 
@@ -20,7 +20,7 @@ Please add issues on [the github issue tracker](https://github.com/numfocus/DISC
 
 ### Content and Design
 
-While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but just understand that it will take time to add. Please start an idea in the discussions, then move to making an issue once there is approval for the content to be added to the book. After that issue is made we feel free to open [a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls) against the repository to begin the review process.
+While content is the heart of the project, the quality of the content needs to endure high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but just understand that it will take time to add. Please start an idea in the discussions, then move to making an issue once there is approval for the content to be added to the book. After that issue is made we feel free to open [a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls) against the repository to begin the review process.
 
 ### Bug fixes
 
@@ -138,4 +138,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Offering of any kind welcome!
