@@ -16,7 +16,7 @@ Please contribute ideas, questions, and discussions for content or enhancements 
 
 ### Problems or Tracking of Work Items from Ideas, Questions, or Discussions
 
-Please add issues on [the Github issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/discussions). 
+Please add issues on [the Github issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/issues). 
 
 ### Content and Design
 
