@@ -16,7 +16,7 @@ Please contribute ideas, questions, and discussions for content or enhancements 
 
 ### Problems or Tracking of Work Items from Ideas, Questions, or Discussions
 
-Please add issues on [the github issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/discussions). 
+Please add issues on [the Github issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/discussions). 
 
 ### Content and Design
 
@@ -24,11 +24,50 @@ While content is the heart of the project, the quality of the content needs to r
 
 ### Bug fixes
 
-For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
+For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
-### See Also
 
-For more information, see the `contributing.md` file with a fuller guide on how to contribute.
+### Contribution Workflow
+
+To contribute changes:
+
+1. **Fork the Repository**: Click the "Fork" button at the top-right of this repository's GitHub page to create a copy in your account.
+
+2. **Clone Your Fork**:
+   ```sh
+   git clone https://github.com/your-username/DISCOVER-Cookbook.git
+   cd DISCOVER-Cookbook
+   ```
+
+3. **Create a New Branch**:
+   ```sh
+   git checkout -b your-branch-name
+   ```
+
+4. **Make Changes**: 
+   - Edit files in your preferred editor
+   - Build and verify your changes locally using the [build instructions](#how-to-run-the-book-locally) below
+   
+5. **Test Locally**: Build the book and view your changes:
+   ```sh
+   jupyter-book build DISCOVER
+   python -m http.server 8000 --directory DISCOVER/_build/html/
+   ```
+   Visit [`http://localhost:8000`](http://localhost:8000) in your browser to verify changes.
+
+6. **Commit and Push**:
+   ```sh
+   git add .
+   git commit -m "Description of your changes"
+   git push origin your-branch-name
+   ```
+
+7. **Open a Pull Request**: Navigate to your fork on GitHub, select your branch, and click "New Pull Request". Provide a clear description of your changes.
+
+
+### For More Information
+
+See the `contributing.md` for a detailed guide on how to contribute.
 
 
 ## How to run the book locally
@@ -71,6 +110,27 @@ pip install -r requirements.txt
 ``` sh
 jupyter-book build DISCOVER
 ```
+### View Locally  
+After building, you can view the book in one of the following ways:  
+
+#### **Option 1: Using a Local Server**  
+Run the following command to start a local server:  
+```sh
+python -m http.server 8000 --directory DISCOVER/_build/html/
+```
+Then, open [`http://localhost:8000`](http://localhost:8000) in your browser.  
+
+#### **Option 2: Opening the File Directly**  
+Alternatively, you can open the book directly by navigating to:  
+```
+DISCOVER/_build/html/index.html
+```
+and opening it in your browser.  
+
+> **Note:** Make sure you have built the book again before accessing it.
+
+---
+
 
 ## Contributors ✨
 
