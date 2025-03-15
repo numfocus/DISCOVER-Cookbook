@@ -13,7 +13,7 @@
 
 ## Grants 
 
-   - Based on our research, grants to cover childcare costs seem to be popular with attendees. (On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
+   - Based on feedback from attendees, grants to cover childcare costs are in high demand.(On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
       - You might survey your participants to determine their preference for grants vs. on-site childcare services.
       - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
     - For those who do bring kids to the event/conference:
