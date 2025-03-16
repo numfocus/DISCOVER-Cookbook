@@ -38,7 +38,7 @@ Registration vs. Travel &amp; Lodging
   - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships. (e.g. [PyData offers Diversity Scholarships as sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))
   - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — [Open Source Bridge](https://web.archive.org/web/20160527052000/http://opensourcebridge.org/blog/2016/05/childcare-and-scholarships/) did this.)
   - Dedicate surpluses from previous events to funding fellowships.
-- Possible Funding Sources (requires further research)
+- Possible Funding Sources (needs more research)
   - [Python Software Foundation](http://legacy.python.org/psf/grants/)
   - [NumFOCUS Foundation](https://numfocus.org/programs/small-development-grants)
     - Offers grants to organizing committees for diversity scholarships
