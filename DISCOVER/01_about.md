@@ -10,7 +10,7 @@ This cookbook is intended as a resource for **organizers of conferences and even
 
 It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event.
 
-_This cookbook was made possible through a generous grant from the_ **Moore Foundation** _._
+_Funding to produce this cookbook was made possible by a generous grant from the_ **Moore Foundation** _._
 
 ## What this Cookbook is not:
 
