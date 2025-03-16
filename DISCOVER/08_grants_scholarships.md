@@ -8,7 +8,7 @@
 
 Registration vs. Travel &amp; Lodging
 - Registration waiver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
-    - Most [PyData](http://www.pydata.org) Diversity Scholarship recipients indicated that receiving funding to cover registration was a make-or-break for their ability to attend. 
+    - Most [PyData](http://www.pydata.org) Diversity Scholarship recipients indicated that receiving funding to cover registration was make-or-break for their ability to attend. 
 - However, registration waivers alone often aren't enough.
     - Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients who didn&#39;t have additional outside sources of funding for travel &amp; lodging were unable to attend even though their registration was covered.
   - Interest in [Galaxy fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) went up when covering the first $n of travel costs was added, as well.
