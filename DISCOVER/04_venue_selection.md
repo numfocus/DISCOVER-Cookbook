@@ -51,7 +51,7 @@
 
 ### Gender-Neutral Bathrooms
 
-- Ideally you would provide 3 restrooms: gender-neutral, female, male.
+- Ideally you would provide 3 types of restrooms: gender-neutral, female, male.
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms:
   - 🍎 List the specific amenities and what type of restroom it is. For example:
