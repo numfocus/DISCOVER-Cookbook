@@ -31,7 +31,7 @@ Please add issues on the github issue tracker.
 While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but just understand that it will take time to add. Please start an idea in the discussions, then move to making an issue once there is approval for the content to be added to the book. After that issue is made we feel free to open a pull request against the repository to begin the review process.
 
 ## Bug fixes
-For issues with other elements of the book, first make sure an [open an issue](https://github.com/numfocus/DISCOVER-handbook/issues) and tracking can occur on the issue. Then open a a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
+For issues with other elements of the book, first make sure an [open an issue](https://github.com/numfocus/DISCOVER-handbook/issues) and tracking can occur on the issue. Then open a a pull request(https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
 ## See Also
 
