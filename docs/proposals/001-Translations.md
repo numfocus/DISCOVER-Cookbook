@@ -1,16 +1,17 @@
 ## Title
-Translation Project for Discover-Cookbook
+Translation Project for DISCOVER-Cookbook
 
 ## Abstract
-The discover-cookbook is a valuable resource for culinary enthusiasts. Translating the content will make it accessible to a broader audience, fostering a global community of users. The project involves generating translations for the discover-cookbook, integrating language selection switches, updating translations as content changes, and engaging translators to contribute.
+The NumFOCUS DISCOVER-Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is a guide for organizing more diverse and inclusive events and conferences. Translating the content will make it accessible to a broader audience, fostering a global community of users. The project involves generating translations for the DISCOVER-cookbook, integrating language selection switches, updating translations as content changes, and engaging translators to contribute.
 
 ## Technical Details
 
 ### 1. Generating Translations
-**What We Are Doing:** Translating the entire content of the discover-cookbook into multiple languages.
+**What We Are Doing:** Translating the entire content of the DISCOVER-cookbook into multiple languages.
 
 **Technical Approach:**
-- Evaluate and select a reliable translation tool or service (e.g., Google Translate, Microsoft Translator).
+-  Working with translation communities that could provide the translation and feedback, e.g. [translatewiki](https://translatewiki.net/).
+
 - Machine Translation APIs: [Google Cloud Translation API](https://cloud.google.com/translate), [Microsoft Translator Text API](https://azure.microsoft.com/en-us/services/cognitive-services/translator/).
 - Establish a workflow for translating existing content, ensuring consistency and accuracy.
 
@@ -25,8 +26,7 @@ The discover-cookbook is a valuable resource for culinary enthusiasts. Translati
 
 **Technical Approach:**
 - Identify and implement language switch mechanisms (e.g., dropdown menus, toggle buttons) within the book's platform.
-- Frontend Frameworks: React.
-- Backend Frameworks: Node.js, Django.
+- YAML-based translation and Jinja2 templates are flexible for multilingual content.
 - Test the functionality across different devices and browsers to ensure seamless language switching.
 
 ### 3. Updating Translations
@@ -34,7 +34,7 @@ The discover-cookbook is a valuable resource for culinary enthusiasts. Translati
 
 **Technical Approach:**
 - Create a process for tracking changes in the original content.
-- Version Control Systems: Git with GitHub Actions.
+- Version Control Systems: Git with GitHub Actions, Crowdin.
 - Implement a notification system to inform translators of updates.
 
 ### 4. Engaging Translators
@@ -94,10 +94,10 @@ The discover-cookbook is a valuable resource for culinary enthusiasts. Translati
 - Currently working on a hackathon project named PyPiePie [PyPiePie](https://github.com/AstroAirafar/PyPiePie): A game to teach Python via stories and projects.
 
 ## Why This Project?
-The NumFOCUS DISCOVER Handbook is a transformative initiative aimed at fostering diversity and inclusion in the scientific and computing communities. It fosters the following:
+The NumFOCUS DISCOVER Cookbook is a transformative initiative aimed at fostering diversity and inclusion in the scientific and computing communities. It fosters the following:
 - Promoting Diversity and Inclusion.
 - Empowering Communities.
 - Long-Term Change: The project aims to create lasting change by embedding diversity and inclusion into the fabric of scientific conferences and events. This enduring impact benefits current and future generations of scientists and technologists.
 
 ## Why Do You Want to Do This Project?
-I am deeply committed to promoting diversity and inclusion in all areas of life, including the scientific and computing communities. This project aligns perfectly with my values and aspirations. My background in software development, data analysis, and project planning makes me well-suited to contribute effectively to this project. I can apply my skills to create comprehensive and user-friendly resources. This project provides a unique opportunity to learn from experts in diversity and inclusion, expanding my knowledge and understanding of these crucial areas. Being part of the NumFOCUS DISCOVER Handbook project means contributing to meaningful change that enhances the inclusivity and accessibility of scientific events. This impact resonates with my desire to make a positive difference in the world.
+I am deeply committed to promoting diversity and inclusion in all areas of life, including the scientific and computing communities. This project aligns perfectly with my values and aspirations. My background in software development, data analysis, and project planning makes me well-suited to contribute effectively to this project. I can apply my skills to create comprehensive and user-friendly resources. This project provides a unique opportunity to learn from experts in diversity and inclusion, expanding my knowledge and understanding of these crucial areas. Being part of the NumFOCUS DISCOVER Cookbook project means contributing to meaningful change that enhances the inclusivity and accessibility of scientific events. This impact resonates with my desire to make a positive difference in the world.
