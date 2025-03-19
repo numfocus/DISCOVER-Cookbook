@@ -5,7 +5,7 @@
 # Participant and Speaker Selection
 
 ## Speakers
-
+"Speakers usually don’t request invitations, so proactively reaching out to them is key to securing great speakers."
 ### Invited Speakers
 
 - ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
