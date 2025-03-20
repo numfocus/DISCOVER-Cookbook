@@ -1,7 +1,9 @@
 ```{tags} Participant-Diversity, Presenter-Line-up, Embracing-Diverse-Voices-and-Experiences, Unconscious-and-Implicit-Bias, Tokenism
+
 ```
 
 (participant_and_speaker_selection)=
+
 # Participant and Speaker Selection
 
 ## Speakers
@@ -16,13 +18,14 @@
   - Research and follow speaker lists compiled by other organizations and communities
   - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
   - If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.
-- 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference) 
+- 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference)
   - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome.
   - &quot;Speakers who have advice or expertise to share&quot; &gt; Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
 - Ensure panels and roundtables include a diversity of participants
   - Make strategic use of the moderator role to help support diverse participation
 
 ### Selecting Speakers
+
 **Tags:** <span style="color:red"> Calls for Papers and Proposals</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Code of Conduct</span>
 
 - 🍎 Call For Proposals (CFP) instructions
@@ -68,23 +71,24 @@
 ### Call For Proposals review (&quot;double-blind&quot; vs &quot;affirmative action&quot;)
 
 **Tags:** <span style="color:red"> Unconscious and Implicit Bias</span>, <span style="color:red"> Discrimination</span>, <span style="color:red"> Calls for Papers & Proposals</span>, <span style="color:red"> Organisation and Program Committees</span>
-  - **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
-    - &quot;Open&quot; review is a form of review in which the names of the reviewers are made public.
-    - &quot;Double-Open&quot; review is when the reviewers know the identity of the proposal author and the proposal author also knows the identity of their reviewers
-    - &quot;Double Blind&quot; review means the reviewers do not know the identity of the proposal author and vice versa. 
-    - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
-    - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
-   - **Double &quot;Blind&quot; Review**
-     - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
-      - You might create a CFP form that instructs the submitter to withhold identifying information.
-      - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
-      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
-      - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
-  - **Double Open Review**
-    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-    - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
- - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
- 
+
+- **&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**
+  - &quot;Open&quot; review is a form of review in which the names of the reviewers are made public.
+  - &quot;Double-Open&quot; review is when the reviewers know the identity of the proposal author and the proposal author also knows the identity of their reviewers
+  - &quot;Double Blind&quot; review means the reviewers do not know the identity of the proposal author and vice versa.
+  - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
+  - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
+- **Double &quot;Blind&quot; Review**
+  - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
+  - You might create a CFP form that instructs the submitter to withhold identifying information.
+  - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
+  - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
+  - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
+- **Double Open Review**
+  - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
+  - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
+- ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed)
+
 **Further reading:**
 
 - [Double- versus Single-Blind Review: New study provides evidence that when those reviewing panel submissions see a woman's name, she is less likely to be invited than if no name is seen](https://www.insidehighered.com/news/2016/09/07/new-study-suggests-continued-bias-academic-conference-panel-selections)
@@ -93,9 +97,72 @@
 - [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
 - [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
 - [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
-Encourage double-blind reviewing processes.
+  Encourage double-blind reviewing processes.
 - [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
 - [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
 
+## Conference Etiquette Guidelines
 
+To maintain a professional and respectful environment, here are important etiquette guidelines for conference participants:
+
+1. **Maintain Professional Conduct**
+
+   - Behave professionally during all conference activities
+   - Practice moderation at social events
+   - Remember you are representing yourself and your organization
+
+2. **Respect Speakers and Their Work**
+
+   - Engage constructively with speakers' content
+   - Ask questions that contribute to the discussion
+   - Save lengthy discussions or debates for after the session
+
+3. **Be Mindful During Q&A Sessions**
+
+   - Keep questions concise and relevant
+   - Allow others to have their turn at the microphone
+   - Save personal comments for post-session discussions
+
+4. **Show Respect for Others' Work**
+
+   - Provide constructive feedback when appropriate
+   - Avoid public criticism that could be considered hostile
+   - Remember that feedback should be professional and helpful
+
+5. **Practice Inclusive Behavior**
+
+   - Follow the Code of Conduct
+   - Treat all attendees with respect and courtesy
+   - Do not engage in harassment or discriminatory behavior
+
+6. **Take Care of Your Health**
+
+   - Remember to eat regular meals
+   - Stay hydrated
+   - Get adequate rest to maintain energy throughout the conference
+
+7. **Maintain Professional Relationships**
+
+   - Speak respectfully about colleagues and their work
+   - Focus on constructive discussion rather than criticism
+   - Build positive professional connections
+
+8. **Stay Open to Learning**
+
+   - Approach sessions with a learning mindset
+   - Value others' expertise and experience
+   - Be open to new perspectives and ideas
+
+9. **Be Considerate of Others' Time**
+
+   - Respect speakers' and attendees' time constraints
+   - Allow others to have their turn in discussions
+   - Be mindful of session schedules
+
+10. **Prioritize Health and Safety**
+    - Follow venue health guidelines
+    - Consider wearing masks when appropriate
+    - Stay home if you are feeling unwell
+
+These guidelines help create an environment where all participants can learn, network, and share ideas effectively while maintaining professional standards.
