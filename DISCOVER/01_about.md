@@ -38,6 +38,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 - [Scent and smoking policy](https://adacamp.org/adacamp-toolkit/policies/#scent)
 - [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
+- [Twine](https://twinery.org/)-A tool for creating branching narratives. It’s great for interactive storytelling and decision-making.  
 
 
 ## Special Considerations Depending on Geographic Context
