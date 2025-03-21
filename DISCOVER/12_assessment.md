@@ -11,6 +11,6 @@ See whether there is any correlation between being part of a minority group and 
 - Communicate any findings to the next organizing committee if the conference/event is part of a series
 
 **Further Reading**
-Be sure to check out the [Event Registration](./10_event_registration.md) section on "Demographic Info" before undertaking any survey that asks participants for information on their identity.
+- Be sure to check out the [Event Registration](./10_event_registration.md) section on "Demographic Info" before undertaking any survey that asks participants for information on their identity.
 
 
