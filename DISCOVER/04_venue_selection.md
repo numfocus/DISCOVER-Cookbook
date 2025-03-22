@@ -55,7 +55,7 @@
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms:
   - 🍎 List the specific amenities and what type of restroom it is. For example:
-  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" Example image from a Google Groups attachment (currently inaccessible). [^lf-source]
+  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" Example image from a Google Groups attachment [Best Practices for All-Gender Restroom Design](https://trivers.com/best-practices-for-all-gender-restroom-design/) [^lf-source]
   - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
   - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
