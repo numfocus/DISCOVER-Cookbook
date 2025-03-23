@@ -12,6 +12,10 @@ It focuses specifically on plans, decisions, and actions organizers can take to 
 
 _Funding to produce this cookbook was made possible by a generous grant from the_ **Moore Foundation** _._
 
+**Further Reading:**
+- <a href="/_static/resources/DISCOVER-Cookbook-checklist.pdf" download>DISCOVER Cookbook Checklist </a> — A practical checklist for conference organizers to implement inclusive measures effectively.
+
+
 ## What this Cookbook is not:
 
 This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
