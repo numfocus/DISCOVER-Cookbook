@@ -1,11 +1,11 @@
-## DISCOVER Handbook Governance Guide
+## DISCOVER Cookdbook Governance Guide
 
 The purpose of this document is to outline the purpose, roles, and decision processes for this repository. The hope is to guide the community on how to accept contributions and maintain the cookbook to the standards of the NumFOCUS Community. 
 
 # **Open Source Project Objectives**
 
 * Conference Organizer Enablement
-  - Conference organizers should be able to easily access and use the handbook
+  - Conference organizers should be able to easily access and use the Cookbook
   - Every effort will be made to be responsive to issues
 * Repo Quality
   - Repo remains in healthy state with good-quality, consistent codebase
