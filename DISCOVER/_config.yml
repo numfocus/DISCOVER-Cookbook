@@ -23,6 +23,9 @@ html:
   use_repository_button: true
   html_in_header:
     - '<script src="_static/logo-switcher.js"></script>'
+    - '<script src="_static/footer-override.js"></script>'
+
+
   extra_css:
     - _static/mainLogo.css
 

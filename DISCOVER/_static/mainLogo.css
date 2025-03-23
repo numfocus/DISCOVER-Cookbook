@@ -1,7 +1,77 @@
+/* Image styling for content area */
 html[data-theme=dark] .bd-content img:not(.only-dark,.dark-light) {    
     background: transparent !important;
     border-radius: .25rem;
 }
-html .bd-content img:not(.only-dark,.dark-light){
+
+html .bd-content img:not(.only-dark,.dark-light) {
     padding: 1rem 0;
 }
+
+/* Custom footer styles */
+.bd-footer-content_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+  }
+  
+  .footer-item {
+    margin: 0;
+  }
+  
+  .footer-item:last-child {
+    text-align: right;
+  }
+  
+  .component-author,
+  .copyright {
+    margin: 0.25rem 0;
+  }
+  
+  .numfocus-logo {
+    max-width: 120px;
+    height: auto;
+  }
+  .social-links {
+    display: flex;
+    gap: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .social-links a {
+    color: #666;
+    transition: color 0.2s ease;
+  }
+  
+  .social-links a:hover {
+    color: #4078c0; /* GitHub blue, adjust as needed */
+  }
+  
+  .social-links svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  /* Dark theme adjustment */
+  html[data-theme=dark] .social-links a {
+    color: #ccc;
+  }
+  
+  html[data-theme=dark] .social-links a:hover {
+    color: #fff;
+  }
+  
+  
+  /* For responsive design */
+  @media (max-width: 768px) {
+    .bd-footer-content_inner {
+      flex-direction: column;
+      text-align: center;
+    }
+    
+    .footer-item:last-child {
+      margin-top: 1rem;
+      text-align: center;
+    }
+  }
