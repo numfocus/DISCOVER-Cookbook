@@ -1,4 +1,4 @@
-# DISCOVER Handbook Contribution Guide
+# DISCOVER Cookbook Contribution Guide
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook. This guide outlines how to effectively contribute to this project.
 
