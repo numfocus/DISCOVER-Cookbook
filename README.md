@@ -67,7 +67,7 @@ To contribute changes:
 
 ### For More Information
 
-See the `contributing.md` for a detailed guide on how to contribute.
+See the [contributing.md](CONTRIBUTING.md) for a detailed guide on how to contribute.
 
 
 ## How to run the book locally
