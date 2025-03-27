@@ -7,7 +7,7 @@
 **Why funding is important**
 
 Registration vs. Travel &amp; Lodging
-- Registration waver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
+- Registration waiver scholarships can be highly effective in creating opportunities for underrepresented folks to attend your event.
     - Most [PyData](http://www.pydata.org) Diversity Scholarship recipients indicated that receiving funding to cover registration was make-or-break for their ability to attend. 
 - However, registration waivers alone often aren't enough.
     - Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients who didn&#39;t have additional outside sources of funding for travel &amp; lodging were unable to attend even though their registration was covered.
@@ -36,7 +36,7 @@ Registration vs. Travel &amp; Lodging
 - How to attract funding for scholarships?
   - Consider posting an opportunity for attendees or community members to make individual donations in support of travel scholarships.
   - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships. (e.g. [PyData offers Diversity Scholarships as sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))
-  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](https://web.archive.org/web/20160527052000/http://opensourcebridge.org/blog/2016/05/childcare-and-scholarships/).)
+  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — [Open Source Bridge did this](https://web.archive.org/web/20160527052000/http://opensourcebridge.org/blog/2016/05/childcare-and-scholarships/).
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
   - [Python Software Foundation](http://legacy.python.org/psf/grants/)
