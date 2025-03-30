@@ -1,4 +1,4 @@
-name: DISCOVER-handbook
+name: DISCOVER-Cookbook
 channels:
   - conda-forge
   - defaults
