@@ -1,6 +1,6 @@
-# DISCOVER Handbook Contribution Guide
+# DISCOVER cookbook Contribution Guide
 
-NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via [pull request (PR)](https://github.com/numfocus/DISCOVER-handbook).
+NumFOCUS invites the community to make suggestions for improvements to the DISCOVER cookbook via [pull request (PR)](https://github.com/numfocus/DISCOVER-cookbook).
 
 # Contibuting
 
@@ -18,20 +18,23 @@ The original body of work took place at a series of unconferences and various sp
 
 All contributions should conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
-
 ## Ideas, Questions, and Discussions
+
 Please contribute ideas, questions, and discussions for content or enhancements over in the discussions tab.
 
-## Problems or Issues 
+## Problems or Issues
+
 Please add issues on the github issue tracker.
 
 ## Longer Initiatives
 
 ## Content and Design
+
 While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but just understand that it will take time to add. Please start an idea in the discussions, then move to making an issue once there is approval for the content to be added to the book. After that issue is made we feel free to open a pull request against the repository to begin the review process.
 
 ## Bug fixes
-For issues with other elements of the book, first make sure an [open an issue](https://github.com/numfocus/DISCOVER-handbook/issues) and tracking can occur on the issue. Then open a a pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
+
+For issues with other elements of the book, first make sure an [open an issue](https://github.com/numfocus/DISCOVER-cookbook/issues) and tracking can occur on the issue. Then open a a pull request](https://github.com/numfocus/DISCOVER-cookbook/pulls).
 
 ## See Also
 
