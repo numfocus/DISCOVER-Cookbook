@@ -1,4 +1,4 @@
-## DISCOVER Handbook Governance Guide
+## DISCOVER Cookbook Governance Guide
 
 The purpose of this document is to outline the purpose, roles, and decision processes for this repository. The hope is to guide the community on how to accept contributions and maintain the cookbook to the standards of the NumFOCUS Community. 
 
