@@ -231,7 +231,9 @@ What to ask on your registration form (and what not to ask)
 -   Payment
 
 
-	-   Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
+	-   Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front. However, waiting for reimbursement can be a financial burden on scholarship recipients.
+
+    To address this, sponsors should cover as many expenses directly as possible, such as flights, hotel stays (including deposits), and other logistical costs. For expenses that cannot be paid directly, systems like Ramp allow the creation of virtual credit cards, which can be issued to recipients for pre-approved costs. These virtual credit cards can then be paid by the sponsor, reducing the financial strain on attendees.
 
 	-   We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
 
