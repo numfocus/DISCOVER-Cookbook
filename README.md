@@ -1,7 +1,7 @@
-# DISCOVER-handbook
+# DISCOVER-cookbook
 ![All Contributors](https://img.shields.io/github/all-contributors/numfocus/DISCOVER-Cookbook?color=ee8449)
 
-The NumFOCUS DISCOVER Handbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
+The NumFOCUS DISCOVER Cookbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
 
 If you are looking to read the book please visit https://discover-cookbook.numfocus.org/ for a live version of the book. This is the code that powers that website and is intended for maintainers and contributors.
 
@@ -81,7 +81,7 @@ conda env create -f environment.yml
 ```
 2. Activate the Conda Environment
 ```sh
-conda activate DISCOVER-handbook
+conda activate DISCOVER-cookbook
 ```
 3. Finally, to build the Jupyter Book
 ``` sh
