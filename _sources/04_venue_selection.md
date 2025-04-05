@@ -77,7 +77,7 @@
 
 ### 🍎 Nursing &amp; Pumping Room
 
-- Ensure there is a dedicated, single-occupancy space with lock.
+- Ensure there is a dedicated, single-occupancy space with a locking door.
 - For the room to be optimally useful, these things are desired:
   - Locking door
   - Comfortable chair (ideally, with arms that do not have gaps between the armrest and the seat, and a set of firm cushions for positioning an infant)
