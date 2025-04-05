@@ -379,7 +379,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/31421616?v=4",
       "profile": "https://rivaquiroga.cl/",
       "contributions": [
-        "ideas"
+        "ideas",
+        "code",
+        "maintenance"
       ]
     }
   ],
