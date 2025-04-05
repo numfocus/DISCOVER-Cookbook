@@ -57,7 +57,7 @@
   - 🍎 List the specific amenities and what type of restroom it is. For example:
   - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" For detailed guidelines and examples of inclusive restroom signage, refer to [Best Practices for All-Gender Restroom Signage](https://pridefoundation.org/wp-content/uploads/2020/04/All-Gender-Restrooms.pdf).
   - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
-  - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
+    - For example: "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
 ### Toiletries/Supplies
 
