@@ -92,7 +92,7 @@
 - [Is open peer review the way forward?](https://www.elsevier.com/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-way-forward)
 - [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
 - [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
-- [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9) — Encouraging double-blind reviewing processes.
+- [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
 - [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
 - [Effectiveness of Anonymization in Double-Blind Review](https://arxiv.org/abs/1709.01609)
