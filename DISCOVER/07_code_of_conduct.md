@@ -33,7 +33,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
     - The event organizers or project management team create the packet.
     - A sponsor packet is distributed to potential sponsors, helping them understand what they’re agreeing to by sponsoring.
  - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines
- - 🍎 Ensure that Code of Conduct is **easily** accessible on the conference website
+ - 🍎 Ensure that the Code of Conduct is **easily** accessible on the conference website
    - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
    - Implement additional web-based highlights of the CoC via loading pages, pop-ups, screen savers, etc.
  - 🍎 Include a short version of the Code of Conduct on the printed schedule as a reminder

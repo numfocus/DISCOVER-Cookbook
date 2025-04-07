@@ -370,7 +370,19 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
       "profile": "https://danielskatz.org",
       "contributions": [
-        "code"
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rivaquiroga",
+      "name": "Riva Quiroga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31421616?v=4",
+      "profile": "https://rivaquiroga.cl/",
+      "contributions": [
+        "ideas",
+        "code",
+        "maintenance"
       ]
     }
   ],
