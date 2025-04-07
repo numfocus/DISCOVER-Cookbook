@@ -11,7 +11,7 @@
 - ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
 - Identify a group of people to solicit as conference speakers
   - Take extra steps to ensure a diverse speaker pool
-    - Make the list of potential speakers who are underrepresented longer than list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
+    - Make the list of potential speakers who are underrepresented longer than the list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
   - Keep and maintain a list of possible speakers with expertise and their contact info
   - Research and follow speaker lists compiled by other organizations and communities
   - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
@@ -93,9 +93,8 @@
 - [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
 - [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
 - [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
-Encourage double-blind reviewing processes.
 - [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
-- [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
+- [Effectiveness of Anonymization in Double-Blind Review](https://arxiv.org/abs/1709.01609)
 
 
