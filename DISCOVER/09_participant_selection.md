@@ -15,7 +15,7 @@
   - Keep and maintain a list of possible speakers with expertise and their contact info
   - Research and follow speaker lists compiled by other organizations and communities
   - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
-  - If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.
+  - If your system relies on speakers coming to you to ask, but research shows they usually not to do so, they won&#39;t come.
 - 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference) 
   - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome.
   - &quot;Speakers who have advice or expertise to share&quot; &gt; Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
