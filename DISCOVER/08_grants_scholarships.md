@@ -13,23 +13,44 @@ Registration vs. Travel &amp; Lodging
     - Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients who didn&#39;t have additional outside sources of funding for travel &amp; lodging were unable to attend even though their registration was covered.
   - Interest in [Galaxy fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) went up when covering the first $n of travel costs was added, as well.
 
+Here’s an enhanced version of your section with additional information about how students can receive direct funding from organizers:
+
+---
+
 ✅ **Offer grants to support attendance**
 
-- Eligibility Requirements
-  - Applicants should be 
-    - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
-    - and be unable to attend without some financial assistance [^lf-source].
-  - Also consider providing support for applicants from developing economies.
-    - You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and low-middle income.
+- **Eligibility Requirements**
+  - Applicants should be  
+    - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities  
+    - and be unable to attend without some financial assistance [^lf-source].  
+  - Also consider providing support for applicants from developing economies.  
+    - You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and low-middle income.  
   - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
-  
-- The legal issues of specifically funding underrepresented groups varies by country.
-    - [Galaxy](https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
-    
-- Payment
-  - Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
-  - We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it. 
-    - Waiting for reimbursement can be a financial burden on scholarship recipients.
+
+- **The legal issues of specifically funding underrepresented groups varies by country.**  
+  - [Galaxy](https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
+
+- **Payment**
+  - Typically, recipients either:
+    - Submit receipts for reimbursement,
+    - Have direct expenses (e.g., flights, accommodation, registration) paid for by the organizing committee, or
+    - Are granted a lump sum up-front.
+  - We **encourage conferences to pay for things directly** rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for those who need it.  
+    - Waiting for reimbursement can be a financial burden on scholarship recipients.  
+
+- **Direct Funding for Students**
+  - Organizers can work with travel agencies, hotels, and universities to make bookings and payments on behalf of students. For example:
+    - **Travel arrangements**: Conference organizers can directly book and pay for flights or train tickets through a partnered agency.
+    - **Accommodation**: Hotel bookings can be made in bulk with payment handled centrally, removing the burden of upfront costs for attendees.
+    - **Registration waivers**: Offer free or discounted registration codes during the application process.
+    - **Meal stipends or prepaid cards**: Provide prepaid cards or vouchers to cover meals and local transport.
+    - **Advance lump-sum payments**: Where direct payment is not possible, grant small upfront stipends before the event starts, rather than waiting for reimbursement after.
+
+  - To streamline the process, organizers should:
+    - Provide clear instructions on how applicants can request and receive direct payments.
+    - Appoint a contact person or small committee to handle individual cases.
+    - Ensure all financial assistance options are advertised in the call for applications and on the conference website.
+
 
 **Where to seek funding**
 
