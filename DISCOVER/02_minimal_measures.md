@@ -33,7 +33,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 #### Disability
 
 -   🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
-
+-   🍎 Use a colorblindness simulator (e.g., [DaltonLens](https://daltonlens.org/colorblindness-simulator)) to ensure visual materials are accessible to attendees with color vision deficiencies. Avoid using color alone to convey information—pair it with text or icons.
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees.**
 
 
