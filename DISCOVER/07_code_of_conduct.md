@@ -28,7 +28,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
  - 🍎 Tick box at registration that confirms that the participant has read the Code of Conduct
      - A pop-up with a short version may also be a good idea.
      - Provide a link to the full ("less quick") version of the Code of Conduct, hosted on its own page.
- - 🍎 Include a copy of the Code of Conduct in the sponsor packet
+ - 🍎 Include a copy of the Code of Conduct in the sponsor packet (A sponsor packet is a formal document provided to potential sponsors that outlines the event or organization's mission, audience, sponsorship tiers, benefits, and expectations)
  - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines
  - 🍎 Ensure that the Code of Conduct is **easily** accessible on the conference website
    - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
