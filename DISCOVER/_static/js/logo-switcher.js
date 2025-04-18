@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const isTagsFolder = window.location.pathname.includes('/_tags/');
   logos.forEach(logo => {
     if (logo.classList.contains('only-light')) {
-      logo.src = isTagsFolder ? '../_static/logo-light.png' : '_static/logo-light.png';// Replacing with the light logo
+      logo.src = isTagsFolder ? '../_static/images/logo-light.png' : '_static/images/logo-light.png';// Replacing with the light logo
     } else if (logo.classList.contains('only-dark')) {
-      logo.src = isTagsFolder ? '../_static/logo-dark.png' : '_static/logo-dark.png';// Replacing with the dark logo
+      logo.src = isTagsFolder ? '../_static/images/logo-dark.png' : '_static/images/logo-dark.png';// Replacing with the dark logo
     }
   });
 
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let isDarkMode = document.documentElement.getAttribute("data-theme") === "dark"; // Check theme
 
     if (mainLogo) {
-        mainLogo.src = isDarkMode ? "_static/logo-dark.png" : "_static/logo-light.png"; // Change image source
+        mainLogo.src = isDarkMode ? "_static/images/logo-dark.png" : "_static/images/logo-light.png"; // Change image source
     }
   }
 
