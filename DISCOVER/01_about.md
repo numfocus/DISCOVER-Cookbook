@@ -13,8 +13,7 @@ It focuses specifically on plans, decisions, and actions organizers can take to 
 _Funding to produce this cookbook was made possible by a generous grant from the_ **Moore Foundation** _._
 
 **Further Reading:**
-- <a href="/_static/resources/DISCOVER-Cookbook-checklist.pdf" download>DISCOVER Cookbook Checklist </a> — A practical checklist for conference organizers to implement inclusive measures effectively.
-
+- [DISCOVER Cookbook Checklist](/13_inclusive-checklist.md) — A practical checklist for conference organizers to implement inclusive measures effectively.
 
 ## What this Cookbook is not:
 
