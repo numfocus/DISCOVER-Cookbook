@@ -18,7 +18,7 @@ The purpose of this document is to outline the purpose, roles, and decision proc
     - *Responsibilities:*
         - Submit issues, ideas, pull requests
         - maintain the code of conduct
-        - reveiw pull requests
+        - review pull requests
     - *Eligibility:*
         - no criteria on people to accept, 
         - once a contribution is accepted, will be add to the contributor pages
@@ -27,7 +27,7 @@ The purpose of this document is to outline the purpose, roles, and decision proc
 
 * Maintainer
     - *Description:*
-        - Experienced project members who have made numerous contributions and is willing to take the responsibility for maintaining the repository
+        - Experienced project members who have made numerous contributions and are willing to take the responsibility for maintaining the repository
     - *Responsibilities:*
         - triage issues,
         - maintain content delivery,
@@ -37,7 +37,7 @@ The purpose of this document is to outline the purpose, roles, and decision proc
         - Lead the project in terms of versioning, quality assurance, and overarching objectives
     - *Eligibility:*
         - Needs to be familiar with GitHub-run projects and lifecycles of open source projects
-        - Needs to have contributed to the project significantly so that other maintainers can trust their decision
+        - Needs to have contributed to the project significantly so that other maintainers can trust their decisions
         - Needs to have time each week to respond to folks
     - *Current Team:*
         - see [DISCOVER COOKBOOK Maintainers Team](https://github.com/orgs/numfocus/teams/discover-cookbook-maintainers)
@@ -49,12 +49,12 @@ The purpose of this document is to outline the purpose, roles, and decision proc
         - review content issue
     - *Eligibility:*
         - Invitation only based on roles in NumFOCUS DISC 
-        - Must be able to attend editorial meetings roughly once per month
+        - Must be able to attend most editorial meetings, roughly once per month
     - *Current Team:*
         - see [DISCOVER COOKBOOK Editors](https://github.com/orgs/numfocus/teams/discover-cookbook-editors)
 * NumFOCUS DISC Committee
     - *Description:*
-        - members of the disc committee as elected per their charter 
+        - members of the DISC committee as elected per its charter 
     - *Responsibilities:*
         -  Act as a facilitator in resolving technical and content conflicts
         - Designate new approvers
@@ -81,33 +81,33 @@ repository goals of maintainability, completeness, and quality
 
 - Internal system changes are handled by maintainers directly, without others needing to be involved
 
-- How are new contributions managed
+- How new contributions are managed
     - A github pull request is made by anyone, preferred to be referencing a github issue unless very small change
     - A maintainer triages the issue.
         - content is tagged and assign to the editorial team to review
         - other tags are handled by maintainers
     - Revewers for a github pull request work with the contributor to approve the pull request
     - Once a pull request is approved, a maintainer will merge to the repository.
-    - Once merged maintaners will add those involved to the contributors list via all-contributors
+    - Once merged maintainers will add those involved to the contributors list via all-contributors
 
-- How do we review existing content
+- How existing content is reviewed
     - types of edits
         - copy edits
         - rewrite for clarity
         - changing content
     - let anyone make issue or pull requests
-    - monthly meeting we can review in person, but could be done adhoc
+    - in monthly meeting, we can review in person, but could be done ad hoc
     - At the monthly meeting will review
         1. open issues tagged as content related
-        2. review preassigned chapters
+        2. preassigned chapters
 
-- How do we determine which new content to add
+- How we determine which new content to add
     - Someone proposes new content either in a editorial meeting or on github discussions / issues
-    - Editorial team votes on adding the chapter
+    - Editorial team votes on adding new content, perhaps a section or a chapter
     - Editorial team opens an issue saying that new content in an area is being developed
-    - An editor writes or composes the chapter from contributions
-      - Alternative, we see if anyone external wants to make contributions or take the lead in drafting a new chapter
-    - The new content uses the reviewing proces above
+    - An editor writes or composes new content from contributions
+      - Alternative, we see if anyone external wants to make contributions or take the lead in drafting the new content
+    - We use the reviewing process above for the new content 
 
 - When how do we determine when to have the editorial meeting
     - second friday every month at 1500UTC, 
