@@ -20,8 +20,8 @@ The purpose of this document is to outline the purpose, roles, and decision proc
         - maintain the code of conduct
         - review pull requests
     - *Eligibility:*
-        - no criteria on people to accept, 
-        - once a contribution is accepted, will be add to the contributor pages
+        - Anyone can submit issues, pull requests, or discussion items to the project  
+        - To be recognized as a Contributor, must have an accepted issue, pull request, or idea in discussions (either on discussion boards or at in person event)
     - *Current Team:*
         - see [All Contributors File](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/.all-contributorsrc)
 
