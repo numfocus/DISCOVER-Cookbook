@@ -65,6 +65,8 @@ To contribute changes:
 
 7. **Open a Pull Request**: Navigate to your fork on GitHub, select your branch, and click "New Pull Request". Provide a clear description of your changes.
 
+8. **Start to working**.
+
 
 ### For More Information
 
