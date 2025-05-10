@@ -1,5 +1,3 @@
-## Infectious Disease Precautions and Protocols
-Protocols
 ### Overview
 To ensure a comprehensive approach to inclusion and diversity, it is essential to address concerns related to infectious diseases, such as COVID-19, at conferences and events. Implementing these precautions and protocols will help maintain a safe environment for all attendees.
 
