@@ -1,17 +1,16 @@
-# Proposal : Branch-Based Version Management System for DISCOVER Cookbook
+# Proposal : Tag-Based Version Management System for DISCOVER Cookbook
 
 ## Abstract
 
-This proposal outlines a comprehensive implementation strategy for a branch-based version management system for the DISCOVER Cookbook following industry-standard documentation versioning practices as used by scikit-learn, Matplotlib, NetworkX, and other NumFOCUS projects. The implementation will enable users to seamlessly navigate between different cookbook editions (v2.0/main and v1.0/master) through a version selector integrated with the existing Jupyter Book interface, while maintaining the current GitHub Pages infrastructure.
+This proposal outlines an implementation strategy for a tag-based version management system for the DISCOVER Cookbook following standard documentation versioning practices. The implementation will enable users to seamlessly navigate between different cookbook editions through a simple version selector integrated with the existing Jupyter Book interface, while maintaining the current GitHub Pages infrastructure.
 
 ## Detailed description
 
 ### Current Architecture Analysis
 
-The DISCOVER Cookbook currently maintains two separate versions with no navigation between them:
+The DISCOVER Cookbook currently has no formal versioning system:
 
-- Current version (v2.0) in the main branch, deployed at https://discover-cookbook.numfocus.org
-- Previous version (v1.0) in the master branch, deployed at https://discover-cookbook.github.io/
+- Current version is in the main branch, deployed at https://discover-cookbook.numfocus.org
 
 This structure creates several critical challenges:
 
@@ -24,12 +23,12 @@ This structure creates several critical challenges:
 
 ### Solution Architecture
 
-My implementation follows the industry-standard branch-based versioning model used by scikit-learn, Matplotlib, NetworkX, and other NumFOCUS projects:
+My implementation will use a tag-based versioning approach :
 
-1. **Branch-Version Mapping**:
-   - main branch (v2.0) → deployed to / (root path)
-   - master branch (v1.0) → deployed to /v1.0/
-   - future version branches → deployed to /v{X.Y}/
+1. **Tag-Based Version Management:**:
+   - Maintain a single active branch (main)
+   - Use Git tags to mark specific versions (latest version , previous versions)
+   - Deploy each tagged version to its corresponding URL path
 
 2. **URL Structure**:
    - Latest version: discover-cookbook.numfocus.org/
@@ -37,10 +36,8 @@ My implementation follows the industry-standard branch-based versioning model us
    - Version-specific pages: discover-cookbook.numfocus.org/v1.0/04_venue_selection/
 
 3. **Version UI Components**:
-   - Version dropdown menu in the left sidebar.
-   - Clear current version indicator
+   - Simple version selector in an appropriate location within the existing UI
    - Outdated version notification for non-latest versions(via banner at top)
-   - Context-preserving navigation between versions
 
 ### User Benefits
 
@@ -48,7 +45,7 @@ This implementation delivers significant user experience improvements:
 
 1. **Clear Version Context**: Users immediately know which version they're viewing and what other versions exist.
 
-2. **Seamless Navigation**: One-click switching between versions preserves topic context when possible.
+2. **Accessible Navigation**: Simple method for switching between versions.
 
 3. **Historical Transparency**: Easy access to how DEI recommendations have evolved over time.
 
@@ -79,74 +76,51 @@ Karan discovers the cookbook through social media:
 
 ## Implementation
 
-My implementation follows a systematic approach aligned with industry standards for documentation versioning:
+My implementation follows a systematic approach that respects the current project architecture:
 
-### 1. Version Data Architecture
+### 0. Design Phase
+I will first create detailed design documentation that includes:
 
-I will implement a centralized version registry that defines all versions and their relationships. This architecture will:
-- Provide a single source of truth for version information
-- Support automatic version detection from URL paths
-- Enable contextual navigation between versions
-- Scale to accommodate future versions
-- Maintain independence between versions
+- Tag-based versioning schema
+- UI mockups for version selection (minimal changes to existing design)
+- Deployment architecture
 
-The version data structure will include:
-- Version metadata (name, display name, URL path, branch, release date, status)
-- Utility functions for version detection and navigation
-- Mapping data for equivalent content across versions
+### 1. Tag-Based Version Structure
+
+I will implement a approach that:
+
+- Uses Git tags to mark specific versions
+- Creates a simple mapping file to track tagged versions
+- Requires minimal infrastructure changes
 
 ### 2. Enhanced GitHub Actions Workflow
 
-I will configure an improved deployment workflow by enhancing the existing GitHub Actions setup to:
-- Automatically detect the source branch
-- Map branches to appropriate URL paths
-- Apply version-specific configurations
-- Deploy to the correct subfolder in gh-pages
+I will configure the GitHub Actions workflow to:
+
+- Build and deploy tagged versions to their respective directories
+- Maintain the main branch deployment at the root path
 - Preserve the CNAME file for the custom domain
-
-The workflow will determine the target path based on the branch (main → /, master → /v1.0/) and deploy each version to its dedicated location while maintaining the shared domain.
-
 ### 3. Version Selector UI Component
 
 I will implement an accessible, user-friendly version selector component:
 
-1. **Component Location**: Integrated into the Jupyter Book in the left sidebar
-2. **Implementation Strategy**:
-   - DOM-based insertion for compatibility with Jupyter Book
-   - Event-driven interaction handling
-   
-3. **UI Features**:
-   - Current version indicator
-   - Dropdown for all available versions
-   - Version-specific metadata (status)
-   - Visual distinction for latest version
+- Integrates with the existing Jupyter Book UI
+- Provides a clear indicator of the current version
+- Offers a simple method to switch to other versions
 
-4. **Responsive Design**:
-   - Adapts to all screen sizes
-   - Maintains usability on mobile devices
-   - Follows existing responsive breakpoints
 <br><br>
 ![version-selector](togglebutton2.png)
 <br><br>
+
 ### 4. Outdated Version Notification Banner
 
-For non-latest versions (v1.0), I will implement a prominent notification banner:
+For non-latest versions, I will implement a notification banner:
 
-1. **Banner Design**:
-   - Full-width banner at the top of the page
-   - Distinct background color for visibility (red or any color of your choice)
-   - Clear typography with sufficient contrast
-   - Non-disruptive but immediately noticeable
+- Subtle indicator that appears in an unobtrusive location
+- Brief message indicating a newer version exists
+- Link to the equivalent page in the latest version
+- Designed to complement the existing UI without disrupting the user experience
 
-2. **Banner Content**:
-   - Clear message: "You are viewing an older version (v1.0) of the DISCOVER Cookbook"
-   - Direct link to equivalent page in latest version
-   - Release date information to provide context
-
-3. **Technical Implementation**:
-   - Conditional insertion based on version detection
-   - Responsive design for all screen sizes
-   - Persistent across page navigation within same version
 
 ![Banner](banner.png)
 
@@ -154,22 +128,16 @@ This banner ensures users are immediately aware when viewing outdated content wh
 
 ### 5. Cross-Version Navigation System
 
-I will develop intuitive navigation between versions:
+I will develop a simple navigation system between versions:
 
-1. **Path Mapping Algorithm**:
-   - Maps equivalent content across versions
-   - Handles renamed or restructured pages
-   - Provides graceful fallbacks when content differs
-
-2. **Implementation Strategy**:
-   - URL path normalization
-   - Content structure analysis
-   - Special case handling for moved content
-
+- Maps common pages across versions
+- Falls back to the main page when direct equivalents aren't available
+- Uses a straightforward URL-based approach
 
 ### 6. Integration with Jupyter Book
 
-I will extend the existing Jupyter Book configuration to:
+I will make minimal changes to the Jupyter Book configuration to:
+
 - Load version management components
 - Integrate with the existing theme
 - Preserve current customizations
@@ -179,13 +147,14 @@ This will involve updating the _config.yml file to include the necessary JavaScr
 
 ### 7. Implementation Dependencies
 
+- **Step 0** (Signed-Off Design) defines the versioning plan using Git tags
 - **Step 1** (Version Architecture) is foundational and must be implemented first
 - **Step 2** (GitHub Actions Workflow) can be developed in parallel with Step 1
 - **Steps 3-4** (UI Components) depend on Step 1
 - **Step 5** (Cross-Version Navigation) depends on Steps 1-3
 - **Step 6** (Jupyter Book Integration) integrates all previous components
 
-### 8. Implementation Timeline
+### Implementation Timeline
 
 **Phase 1: Foundation & Infrastructure (Weeks 1-3)**
 - Develop version data architecture
@@ -197,7 +166,7 @@ This will involve updating the _config.yml file to include the necessary JavaScr
 - Create outdated version notification banner
 - Develop basic cross-version navigation
 
-**Phase 3: Advanced Features & Testing (Weeks 7-9)**
+**Phase 3: Testing & Refinement (Weeks 7-9)**
 - Enhance cross-version navigation
 - Implement special case handling
 - Conduct cross-browser testing
@@ -210,10 +179,9 @@ This will involve updating the _config.yml file to include the necessary JavaScr
 - Prepare user guides
 
 ## Websites following a similar approach
+- https://pandas.pydata.org/docs/
 - https://scikit-learn.org/stable/  
 - https://matplotlib.org/stable/  
-- https://networkx.org/documentation/latest/
-
 
 ## Alternative Approach
 
