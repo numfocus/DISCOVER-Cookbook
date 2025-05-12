@@ -28,3 +28,4 @@ When creating the organizing committee, be aware of the specific roles assigned 
 - [CRA-W Best Practices: Guidelines in Running an Inclusive Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf)
 - [REACH Inclusive Conference Guide](https://reachwater.org.uk/wp-content/uploads/2019/05/2019_05_22_Inclusive-Conference-Guide.pdf)
 - [SIGACCESS Accessible Conference Guide](https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#website)
+- [Link to interactive fiction example](https://github.com/softwaresaved/eventure)
