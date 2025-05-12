@@ -78,10 +78,12 @@
      - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
       - You might create a CFP form that instructs the submitter to withhold identifying information.
       - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
-      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
+        - However, be aware that it's not always possible to do this, particularly if the work is tightly tied to the authors, or is based on their past work, and that reviewers can often determine authors even when they technically shouldn't. Reviewers may also search for information about the subject of the work, which can lead them to a preprint of the submitted material with the authors listed. In this case, you may want to explicitly instruct the reviewers to try not to consider information about the authors they happen to know or find.
+      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission. Of course, if the process is double-blind, you may not be aware that you have a conflict with it.
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
-    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
+    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are.
+    - Some believe that open reviews are higher quality than anonymous reviewers, as the reviewers have to stand behind their comments.
     - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
  - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
  
@@ -95,6 +97,8 @@
 - [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
 - [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
-- [Effectiveness of Anonymization in Double-Blind Review](https://arxiv.org/abs/1709.01609)
+- [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
+- [A multi-disciplinary perspective on emergent and future innovations in peer review](https://doi.org/10.12688/f1000research.12037.3)
+
 
 
