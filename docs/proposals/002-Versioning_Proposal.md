@@ -27,15 +27,24 @@ My implementation will use a tag-based versioning approach :
 
 1. **Tag-Based Version Management:**:
    - Maintain a single active branch (main)
-   - Use Git tags to mark specific versions (latest version , previous versions)
+   - Use Git tags to mark specific numeric versions (1.0, 2.0, etc.)
+   - Main branch will be labeled as "2.0-dev" (or current version + "-dev")
+   - Consider integrating versioneer to display which version is being rendered
    - Deploy each tagged version to its corresponding URL path
 
 2. **URL Structure**:
-   - Latest version: discover-cookbook.numfocus.org/
-   - Previous version: discover-cookbook.numfocus.org/v1.0/
+   - Latest development version: discover-cookbook.numfocus.org/ (main branch as 2.0-dev)
+   - Released versions: discover-cookbook.numfocus.org/v1.0/, discover-cookbook.numfocus.org/v2.0/
    - Version-specific pages: discover-cookbook.numfocus.org/v1.0/04_venue_selection/
+   - Implement redirects from root paths to appropriate versioned paths (e.g., discover-cookbook.numfocus.org/05_venue_selection/ → discover-cookbook.numfocus.org/v1.0/05_venue_selection/)
 
-3. **Version UI Components**:
+
+3. **Development Environment**:
+   - Create separate scripts for local development and deployment
+   - Ensure contributors can iterate on content locally without versioning complexity
+   - Local preview will default to development version
+   
+4. **Version UI Components**:
    - Simple version selector in an appropriate location within the existing UI
    - Outdated version notification for non-latest versions(via banner at top)
 
@@ -200,6 +209,8 @@ I've evaluated several alternative approaches based on thorough analysis of docu
 - Disrupts existing deployment workflow
 - Requires adapting Jupyter Book configuration for RTD
 - Changes contributor workflow
+- This also requires a paid account to run ad free
+- Depends on a more complex service than just hosting static webpages, which can be done on a multitude of services.
 
 ## Websites following a similar approach  
 - https://jupyter-sphinx.readthedocs.io/en/latest/setup.html 
