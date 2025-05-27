@@ -46,7 +46,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 	-   "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
-- ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.**
+- ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 
 
 #### Toiletries/Supplies
