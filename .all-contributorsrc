@@ -16,7 +16,8 @@
       "contributions": [
         "ideas",
         "review",
-        "maintenance"
+        "maintenance",
+        "question"
       ]
     },
     {
@@ -27,7 +28,8 @@
       "contributions": [
         "question",
         "maintenance",
-        "doc"
+        "doc",
+        "review"
       ]
     },
     {
@@ -288,6 +290,108 @@
       "profile": "",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "pratham15541",
+      "name": "Pratham ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109359719?v=4",
+      "profile": "https://github.com/pratham15541",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "parharti",
+      "name": "Prisha Sharma ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140067623?v=4",
+      "profile": "https://github.com/parharti",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "riteshdavv",
+      "name": "Ritesh Kumar Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137779094?v=4",
+      "profile": "https://github.com/riteshdavv",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kamila-NF",
+      "name": "Kamila Stepniowska",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142047555?v=4",
+      "profile": "https://github.com/kamila-NF",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "melissawm",
+      "name": "Melissa Weber Mendonça",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3949932?v=4",
+      "profile": "http://melissawm.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "AR21SM",
+      "name": "Ashish Mahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179873264?v=4",
+      "profile": "https://github.com/AR21SM",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "trivia67",
+      "name": "Priya Kholiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137710127?v=4",
+      "profile": "https://github.com/trivia67",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Iamanujosh",
+      "name": "Anushka joshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88044065?v=4",
+      "profile": "https://github.com/Iamanujosh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danielskatz",
+      "name": "Daniel S. Katz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
+      "profile": "https://danielskatz.org",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rivaquiroga",
+      "name": "Riva Quiroga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31421616?v=4",
+      "profile": "https://rivaquiroga.cl/",
+      "contributions": [
+        "ideas",
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "karanveerksb",
+      "name": "Karanveer Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143838558?v=4",
+      "profile": "https://github.com/karanveerksb",
+      "contributions": [
+        "code"
       ]
     }
   ],

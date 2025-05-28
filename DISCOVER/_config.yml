@@ -3,7 +3,7 @@
 
 title: DISCOVER
 author: Community
-logo: logo.png
+logo: _static/images/logo-light.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -13,7 +13,7 @@ execute:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/numfocus/DISCOVER-Cookbook/  # Online location of your book
-  path_to_book: handbook  # Optional path to your book, relative to the repository root
+  path_to_book: DISCOVER # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
@@ -21,6 +21,13 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  html_in_header:
+    - '<script src="_static/js/logo-switcher.js"></script>'
+    - '<script src="_static/js/footer.js"></script>'
+
+
+  extra_css:
+    - _static/css/mainLogo.css
 
 # config sphinx tags extension
 sphinx:

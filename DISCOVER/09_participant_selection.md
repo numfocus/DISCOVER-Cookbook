@@ -11,7 +11,7 @@
 - ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
 - Identify a group of people to solicit as conference speakers
   - Take extra steps to ensure a diverse speaker pool
-    - Make the list of potential speakers who are underrepresented longer than list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
+    - Make the list of potential speakers who are underrepresented longer than the list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
   - Keep and maintain a list of possible speakers with expertise and their contact info
   - Research and follow speaker lists compiled by other organizations and communities
   - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
@@ -59,7 +59,7 @@
 
 - [Would I attend my own conference?](http://radar.oreilly.com/2011/03/would-i-attend-my-own-conferen.html)
 - [Getting women to speak at your conference is hard. So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-represented-people-to-speak-at-your-conference-is-hard-so.html)
-- [A Better Call for Proposals](http://2016.cssconf.com.au/2016/07/01/cfp.html)
+- [A Better Call for Proposals](https://web.archive.org/web/20211123193159/http://2016.cssconf.com.au/2016/07/01/cfp.html)
 - [For CFP language](https://textio.com/)
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
 - [Global Diversity CFP Day (Saturday 3rd February 2018)](https://www.globaldiversitycfpday.com/)
@@ -78,11 +78,13 @@
      - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
       - You might create a CFP form that instructs the submitter to withhold identifying information.
       - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
-      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission.
+        - However, be aware that it's not always possible to do this, particularly if the work is tightly tied to the authors, or is based on their past work, and that reviewers can often determine authors even when they technically shouldn't. Reviewers may also search for information about the subject of the work, which can lead them to a preprint of the submitted material with the authors listed. In this case, you may want to explicitly instruct the reviewers to try not to consider information about the authors they happen to know or find.
+      - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission. Of course, if the process is double-blind, you may not be aware that you have a conflict with it.
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
-    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are
-    - [Sample guidelines for reviewers in double open review systems](https://scipy2017.scipy.org/ehome/220975/532468/)
+    - Reviewers know who the proposal authors are and proposal authors know who the reviewers are.
+    - Some believe that open reviews are higher quality than anonymous reviewers, as the reviewers have to stand behind their comments.
+    - [Sample guidelines for reviewers in double open review systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)
  - ✅ Regardless of which approach you choose, open or anonymized, we encourage you to make it &quot;double&quot; so that both parties know each other (double-open) or neither party knows the other (double-closed) 
  
 **Further reading:**
@@ -93,9 +95,10 @@
 - [Gender bias distorts peer review across fields](http://www.nature.com/news/gender-bias-distorts-peer-review-across-fields-1.21685)
 - [How rOpenSci uses Open Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/)
 - [Conference Speaking and Diverse Perspectives with Carina C. Zona and Mark Yoon](https://www.techdoneright.io/9)
-Encourage double-blind reviewing processes.
 - [More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)
 - [Single versus Double blind reviewing at WSDM 2017](https://arxiv.org/abs/1702.00502)
 - [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
+- [A multi-disciplinary perspective on emergent and future innovations in peer review](https://doi.org/10.12688/f1000research.12037.3)
+
 
 
