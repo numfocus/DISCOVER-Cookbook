@@ -28,6 +28,7 @@ sphinx-intl build
 <!-- Running this command will generate .mo files, which are used by the documentation system --> After compiling, rebuild the book to see the translations applied:
 
 ```sh
-```
 jupyter-book build DISCOVER
+```
+
 > Note: Contributors working on multilingual support should ensure .po file updates are included in commits.
