@@ -67,4 +67,4 @@ body:
         - label: I agree to follow the DISCOVER Cookbook's [Code of Conduct](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md).
           required: true
         - label: I would like to submit a pull request to fix this bug.
-          required: true
+       
