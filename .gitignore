@@ -14,5 +14,6 @@ venv/
 .python-version
 
 # Ignore translation files
-.pot
-.mo
+*.pot
+*.mo
+DISCOVER/_build/gettext/
