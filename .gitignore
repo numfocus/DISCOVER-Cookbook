@@ -16,4 +16,3 @@ venv/
 # Ignore translation files
 *.pot
 *.mo
-DISCOVER/_build/gettext/
