@@ -8,6 +8,11 @@ html .bd-content img:not(.only-dark,.dark-light) {
     padding: 1rem 0;
 }
 
+.version-switcher__button {
+  margin-left: 2rem !important;
+  margin-right: 1rem !important;
+}
+
 /* Custom footer styles */
 
 .bd-footer-content_inner {

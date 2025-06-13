@@ -86,7 +86,7 @@ conda activate DISCOVER-Cookbook
 ```
 3. Finally, to build the Jupyter Book
 ``` sh
-jupyter-book build DISCOVER
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
 
 ### If Using pip
@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ```
 4. Finally, to build the Jupyter Book
 ``` sh
-jupyter-book build DISCOVER
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
 ### View Locally  
 After building, you can view the book in one of the following ways:  
