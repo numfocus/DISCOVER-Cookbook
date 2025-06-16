@@ -1,0 +1,28 @@
+[
+    {
+        "language": "en",
+        "name": "English",
+        "preferred": true,
+        "url": "https://discover-cookbook.numfocus.org/2.0/en"
+    },
+        {
+        "language": "hi",
+        "name": "हिन्दी",
+        "url": "https://discover-cookbook.numfocus.org/2.0/hi"
+    },
+    {
+        "language": "es",
+        "name": "Español",
+        "url": "https://discover-cookbook.numfocus.org/2.0/es"
+    },
+    {
+        "language": "fr",
+        "name": "Français",
+        "url": "https://discover-cookbook.numfocus.org/2.0/fr"
+    },
+    {
+        "language": "pt",
+        "name": "Português",
+        "url": "https://discover-cookbook.numfocus.org/2.0/pt"
+    }
+]

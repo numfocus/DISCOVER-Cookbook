@@ -1,0 +1,19 @@
+<div class="dropdown">
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="language-switcher-button"
+    data-bs-toggle="dropdown" aria-expanded="false">
+      {{ language_names[current_language] }}
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="language-switcher-button">
+    {% for item in languages %}
+      {% if item.language and item.url %}
+        <li>
+          <a class="dropdown-item{% if current_language == item.language %}active{% endif %}" 
+              href="{{ item.url }}">
+              {{ item.name }}
+
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
