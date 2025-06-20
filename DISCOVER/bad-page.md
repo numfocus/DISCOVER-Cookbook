@@ -9,7 +9,7 @@ Maybe it was deleted, renamed, or never existed in the first place.
 ### What can you do?
 
 - [Return to the homepage](./intro.md)
-- Found a broken link? [Raise an issue](https://github.com/DISCOVER-Cookbook/issues)
+- Found a broken link? [Raise an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues)
 
 ---
 
