@@ -24,6 +24,18 @@ What to ask on your registration form (and what not to ask)
 - Use an open text box to ask about dietary restrictions. (Forcing registrants to choose from a pre-defined list might miss important allergies or restrictions.)
   - &quot;Do you have any dietary restrictions we should be aware of? (e.g. allergies)&quot;
 
+## Support for Nursing Parents
+
+- Include a question on the registration form asking if attendees require refrigerator access for milk storage or a private area for nursing.
+- If available, provide details about these facilities in the registration confirmation or event communication.
+- If arrangements are still being made, inform attendees that accommodations are in progress and updates will be shared.
+
+## Scent Sensitivities
+
+- 🍎 Strong scents such as perfumes or colognes can trigger asthma or allergic reactions in some participants.
+- Include a reminder in the registration confirmation email asking attendees to avoid wearing strong scents.
+- Consider using a badge indicator or sticker to signal a scent-free environment.
+
 ## Photo Policy
 
 - 🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out.
