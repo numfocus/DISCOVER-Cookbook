@@ -3,7 +3,7 @@ name: Deploy Jupyter Book to GitHub Pages
 on:
   push:
     branches:
-        - option-docs
+        - option-doc
 
 jobs:
   deploy:
