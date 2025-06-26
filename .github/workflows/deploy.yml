@@ -3,29 +3,32 @@ name: Deploy Jupyter Book to GitHub Pages
 on:
   push:
     branches:
-        - options-doc
+      - options-doc
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-    - name: Install Jupyter Book and sphinx-tags
-      run: pip install -U jupyter-book sphinx-tags
+      - name: Install Jupyter Book and sphinx-tags
+        run: pip install -U jupyter-book sphinx-tags
 
-    - name: Build Jupyter Book
-      run: jupyter-book build DISCOVER/
+      - name: Build Jupyter Book
+        run: jupyter-book build DISCOVER/
 
-    - name: Deploy to gh-pages branch
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: DISCOVER/_build/html
-        publish_branch: gh-pages
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: DISCOVER/_build/html
+          publish_branch: gh-pages
