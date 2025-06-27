@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/06_childcare.md:1
+msgid "Tags: Parents-and-Carers, Participant-Diversity, Scholarships"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:5
+msgid "Childcare"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:7
+msgid "✅ Offer financial support for childcare."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:8
+msgid "Build it into your budget."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:9
+msgid ""
+"Link it to sponsorships, or university partners, or make part of the "
+"registration fee from all attendees go towards providing childcare "
+"support as service."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:10
+msgid ""
+"Add an option to the registration, e.g.: &quot;Donate $20 to help with "
+"childcare costs.&quot;"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:11
+msgid ""
+"Collect the data on the registration form. How many people would make use"
+" of childcare services or grants?"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:12
+msgid ""
+"In general, the two major options are either to 1) award childcare grants"
+" (people decide how to spend it, e.g. on their home babysitter) or 2) "
+"provide on-site services."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:14
+msgid "Grants"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:16
+msgid ""
+"Based on our research, grants to cover childcare costs seem to be more "
+"popular with attendees. (On-site childcare services can be costly for "
+"attendees because of additional travel costs for bringing children "
+"along.)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:17
+msgid ""
+"You might survey your participants to determine their preference for "
+"grants vs. on-site childcare services."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:18
+msgid ""
+"Be sure to consider issues like whether grant recipients will need to "
+"submit an invoice or receipt from someone (the childcare provider) with a"
+" Tax ID."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:19
+msgid "For those who do bring kids to the event/conference:"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:20
+msgid ""
+"Provide cost-free access to the conference center/venue for "
+"caregivers/babysitters."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:21
+msgid ""
+"This allows caregivers to come to the conference for e.g. infant hand-"
+"offs (for nursing, for example) as opposed to parents losing additional "
+"time walking back to hotel rooms."
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:23
+msgid "On-Site Services"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:25
+msgid ""
+"There are companies that provide childcare at conferences. While NumFOCUS"
+" makes no specific endorsements, we did find these companies in our "
+"research who are providing event-based childcare:"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:26
+msgid "US-only:"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:27
+msgid ""
+"[UrbanSitter](https://www.urbansitter.com/) provides a platform for "
+"finding babysitters. (*This link is only accessible within the United "
+"States*)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:28
+msgid "US & Canada:"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:29
+msgid "[Kiddie Corp](http://www.kiddiecorp.com/)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:30
+msgid "International:"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:31
+msgid "[Care.com](https://www.care.com/)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:32
+msgid "[Corporate Kids Events](https://conferencechildcare.com/)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:33
+msgid "[Accent](http://www.accentoca.com/)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:35
+msgid ""
+"Another possibility is to organize a &quot;parallel&quot; conference for "
+"older children"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:36
+msgid "E.g. [coding for kids as at PyCon UK](http://2017.pyconuk.org/education/)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:38
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:40
+msgid ""
+"[Geek Feminism Wiki "
+"Childcare](http://geekfeminism.wikia.com/wiki/Childcare)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:41
+msgid ""
+"[SRCCON "
+"childcare](https://web.archive.org/web/20160810112024/http://srccon.org/childcare)"
+msgstr ""
+
+#: ../DISCOVER/06_childcare.md:42
+msgid ""
+"[Providing conference childcare](https://adacamp.org/adacamp-"
+"toolkit/childcare/)"
+msgstr ""
+

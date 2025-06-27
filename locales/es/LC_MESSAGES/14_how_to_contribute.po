@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/14_how_to_contribute.md:2
+msgid "Contributing"
+msgstr ""
+
+#: ../DISCOVER/14_how_to_contribute.md:4
+msgid ""
+"NumFOCUS invites the community to make suggestions for improvements to "
+"the DISCOVER Cookbook via [pull request (PR)](https://github.com/numfocus"
+"/DISCOVER-Cookbook/pulls). PRs will be evaluated by the NumFOCUS DISC "
+"Committee and/or its volunteers. PRs should be written so as to conform "
+"to the [NumFOCUS Contributor Code of "
+"Conduct](https://www.numfocus.org/about/code-of-conduct/). You can also "
+"[open an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues) to "
+"suggest an update."
+msgstr ""
+
+#: ../DISCOVER/14_how_to_contribute.md:6
+msgid ""
+"If you find this Cookbook useful please support NumFOCUS and our work in "
+"these ways:"
+msgstr ""
+
+#: ../DISCOVER/14_how_to_contribute.md:7
+msgid ""
+"If you have a GitHub account, \"star\" the "
+"[repository](https://github.com/numfocus/DISCOVER-Cookbook) to elevate "
+"its visibility"
+msgstr ""
+
+#: ../DISCOVER/14_how_to_contribute.md:8
+msgid ""
+"Include a link on your events website to credit NumFOCUS:  **Reference:**"
+"  [NumFOCUS DISCOVER Diversity and Inclusion Cookbook](https://discover-"
+"cookbook.numfocus.org)"
+msgstr ""
+
+#: ../DISCOVER/14_how_to_contribute.md:9
+msgid ""
+"Any feedback, positive or suggestions, is welcome and can be placed under"
+" [Issues](https://github.com/numfocus/DISCOVER-Cookbook/issues)"
+msgstr ""
+
