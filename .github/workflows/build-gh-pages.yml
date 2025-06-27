@@ -26,7 +26,7 @@ jobs:
     - name: Build the book
       run: |
         rm -rf DISCOVER/_tags/*
-        jupyter-book build DISCOVER
+        sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 
     - name: Push book HTML to gh-pages
       uses: peaceiris/actions-gh-pages@v3.9.0

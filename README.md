@@ -51,8 +51,9 @@ To contribute changes:
    
 5. **Test Locally**: Build the book and view your changes:
    ```sh
-   jupyter-book build DISCOVER
+   sphinx-build -b html DISCOVER/ DISCOVER/_build/html
    python -m http.server 8000 --directory DISCOVER/_build/html/
+
    ```
    Visit [`http://localhost:8000`](http://localhost:8000) in your browser to verify changes.
 
@@ -86,7 +87,7 @@ conda activate DISCOVER-Cookbook
 ```
 3. Finally, to build the Jupyter Book
 ``` sh
-jupyter-book build DISCOVER
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
 
 ### If Using pip
@@ -109,7 +110,7 @@ pip install -r requirements.txt
 ```
 4. Finally, to build the Jupyter Book
 ``` sh
-jupyter-book build DISCOVER
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
 ### View Locally  
 After building, you can view the book in one of the following ways:  
