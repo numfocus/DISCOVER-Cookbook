@@ -56,24 +56,24 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 ### 🍎 Dedicated rooms
 
--   The rooms should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
+-   Dedicated rooms (e.g., those below) should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
 
--   Don't allow anyone (even organizers) to use the room for other purposes.
+-   Don't allow anyone (even organizers) to use dedicated rooms for other purposes.
 
 
 #### 🍎 Nursing & Pumping Room
 
--   Ensure there is a dedicated, single-occupancy space with lock.
+-   Ensure there is a dedicated, single-occupancy space with a lock.
 
 -   For the room to be optimally useful, these things are desired:
 
-    -   Locking door, Comfortable chair, a desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet, cleaning wipes, paper towels, and a garbage can, masking tape and a marker for labeling milk bottles and pump parts, proximity to a sink for hand washing and washing of pump parts, a refrigerator for storage of pumped milk  in the pumping room or nearby, dim lighting
+    -   A locking door, a comfortable chair, a desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet, cleaning wipes, paper towels, a garbage can, masking tape and a marker for labeling milk bottles and pump parts, proximity to a sink for hand washing and washing of pump parts, a refrigerator for storage of pumped milk  in the pumping room or nearby, and dim lighting
 
 #### 🍎 Gender-Neutral Bottle Feeding Room
 
 -   Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
 
--   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled. It could accommodate multiple babies at a time and be equipped with multiple comfortable chairs with broad armrests to facilitate bottle feeding positions, a bottle warmer, paper towels, cleaning wipes and garbage can for cleanliness, dim lighting and in a quiet area of the conference center/venue
+-   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled. It could accommodate multiple babies at a time and be equipped with multiple comfortable chairs with broad armrests to facilitate bottle feeding positions, a bottle warmer, paper towels, cleaning wipes, a garbage can for cleanliness, and dim lighting, and it should be in a quiet area of the conference center/venue
 
 
 #### 🍎 Quiet Room
@@ -86,22 +86,20 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
--   Best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
-
+-   It's best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
 
 	-   🍎 Ask your caterer to create and provide the labels.
 
-
 -   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
--   ✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, nut-free. Shellfish and peanut  especially are usually a serious allergy so take extra care.
+-   ✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, and nut-free. Shellfish and peanut  especially are usually a serious allergy so take extra care.
 
 ## [Code of Conduct (CoC)](07_code_of_conduct.md)
 
 ### Awareness
 
-Make sure that everyone involved in your conference/event is aware that the CoC applies to them: that not only includes participants, but also speakers, sponsors, committee members etc.
+Make sure that everyone involved in your conference/event is aware that the CoC applies to them: that it not only includes participants, but also speakers, sponsors, committee members, etc.
 
--   🍎 Tick box at registration that confirms that the participant has read it
+-   🍎 Provide a tick box at registration that confirms that the participant has read the CoC
 
 -   🍎 Include a copy of the CoC in the sponsor packet
 
@@ -109,16 +107,16 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
 -   🍎 Ensure that CoC is easily accessible on the conference website
 
--   🍎 Include a short version on the printed schedule as a reminder
+-   🍎 Include a short version of the CoC on the printed schedule as a reminder
 
--   🍎 Mention it in the welcome talk and at the start of every day, including whom to contact if there is a problem/violation
+-   🍎 Mention the CoC in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
 
 
 ## [Participant and Speaker Selection](09_participant_selection.md)
 
 ### Speakers
 
--   🍎 Consider the specific wording of how you solicit talks, e.g. call for "Speakers who have advice or expertise to share" rather than "experts in best practices"
+-   🍎 Consider the specific wording of how you solicit talks, e.g., call for "Speakers who have advice or expertise to share" rather than "experts in best practices"
 
 #### Invited Speakers
 -   ✅ Reach beyond the conference organizers' own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just "the usual suspects" and reach out to your wider network for ideas, suggestions, and introductions.
@@ -131,7 +129,6 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
 	-   Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
 
-
 	-   If your conference has a long history, and you're trying to change what the program make-up, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
 
 
@@ -143,7 +140,7 @@ Make sure that everyone involved in your conference/event is aware that the CoC 
 
 ### Attracting Attendees
 
--   🍎 Pay attention to the photos you use to advertise your event—what do people look like who attend?
+-   🍎 Pay attention to the photos you use to advertise your event - what do people look like who attend?
 
 
 ## [Event Registration](10_event_registration.md)
@@ -153,16 +150,15 @@ What to ask on your registration form (and what not to ask)
 
 -   🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
 
-
-	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
+	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g., accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
 
 ### Demographic Info
 
+-   ✅ Don't collect any demographic info that you don't really need.
+
 -   ✅ If you do collect demographic info, be thoughtful about the structure of the questions so that they are inclusive and don't contribute to alienating or "othering" marginalized people.
 
-
 	-   Not having an answer choice that matches your identity can be a very alienating experience.
-
 
 -   ✅ Take anonymity and data security seriously. Have a plan for limiting access to this information and keeping it secure.
 
@@ -170,16 +166,15 @@ What to ask on your registration form (and what not to ask)
 
 -   🍎 Ask for dietary restrictions on the registration form. Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
 
-#### Photo Policy
+### Photo Policy
 
 -   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
 
-
 	-   (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
 
-#### Code of Conduct
+### Code of Conduct
 
--   🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
+-   🍎 Show the text of the Code of Conduct and a have required check-box that the registrant has read it and agrees to abide by it.
 
 ## [Childcare](06_childcare.md)
 
@@ -191,7 +186,7 @@ What to ask on your registration form (and what not to ask)
     -   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
     -   Collect the data on the registration form. How many people would make use of childcare services or grants?
 
--   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g. on their home babysitter) or 2) provide on-site services.
+-   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g., on their home babysitter) or 2) provide on-site services.
 
 
 ## [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
@@ -200,18 +195,16 @@ What to ask on your registration form (and what not to ask)
 
 -   Managing photography opt-outs:
 
-
-	-   Badge lanyard at registration should be made available to indicate photo preferences (green = photos fine; yellow = ask first; red = no photos)
+	-   You can use badge lanyards at registration to indicate photo preferences (e.g., green = photos fine; yellow = ask first; red = no photos)
 
 
 ### 🍎 Pronoun Pins, Buttons, or Ribbons
 
 -   Indicating pronouns:
 
+	-   Select a label (pin/button/ribbon/sticker) for your lanyard/badge to communicate your pronouns. Using one even if you don't feel like you need one helps create a welcoming space for attendees who do.
 
-	-   Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
-
-	-   Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color).
+	-   Color-coordinate the labels by pronoun for quicker recognition and processing by those who see them. This lowers the barrier to checking (look at the color).
 
 
 ## [Grants/Scholarships](08_grants_scholarships.md)
@@ -220,9 +213,7 @@ What to ask on your registration form (and what not to ask)
 
 -   Eligibility Requirements
 
-
 	-   Applicants should be
-
 
 	    -   from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
 
@@ -230,11 +221,9 @@ What to ask on your registration form (and what not to ask)
 
 -   Payment
 
-
 	-   Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
 
 	-   We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
-
 
 	-   Waiting for reimbursement can be a financial burden on scholarship recipients.
 
