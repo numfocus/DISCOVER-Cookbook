@@ -78,9 +78,11 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 #### 🍎 Quiet Room
 
--   A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference; no phone calls, talking/socializing, notification beeps! People whose religions require frequent prayer can make use of the quiet room.
+-   A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference. It’s intended for quiet decompression — no phone calls, talking/socializing, notification beeps! 
 
--   Consider "quiet areas" if a separate room is not possible.
+- People whose religions require frequent prayer may also need a dedicated space. If possible, provide a separate, nearby room that allows for quiet personal prayer without disrupting others. If space is limited, work with the venue to offer a flexible-use room or provide access upon request.
+
+- If a separate room is not possible, consider "quiet areas" with soft seating, low lighting, and clear signage.
 
 ## [Catering](05_catering.md)
 
