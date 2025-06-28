@@ -42,10 +42,12 @@ jobs:
         jupyter-book build DISCOVER
 
     - name: Deploy PR Preview
+      # Only run on non-fork PRs to avoid permission errors 
+      if: ${{ github.event.pull_request.head.repo.full_name == github.event.pull_request.base.repo.full_name }}
       uses: rossjrw/pr-preview-action@v1
       with:
         source-dir: ./DISCOVER/_build/html/
         preview-branch: gh-pages
         umbrella-dir: pr-preview
         action: auto
-        token: ${{ secrets.PREVIEW_TOKEN }}
+        token: ${{ secrets.PREVIEW_TOKEN || secrets.GITHUB_TOKEN }}
