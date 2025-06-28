@@ -9,7 +9,11 @@ on:
       - closed
 
 permissions:
-  contents: write 
+  contents: write
+  pages: write
+  id-token: write
+  pull-requests: write
+
 
 concurrency: preview-${{ github.ref }}
 
@@ -44,3 +48,4 @@ jobs:
         preview-branch: gh-pages
         umbrella-dir: pr-preview
         action: auto
+        token: ${{ secrets.PREVIEW_TOKEN }}
