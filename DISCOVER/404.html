@@ -143,8 +143,10 @@
       }
     };
 
-    const urlLang = location.pathname.split("/")[1] || "en";
-    const lang = translations[urlLang] ? urlLang : "en";
+    const pathLang = location.pathname.split("/")[1];
+    const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
+    const lang = translations[pathLang] ? pathLang : (translations[refLang] ? refLang : "en");
+
 
     document.getElementById("title").textContent = translations[lang].title;
     document.getElementById("message").textContent = translations[lang].message;
@@ -156,9 +158,14 @@
     document.getElementById("language-switcher").value = lang;
 
     document.getElementById("language-switcher").addEventListener("change", function () {
-      const selectedLang = this.value;
-      window.location.href = `/${selectedLang}/404.html`;
-    });
+        const selectedLang = this.value;
+        if (selectedLang === "en") {
+            window.location.href = `/404.html`;
+        } else {
+          window.location.href = `/${selectedLang}/404.html`;
+    }
+  });
+</script>
   </script>
 </body>
 </html>
