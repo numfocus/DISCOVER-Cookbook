@@ -28,9 +28,17 @@ jobs:
         rm -rf DISCOVER/_tags/*
         sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 
+    - name: Copy custom 404.html into language folders
+      run: |
+        cp DISCOVER/404.html DISCOVER/_build/html/404.html
+        cp DISCOVER/404.html DISCOVER/_build/html/es/404.html
+
+
     - name: Push book HTML to gh-pages
       uses: peaceiris/actions-gh-pages@v3.9.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./DISCOVER/_build/html
         keep_files: true
+        publish_branch: gh-pages
+        external_repository: speco29/DISCOVER-Cookbook
