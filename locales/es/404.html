@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>404 - Not Found</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #fdf2f8, #f5e4ff, #e4f0ff);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Segoe UI', sans-serif;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .light-blur {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle at center, #ffcbf2aa, transparent);
+      border-radius: 50%;
+      filter: blur(80px);
+      top: 20%;
+      left: 10%;
+      animation: drift 10s ease-in-out infinite alternate;
+      z-index: 0;
+    }
+
+    @keyframes drift {
+      0%   { transform: translate(0, 0); }
+      100% { transform: translate(60px, 30px); }
+    }
+
+    .glass-card {
+      background: rgba(255, 255, 255, 0.25);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      padding: 2.5rem 3rem;
+      border-radius: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      max-width: 500px;
+      text-align: center;
+      z-index: 1;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      font-size: 2.5em;
+      color: #4d4d4d;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 1.1em;
+      color: #555;
+      margin-bottom: 1.4rem;
+    }
+
+    a {
+      display: inline-block;
+      margin: 0.4rem;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+      text-decoration: none;
+      background: #d0bfff;
+      color: #1f1f1f;
+      font-weight: 600;
+      transition: background 0.3s ease;
+    }
+
+    a:hover {
+      background: #c1aaff;
+    }
+
+    select {
+      margin-top: 1rem;
+      padding: 0.5rem;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 1em;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="light-blur"></div>
+  <div class="glass-card">
+    <h1 id="title">404 - Page Not Found</h1>
+    <p id="message">This page might’ve wandered off or was never here at all.</p>
+    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
+    <p><strong id="what-do">What can you do?</strong></p>
+    <a href="./intro.html" id="home">⬅️ Back to Home</a>
+    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
+
+    <div>
+      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
+      <select id="language-switcher">
+        <option value="en">English</option>
+        <option value="es">Español</option>
+        <option value="fr">Français</option>
+      </select>
+    </div>
+
+    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
+  </div>
+
+  <script>
+    const translations = {
+      en: {
+        title: "404 - Page Not Found",
+        message: "This page might’ve wandered off or was never here at all.",
+        suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
+        whatDo: "What can you do?",
+        home: "⬅️ Back to Home",
+        report: "🐞 Report the Issue",
+        footer: "If you think this is an error, let us know by creating an issue."
+      },
+      es: {
+        title: "404 - Página no encontrada",
+        message: "Esta página se ha perdido o nunca existió.",
+        suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
+        whatDo: "¿Qué puedes hacer?",
+        home: "⬅️ Volver al inicio",
+        report: "🐞 Informar del problema",
+        footer: "Si crees que esto es un error, infórmanos creando un issue."
+      },
+      fr: {
+        title: "404 - Page introuvable",
+        message: "Cette page s'est égarée ou n'a jamais existé.",
+        suggestion: "Elle a peut-être été supprimée, renommée ou n'a jamais existé.",
+        whatDo: "Que pouvez-vous faire ?",
+        home: "⬅️ Retour à l'accueil",
+        report: "🐞 Signaler un problème",
+        footer: "Si vous pensez qu'il s'agit d'une erreur, faites-le nous savoir en créant un ticket."
+      }
+    };
+
+    const urlLang = location.pathname.split("/")[1] || "en";
+    const lang = translations[urlLang] ? urlLang : "en";
+
+    document.getElementById("title").textContent = translations[lang].title;
+    document.getElementById("message").textContent = translations[lang].message;
+    document.getElementById("suggestion").textContent = translations[lang].suggestion;
+    document.getElementById("what-do").textContent = translations[lang].whatDo;
+    document.getElementById("home").textContent = translations[lang].home;
+    document.getElementById("report").textContent = translations[lang].report;
+    document.getElementById("footer").textContent = translations[lang].footer;
+    document.getElementById("language-switcher").value = lang;
+
+    document.getElementById("language-switcher").addEventListener("change", function () {
+      const selectedLang = this.value;
+      window.location.href = `/${selectedLang}/404.html`;
+    });
+  </script>
+</body>
+</html>
