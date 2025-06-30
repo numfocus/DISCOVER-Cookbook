@@ -45,5 +45,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./DISCOVER/_build/html
         keep_files: true
-        publish_branch: gh-pages
-        external_repository: speco29/DISCOVER-Cookbook
+        
