@@ -1,0 +1,121 @@
+name: 📖 New Chapter Proposal
+description: Propose a new chapter or significant content addition for the DISCOVER Cookbook.
+title: "[New Chapter Proposal]: "
+labels: ["✍️ new content" , "📖 new chapter"]
+assignees: [] 
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for your interest in contributing to the DISCOVER Cookbook!**
+
+        Please use this template to propose a new chapter or a substantial content addition. Providing thorough details will help us understand your idea and facilitate a quicker review process.
+
+        Before opening a new issue, please:
+        1. **Search [existing issues](https://github.com/numfocus/DISCOVER-Cookbook/issues)**: Check if your suggestion has already been discussed or is in progress.
+        2. **Review our contribution guidelines**: Please read our **[CONTRIBUTING.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md)** before contributing.
+
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: 1. Problem/Gap Addressed
+      description: "What problem does this new chapter solve, or what gap in the existing DISCOVER Cookbook content does it fill? Why is this chapter needed now?"
+      placeholder: "e.g., The Cookbook lacks comprehensive guidance on managing accessibility for virtual attendees, which is increasingly relevant for hybrid events."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: 2. Proposed Chapter Title & Brief Description
+      description: "What is your proposed title for the new chapter? Provide a concise summary of its content and main objectives."
+      placeholder: "e.g., Title: 'Virtual & Hybrid Event Accessibility'. Description: This chapter will provide practical guidelines for ensuring virtual and hybrid events are accessible to all participants, covering digital tools, captioning, and time zone considerations."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: chapter-type
+    attributes:
+      label: 3. Chapter Type (Diátaxis Framework)
+      description: "Following the Diátaxis framework, what type of documentation will this chapter primarily be? (Select the best fit. See(https://diataxis.fr/) for definitions.)"
+      options:
+        - "Tutorial (Learning-oriented, guides through a process step-by-step)"
+        - "How-to Guide (Goal-oriented, steps for a specific task)"
+        - "Explanation (Understanding-oriented, discusses concepts and principles)"
+        - "Reference (Information-oriented, technical specifications or detailed facts)"
+      default: 1 # Default  How-to Guide 
+    validations:
+      required: true
+
+  - type: textarea
+    id: target-audience
+    attributes:
+      label: 4. Target Audience
+      description: "Who is the primary audience for this chapter? (e.g., Event organizers, tech support teams, speakers, virtual attendees)"
+      placeholder: "e.g., Event organizers, AV teams, and platform administrators planning virtual or hybrid components."
+    validations:
+      required: true
+
+  - type: textarea
+    id: key-topics
+    attributes:
+      label: 5. Key Topics & Outline
+      description: "List the main sections and key topics you plan to cover in this chapter. Provide a brief outline or bullet points. If proposing new 🍎 (easy, high impact) or ✅ (more effort, considerable impact) measures, indicate them here."
+      placeholder: |
+        - Introduction to virtual accessibility principles
+        - Digital platform accessibility (WCAG compliance, screen reader compatibility)
+        - Live captioning and sign language interpretation for virtual sessions (✅)
+        - Time zone considerations for global participation (🍎)
+        - Accessible presentation materials (slides, documents)
+        - Post-event accessibility (recordings, transcripts)
+    validations:
+      required: true
+
+  - type: textarea
+    id: existing-content-integration
+    attributes:
+      label: 6. Integration with Existing Cookbook Content
+      description: "How does this proposed chapter relate to or integrate with existing sections of the DISCOVER Cookbook? Are there any existing chapters it would link to, expand upon, or replace?"
+      placeholder: "e.g., This chapter would complement 'Venue Selection & On-Site Services' by extending accessibility to virtual spaces. It could link to 'Participant and Speaker Selection' for inclusive speaker guidelines in a virtual context."
+    validations:
+      required: true
+
+  - type: textarea
+    id: value-proposition
+    attributes:
+      label: 7. Value Proposition / Expected Impact
+      description: "What value will this chapter bring to the DISCOVER Cookbook and its users? How will its success be measured?"
+      placeholder: "e.g., It will make the Cookbook relevant for modern event formats, significantly increasing accessibility for remote participants and broadening the Cookbook's reach and impact."
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-tags
+    attributes:
+      label: 8. Suggested Tags (from `_tags/` directory)
+      description: "Based on the existing `_tags/` directory (e.g., `_tags/mobility-impairment.md`), which tags would be most relevant for this new content?"
+      placeholder: "e.g., Digital-Accessibility, Virtual-Events, Hearing-Impairment, Visual-Impairment, Global-South"
+
+  - type: textarea
+    id: additional-resources
+    attributes:
+      label: 9. Additional Resources / Further Reading 
+      description: "Provide links to external resources, research, or examples that could be referenced in this new content."
+      placeholder: |
+        - W3C Web Content Accessibility Guidelines (WCAG): Core guidelines for digital accessibility. [https://www.w3.org/WAI/WCAG21/quickref/](https://www.w3.org/WAI/WCAG21/quickref/)
+        - Zoom Accessibility Features: Official guide to accessibility options within Zoom. [https://explore.zoom.us/docs/en-us/accessibility.html](https://explore.zoom.us/docs/en-us/accessibility.html)
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution 
+      description: "By submitting this proposal, you agree to the following:"
+      options:
+        - label: I am willing to collaborate with maintainers and other contributors on this chapter.
+          required: true
+        - label: I agree to follow the DISCOVER Cookbook's [Code of Conduct](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md).
+          required: true
+        - label: I would be willing to draft a pull request to implement this enhancement.
+

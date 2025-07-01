@@ -1,0 +1,331 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/_tags/bathrooms.md:4 ../DISCOVER/_tags/being-open.md:4
+#: ../DISCOVER/_tags/being-respectful.md:4 ../DISCOVER/_tags/bullying.md:4
+#: ../DISCOVER/_tags/catering.md:4 ../DISCOVER/_tags/check-in.md:4
+#: ../DISCOVER/_tags/code-of-conduct.md:4
+#: ../DISCOVER/_tags/dietary-restrictions.md:4
+#: ../DISCOVER/_tags/embracing-diverse-voices-and-experiences.md:4
+#: ../DISCOVER/_tags/ethnic-minorities.md:4
+#: ../DISCOVER/_tags/giving-participants-room-to-be-who-they-are.md:4
+#: ../DISCOVER/_tags/global-south-and-developing-countries.md:4
+#: ../DISCOVER/_tags/hearing-impairment.md:4 ../DISCOVER/_tags/lgbtq.md:4
+#: ../DISCOVER/_tags/location-and-venue.md:4
+#: ../DISCOVER/_tags/mobility-impairment.md:4
+#: ../DISCOVER/_tags/newcomers-and-first-timers.md:4
+#: ../DISCOVER/_tags/organization-and-program-committees.md:4
+#: ../DISCOVER/_tags/other-impairments.md:4
+#: ../DISCOVER/_tags/parents-and-carers.md:4
+#: ../DISCOVER/_tags/participant-diversity.md:4
+#: ../DISCOVER/_tags/people-with-allergies.md:4
+#: ../DISCOVER/_tags/people-with-disabilities.md:4
+#: ../DISCOVER/_tags/presenter-line-up.md:4 ../DISCOVER/_tags/registration.md:4
+#: ../DISCOVER/_tags/religious-groups.md:4 ../DISCOVER/_tags/scholarships.md:4
+#: ../DISCOVER/_tags/sexual-harassment.md:4
+#: ../DISCOVER/_tags/social-events.md:4 ../DISCOVER/_tags/stereotyping.md:4
+#: ../DISCOVER/_tags/tokenism.md:4
+#: ../DISCOVER/_tags/unconscious-and-implicit-bias.md:4
+#: ../DISCOVER/_tags/visual-impairment.md:4 ../DISCOVER/_tags/women.md:4
+msgid "With this tag"
+msgstr ""
+
+#: ../DISCOVER/_tags/bathrooms.md:2
+msgid "My tags: Bathrooms"
+msgstr ""
+
+#: ../DISCOVER/_tags/being-open.md:2
+msgid "My tags: Being-Open"
+msgstr ""
+
+#: ../DISCOVER/_tags/being-respectful.md:2
+msgid "My tags: Being-Respectful"
+msgstr ""
+
+#: ../DISCOVER/_tags/bullying.md:2
+msgid "My tags: Bullying"
+msgstr ""
+
+#: ../DISCOVER/_tags/catering.md:2
+msgid "My tags: Catering"
+msgstr ""
+
+#: ../DISCOVER/_tags/check-in.md:2
+msgid "My tags: Check-in"
+msgstr ""
+
+#: ../DISCOVER/_tags/code-of-conduct.md:2
+msgid "My tags: Code-of-Conduct"
+msgstr ""
+
+#: ../DISCOVER/_tags/dietary-restrictions.md:2
+msgid "My tags: Dietary-Restrictions"
+msgstr ""
+
+#: ../DISCOVER/_tags/embracing-diverse-voices-and-experiences.md:2
+msgid "My tags: Embracing-Diverse-Voices-and-Experiences"
+msgstr ""
+
+#: ../DISCOVER/_tags/ethnic-minorities.md:2
+msgid "My tags: Ethnic-Minorities"
+msgstr ""
+
+#: ../DISCOVER/_tags/giving-participants-room-to-be-who-they-are.md:2
+msgid "My tags: Giving-Participants-Room-To-Be-Who-They-Are"
+msgstr ""
+
+#: ../DISCOVER/_tags/global-south-and-developing-countries.md:2
+msgid "My tags: Global-South-and-Developing-Countries"
+msgstr ""
+
+#: ../DISCOVER/_tags/hearing-impairment.md:2
+msgid "My tags: Hearing-Impairment"
+msgstr ""
+
+#: ../DISCOVER/_tags/lgbtq.md:2
+msgid "My tags: LGBTQ+"
+msgstr ""
+
+#: ../DISCOVER/_tags/location-and-venue.md:2
+msgid "My tags: Location-and-Venue"
+msgstr ""
+
+#: ../DISCOVER/_tags/mobility-impairment.md:2
+msgid "My tags: Mobility-Impairment"
+msgstr ""
+
+#: ../DISCOVER/_tags/newcomers-and-first-timers.md:2
+msgid "My tags: Newcomers-and-First-Timers"
+msgstr ""
+
+#: ../DISCOVER/_tags/organization-and-program-committees.md:2
+msgid "My tags: Organization-and-Program-Committees"
+msgstr ""
+
+#: ../DISCOVER/_tags/other-impairments.md:2
+msgid "My tags: Other-Impairments"
+msgstr ""
+
+#: ../DISCOVER/_tags/parents-and-carers.md:2
+msgid "My tags: Parents-and-Carers"
+msgstr ""
+
+#: ../DISCOVER/_tags/participant-diversity.md:2
+msgid "My tags: Participant-Diversity"
+msgstr ""
+
+#: ../DISCOVER/_tags/people-with-allergies.md:2
+msgid "My tags: People-with-Allergies"
+msgstr ""
+
+#: ../DISCOVER/_tags/people-with-disabilities.md:2
+msgid "My tags: People-with-Disabilities"
+msgstr ""
+
+#: ../DISCOVER/_tags/presenter-line-up.md:2
+msgid "My tags: Presenter-Line-up"
+msgstr ""
+
+#: ../DISCOVER/_tags/registration.md:2
+msgid "My tags: Registration"
+msgstr ""
+
+#: ../DISCOVER/_tags/religious-groups.md:2
+msgid "My tags: Religious-Groups"
+msgstr ""
+
+#: ../DISCOVER/_tags/scholarships.md:2
+msgid "My tags: Scholarships"
+msgstr ""
+
+#: ../DISCOVER/_tags/sexual-harassment.md:2
+msgid "My tags: Sexual-Harassment"
+msgstr ""
+
+#: ../DISCOVER/_tags/social-events.md:2
+msgid "My tags: Social-Events"
+msgstr ""
+
+#: ../DISCOVER/_tags/stereotyping.md:2
+msgid "My tags: Stereotyping"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Bathrooms (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Being-Open (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Being-Respectful (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Bullying (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Catering (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Check-in (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Code-of-Conduct (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Dietary-Restrictions (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Embracing-Diverse-Voices-and-Experiences (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Ethnic-Minorities (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Giving-Participants-Room-To-Be-Who-They-Are (4)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Global-South-and-Developing-Countries (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Hearing-Impairment (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "LGBTQ+ (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Location-and-Venue (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Mobility-Impairment (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Newcomers-and-First-Timers (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Organization-and-Program-Committees (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Other-Impairments (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Parents-and-Carers (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Participant-Diversity (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "People-with-Allergies (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "People-with-Disabilities (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Presenter-Line-up (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Registration (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Religious-Groups (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Scholarships (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Sexual-Harassment (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Social-Events (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Stereotyping (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Tokenism (2)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Unconscious-and-Implicit-Bias (3)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Visual-Impairment (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Women (1)"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:5
+msgid "Tags"
+msgstr ""
+
+#: ../DISCOVER/_tags/tagsindex.md:3
+msgid "Tags overview"
+msgstr ""
+
+#: ../DISCOVER/_tags/tokenism.md:2
+msgid "My tags: Tokenism"
+msgstr ""
+
+#: ../DISCOVER/_tags/unconscious-and-implicit-bias.md:2
+msgid "My tags: Unconscious-and-Implicit-Bias"
+msgstr ""
+
+#: ../DISCOVER/_tags/visual-impairment.md:2
+msgid "My tags: Visual-Impairment"
+msgstr ""
+
+#: ../DISCOVER/_tags/women.md:2
+msgid "My tags: Women"
+msgstr ""
+

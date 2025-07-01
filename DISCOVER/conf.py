@@ -4,8 +4,6 @@
 # re-generate this one.
 ###############################################################################
 
-
-
 version = '2.0'
 language = 'en'
 baseurl = 'https://discover-cookbook.numfocus.org'
@@ -42,12 +40,15 @@ html_baseurl = baseurl
 author = 'Community'
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2023'
+
 exclude_patterns = ['**.ipynb_checkpoints', '.DS_Store', 'Thumbs.db', '_build']
 extensions = ['sphinx_togglebutton', 'sphinx_copybutton', 'myst_nb', 'jupyter_book', 'sphinx_external_toc', 'sphinx.ext.intersphinx', 'sphinx_design', 'sphinx_book_theme', 'sphinx_tags', 'sphinx_jupyterbook_latex', 'sphinx_multitoc_numbering']
 external_toc_exclude_missing = False
 external_toc_path = '_toc.yml'
 html_baseurl = ''
+html_css_files = ['css/mainLogo.css']
 html_favicon = ''
+html_js_files = ['js/footer.js', 'js/logo-switcher.js']
 html_logo = '_static/images/logo-light.png'
 html_sourcelink_suffix = ''
 html_static_path = ['_static']
@@ -82,10 +83,6 @@ html_theme_options = {
     },
 }
 
-html_css_files = ['css/mainLogo.css']
-
-html_js_files = ['js/footer.js', 'js/logo-switcher.js']
-
 html_title = 'DISCOVER'
 latex_engine = 'pdflatex'
 myst_enable_extensions = ['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist']
@@ -104,3 +101,4 @@ tags_create_tags = True
 tags_extension = ['md']
 use_jupyterbook_latex = True
 use_multitoc_numbering = True
+

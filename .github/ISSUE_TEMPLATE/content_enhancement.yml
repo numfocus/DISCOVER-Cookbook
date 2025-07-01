@@ -1,0 +1,89 @@
+name: ✨ Content Enhancement
+description: Propose improvements, updates, new measures, or clarifications for the DISCOVER Cookbook.
+title: "[Enhancement]: "
+labels: ["✨ content enhancement"] 
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for contributing to the DISCOVER Cookbook!** Your suggestions help us keep our content accurate, actionable, and inclusive.
+
+        Before opening a new issue, please:
+        1. **Search [existing issues](https://github.com/numfocus/DISCOVER-Cookbook/issues)**: Check if your suggestion has already been discussed or is in progress.
+        2. **Review our contribution guidelines**: Please read our **[CONTRIBUTING.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md)** before contributing.
+
+  - type: dropdown
+    id: enhancement-type
+    attributes:
+      label: Type of Enhancement
+      description: What kind of content improvement are you proposing?
+      options:
+        - "Clarification/Rewording (e.g., making text clearer, simplifying language)"
+        - "Adding a new specific example to an existing measure"
+        - "Updating outdated information (e.g., broken links, contact details)"
+        - "Proposing a minor new measure (🍎 or ✅) within an existing section"
+        - "Adding/improving 'Further Reading' resources"
+        - "Structural suggestion (e.g., reordering content within a page)"
+        - "Other (please describe below)"
+    validations:
+      required: true
+
+  - type: input
+    id: relevant-page-url
+    attributes:
+      label: Relevant Page(s) URL (if applicable)
+      description: Please provide the full URL(s) to the page(s) where the enhancement is proposed.
+      placeholder: "e.g., https://discover-cookbook.numfocus.org/04_venue_selection.html"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-content-snippet
+    attributes:
+      label: Current Content Snippet (Optional, but helpful)
+      description: Copy and paste the specific text or a brief snippet of the section you want to enhance.
+      placeholder: "e.g., 'Consider attendees who may need accommodations for a disability'"
+
+  - type: textarea
+    id: proposed-enhancement
+    attributes:
+      label: Proposed Enhancement / Suggestion
+      description: Describe your suggested improvement in detail. Be specific about new wording, examples, additions, or structural changes.
+      placeholder: |
+        e.g.,
+        For the 'Accessibility Considerations' subsection under 'Venue Selection & On-Site Services', I propose adding a new point:
+
+        ### Create Access Visual & Hearing Disabilities
+        - ✅ Select a venue that has a hearing loop, or audio induction loop (a special type of sound system for use by people with hearing aids) and make sure it is used.
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale-and-impact
+    attributes:
+      label: Rationale & Expected Impact
+      description: Explain *why* this enhancement is valuable. How does it improve clarity, actionability, inclusivity, or impact for conference organizers or attendees? How does it align with the 🍎 (easy, high impact) or ✅ (more effort, considerable impact) framework?
+      placeholder: "e.g., Adding a guideline about hearing loops significantly enhances accessibility for deaf and hard-of-hearing attendees, making the conference more inclusive. This is a ✅ measure as it requires specific venue selection or setup but has a considerable positive impact."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-resources
+    attributes:
+      label: Additional Resources / Further Reading 
+      description: Provide links to external resources, research, or examples that support your suggestion.
+      placeholder: "e.g., [https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/](https://www.hearinglink.org/technology/hearing-loops/what-is-a-hearing-loop/)"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: willingness-to-contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: I agree to follow the DISCOVER Cookbook's [Code of Conduct](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md).
+          required: true
+        - label: I would be willing to draft a pull request to implement this enhancement.
+       

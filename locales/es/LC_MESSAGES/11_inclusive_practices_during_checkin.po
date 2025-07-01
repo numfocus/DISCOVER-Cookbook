@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:1
+msgid ""
+"Tags: Check-in, Giving-Participants-Room-To-Be-Who-They-Are, Being-"
+"Respectful, LGBTQ+, Newcomers-and-First-Timers, Being-Open, Social-Events"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:5
+msgid "Inclusive practices during check-in"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:7
+msgid "🍎 Photography Permissions"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:9
+msgid "Managing photography opt-outs:"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:10
+msgid ""
+"Badge lanyard at registration should be made available to indicate photo "
+"preferences (green = photos fine; yellow = ask first; red = no photos)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:12
+msgid "🍎 Pronoun Pins, Buttons, or Ribbons"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:14
+msgid "Indicating pronouns:"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:15
+msgid ""
+"Select a pin/button/ribbon for your lanyard to communicate your pronouns."
+" Using a pin even if you don't feel like you need one helps create a "
+"welcoming space for attendees who do."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:16
+msgid ""
+"Color-coordinate the pins by pronoun for quicker recognition and "
+"processing by those who see the pins. This lowers the barrier to checking"
+" (look at the color)."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:17
+msgid ""
+"Be sure to choose colors that works for folks with color-blindness. With "
+"color-coded pins, needing to actually read them is a stress case rather "
+"than the norm. Because people are used to the ease of the normal case, "
+"they're more willing to take a little extra effort to read for the stress"
+" cases. (purple: he, yellow: she, green: they, blue: ask)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:18
+msgid ""
+"To be aware of: Make pins large enough to be easily seen. Make the "
+"pronoun itself the largest text, rather than the word "
+"&quot;Pronouns&quot;."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:19
+msgid "Another option for pronoun indication is ribbons."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:20
+msgid ""
+"Have custom ones printed for Zi/Zir and a \"Fill in your own\" ribbon. "
+"For fill in your own, make sure you provide fabric markers. (h/t "
+"@oxinabox)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:22
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:23
+msgid ""
+"Thanks to [OpenNews](https://opennews.org/) and "
+"[SRCCON](https://srccon.org/) for the pronoun pins idea"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:24
+msgid "[Pronoun Ribbons](http://www.pronounribbons.org)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:25
+msgid ""
+"[Improving the Color Accessibility for Color Blind "
+"Users](https://www.smashingmagazine.com/2016/06/improving-color-"
+"accessibility-for-color-blind-users/)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:26
+msgid ""
+"[AdaCamp Toolkit on Photography/video/audio "
+"recording](https://adacamp.org/adacamp-toolkit/policies/#photo)"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:28
+msgid "Welcoming New Attendees"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:30
+msgid "Ribbons for badges can be useful, e.g. &quot;First-Time Attendee.&quot;"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:31
+msgid ""
+"Consider what visual cues would encourage people to engage with one "
+"another and go out of their way to be friendly to someone."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:32
+msgid ""
+"Consider running a mentoring program that matches experienced attendees "
+"with first-timers for networking and to provide a friendly resource to "
+"get to know the conference."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:34
+msgid "Social Events"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:36
+msgid ""
+"&quot;First-Time Attendee&quot; lunch/dinner/coffee-break as a welcome "
+"and safe place for attendees to ask questions."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:37
+msgid "Consider diversifying the time of day that social events happen."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:38
+msgid ""
+"Not everyone is available (physically or mentally) in the evenings, when "
+"social events are typically concentrated."
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:39
+msgid "Alcohol Considerations"
+msgstr ""
+
+#: ../DISCOVER/11_inclusive_practices_during_checkin.md:40
+msgid ""
+"We recommend the [AdaCamp Toolkit&#39;s summary approach to alcohol at "
+"events](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-"
+"events/)"
+msgstr ""
+
