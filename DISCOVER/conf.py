@@ -1,5 +1,6 @@
 version = '2.0'
 language = 'en'
+baseurl = 'https://discover-cookbook.numfocus.org'
 
 import json
 import os
@@ -8,21 +9,27 @@ import os
 language_json_path = os.path.join(os.path.dirname(__file__), '_static', 'languages.json')
 language_data = []
 if os.path.exists(language_json_path):
-    with open(language_json_path, 'r',encoding='utf-8') as f:
-        language_data = json.load(f)
+    with open(language_json_path, 'r', encoding='utf-8') as f:
+        all_languages = json.load(f)
+        # Filter out hidden languages
+        language_data = [lang for lang in all_languages if not lang.get('hidden', False)]
 
+# Create a mapping of language codes to their localized names
 language_names = {}
 for lang in language_data:
-    if "language" in lang and "name" in lang:
-        language_names[lang["language"]] = lang["name"]
+    if "code" in lang and "name_local" in lang:
+        language_names[lang["code"]] = lang["name_local"]
 
 
 html_context = {
     "languages": language_data,
     "language_names": language_names,
     "current_language": language,
-    "current_version": version
+    "current_version": version,
+    "baseurl": baseurl
 }
+
+html_baseurl = baseurl
 
 author = 'Community'
 comments_config = {'hypothesis': False, 'utterances': False}

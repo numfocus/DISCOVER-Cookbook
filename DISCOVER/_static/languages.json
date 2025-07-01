@@ -1,28 +1,33 @@
 [
     {
-        "language": "en",
-        "name": "English",
-        "preferred": true,
-        "url": "https://discover-cookbook.numfocus.org/2.0/en"
-    },
-        {
-        "language": "hi",
-        "name": "हिन्दी",
-        "url": "https://discover-cookbook.numfocus.org/2.0/hi"
+        "code": "en",
+        "name_local": "English",
+        "direction": "ltr"
     },
     {
-        "language": "es",
-        "name": "Español",
-        "url": "https://discover-cookbook.numfocus.org/2.0/es"
+        "code": "hi",
+        "name_local": "हिन्दी",
+        "direction": "ltr"
     },
     {
-        "language": "fr",
-        "name": "Français",
-        "url": "https://discover-cookbook.numfocus.org/2.0/fr"
+        "code": "es",
+        "name_local": "Español",
+        "direction": "ltr"
     },
     {
-        "language": "pt",
-        "name": "Português",
-        "url": "https://discover-cookbook.numfocus.org/2.0/pt"
+        "code": "fr",
+        "name_local": "Français",
+        "direction": "ltr"
+    },
+    {
+        "code": "pt",
+        "name_local": "Português",
+        "direction": "ltr"
+    },
+    {
+        "code": "ar",
+        "name_local": "العربية",
+        "direction": "rtl",
+        "hidden": true
     }
 ]

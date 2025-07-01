@@ -85,7 +85,7 @@ conda env create -f environment.yml
 ```sh
 conda activate DISCOVER-Cookbook
 ```
-3. Finally, to build the sphinx-build
+3. Finally, to build the Jupyter Book
 ``` sh
 sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
@@ -108,7 +108,7 @@ source .venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
-4. Finally, to build the sphinx-build
+4. Finally, to build the Jupyter Book
 ``` sh
 sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 ```
