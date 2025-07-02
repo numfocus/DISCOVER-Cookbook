@@ -1,12 +1,12 @@
 name: Deploy PR previews
 
 on:
-  pull_request:
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - closed
+  # pull_request:
+  #   types:
+  #     - opened
+  #     - reopened
+  #     - synchronize
+  #     - closed
 
 permissions:
   contents: write 
@@ -28,8 +28,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter-book
-        pip install sphinx-tags
+        pip install -r requirements.txt
 
     - name: Build the book
       if: github.event.action != 'closed'

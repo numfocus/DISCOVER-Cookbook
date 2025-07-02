@@ -1,0 +1,6 @@
+[build]
+  publish = "DISCOVER/_build/html"
+  command = "pip install -r requirements.txt && rm -rf DISCOVER/_tags/* && sphinx-build -b html DISCOVER/ DISCOVER/_build/html"
+
+[build.environment]
+  PYTHON_VERSION = "3.12"
