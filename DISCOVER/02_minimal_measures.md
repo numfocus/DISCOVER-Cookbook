@@ -213,6 +213,10 @@ What to ask on your registration form (and what not to ask)
 
 	-   Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color).
 
+	-   Use neutral colors that avoid traditional gendered associations and combine with accessibility features like shapes or patterns for colorblind attendees.
+
+	-   Always include an "Ask" option for people who use different pronouns or change their pronouns on different occasions.
+
 
 ## [Grants/Scholarships](08_grants_scholarships.md)
 
