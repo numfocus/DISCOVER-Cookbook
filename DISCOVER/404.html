@@ -25,7 +25,7 @@
       position: absolute;
       width: 500px;
       height: 500px;
-      background: radial-gradient(circle at center,  transparent);
+      background: radial-gradient(circle at center, transparent);
       border-radius: 50%;
       filter: blur(80px);
       top: 20%;
@@ -105,7 +105,6 @@
       <select id="language-switcher">
         <option value="en">English</option>
         <option value="es">Español</option>
-        
       </select>
     </div>
 
@@ -132,32 +131,40 @@
         report: "🐞 Informar del problema",
         footer: "Si crees que esto es un error, infórmanos creando un issue."
       }
-      
     };
 
-    const pathLang = location.pathname.split("/")[1];
-    const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
-    const lang = translations[pathLang] ? pathLang : (translations[refLang] ? refLang : "en");
+    function detectLanguage() {
+      const pathLang = location.pathname.split("/")[1];
+      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
+      const storedLang = localStorage.getItem("preferredLang");
+      return translations[pathLang]
+        ? pathLang
+        : translations[refLang]
+        ? refLang
+        : translations[storedLang]
+        ? storedLang
+        : "en";
+    }
 
+    function applyLanguage(lang) {
+      const t = translations[lang] || translations["en"];
+      document.getElementById("title").textContent = t.title;
+      document.getElementById("message").textContent = t.message;
+      document.getElementById("suggestion").textContent = t.suggestion;
+      document.getElementById("what-do").textContent = t.whatDo;
+      document.getElementById("home").textContent = t.home;
+      document.getElementById("report").textContent = t.report;
+      document.getElementById("footer").textContent = t.footer;
+      document.getElementById("language-switcher").value = lang;
+      localStorage.setItem("preferredLang", lang);
+    }
 
-    document.getElementById("title").textContent = translations[lang].title;
-    document.getElementById("message").textContent = translations[lang].message;
-    document.getElementById("suggestion").textContent = translations[lang].suggestion;
-    document.getElementById("what-do").textContent = translations[lang].whatDo;
-    document.getElementById("home").textContent = translations[lang].home;
-    document.getElementById("report").textContent = translations[lang].report;
-    document.getElementById("footer").textContent = translations[lang].footer;
-    document.getElementById("language-switcher").value = lang;
+    const initialLang = detectLanguage();
+    applyLanguage(initialLang);
 
     document.getElementById("language-switcher").addEventListener("change", function () {
-        const selectedLang = this.value;
-        if (selectedLang === "en") {
-            window.location.href = `/404.html`;
-        } else {
-          window.location.href = `/${selectedLang}/404.html`;
-    }
-  });
-</script>
+      applyLanguage(this.value);
+    });
   </script>
 </body>
 </html>
