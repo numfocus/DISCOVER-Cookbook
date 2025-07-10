@@ -19,6 +19,16 @@ NumFOCUS invites the community to make suggestions for improvements to the DISCO
 
 All contributions should conform to the [NumFOCUS Contributor Code of Conduct](https://numfocus.org/code-of-conduct).
 
+## AI Contribution Policy
+
+We welcome contributions that use AI tools responsibly. Please review our [AI Contribution Policy](AI-CONTRIBUTION-POLICY.md) for guidelines on:
+- Acceptable AI tool usage
+- Required disclosure practices  
+- Quality assurance standards
+- Legal and ethical considerations
+
+All AI-assisted contributions must be disclosed and thoroughly reviewed by the human contributor.
+
 ## Types of Contributions
 
 The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-Cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
