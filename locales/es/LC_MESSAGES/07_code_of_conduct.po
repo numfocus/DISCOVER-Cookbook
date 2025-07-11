@@ -1,0 +1,347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/07_code_of_conduct.md:1
+msgid ""
+"Tags: Code-of-Conduct, Being-Respectful, Sexual-Harassment, Bullying, "
+"Giving-Participants-Room-To-Be-Who-They-Are"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:5
+msgid "Code of Conduct (CoC)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:7
+msgid "🍎 Articulate a Code of Conduct for your event"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:8
+msgid ""
+"Get inspired by Codes of Conduct that have been phrased for other "
+"conferences (see also \"Further Reading\")"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:10
+msgid "Goals"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:12
+msgid "**A Code of Conduct should:**"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:13
+msgid "Be easy to read (You shouldn't need a law degree to understand it.)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:14
+msgid "Be easy to find"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:15
+msgid "Explain how to report problematic or unethical behavior"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:16
+msgid "Explain the consequences of violating Code of Conduct provisions"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:17
+msgid "Include timelines/deadlines for enforcement action that will be taken"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:19
+msgid "Additional ways to support and implement your Code of Conduct:"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:20
+msgid "Include FAQs"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:21
+msgid "Encourage positive behavior (don't just discourage negative behavior)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:22
+msgid ""
+"Have a \"quick\" version and a \"less quick\" version (e.g. "
+"[JSConf](http://jsconf.com/codeofconduct.html))"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:24
+msgid "Awareness"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:26
+msgid ""
+"Make sure that **everyone involved in your conference/event** is aware "
+"that the Code of Conduct applies to them: that not only includes "
+"participants, but also speakers, sponsors, committee members etc."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:28
+msgid ""
+"🍎 Tick box at registration that confirms that the participant has read "
+"the Code of Conduct"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:29
+msgid "A pop-up with a short version may also be a good idea."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:30
+msgid ""
+"Provide a link to the full (\"less quick\") version of the Code of "
+"Conduct, hosted on its own page."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:31
+msgid "🍎 Include a copy of the Code of Conduct in the sponsor packet"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:32
+msgid ""
+"🍎 Mention that the Code of Conduct applies to the speakers in the speaker"
+" guidelines"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:33
+msgid ""
+"🍎 Ensure that the Code of Conduct is **easily** accessible on the "
+"conference website"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:34
+msgid ""
+"Should be in main navigation or in the footer (footer is a known pattern,"
+" near privacy policy / terms of service)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:35
+msgid ""
+"Implement additional web-based highlights of the CoC via loading pages, "
+"pop-ups, screen savers, etc."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:36
+msgid ""
+"🍎 Include a short version of the Code of Conduct on the printed schedule "
+"as a reminder"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:37
+msgid ""
+"🍎 Mention the Code of Conduct in the welcome talk and at the start of "
+"every day, including who to contact if there is a problem/violation"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:38
+msgid ""
+"🍎 Place Code of Conduct reminders on tables at lunch and also signs in "
+"rooms reminding people during the day"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:39
+msgid ""
+"🍎 Create a large banner sign at key entrances on the Code of Conduct as a"
+" reminder."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:40
+msgid ""
+"If you send out daily event e-mails, include an item on &quot;Seeing or "
+"experiencing something that makes you uncomfortable&quot;"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:41
+msgid ""
+"&quot;Remember that you can always speak to one of our ombudspersons "
+"about any matter of concern, no matter how small.&quot;"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:42
+msgid ""
+"Include short blurbs about the Code of Conduct during breaks (e.g. during"
+" slide breaks), on websites, etc."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:43
+msgid "Consider a visual &quot;workflow&quot; of Code of Conduct violation:"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:44
+msgid "Report -&gt; Action -&gt; Resolution"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:45
+msgid "Make it clear what the consequences or resolutions of a violation are"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:47
+msgid "Reporting"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:49
+msgid ""
+"Ensure confidentiality of the person who is reporting the violation (and "
+"the alleged violator)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:50
+msgid "Ensure that the data is stored securely with limited access"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:51
+msgid "Make sure that people are aware of reporting mechanisms:"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:52
+msgid "Face to face with staff (Who is the dedicated ombudsperson or -persons?)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:53
+msgid "Dedicated email, e.g. to conduct@yourdomain.org"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:54
+msgid ""
+"Fill out an online form, e.g. [O'Reilly Report "
+"CoC](http://www.oreilly.com/conferences/report-code-of-conduct.html)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:55
+msgid ""
+"Consider how a report against an authority figure would be submitted — "
+"e.g. if the ombudsperson is the subject of a CoC violation report, who is"
+" the report submitted to? (A good reason to have more than one "
+"ombudsperson.)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:58
+msgid "Enforcement"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:60
+msgid ""
+"Be clear on how long it will take to resolve the situation or take an "
+"action on the violation"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:61
+msgid ""
+"Discuss in advance with the organizing committee what the specific "
+"process will be for recording and addressing a CoC violation"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:62
+msgid ""
+"When possible, have a third party review the violation report (Another "
+"good way to handle the challenge of potential reports against authority "
+"figures.)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:63
+msgid ""
+"Ensure the person who made the CoC violation report is aware of how it is"
+" being handled and when it has been resolved."
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:66
+msgid "Further reading"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:68
+msgid "**Why You Need a Code of Conduct**"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:69
+msgid ""
+"[Why to have a CoC and how to make one](http://incisive.nu/2014/codes-of-"
+"conduct/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:70
+msgid ""
+"[Why conferences need a code of conduct](https://jacobian.org/writing"
+"/codes-of-conduct/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:71
+msgid ""
+"[Human Decency Is Not Enough: Why Cons Need Better Anti-Harassment "
+"Policies](https://www.wired.com/2013/07/convention-harassment-comic-con/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:72
+msgid ""
+"[Should my tech conference community have a code of conduct and "
+"recommended resources](http://wunder.schoenaberselten.com/2016/02/17"
+"/should-my-tech-conference-community-have-a-code-of-conduct-recommended-"
+"resources/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:74
+msgid "**Crafting a Code of Conduct**"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:75
+msgid "[A CoC builder](http://codeofconduct.io)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:76
+msgid "[Conference Code of Conduct](http://confcodeofconduct.com/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:77
+msgid ""
+"[Codes of Conduct 101 + FAQ](https://www.ashedryden.com/blog/codes-of-"
+"conduct-101-faq)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:78
+msgid ""
+"[How to design a code of conduct for your "
+"community](https://web.archive.org/web/20201026215352/https://adainitiative.org/2014/02/18"
+"/howto-design-a-code-of-conduct-for-your-community/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:79
+msgid ""
+"[How Tech Codes of Conduct Fail](https://medium.com/@gusseting/tech-"
+"codes-of-conduct-e4e05c6f539f)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:81
+msgid "**Managing a Code of Conduct**"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:82
+msgid ""
+"[NYC PyLadies Meetup: Managing our Code of "
+"Conduct](https://reshamas.github.io/managing-our-code-of-conduct/)"
+msgstr ""
+
+#: ../DISCOVER/07_code_of_conduct.md:83
+msgid ""
+"[Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-"
+"harassment/Responding_to_reports)"
+msgstr ""
+

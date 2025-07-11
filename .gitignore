@@ -12,3 +12,7 @@ venv/
 
 # in case of using pyenv
 .python-version
+
+# Ignore translation files
+*.pot
+*.mo

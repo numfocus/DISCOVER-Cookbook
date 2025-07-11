@@ -7,14 +7,14 @@
 Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
 
 - ✅ Common dietary needs to plan for:
-  - Gluten free
-  - Dairy free
+  - Gluten-free
+  - Dairy-free
   - Vegan
   - Vegetarian
-  - Pork free
-  - Shellfish free
-  - Soy free
-  - Nut free - especially peanut (this is usually a serious allergy so take extra care)
+  - Pork-free
+  - Shellfish-free
+  - Soy-free
+  - Nut-free - especially peanut (this is usually a serious allergy so take extra care)
   - Kosher
   - Halal
 - 🍎 Ask your caterer to create and provide labels with lists of ingredients for each dish.

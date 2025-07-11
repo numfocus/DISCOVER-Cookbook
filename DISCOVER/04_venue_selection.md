@@ -55,9 +55,9 @@
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 - How to re-label bathrooms:
   - 🍎 List the specific amenities and what type of restroom it is. For example:
-  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" Example image from a Google Groups attachment (currently inaccessible). [^lf-source]
+  - "All Gender Restroom: Facilities available in this restroom include individual stall toilets, an accessible stall toilet, urinals, sinks, and a changing table" For detailed guidelines and examples of inclusive restroom signage, refer to [Best Practices for All-Gender Restroom Signage](https://pridefoundation.org/wp-content/uploads/2020/04/All-Gender-Restrooms.pdf).
   - Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom 
-  - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
+    - For example: "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 
 ### Toiletries/Supplies
 
@@ -77,7 +77,7 @@
 
 ### 🍎 Nursing &amp; Pumping Room
 
-- Ensure there is a dedicated, single-occupancy space with lock.
+- Ensure there is a dedicated, single-occupancy space with a locking door.
 - For the room to be optimally useful, these things are desired:
   - Locking door
   - Comfortable chair (ideally, with arms that do not have gaps between the armrest and the seat, and a set of firm cushions for positioning an infant)
@@ -111,4 +111,3 @@
   - People whose religions require frequent prayer (such as Muslims) can make use of the quiet room.
 - Ideal is to provide one well lit quiet room, and a second dimly lit room.
 - Consider "quiet areas" if a separate room is not possible.
- [^lf-source]: Original link: [DSC_1789.JPG](https://18029308028529096031.googlegroups.com/attach/52e754e97d90f/DSC_1789.JPG?part=0.1&view=1&vt=ANaJVrFbGcBQQfLroj3ED-iXFIVFe5K-Y1gyGNVwHlK1_dEeCsRVzRBki8hKdybDrYre-kMlG3b_tkpfSQX1i_jUzoVx4D-czxl9Smp7HjUkOc3s0AuOzOc).

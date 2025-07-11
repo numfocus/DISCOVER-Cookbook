@@ -1,0 +1,70 @@
+name: 🐛 Bug Report
+description: Report a bug to help us improve the DISCOVER Cookbook
+title: "[Bug]: "
+labels: ["🐛 bug", "🧰 maintenance"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for taking the time to fill out this bug report!**
+        To help us resolve this issue as quickly as possible, please provide as much detail as you can.
+
+        Before opening a new issue, please:
+        1. **Search [existing issues](https://github.com/numfocus/DISCOVER-Cookbook/issues)**: Check if your bug has already been reported.
+        2. **Review our contribution guidelines**: Please read our **[CONTRIBUTING.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md)** before contributing.
+
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the Bug
+      description: "A clear and concise description of what the bug is. What did you see? What did you expect to see?"
+      placeholder: "e.g., The DISC logo is missing from the header of the 'Tags Overview' page, making it inconsistent with other pages."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: "Please provide detailed steps to reproduce the behavior."
+      placeholder: |
+        1. Go to the DISCOVER Cookbook.
+        2. Click on 'Tags overview' in the navigation menu.
+        3. Observe the header section.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: "A clear and concise description of what you expected to happen."
+      placeholder: "I expected to see the DISC logo displayed in the header of the 'Tags Overview' page."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Screencasts
+      description: "If applicable, add screenshots or a short video to help explain your problem."
+      placeholder: "You can drag and drop images or GIFs here."
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: "Is there anything else you'd like to add? For example, have you tried to fix this yourself? Do you have suggestions for a solution?"
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I agree to follow the DISCOVER Cookbook's [Code of Conduct](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md).
+          required: true
+        - label: I would like to submit a pull request to fix this bug.
+       
