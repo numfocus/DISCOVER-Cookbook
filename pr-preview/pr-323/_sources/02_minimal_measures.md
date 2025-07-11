@@ -72,8 +72,10 @@ Conference chairs and lead organizers should take special care to recruit an org
 #### 🍎 Gender-Neutral Bottle Feeding Room
 
 -   Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
-
--   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled. It could accommodate multiple babies at a time and be equipped with multiple comfortable chairs with broad armrests to facilitate bottle feeding positions, a bottle warmer, paper towels, cleaning wipes, a garbage can for cleanliness, and dim lighting, and it should be in a quiet area of the conference center/venue
+-   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled.
+-   The room should ideally accommodate multiple babies at a time.
+-   The room should be equipped with multiple comfortable chairs with broad armrests to facilitate bottle feeding positions, a bottle warmer, paper towels, cleaning wipes, a garbage can for cleanliness, and dim lighting.
+-   The room should be in a quiet area of the conference center/venue.
 
 
 #### 🍎 Quiet Room
