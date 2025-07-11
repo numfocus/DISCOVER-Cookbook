@@ -27,7 +27,7 @@ Registration vs. Travel &amp; Lodging
     - [Galaxy](https://galaxyproject.org) deals with this by having a separate entity (the Galaxy Community Fund) offer sponsorships.
     
 - Payment
-  - Supported participants are often required to cover various expenses upfront, with the expectation of reimbursement from the sponsor. However, this can be difficult for many participants who may not have the financial resources to do so.
+  - Supported participants are often required to cover various expenses up front, with the expectation of reimbursement from the sponsor. However, this can be difficult for many participants who may not have the financial resources to do so.
     - To mitigate this issue, sponsors should cover as many expenses as possible directly, including flights, hotels (and deposits), and other major costs.
     - For expenses that cannot be paid directly, sponsors can utilize systems like Ramp, which allow for the creation of virtual credit cards. These cards can be assigned to supported participants, ensuring that expenses are charged directly to the sponsor, eliminating the need for participants to pay out of pocket.
   - Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
