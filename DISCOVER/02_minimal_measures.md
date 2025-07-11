@@ -74,6 +74,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 -   Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
 -   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled.
 -   The room should ideally accommodate multiple babies at a time.
+-   The room should be in a quiet area of the conference center/venue.
 
 
 #### 🍎 Quiet Room
