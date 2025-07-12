@@ -24,7 +24,7 @@ While content is the heart of the project, the quality of the content needs to r
 
 ### Bug fixes
 
-For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
+For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
 > **Note:** To contribute effectively, check for active pull requests to avoid duplication, discuss your ideas in active issues or pull requests, and seek approval from maintainers or issue creators before proceeding. Respect others' contributions and collaborate constructively to improve the project.
 
@@ -47,7 +47,7 @@ To contribute changes:
 
 4. **Make Changes**: 
    - Edit files in your preferred editor
-   - Build and verify your changes locally using the [build instructions](#how-to-run-the-book-locally) below
+   - See [how to build and run the site locally](#how-to-build-and-run-the-site-locally) below to test your changes.
    
 5. **Test Locally**: Build the book and view your changes:
    ```sh
@@ -72,7 +72,7 @@ To contribute changes:
 See the [contributing.md](CONTRIBUTING.md) for a detailed guide on how to contribute.
 
 
-## How to run the book locally
+## How to Build and Run the Site Locally
 
 Create a local python environment and install all the required dependencies using the following commands (either with conda or pip)
 
