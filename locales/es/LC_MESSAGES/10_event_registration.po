@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/10_event_registration.md:1
+msgid ""
+"Tags: Registration, People-with-Disabilities, Scholarships, People-with-"
+"Allergies, Catering, Dietary-Restrictions, Giving-Participants-Room-To-"
+"Be-Who-They-Are, Code-of-Conduct, Unconscious-and-Implicit-Bias, "
+"Embracing-Diverse-Voices-and-Experiences, Stereotyping"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:5
+msgid "Event Registration"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:7
+msgid "What to ask on your registration form (and what not to ask)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:9
+msgid "Preparing to meet accessibility needs"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:11
+msgid ""
+"Outline any accessibility services you plan to provide on the "
+"registration form. Then:"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:12
+msgid ""
+"🍎 Ask registrants if they have any additional accessibility needs, and if"
+" so, provide instructions on how to make the request."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:13
+msgid ""
+"&quot;Do you need any special accommodations to help make your time at "
+"the conference comfortable and productive? (e.g. accessibility "
+"considerations). Please email "
+"[contact@myconference.com](mailto:contact@myconference.com) and include "
+"the details of your request.&quot;"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:14
+msgid ""
+"Provide any deadlines for requests (it can be difficult to arrange sign-"
+"language translation at the last minute, for example)."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:16
+msgid "Supporting Attendance through Grants"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:18
+msgid ""
+"Ask about any grant or scholarship opportunities, e.g. for childcare, "
+"scholarships for underrepresented folks"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:19
+msgid ""
+"&quot;Would you be interested in a grant to cover childcare or on-site "
+"childcare services? (yes/no) Which option would be most beneficial for "
+"you?&quot;"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:21
+msgid "Dietary Restrictions"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:23
+msgid ""
+"🍎 Some people have severe allergies or dietary restrictions that can "
+"affect their ability to attend the conference."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:24
+msgid ""
+"Use an open text box to ask about dietary restrictions. (Forcing "
+"registrants to choose from a pre-defined list might miss important "
+"allergies or restrictions.)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:25
+msgid ""
+"&quot;Do you have any dietary restrictions we should be aware of? (e.g. "
+"allergies)&quot;"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:27
+msgid "Photo Policy"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:29
+msgid ""
+"🍎 If you will have a photographer at your event, include information for "
+"attendees explaining that they may be photographed and how to opt out."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:30
+msgid ""
+"(see lanyard/photography explanation under [Inclusive "
+"Practices](11_inclusive_practices_during_checkin.md))"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:33
+#: ../DISCOVER/10_event_registration.md:47
+#: ../DISCOVER/10_event_registration.md:74
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:35
+msgid ""
+"[Geek Feminism "
+"Photography](http://geekfeminism.wikia.com/wiki/Photography)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:37
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:39
+msgid ""
+"🍎 Show the text of the Code of Conduct and a required check-box that the "
+"registrant has read it and agrees to abide by it."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:41
+msgid "T-Shirts"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:43
+msgid ""
+"If you plan to offer t-shirts, consider offering more than one cut/fit of"
+" shirt."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:44
+msgid ""
+"Provide shirt sizing information with the registration form where you ask"
+" for shirt size. (Provide a wide range of sizes, including plus-size.)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:45
+msgid ""
+"Describe the cut in gender-neutral terms (e.g. &quot;fitted&quot; vs. "
+"&quot;straight-cut&quot;) with photo examples, rather than using gender-"
+"loaded terms (&quot;men&#39;s,&quot; &quot;women&#39;s,&quot; "
+"&quot;unisex&quot;)."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:49
+msgid "[Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:50
+msgid ""
+"[Unisex Swag Shirts Are Harming Your Community](http://cczona.com/unisex-"
+"swag-shirts-are-harming-your-community/)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:52
+msgid "Demographic Info"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:54
+msgid "**Why do you need it?**"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:55
+msgid ""
+"We recommend you do not ask for information just &quot;out of "
+"curiosity&quot; but rather that there are **planned actions you will take"
+" depending on the results** of your demographic question(s)."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:56
+msgid ""
+"If you are asking just for the purpose of &quot;counting&quot; or "
+"ascertaining the diversity of your conference, we suggest doing this in "
+"the form of an anonymous post-survey instead, to protect participant "
+"privacy."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:57
+msgid ""
+"If you absolutely must include demographic info in your registration "
+"form, **make it optional, not required**. Forcing people to identify "
+"themselves by demographic category is not an inclusive practice and may "
+"prompt [stereotype "
+"threat](https://en.wikipedia.org/wiki/Stereotype_threat)."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:58
+msgid ""
+"✅ If you do collect demographic info, be thoughtful about the structure "
+"of the questions so that they are inclusive and don&#39;t contribute to "
+"alienating or &quot;othering&quot; marginalized people."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:59
+msgid ""
+"Not having an answer choice that matches your identity can be a very "
+"alienating experience."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:60
+msgid ""
+"✅ Take anonymity and data security seriously. Have a plan for limiting "
+"access to this information and keeping it secure."
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:61
+msgid "Suggested format for demographic question:"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:62
+msgid ""
+"&quot;Do you self-identify as an underrepresented minority in either the "
+"[conference] community or in your professional field?&quot;"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:63
+msgid ""
+"&quot;Along which dimension(s) you self-identify as underrepresented? "
+"Check all that apply:&quot;"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:64
+msgid "Gender identity"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:65
+msgid "Ethnicity, nationality, skin color, race"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:66
+msgid "Sexual orientation"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:67
+msgid "Socioeconomic status"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:68
+msgid "Religion"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:69
+msgid "Age"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:70
+msgid "Ability"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:71
+msgid "Do not wish to provide"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:72
+msgid "Other (please specify)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:76
+msgid ""
+"[Guiding principles for handling gender on "
+"forms](http://43epnd.axshare.com/gender.html)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:77
+msgid "[A Word on Monitoring](https://www.cheryl-morgan.com/?p=24245)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:78
+msgid ""
+"[Respectful Collection of Demographic "
+"Data](https://medium.com/@anna.sarai.rosenberg/respectful-collection-of-"
+"demographic-data-56de9fcb80e2)"
+msgstr ""
+
+#: ../DISCOVER/10_event_registration.md:79
+msgid ""
+"[Open Demographics](https://github.com/drnikki/open-"
+"demographics/tree/master/docs/_sources/questions)"
+msgstr ""
+

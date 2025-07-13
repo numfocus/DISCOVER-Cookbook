@@ -16,18 +16,22 @@
    - Based on community reports by organizations such as the [American Physical Society (APS)](https://engage.aps.org/dfd/honors/education-outreach) and the [American Society for Cell Biology (ASCB)](https://www.ascb.org/newsletter-article/empowering-caregivers-ascb-funding-help-you-attend-annual-meeting/) grants to cover childcare costs seem to be popular with attendees. [On-site childcare services can be costly for attendees because of additional travel costs for bringing children along](https://www.science.org/content/article/new-initiatives-offer-child-care-solutions-traveling-scientists)
       - You might survey your participants to determine their preference for grants vs. on-site childcare services.
       - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
-    - For those who do bring kids to the event/conference:
-       - Provide cost-free access to the conference center/venue for caregivers/babysitters
-          - This allows caregivers to come to the conference for e.g. infant hand-offs (for nursing, for example) as opposed to parents losing additional time walking back to hotel rooms.
+  - For those who do bring kids to the event/conference:
+      - Provide cost-free access to the conference center/venue for caregivers/babysitters. 
+        - This allows caregivers to come to the conference for e.g. infant hand-offs (for nursing, for example) as opposed to parents losing additional time walking back to hotel rooms.
       
 ## On-Site Services
  
 - There are companies that provide childcare at conferences. While NumFOCUS makes no specific endorsements, we did find these companies in our research who are providing event-based childcare:
-   - [Corporate Kids Events](https://conferencechildcare.com/)
-   - [Kiddie Corp](http://www.kiddiecorp.com/)
-   - [UrbanSitter](https://www.urbansitter.com/) provides a platform for finding babysitters. (*This link is only accessible within the United States*)
-   - [Care.com](https://www.care.com/)
-   - [Accent](http://www.accentoca.com/)
+  - US-only:
+    - [UrbanSitter](https://www.urbansitter.com/) provides a platform for finding babysitters. (*This link is only accessible within the United States*)
+  - US & Canada:
+    - [Kiddie Corp](http://www.kiddiecorp.com/)
+  - International:
+    - [Care.com](https://www.care.com/)
+    - [Corporate Kids Events](https://conferencechildcare.com/)
+    - [Accent](http://www.accentoca.com/)
+
 - Another possibility is to organize a &quot;parallel&quot; conference for older children
   - E.g. [coding for kids as at PyCon UK](http://2017.pyconuk.org/education/)
 

@@ -26,4 +26,6 @@ When creating the organizing committee, be aware of the specific roles assigned 
 
 - [Inclusive Approaches to Recruitment & Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
 - [CRA-W Best Practices: Guidelines in Running an Inclusive Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf)
+- [Link to interactive fiction example](https://github.com/softwaresaved/eventure)
+
 

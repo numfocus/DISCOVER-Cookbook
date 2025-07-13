@@ -30,7 +30,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
      - Provide a link to the full ("less quick") version of the Code of Conduct, hosted on its own page.
  - 🍎 Include a copy of the Code of Conduct in the sponsor packet
  - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines
- - 🍎 Ensure that Code of Conduct is **easily** accessible on the conference website
+ - 🍎 Ensure that the Code of Conduct is **easily** accessible on the conference website
    - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
    - Implement additional web-based highlights of the CoC via loading pages, pop-ups, screen savers, etc.
  - 🍎 Include a short version of the Code of Conduct on the printed schedule as a reminder
@@ -59,7 +59,6 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 
 - Be clear on how long it will take to resolve the situation or take an action on the violation
 - Discuss in advance with the organizing committee what the specific process will be for recording and addressing a CoC violation
-- When recording a CoC violation, ensure that the data are stored securely and that everyone&#39;s identities are protected. Access to the data should be limited.
 - When possible, have a third party review the violation report (Another good way to handle the challenge of potential reports against authority figures.)
 - Ensure the person who made the CoC violation report is aware of how it is being handled and when it has been resolved.
 

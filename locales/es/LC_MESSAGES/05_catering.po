@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/05_catering.md:1
+msgid ""
+"Tags: Religious-Groups, People-with-Allergies, Ethnic-Minorities, "
+"Dietary-Restrictions, Catering"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:5
+msgid "Catering"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:7
+msgid ""
+"Making sure that your attendees have something they can eat at mealtimes "
+"is an important element of building an inclusive and welcoming "
+"conference."
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:9
+msgid "✅ Common dietary needs to plan for:"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:10
+msgid "Gluten-free"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:11
+msgid "Dairy-free"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:12
+msgid "Vegan"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:13
+msgid "Vegetarian"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:14
+msgid "Pork-free"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:15
+msgid "Shellfish-free"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:16
+msgid "Soy-free"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:17
+msgid ""
+"Nut-free - especially peanut (this is usually a serious allergy so take "
+"extra care)"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:18
+msgid "Kosher"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:19
+msgid "Halal"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:20
+msgid ""
+"🍎 Ask your caterer to create and provide labels with lists of ingredients"
+" for each dish."
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:21
+msgid ""
+"Best to have a sign/small label in front of each dish with a list of "
+"ingredients and common labels (e.g. &quot;gluten-free, vegan,  includes "
+"peanuts&quot;)."
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:22
+msgid ""
+"🍎 Make sure to include a variety of beverages, in particular non-"
+"alcoholic and non-caffeinated."
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:24
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../DISCOVER/05_catering.md:26
+msgid ""
+"[Inclusive event catering](https://adacamp.org/adacamp-toolkit/inclusive-"
+"event-catering/)"
+msgstr ""
+
