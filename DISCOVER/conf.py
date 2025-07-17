@@ -6,7 +6,7 @@
 
 
 
-version = '2.0'
+version = 'dev'
 language = 'en'
 baseurl = 'https://discover-cookbook.numfocus.org'
 
@@ -16,11 +16,17 @@ import os
 # Load language data from languages.json
 language_json_path = os.path.join(os.path.dirname(__file__), '_static', 'languages.json')
 language_data = []
+current_language_name = None
+
 if os.path.exists(language_json_path):
     with open(language_json_path, 'r', encoding='utf-8') as f:
         all_languages = json.load(f)
-        # Filter out hidden languages
-        language_data = [lang for lang in all_languages if not lang.get('hidden', False)]
+        
+# Get the current language name 
+current_language_name = next((lang['name_local'] for lang in all_languages if lang['code'] == language), language)
+
+# Filter out hidden languages for the dropdown
+language_data = [lang for lang in all_languages if not lang.get('hidden', False)]
 
 # Create a mapping of language codes to their localized names
 language_names = {}
@@ -32,6 +38,7 @@ for lang in language_data:
 html_context = {
     "languages": language_data,
     "language_names": language_names,
+    "current_language_name": current_language_name,
     "current_language": language,
     "current_version": version,
     "baseurl": baseurl
@@ -74,10 +81,8 @@ html_theme_options = {
     "navigation_with_keys": False,
     "show_version_warning_banner": True,
     "switcher": {
-        "json_url": (
-            "_static/versions.json"
-            #  "https://discover-cookbook.numfocus.org/DISCOVER/_static/versions.json" 
-        ),
+        "json_url":"_static/versions.json",
+            # "https://discover-cookbook.numfocus.org/_static/versions.json," 
         "version_match": version,
     },
 }
