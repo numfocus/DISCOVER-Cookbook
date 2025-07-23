@@ -9,12 +9,12 @@ Prioritizing diversity starts with you.
 
 ✅ Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
 
-- Look for balance along many dimensions: seniority, topical expertise, geography, academia/industry, gender/racial/ethnic balance, disability status, academic lineage and many more.
+- Look for balance along many dimensions: seniority, topical expertise, geography, academia/industry, gender/racial/ethnic balance, disability status, academic lineage, and many more.
 - Ensure a good mix of long-term expertise and institutional memory with a flow of new people.
 - Avoid cronyism: Use algorithmic and term-limited approaches to constitute the steering committee.
 
 Offer in-person or online “unconscious bias”, harassment, and ethics training materials for steering committee members and major conference organizers.
-- Either before the conference or during the conference
+- You can do this either before the conference or during it
 - Prioritize candidates for the steering/program committee and organizing positions who have availed themselves of such training (track who has completed training)
 - Document conference and steering committee policies on a public webpage
 
