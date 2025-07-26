@@ -18,15 +18,9 @@ jobs:
       with:
         python-version: 3.13
 
-    - name: Install dependencies
-      run: |
-        pip install jupyter-book
-        pip install sphinx-tags
-
     - name: Build the book
       run: |
-        rm -rf DISCOVER/_tags/*
-        sphinx-build -b html DISCOVER/ DISCOVER/_build/html
+        bash ci/build_website.sh
 
 
     - name: Copy global 404.html 
