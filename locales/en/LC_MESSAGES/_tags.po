@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-26 22:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../_tags/bathrooms.md:4 ../../_tags/being-open.md:4
+#: ../../_tags/being-respectful.md:4 ../../_tags/bullying.md:4
+#: ../../_tags/catering.md:4 ../../_tags/check-in.md:4
+#: ../../_tags/code-of-conduct.md:4 ../../_tags/dietary-restrictions.md:4
+#: ../../_tags/embracing-diverse-voices-and-experiences.md:4
+#: ../../_tags/ethnic-minorities.md:4
+#: ../../_tags/giving-participants-room-to-be-who-they-are.md:4
+#: ../../_tags/global-south-and-developing-countries.md:4
+#: ../../_tags/hearing-impairment.md:4 ../../_tags/lgbtq.md:4
+#: ../../_tags/location-and-venue.md:4 ../../_tags/mobility-impairment.md:4
+#: ../../_tags/newcomers-and-first-timers.md:4
+#: ../../_tags/organization-and-program-committees.md:4
+#: ../../_tags/other-impairments.md:4 ../../_tags/parents-and-carers.md:4
+#: ../../_tags/participant-diversity.md:4
+#: ../../_tags/people-with-allergies.md:4
+#: ../../_tags/people-with-disabilities.md:4 ../../_tags/presenter-line-up.md:4
+#: ../../_tags/registration.md:4 ../../_tags/religious-groups.md:4
+#: ../../_tags/scholarships.md:4 ../../_tags/sexual-harassment.md:4
+#: ../../_tags/social-events.md:4 ../../_tags/stereotyping.md:4
+#: ../../_tags/tokenism.md:4 ../../_tags/unconscious-and-implicit-bias.md:4
+#: ../../_tags/visual-impairment.md:4 ../../_tags/women.md:4
+msgid "With this tag"
+msgstr ""
+
+#: ../../_tags/bathrooms.md:2
+msgid "My tags: Bathrooms"
+msgstr ""
+
+#: ../../_tags/being-open.md:2
+msgid "My tags: Being-Open"
+msgstr ""
+
+#: ../../_tags/being-respectful.md:2
+msgid "My tags: Being-Respectful"
+msgstr ""
+
+#: ../../_tags/bullying.md:2
+msgid "My tags: Bullying"
+msgstr ""
+
+#: ../../_tags/catering.md:2
+msgid "My tags: Catering"
+msgstr ""
+
+#: ../../_tags/check-in.md:2
+msgid "My tags: Check-in"
+msgstr ""
+
+#: ../../_tags/code-of-conduct.md:2
+msgid "My tags: Code-of-Conduct"
+msgstr ""
+
+#: ../../_tags/dietary-restrictions.md:2
+msgid "My tags: Dietary-Restrictions"
+msgstr ""
+
+#: ../../_tags/embracing-diverse-voices-and-experiences.md:2
+msgid "My tags: Embracing-Diverse-Voices-and-Experiences"
+msgstr ""
+
+#: ../../_tags/ethnic-minorities.md:2
+msgid "My tags: Ethnic-Minorities"
+msgstr ""
+
+#: ../../_tags/giving-participants-room-to-be-who-they-are.md:2
+msgid "My tags: Giving-Participants-Room-To-Be-Who-They-Are"
+msgstr ""
+
+#: ../../_tags/global-south-and-developing-countries.md:2
+msgid "My tags: Global-South-and-Developing-Countries"
+msgstr ""
+
+#: ../../_tags/hearing-impairment.md:2
+msgid "My tags: Hearing-Impairment"
+msgstr ""
+
+#: ../../_tags/lgbtq.md:2
+msgid "My tags: LGBTQ+"
+msgstr ""
+
+#: ../../_tags/location-and-venue.md:2
+msgid "My tags: Location-and-Venue"
+msgstr ""
+
+#: ../../_tags/mobility-impairment.md:2
+msgid "My tags: Mobility-Impairment"
+msgstr ""
+
+#: ../../_tags/newcomers-and-first-timers.md:2
+msgid "My tags: Newcomers-and-First-Timers"
+msgstr ""
+
+#: ../../_tags/organization-and-program-committees.md:2
+msgid "My tags: Organization-and-Program-Committees"
+msgstr ""
+
+#: ../../_tags/other-impairments.md:2
+msgid "My tags: Other-Impairments"
+msgstr ""
+
+#: ../../_tags/parents-and-carers.md:2
+msgid "My tags: Parents-and-Carers"
+msgstr ""
+
+#: ../../_tags/participant-diversity.md:2
+msgid "My tags: Participant-Diversity"
+msgstr ""
+
+#: ../../_tags/people-with-allergies.md:2
+msgid "My tags: People-with-Allergies"
+msgstr ""
+
+#: ../../_tags/people-with-disabilities.md:2
+msgid "My tags: People-with-Disabilities"
+msgstr ""
+
+#: ../../_tags/presenter-line-up.md:2
+msgid "My tags: Presenter-Line-up"
+msgstr ""
+
+#: ../../_tags/registration.md:2
+msgid "My tags: Registration"
+msgstr ""
+
+#: ../../_tags/religious-groups.md:2
+msgid "My tags: Religious-Groups"
+msgstr ""
+
+#: ../../_tags/scholarships.md:2
+msgid "My tags: Scholarships"
+msgstr ""
+
+#: ../../_tags/sexual-harassment.md:2
+msgid "My tags: Sexual-Harassment"
+msgstr ""
+
+#: ../../_tags/social-events.md:2
+msgid "My tags: Social-Events"
+msgstr ""
+
+#: ../../_tags/stereotyping.md:2
+msgid "My tags: Stereotyping"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Bathrooms (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Being-Open (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Being-Respectful (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Bullying (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Catering (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Check-in (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Code-of-Conduct (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Dietary-Restrictions (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Embracing-Diverse-Voices-and-Experiences (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Ethnic-Minorities (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Giving-Participants-Room-To-Be-Who-They-Are (4)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Global-South-and-Developing-Countries (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Hearing-Impairment (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "LGBTQ+ (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Location-and-Venue (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Mobility-Impairment (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Newcomers-and-First-Timers (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Organization-and-Program-Committees (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Other-Impairments (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Parents-and-Carers (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Participant-Diversity (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "People-with-Allergies (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "People-with-Disabilities (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Presenter-Line-up (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Registration (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Religious-Groups (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Scholarships (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Sexual-Harassment (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Social-Events (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Stereotyping (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Tokenism (2)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Unconscious-and-Implicit-Bias (3)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Visual-Impairment (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Women (1)"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:5
+msgid "Tags"
+msgstr ""
+
+#: ../../_tags/tagsindex.md:3
+msgid "Tags overview"
+msgstr ""
+
+#: ../../_tags/tokenism.md:2
+msgid "My tags: Tokenism"
+msgstr ""
+
+#: ../../_tags/unconscious-and-implicit-bias.md:2
+msgid "My tags: Unconscious-and-Implicit-Bias"
+msgstr ""
+
+#: ../../_tags/visual-impairment.md:2
+msgid "My tags: Visual-Impairment"
+msgstr ""
+
+#: ../../_tags/women.md:2
+msgid "My tags: Women"
+msgstr ""
+
