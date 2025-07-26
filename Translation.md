@@ -56,8 +56,8 @@ To fetch the latest translations from Transifex:
 tx pull -a
 ```
 This syncs updated .po files into:
-```locales/<lang>/LC_MESSAGES/
-```
+```locales/<lang>/LC_MESSAGES/```
+
 ## 📥 Manual Uploads via Transifex Web UI
 
 If `.po` files were uploaded directly via the Transifex dashboard:
