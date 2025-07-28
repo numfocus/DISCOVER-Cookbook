@@ -21,9 +21,8 @@ jobs:
           days-before-issue-close: -1
           
           days-before-pr-stale: 30
-          days-before-pr-close: 14
+          days-before-pr-close: -1
           stale-pr-message: 'This pull request has been inactive for 30 days. It will be closed in 14 days if no further activity occurs.'
-          close-pr-message: 'This pull request was closed due to inactivity for 44 days. Please feel free to reopen if you wish to continue working on this.'
           stale-pr-label: '⌛ stale'
           exempt-pr-labels: ✨ content enhancement,✍️ new content'
           exempt-draft-pr: true
