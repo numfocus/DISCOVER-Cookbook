@@ -8,7 +8,7 @@ pip install -r requirements.txt
 rm -rf DISCOVER/_tags/*
 
 echo "Building English version..."
-sphinx-build -b html DISCOVER/ DISCOVER/_build/html
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html/en
 
 
 # Copy root level files if they exist
