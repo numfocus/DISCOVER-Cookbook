@@ -23,11 +23,6 @@ jobs:
         bash ci/build_website.sh
 
 
-    - name: Copy global 404.html 
-      run: |
-        cp DISCOVER/404.html DISCOVER/_build/html/404.html
-
-
     - name: Push book HTML to gh-pages
       uses: peaceiris/actions-gh-pages@v3.9.0
       with:
