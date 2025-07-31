@@ -1,0 +1,8 @@
+[main]
+host = https://app.transifex.com
+[o:numfocus:p:DISCOVER-Cookbook:r:01_about]
+file_filter = locales/<lang>/LC_MESSAGES/01_about.po
+source_file = locales/en/LC_MESSAGES/01_about.po
+source_lang = en
+type = PO
+
