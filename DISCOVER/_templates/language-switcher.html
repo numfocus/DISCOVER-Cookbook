@@ -1,7 +1,7 @@
 <div class="dropdown">
   <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="language-switcher-button"
     data-bs-toggle="dropdown" aria-expanded="false">
-      {{ language_names[current_language] }}
+      {{current_language_name}}
   </button>
   <ul class="dropdown-menu" aria-labelledby="language-switcher-button">
     {% for item in languages %}

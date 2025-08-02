@@ -5,29 +5,10 @@
         "direction": "ltr"
     },
     {
-        "code": "hi",
-        "name_local": "हिन्दी",
-        "direction": "ltr"
-    },
-    {
         "code": "es",
         "name_local": "Español",
-        "direction": "ltr"
-    },
-    {
-        "code": "fr",
-        "name_local": "Français",
-        "direction": "ltr"
-    },
-    {
-        "code": "pt",
-        "name_local": "Português",
-        "direction": "ltr"
-    },
-    {
-        "code": "ar",
-        "name_local": "العربية",
-        "direction": "rtl",
+        "direction": "ltr",
         "hidden": true
     }
+   
 ]

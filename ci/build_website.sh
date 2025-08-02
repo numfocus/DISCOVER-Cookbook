@@ -16,8 +16,8 @@ if [ -f "DISCOVER/_static/404.html" ]; then
   cp DISCOVER/_static/404.html DISCOVER/_build/html/
 fi
 
-if [ -f "DISCOVER/_static/index.html" ]; then
-  cp DISCOVER/_static/index.html DISCOVER/_build/html/
-fi
+# if [ -f "DISCOVER/_static/index.html" ]; then
+#   cp DISCOVER/_static/index.html DISCOVER/_build/html/
+# fi
 
 echo "Build completed successfully"
