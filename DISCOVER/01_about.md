@@ -1,10 +1,10 @@
 (about)=
-# About
+# About this Cookbook
 
 ## Summary
 This cookbook is intended as a resource for organizers of conferences and events with a particular focus on the tech sector in the United States. It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event. The cookbook does not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
-## About this Cookbook:
+## What this Cookbook Is
 
 This cookbook is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
 
@@ -15,7 +15,7 @@ _Funding to produce this cookbook was made possible by a generous grant from the
 **Further Reading:**
 - [DISCOVER Cookbook Checklist](/13_inclusive-checklist.md) — A practical checklist for conference organizers to implement inclusive measures effectively.
 
-## What this Cookbook is not:
+## What this Cookbook Is Not
 
 This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
@@ -24,7 +24,7 @@ Some &quot;basic&quot; best practice is understood to be a prerequisite for many
 This cookbook also does not offer reasons or rationale for **why inclusion and diversity are important**. The cookbook presumes the organizing committee is already interested in improving diversity and inclusion at their conference or event. Hence the suggestions herein are focused on the &quot;how&quot; rather than the &quot;why&quot;.
 
 
-## Acknowledgements:
+## Acknowledgements
 
 We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
 
@@ -52,7 +52,7 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 ---
 
-## REQUEST FOR INPUT
+## Request for Input
 
 NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
