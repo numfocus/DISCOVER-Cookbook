@@ -1,0 +1,502 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/09_participant_selection.md:1
+msgid ""
+"Tags: Participant-Diversity, Presenter-Line-up, Embracing-Diverse-Voices-"
+"and-Experiences, Unconscious-and-Implicit-Bias, Tokenism"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:5
+msgid "Participant and Speaker Selection"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:7
+msgid "Speakers"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:9
+msgid "Invited Speakers"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:11
+msgid ""
+"✅ Reach beyond the conference organizers&#39; own networks. Take steps to"
+" go out and find people who might be lesser-known but would make great "
+"speakers. Look for more than just &quot;the usual suspects&quot; and "
+"reach out to your wider network for ideas, suggestions, and "
+"introductions."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:12
+msgid "Identify a group of people to solicit as conference speakers"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:13
+msgid "Take extra steps to ensure a diverse speaker pool"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:14
+msgid ""
+"Make the list of potential speakers who are underrepresented longer than "
+"the list of usual suspects (e.g. — have a longer list of women than men),"
+" so when someone declines or drops out you can just move to the next one "
+"on the list. Underrepresented folks are often overburdened with speaking "
+"requests, hence the need for a longer list."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:15
+msgid ""
+"Keep and maintain a list of possible speakers with expertise and their "
+"contact info"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:16
+msgid ""
+"Research and follow speaker lists compiled by other organizations and "
+"communities"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:17
+msgid ""
+"When querying your network for speaker ideas, specifically ask for "
+"suggestions of speakers who could contribute to the diversity of the "
+"speaker line-up"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:18
+msgid ""
+"If your system is to have speakers come to you &amp; ask, but research "
+"shows they tend not to do so, they won&#39;t come."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:19
+msgid ""
+"🍎 Consider the specific wording of how you solicit talks (subtlety can "
+"make a big difference)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:20
+msgid ""
+"E.g. &quot;Experts in best practices&quot; may turn away people who "
+"don&#39;t self-identify as &quot;expert&quot; or who have impostor "
+"syndrome."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:21
+msgid ""
+"&quot;Speakers who have advice or expertise to share&quot; &gt; Everyone "
+"has some level of expertise or knowledge to share about what they work "
+"on, so this phrasing is more inclusive and inviting."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:22
+msgid "Ensure panels and roundtables include a diversity of participants"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:23
+msgid ""
+"Make strategic use of the moderator role to help support diverse "
+"participation"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:25
+msgid "Selecting Speakers"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:26
+msgid ""
+"**Tags:** <span style=\"color:red\"> Calls for Papers and "
+"Proposals</span>, <span style=\"color:red\"> Presenter Line-up</span>, "
+"<span style=\"color:red\"> Code of Conduct</span>"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:28
+msgid "🍎 Call For Proposals (CFP) instructions"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:29
+msgid ""
+"In the solicitation, be transparent that you want a broad &amp; diverse "
+"group to share their expertise."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:30
+msgid ""
+"Let applicants know what criteria will be used to assess their submission"
+" and how speakers will be chosen."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:31
+msgid ""
+"If possible, create detailed instructions and/or run workshops to help "
+"prepare people to write strong proposals."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:32
+msgid "Be clear in who you want"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:33
+msgid ""
+"If your conference has a long history and you&#39;re trying to change "
+"what it&#39;s like, be up front about the kinds of people you want to "
+"have speak, why, and how this may look different from years past."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:34
+msgid ""
+"Consider carefully the way you describe your event and the call for "
+"proposals in order to avoid turning away or self-de-selecting of "
+"potential speakers."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:35
+msgid "Offer speaker training"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:36
+msgid ""
+"Let potential speakers know there are resources to help them prepare, and"
+" provide them."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:37
+msgid ""
+"Ask potential speakers to ensure the content of their talk abides by the "
+"code of conduct"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:38
+msgid "Consider color-blindness in slide design"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:39
+msgid ""
+"Provide handouts of slides and/or transcripts (both large and small "
+"format)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:40
+msgid "Verbally describe graphs and illustrations"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:42
+msgid "Incentivize First-Time Speakers:"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:44
+msgid "**Tags:** <span style=\"color:red\"> Newcomers & First-Timers</span>"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:46
+msgid ""
+"E.g. &quot;We are looking to diversify our speaker panel; we want to "
+"select a cohort of first-time speakers to ensure we continue to offer "
+"professional development opportunities to everyone in the "
+"community.&quot;"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:48
+msgid "Attracting Attendees"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:50
+msgid ""
+"**Tags:** <span style=\"color:red\"> Participant Diversity</span>, <span "
+"style=\"color:red\"> Embracing Diverse Voices</span>, <span "
+"style=\"color:red\"> Unconscious and Implicit Bias</span>"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:52
+msgid ""
+"Be clear about what your event is about, explain it to people who are "
+"less familiar and haven&#39;t attended before."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:53
+msgid ""
+"🍎 Pay attention to the photos you use to advertise your event—what do "
+"people look like who attend?"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:54
+msgid ""
+"Partner with organizations whose membership you'd like to convince to "
+"attend your event."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:55
+msgid "Offer scholarships for first-time and underrepresented attendees."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:56
+msgid ""
+"Advertise the Code of Conduct to convey that you are seeking an inclusive"
+" environment."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:58
+#: ../DISCOVER/09_participant_selection.md:90
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:60
+msgid ""
+"[Would I attend my own "
+"conference?](http://radar.oreilly.com/2011/03/would-i-attend-my-own-"
+"conferen.html)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:61
+msgid ""
+"[Getting women to speak at your conference is hard. "
+"So?](http://www.dogsandshoes.com/2012/06/getting-women-and-other-under-"
+"represented-people-to-speak-at-your-conference-is-hard-so.html)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:62
+msgid ""
+"[A Better Call for "
+"Proposals](https://web.archive.org/web/20211123193159/http://2016.cssconf.com.au/2016/07/01/cfp.html)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:63
+msgid "[For CFP language](https://textio.com/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:64
+msgid ""
+"[Inclusive Approaches to Recruitment & "
+"Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-"
+"recruitment-outreach-notes-from-the-disc-unconference/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:65
+msgid ""
+"[Global Diversity CFP Day (Saturday 3rd February "
+"2018)](https://www.globaldiversitycfpday.com/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:66
+msgid ""
+"[Request a Woman "
+"Scientist](https://500womenscientists.org/request-a-scientist/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:68
+msgid ""
+"Call For Proposals review (&quot;double-blind&quot; vs &quot;affirmative "
+"action&quot;)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:70
+msgid ""
+"**Tags:** <span style=\"color:red\"> Unconscious and Implicit "
+"Bias</span>, <span style=\"color:red\"> Discrimination</span>, <span "
+"style=\"color:red\"> Calls for Papers & Proposals</span>, <span "
+"style=\"color:red\"> Organisation and Program Committees</span>"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:71
+msgid "**&quot;Open&quot; versus &quot;Blind&quot; or &quot;Closed&quot; Review**"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:72
+msgid ""
+"&quot;Open&quot; review is a form of review in which the names of the "
+"reviewers are made public."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:73
+msgid ""
+"&quot;Double-Open&quot; review is when the reviewers know the identity of"
+" the proposal author and the proposal author also knows the identity of "
+"their reviewers"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:74
+msgid ""
+"&quot;Double Blind&quot; review means the reviewers do not know the "
+"identity of the proposal author and vice versa."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:75
+msgid ""
+"&quot;Single Blind&quot; or simply &quot;Blind&quot; review means that "
+"the author of the proposal does not know the identity of the reviewers."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:76
+msgid ""
+"Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used "
+"instead of &quot;Blind&quot;."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:77
+msgid "**Double &quot;Blind&quot; Review**"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:78
+msgid ""
+"By changing speaker selection to completely &quot;blind,&quot; you may be"
+" able to increase representation from traditionally underrepresented "
+"groups. (See &quot;Further Reading&quot; below.)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:79
+msgid ""
+"You might create a CFP form that instructs the submitter to withhold "
+"identifying information."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:80
+msgid ""
+"You can assign 1-2 people to remove the identifying information from "
+"submissions before passing them to the next group of reviewers/the "
+"assessing team."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:81
+msgid ""
+"However, be aware that it's not always possible to do this, particularly "
+"if the work is tightly tied to the authors, or is based on their past "
+"work, and that reviewers can often determine authors even when they "
+"technically shouldn't. Reviewers may also search for information about "
+"the subject of the work, which can lead them to a preprint of the "
+"submitted material with the authors listed. In this case, you may want to"
+" explicitly instruct the reviewers to try not to consider information "
+"about the authors they happen to know or find."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:82
+msgid ""
+"If you recognize a submission author and you&#39;re on the review "
+"committee, you should not grade the submission—recuse yourself from "
+"reviewing that submission. Of course, if the process is double-blind, you"
+" may not be aware that you have a conflict with it."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:83
+msgid ""
+"Optionally, the review team can de-anonymize after the review process to "
+"ensure that the final selection is representative of the diverse grouping"
+" that is desired."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:84
+msgid "**Double Open Review**"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:85
+msgid ""
+"Reviewers know who the proposal authors are and proposal authors know who"
+" the reviewers are."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:86
+msgid ""
+"Some believe that open reviews are higher quality than anonymous "
+"reviewers, as the reviewers have to stand behind their comments."
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:87
+msgid ""
+"[Sample guidelines for reviewers in double open review "
+"systems](https://www.scipy2022.scipy.org/chair-reviewer-guidelines)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:88
+msgid ""
+"✅ Regardless of which approach you choose, open or anonymized, we "
+"encourage you to make it &quot;double&quot; so that both parties know "
+"each other (double-open) or neither party knows the other (double-closed)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:92
+msgid ""
+"[Double- versus Single-Blind Review: New study provides evidence that "
+"when those reviewing panel submissions see a woman's name, she is less "
+"likely to be invited than if no name is "
+"seen](https://www.insidehighered.com/news/2016/09/07/new-study-suggests-"
+"continued-bias-academic-conference-panel-selections)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:93
+msgid ""
+"[Anonymous Talk Review Is Amazing](https://jvns.ca/blog/2014/05/28"
+"/anonymous-talk-submission-equals-amazing/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:94
+msgid ""
+"[Is open peer review the way forward?](https://www.elsevier.com"
+"/reviewers-update/story/innovation-in-publishing/is-open-peer-review-the-"
+"way-forward)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:95
+msgid ""
+"[Gender bias distorts peer review across "
+"fields](http://www.nature.com/news/gender-bias-distorts-peer-review-"
+"across-fields-1.21685)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:96
+msgid ""
+"[How rOpenSci uses Open Code Review to Promote Reproducible "
+"Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-"
+"promote-reproducible-science/)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:97
+msgid ""
+"[Conference Speaking and Diverse Perspectives with Carina C. Zona and "
+"Mark Yoon](https://www.techdoneright.io/9)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:98
+msgid ""
+"[More on Improving Reviewing Quality with Double-Blind Reviewing, "
+"External Review Committees, Author Response, and in Person Program "
+"Committee "
+"Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:99
+msgid ""
+"[Single versus Double blind reviewing at WSDM "
+"2017](https://arxiv.org/abs/1702.00502)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:100
+msgid ""
+"[Effectiveness of Anonymization in Double-Blind Review] "
+"(https://arxiv.org/abs/1709.01609)"
+msgstr ""
+
+#: ../DISCOVER/09_participant_selection.md:101
+msgid ""
+"[A multi-disciplinary perspective on emergent and future innovations in "
+"peer review](https://doi.org/10.12688/f1000research.12037.3)"
+msgstr ""
+

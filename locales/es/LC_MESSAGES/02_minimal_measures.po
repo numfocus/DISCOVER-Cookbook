@@ -1,0 +1,629 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/02_minimal_measures.md:2
+msgid "Minimal Measures"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:4
+msgid ""
+"***As a general rule, we encourage conference organizers to implement all"
+" the 🍎 measures and at least one of the ✅ suggestions.***"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:6
+msgid ""
+"Making your conference inclusive and encouraging diversity is achievable."
+" The measures below are explained in more depth in the other pages of "
+"this Cookbook."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:8
+msgid "What are the easiest and most impactful measures?"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:10
+msgid ""
+"Just follow the measures below. They are explained in more depth in the "
+"other pages of this Cookbook. Measures that are **easy to implement** and"
+" have a **strong positive impact** are &quot;low-hanging fruit&quot; and "
+"marked with a red apple emoji: 🍎. Measures that take more effort but have"
+" considerable impact are marked with a green checkmark: ✅."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:13
+msgid "[Organizing Committee](03_organizing_committee.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:14
+msgid ""
+"✅ The organizing committee itself should reflect the diversity you want "
+"to create in your conference! Prioritizing diversity starts with you."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:17
+msgid ""
+"Conference chairs and lead organizers should take special care to recruit"
+" an organizing committee that reflects the diversity of the event you "
+"aspire to create."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:19
+msgid "[Venue Selection &amp; On-Site Services](04_venue_selection.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:21
+msgid "Accessibility Considerations"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:23
+msgid "Consider attendees who may need accommodations for a disability"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:26
+msgid "Mobility"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:28
+msgid ""
+"🍎 Reserve seats in rooms for folks who might need it (wheelchair, "
+"crutches, cane, etc.). Choose easily accessible seats, such as at the end"
+" of a row on the aisle."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:30
+msgid ""
+"🍎 Create wide aisles between chairs to make it easier for people who are "
+"mobility-impaired to navigate the room."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:33
+msgid "Disability"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:35
+msgid ""
+"🍎 Provide large-text signs and easy-to-read maps. Ask conference "
+"organizers to announce important information over the microphone, which "
+"helps people with impaired vision."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:37
+msgid ""
+"✅ Book sign-language interpreters and/or real-time captioning (someone "
+"typing captions) for deaf and hard-of-hearing attendees.**"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:40
+msgid "Bathrooms"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:42
+msgid "Gender-Neutral Bathrooms"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:44
+msgid ""
+"🍎 Post signs in the restroom and/or on the door instructing what to do if"
+" you think someone is in the \"wrong\" restroom"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:47
+msgid ""
+"\"If you think someone's gender doesn't match the sign on the door, "
+"please follow these steps: Don't worry about it, they know better than "
+"you.\" (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:49
+msgid ""
+"✅ Ensuring your conference has easily accessible gender-neutral restrooms"
+" is a simple way to help non-binary and trans individuals feel included "
+"and welcome at your conference.**"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:52
+msgid "Toiletries/Supplies"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:54
+msgid ""
+"🍎 Provide tampons and pads in all restrooms (some people who identify as "
+"male have periods and may need them)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:57
+msgid "🍎 Dedicated rooms"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:59
+msgid ""
+"The rooms should be clearly labeled to prevent accidental entry, and "
+"their locations should be provided in both the print and the online "
+"conference directory and maps."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:61
+msgid "Don't allow anyone (even organizers) to use the room for other purposes."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:64
+msgid "🍎 Nursing & Pumping Room"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:66
+msgid "Ensure there is a dedicated, single-occupancy space with lock."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:68
+msgid "For the room to be optimally useful, these things are desired:"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:70
+msgid ""
+"Locking door, Comfortable chair, a desk or table next to the chair (to "
+"set the pump, bottles, etc. on), no more than 4 feet from the nearest "
+"electrical outlet, cleaning wipes, paper towels, and a garbage can, "
+"masking tape and a marker for labeling milk bottles and pump parts, "
+"proximity to a sink for hand washing and washing of pump parts, a "
+"refrigerator for storage of pumped milk  in the pumping room or nearby, "
+"dim lighting"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:72
+msgid "🍎 Gender-Neutral Bottle Feeding Room"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:74
+msgid ""
+"Bottle-fed babies can be fed by caregivers of any gender and also benefit"
+" from a quiet, low-distraction, private space for feeding."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:76
+msgid ""
+"This should be a separate, additional room (NOT the same as the nursing "
+"and pumping room) which should be clearly labeled. It could accommodate "
+"multiple babies at a time and be equipped with multiple comfortable "
+"chairs with broad armrests to facilitate bottle feeding positions, a "
+"bottle warmer, paper towels, cleaning wipes and garbage can for "
+"cleanliness, dim lighting and in a quiet area of the conference "
+"center/venue"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:79
+msgid "🍎 Quiet Room"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:81
+msgid ""
+"A dedicated room for people who need a break from the stimulation of "
+"being surrounded by people at the conference; no phone calls, "
+"talking/socializing, notification beeps! People whose religions require "
+"frequent prayer can make use of the quiet room."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:83
+msgid "Consider \"quiet areas\" if a separate room is not possible."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:85
+msgid "[Catering](05_catering.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:87
+msgid ""
+"Making sure that your attendees have something they can eat at mealtimes "
+"is an important element of building an inclusive and welcoming "
+"conference."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:89
+msgid ""
+"Best to have a sign/small label in front of each dish with a list of "
+"ingredients and common labels (e.g. \"gluten-free, vegan, includes "
+"peanuts\")."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:92
+msgid "🍎 Ask your caterer to create and provide the labels."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:95
+msgid ""
+"🍎 Make sure to include a variety of beverages, in particular non-"
+"alcoholic and non-caffeinated."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:96
+msgid ""
+"✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, "
+"vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, nut-free."
+" Shellfish and peanut  especially are usually a serious allergy so take "
+"extra care."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:98
+msgid "[Code of Conduct (CoC)](07_code_of_conduct.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:100
+msgid "Awareness"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:102
+msgid ""
+"Make sure that everyone involved in your conference/event is aware that "
+"the CoC applies to them: that not only includes participants, but also "
+"speakers, sponsors, committee members etc."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:104
+msgid "🍎 Tick box at registration that confirms that the participant has read it"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:106
+msgid "🍎 Include a copy of the CoC in the sponsor packet"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:108
+msgid "🍎 Mention that the CoC applies to the speakers in the speaker guidelines"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:110
+msgid "🍎 Ensure that CoC is easily accessible on the conference website"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:112
+msgid "🍎 Include a short version on the printed schedule as a reminder"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:114
+msgid ""
+"🍎 Mention it in the welcome talk and at the start of every day, including"
+" whom to contact if there is a problem/violation"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:117
+msgid "[Participant and Speaker Selection](09_participant_selection.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:119
+msgid "Speakers"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:121
+msgid ""
+"🍎 Consider the specific wording of how you solicit talks, e.g. call for "
+"\"Speakers who have advice or expertise to share\" rather than \"experts "
+"in best practices\""
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:123
+msgid "Invited Speakers"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:124
+msgid ""
+"✅ Reach beyond the conference organizers' own networks. Take steps to go "
+"out and find people who might be lesser-known but would make great "
+"speakers. Look for more than just \"the usual suspects\" and reach out to"
+" your wider network for ideas, suggestions, and introductions."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:126
+msgid "Selecting Speakers"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:128
+msgid "🍎 Call For Proposals instructions -- be clear who you want"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:130
+msgid ""
+"In the solicitation, be transparent that you want a broad & diverse group"
+" to share their expertise."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:132
+msgid ""
+"Let applicants know what criteria will be used to assess their submission"
+" and how speakers will be chosen."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:135
+msgid ""
+"If your conference has a long history, and you're trying to change what "
+"the program make-up, be up front about the kinds of people you want to "
+"have speak, why, and how this may look different from years past."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:138
+msgid "Call for Proposals Review"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:140
+msgid ""
+"✅ There are many approaches to reviewing and selecting conference "
+"contributions, and there is no foolproof type of review that always "
+"avoids biases. Regardless of which approach you choose, open or "
+"anonymized, we encourage you to make it \"double\" so that both parties "
+"know each other (double-open) or neither party knows the other (double-"
+"closed)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:144
+msgid "Attracting Attendees"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:146
+msgid ""
+"🍎 Pay attention to the photos you use to advertise your event—what do "
+"people look like who attend?"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:149
+msgid "[Event Registration](10_event_registration.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:150
+msgid "What to ask on your registration form (and what not to ask)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:152
+msgid "Preparing to meet accessibility needs"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:154
+msgid ""
+"🍎 Ask registrants if they have any additional accessibility needs, and if"
+" so, provide instructions on how to make the request."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:157
+msgid ""
+"\"Do you need any special accommodations to help make your time at the "
+"conference comfortable and productive? (e.g. accessibility "
+"considerations). Please [email](mailto:contact@myconference.com) and "
+"include the details of your request.\""
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:159
+msgid "Demographic Info"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:161
+msgid ""
+"✅ If you do collect demographic info, be thoughtful about the structure "
+"of the questions so that they are inclusive and don't contribute to "
+"alienating or \"othering\" marginalized people."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:164
+msgid ""
+"Not having an answer choice that matches your identity can be a very "
+"alienating experience."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:167
+msgid ""
+"✅ Take anonymity and data security seriously. Have a plan for limiting "
+"access to this information and keeping it secure."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:169
+msgid "Dietary Restrictions"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:171
+msgid ""
+"🍎 Ask for dietary restrictions on the registration form. Some people have"
+" severe allergies or dietary restrictions that can affect their ability "
+"to attend the conference."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:173
+msgid "Photo Policy"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:175
+msgid ""
+"🍎 If you will have a photographer at your event, include information for "
+"attendees explaining that they may be photographed and how to opt out in "
+"the registration form."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:178
+msgid ""
+"(see lanyard/photography explanation under [Inclusive "
+"Practices](11_inclusive_practices_during_checkin.md))"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:180
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:182
+msgid ""
+"🍎 Show the text of the Code of Conduct and a required check-box that the "
+"registrant has read it and agrees to abide by it."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:184
+msgid "[Childcare](06_childcare.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:186
+msgid "✅ Offer financial support for childcare."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:188
+msgid "Build it into your budget."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:190
+msgid ""
+"Link it to sponsorships, or university partners, or make part of the "
+"registration fee from all attendees go towards providing childcare "
+"support as a service."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:191
+msgid ""
+"Add an option to the registration, e.g.: \"Donate $20 to help with "
+"childcare costs.\""
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:192
+msgid ""
+"Collect the data on the registration form. How many people would make use"
+" of childcare services or grants?"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:194
+msgid ""
+"In general, the two major options are either to 1) award childcare grants"
+" (people decide how to spend it, e.g. on their home babysitter) or 2) "
+"provide on-site services."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:197
+msgid ""
+"[Inclusive Practices During Check-"
+"In](11_inclusive_practices_during_checkin.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:199
+msgid "🍎 Photography Permissions"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:201
+msgid "Managing photography opt-outs:"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:204
+msgid ""
+"Badge lanyard at registration should be made available to indicate photo "
+"preferences (green = photos fine; yellow = ask first; red = no photos)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:207
+msgid "🍎 Pronoun Pins, Buttons, or Ribbons"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:209
+msgid "Indicating pronouns:"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:212
+msgid ""
+"Select a pin/button/ribbon for your lanyard to communicate your pronouns."
+" Using a pin even if you don't feel like you need one helps create a "
+"welcoming space for attendees who do."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:214
+msgid ""
+"Color-coordinate the pins by pronoun for quicker recognition and "
+"processing by those who see the pins. This lowers the barrier to checking"
+" (look at the color)."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:217
+msgid "[Grants/Scholarships](08_grants_scholarships.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:219
+msgid "✅ Offer grants to support attendance"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:221
+msgid "Eligibility Requirements"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:224
+msgid "Applicants should be"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:227
+msgid ""
+"from a traditionally underrepresented and/or marginalized group in the "
+"technology and/or open source communities including, but not limited to "
+"persons identifying as LGBTQ, indigenous, women, persons of color, and/or"
+" persons with disabilities"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:229
+msgid "and be unable to attend without some financial assistance [^lf-source]."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:231
+msgid "Payment"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:234
+msgid ""
+"Typically, recipients either submit receipts for reimbursement, have "
+"direct expenses paid for by the organizing committee, or are granted a "
+"lump sum up-front."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:236
+msgid ""
+"We encourage conferences to pay for things directly rather than making "
+"attendees pay and wait to be reimbursed, or at least offer this as an "
+"option for people who want to use it."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:239
+msgid ""
+"Waiting for reimbursement can be a financial burden on scholarship "
+"recipients."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:241
+msgid "[Assessment of the event](12_assessment.md)"
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:243
+msgid ""
+"✅ Survey participants after the event to establish whether your diversity"
+" and inclusion measures had an effect."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:245
+msgid ""
+"See whether there is any correlation between being part of a minority "
+"group and how welcoming the conference felt to the individual "
+"participants. You can consider specifically asking about "
+"inclusion/diversity on the survey."
+msgstr ""
+
+#: ../DISCOVER/02_minimal_measures.md:247
+msgid ""
+"Language adapted from The Linux Foundation's API Strategy & Practice "
+"Conference 2017 diversity scholarship announcement. See press release: "
+"[Linux Foundation Press Release](https://www.linuxfoundation.org/press"
+"/press-release/the-linux-foundation-and-open-api-initiative-announce-"
+"agenda-for-apistrat-the-api-strategy-practice-conference)."
+msgstr ""
+

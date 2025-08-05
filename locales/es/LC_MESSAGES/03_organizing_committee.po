@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/03_organizing_committee.md:1
+msgid ""
+"Tags: Organization-and-Program-Committees, Embracing-Diverse-Voices-and-"
+"Experiences, Unconscious-and-Implicit-Bias, Tokenism"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:5
+msgid "Organizing Committee"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:7
+msgid ""
+"The organizing committee itself should reflect the diversity you want to "
+"create in your conference!  Prioritizing diversity starts with you."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:10
+msgid ""
+"✅ Conference chairs and lead organizers should take special care to "
+"recruit an organizing committee that reflects the diversity of the event "
+"you aspire to create."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:12
+msgid ""
+"Look for balance along many dimensions: seniority, topical expertise, "
+"geography, academia/industry, gender/racial/ethnic balance, disability "
+"status, academic lineage and many more."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:13
+msgid ""
+"Ensure a good mix of long-term expertise and institutional memory with a "
+"flow of new people."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:14
+msgid ""
+"Avoid cronyism: Use algorithmic and term-limited approaches to constitute"
+" the steering committee."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:16
+msgid ""
+"Offer in-person or online “unconscious bias”, harassment, and ethics "
+"training materials for steering committee members and major conference "
+"organizers."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:17
+msgid "Either before the conference or during the conference"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:18
+msgid ""
+"Prioritize candidates for the steering/program committee and organizing "
+"positions who have availed themselves of such training (track who has "
+"completed training)"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:19
+msgid "Document conference and steering committee policies on a public webpage"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:21
+msgid ""
+"When creating the organizing committee, be aware of the specific roles "
+"assigned to individuals. Avoid a situation in which the “housekeeping” "
+"roles are all assigned to women or other individuals from "
+"underrepresented groups. The goal is to achieve diversity across many "
+"roles, including those of high technical prestige."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:22
+msgid ""
+"Consider having a member of the organizing committee specifically "
+"responsible for mitigating/preventing bias and weaving inclusivity "
+"throughout the conference (e.g. \"diversity chair\" or co-chairs)."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:23
+msgid ""
+"“We tried, but they turned us down.” For both the organizing committee "
+"and also the program committee be ready with “spare” names. Since there "
+"are relatively fewer women and underrepresented minorities in the "
+"community, they are often asked to do disproportionate amounts of "
+"service, and thus are frequently forced to say no at a higher rate."
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:25
+msgid "**Further Reading:**"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:27
+msgid ""
+"[Inclusive Approaches to Recruitment & "
+"Outreach](https://www.numfocus.org/blog/inclusive-approaches-to-"
+"recruitment-outreach-notes-from-the-disc-unconference/)"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:28
+msgid ""
+"[CRA-W Best Practices: Guidelines in Running an Inclusive "
+"Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05"
+"/CRAW-Best-Practices-for-Conferences-v5.pdf)"
+msgstr ""
+
+#: ../DISCOVER/03_organizing_committee.md:29
+msgid ""
+"[Link to interactive fiction "
+"example](https://github.com/softwaresaved/eventure)"
+msgstr ""
+

@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/13_inclusive-checklist.md:4
+msgid "How inclusive is my conference?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:6
+msgid ""
+"A checklist for conference organisers based on the [DISCOVER "
+"cookbook](https://discover-cookbook.numfocus.org/intro.html)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:8
+msgid "Organizing committee"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:9
+#: ../DISCOVER/13_inclusive-checklist.md:23
+#: ../DISCOVER/13_inclusive-checklist.md:32
+#: ../DISCOVER/13_inclusive-checklist.md:50
+#: ../DISCOVER/13_inclusive-checklist.md:61
+#: ../DISCOVER/13_inclusive-checklist.md:66
+#: ../DISCOVER/13_inclusive-checklist.md:75
+#: ../DISCOVER/13_inclusive-checklist.md:79
+msgid "✅ High effort, high impact"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:10
+msgid ""
+"<input type=\"checkbox\"> The organizing committee itself should reflect "
+"the diversity you want to create in your conference. Consider age/career "
+"stage, gender, race, sexual orientation, social and professional "
+"background when assembling your committee."
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:12
+msgid "Venue"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:13
+#: ../DISCOVER/13_inclusive-checklist.md:28
+#: ../DISCOVER/13_inclusive-checklist.md:36
+#: ../DISCOVER/13_inclusive-checklist.md:45
+#: ../DISCOVER/13_inclusive-checklist.md:55
+#: ../DISCOVER/13_inclusive-checklist.md:70
+msgid "🍎 Low effort, high impact"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:14
+msgid ""
+"<input type=\"checkbox\"> Seats reserved for wheelchair users and other "
+"mobility-impaired people"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:15
+msgid "<input type=\"checkbox\"> Wide aisles between chairs for easy navigation"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:16
+msgid ""
+"<input type=\"checkbox\"> Large text signs and easy-to-read maps for "
+"people with impaired vision"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:17
+msgid ""
+"<input type=\"checkbox\"> Bathrooms: signs posted in restrooms that say "
+"something along the following lines: \"If you think someone's gender "
+"doesn't match the sign on the door, please follow these steps: Don't "
+"worry about it, they know better than you.\""
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:18
+msgid ""
+"<input type=\"checkbox\"> Tampons and pads in all restrooms (some people "
+"who identify as male have periods and may need them)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:19
+msgid ""
+"<input type=\"checkbox\"> Nursing and pumping room: Clearly labelled, "
+"single-occupancy room with lock dedicated as nursing and pumping room"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:20
+msgid ""
+"<input type=\"checkbox\"> Bottle-feeding room: Clearly labelled, gender-"
+"neutral, multiple-occupancy room for bottle-feeding babies (different "
+"from nursing and pumping room!)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:21
+msgid ""
+"<input type=\"checkbox\"> Quiet room: dedicated room for people to take a"
+" break (no phones, no talking, no notification beeps!) which can also be "
+"used as a prayer room"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:24
+msgid ""
+"<input type=\"checkbox\"> Sign-language interpreters or real-time "
+"captioning in place for people with hearing impairment"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:25
+msgid "<input type=\"checkbox\"> Easily accessible gender-neutral bathrooms"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:27
+msgid "Catering"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:29
+msgid ""
+"<input type=\"checkbox\"> Labels in front of each dish with list of "
+"ingredients and common labels/allergens (e.g. \"gluten free\", "
+"\"kosher\", \"includes peanuts\")"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:30
+msgid ""
+"<input type=\"checkbox\"> A variety of beverages, in particular non-"
+"alcoholic and non-caffeinated"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:33
+msgid ""
+"<input type=\"checkbox\"> Planned for the following dietary needs: gluten"
+" free, dairy free, vegan, vegetarian, pork free, shellfish free, soy "
+"free, nut free - especially peanut (this is usually a serious allergy so "
+"take extra care), kosher, halal"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:35
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:37
+msgid ""
+"<input type=\"checkbox\"> Code of Conduct (CoC) in place ([example "
+"here](https://confcodeofconduct.com))"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:38
+msgid ""
+"<input type=\"checkbox\"> Tick box at registration where every "
+"participant confirms that they have read the CoC"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:39
+msgid "<input type=\"checkbox\"> Copy of CoC included in sponsor packet"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:40
+msgid "<input type=\"checkbox\"> CoC easily accessible on conference website"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:41
+msgid ""
+"<input type=\"checkbox\"> Short version included in the printed schedule "
+"as reminder"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:42
+msgid ""
+"<input type=\"checkbox\"> Mentions in welcome talks and at start of every"
+" day, including who to contact if there is a problem"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:44
+msgid "Participant and Speaker Selection"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:46
+msgid ""
+"<input type=\"checkbox\"> Considered specific wording of how talks were "
+"solicited so as not to put people with diverse backgrounds off (e.g. call"
+" for \"speakers who have advice or expertise to share\" rather than "
+"\"experts in best practices)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:47
+msgid ""
+"<input type=\"checkbox\"> Call for Proposals: Are you transparent that "
+"you want a broad and diverse group to share expertise? What are the "
+"criteria that will be used to assess their submissions? How and why are "
+"you trying to shake things up regarding diversity and inclusion compared "
+"to previous conferences?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:48
+msgid ""
+"<input type=\"checkbox\"> Attracting attendees: Considered what kind of "
+"photos you use to advertise your event and what kind of message that "
+"sends about diversity and inclusion"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:51
+msgid ""
+"<input type=\"checkbox\"> Invited Speakers: Reached beyond the conference"
+" organizers' own network and the circle of usual suspects to solicit "
+"speakers"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:52
+#, python-format
+msgid ""
+"<input type=\"checkbox\"> Review of submitted proposals: There is no 100%"
+" guaranteed way to avoid bias, but have you done everything you can to "
+"mitigate bias in the review process (e.g. by choosing double-blind "
+"review)?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:54
+msgid "Event Registration"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:56
+msgid ""
+"<input type=\"checkbox\"> Can registrants request additional "
+"accessibility support?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:57
+msgid ""
+"<input type=\"checkbox\"> Can registrants specify dietary restrictions, "
+"in particular severe allergies?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:58
+msgid ""
+"<input type=\"checkbox\"> Can registrants opt out of having their photos "
+"taken at the event?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:59
+msgid ""
+"<input type=\"checkbox\"> Is there a check-box for registrants to "
+"indicate that they have read the Code of Conduct?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:62
+msgid ""
+"<input type=\"checkbox\"> Demographic information is better collected "
+"during a post-conference survey, but if you do collect demographic info: "
+"are you thoughtful in what you ask and how so as not to alienate people?"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:63
+msgid ""
+"<input type=\"checkbox\"> Sufficient measures for anonymity and data "
+"security in place"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:65
+msgid "Childcare"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:67
+msgid ""
+"<input type=\"checkbox\"> Offering financial support for childcare, "
+"either through childcare grant or onsite services"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:69
+msgid "Check-in"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:71
+msgid ""
+"<input type=\"checkbox\"> System for photography opt-outs in place (e.g. "
+"by adding sticker or lanyard to conference badge)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:72
+msgid ""
+"<input type=\"checkbox\"> Pronoun pins (he/him, she/her, they/them), "
+"buttons or ribbons in place (optimally colour-coded)"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:74
+msgid "Grants/Scholarships"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:76
+msgid ""
+"<input type=\"checkbox\"> Offering grants to support attendance of "
+"traditionally underrepresented and/or marginalized groups in technology "
+"and/or open source communities (including persons identifying as LGBTQ, "
+"indigenous, women, persons of color, and/or persons with disabilities) "
+"who otherwise wouldn't have the means to participate"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:78
+msgid "Assessment of event"
+msgstr ""
+
+#: ../DISCOVER/13_inclusive-checklist.md:80
+msgid ""
+"<input type=\"checkbox\"> Post-event survey of participants to establish "
+"whether your diversity and inclusion measures had an effect"
+msgstr ""
+
