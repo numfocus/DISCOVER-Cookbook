@@ -64,7 +64,7 @@ html_theme_options = {
     "navigation_with_keys": False,
     "show_version_warning_banner": True,
     "switcher": {
-        "json_url": "https://discover-cookbook.numfocus.org/_static/versions.json", 
+        "json_url": "https://discover-cookbook.numfocus.org/versions.json", 
         "version_match": version,
     },
 }
