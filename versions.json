@@ -1,0 +1,16 @@
+[
+    {
+        "version": "dev", 
+        "url": "https://discover-cookbook.numfocus.org/dev/"
+    },
+    {
+        "version": "2.0",
+        "url": "https://discover-cookbook.numfocus.org/2.0/",
+        "preferred": true
+    },
+    {
+        "version": "1.0",
+        "url": "https://discover-cookbook.numfocus.org/1.0/"
+    }
+ 
+]
