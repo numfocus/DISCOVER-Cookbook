@@ -5,6 +5,7 @@ on:
   push:
     branches:
     - main
+    - next
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -18,19 +19,14 @@ jobs:
       with:
         python-version: 3.13
 
-    - name: Install dependencies
-      run: |
-        pip install jupyter-book
-        pip install sphinx-tags
-
     - name: Build the book
       run: |
-        rm -rf DISCOVER/_tags/*
-        sphinx-build -b html DISCOVER/ DISCOVER/_build/html
+        bash ci/build_website.sh
 
     - name: Push book HTML to gh-pages
       uses: peaceiris/actions-gh-pages@v3.9.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./DISCOVER/_build/html
+        destination_dir: dev/
         keep_files: true

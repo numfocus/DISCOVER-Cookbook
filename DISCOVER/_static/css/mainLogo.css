@@ -119,3 +119,34 @@ html[data-theme=dark] .social-links a:hover {
     margin: 1rem 0 0 0;
   }
 }
+
+.version-switcher__button {
+  color: #9ca4af !important;
+}
+.version-switcher__button:hover{
+  color: #ced6dd !important;
+}
+#language-switcher-button {
+  background-color: #121212 !important;
+  border: 1px solid transparent !important;
+}
+
+#language-switcher-button:hover {
+  background-color: #121212 !important;
+  border: 1px solid transparent !important;
+  box-shadow: 0 0 0 0.1875rem #e89217 !important;
+}
+
+#language-switcher-button:focus {
+  background-color: #121212 !important;
+  border: 1px solid transparent !important;
+  box-shadow: 0 0 0 0.1875rem #e89217 !important;
+}
+.dropdown-item.active {
+  background-color:#121212 !important;
+  color: #528fe4 !important;
+}
+.dropdown-item.active:hover {
+  color: #ced6dd !important;
+}
+
