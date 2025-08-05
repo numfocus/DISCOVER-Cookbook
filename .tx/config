@@ -1,5 +1,5 @@
 [main]
-host = https://www.transifex.com/api/2
+host = https://www.transifex.com
 
 [o:numfocus:p:DISCOVER-Cookbook:r:01_about]
 file_filter            = locales/<lang>/LC_MESSAGES/01_about.po
