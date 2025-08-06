@@ -28,7 +28,7 @@ Make sure that **everyone involved in your conference/event** is aware that the 
  - 🍎 Tick box at registration that confirms that the participant has read the Code of Conduct
      - A pop-up with a short version may also be a good idea.
      - Provide a link to the full ("less quick") version of the Code of Conduct, hosted on its own page.
- - 🍎 Include a copy of the Code of Conduct in the sponsor packet
+ - 🍎 Include a copy of the Code of Conduct in the [sponsor packet](#sponsor-packet)
  - 🍎 Mention that the Code of Conduct applies to the speakers in the speaker guidelines
  - 🍎 Ensure that the Code of Conduct is **easily** accessible on the conference website
    - Should be in main navigation or in the footer (footer is a known pattern, near privacy policy / terms of service)
@@ -43,6 +43,27 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 - Consider a visual &quot;workflow&quot; of Code of Conduct violation:
   - Report -&gt; Action -&gt; Resolution
 - Make it clear what the consequences or resolutions of a violation are
+
+
+<a id="sponsor-packet"></a>
+
+### Sponsor Packet & Code of Conduct 
+
+A **sponsor packet** (or sponsorship prospectus) is a document shared with potential sponsors, detailing funding opportunities, benefits, and expectations. Including the Code of Conduct ensures sponsors align with the event's values of respect and inclusivity.
+
+**Who creates it?**  
+Event organizers or the sponsorship/outreach team.
+
+**Who receives it?**  
+Companies, institutions, or individuals considering financial scleaupport.
+
+**See NUMFOCUS sponsor packet pdf**
+<br>
+Click on link below:
+<br>
+https://numfocus.org/wp-content/uploads/2023/08/PyData-2023-Sponsorship-Prospectus.pdf
+
+
 
 ## Reporting
 
@@ -81,4 +102,5 @@ Make sure that **everyone involved in your conference/event** is aware that the 
 **Managing a Code of Conduct**
 - [NYC PyLadies Meetup: Managing our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
+
 
