@@ -132,7 +132,7 @@ Get-ChildItem -Path locales/en/LC_MESSAGES -Filter *.po | ForEach-Object {
 ## Tips:
 
 - Always use forward slashes (/) in paths for compatibility.
-- Run tx status to check resource sync.
-- Use tx config discovery to auto-detect new files.
+- Run ```tx status``` to check resource sync.
+- Use ```tx config discovery``` to auto-detect new files.
 
 ### Need help? Reach out to the maintainers or open an issue!
