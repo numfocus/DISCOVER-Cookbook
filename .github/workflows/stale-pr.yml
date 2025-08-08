@@ -22,7 +22,20 @@ jobs:
           
           days-before-pr-stale: 30
           days-before-pr-close: -1
-          stale-pr-message: 'This pull request has been inactive for 30 days. It will be closed in 14 days if no further activity occurs.'
+          stale-pr-message: |
+            ⚠️ **Stale Pull Request Notice**
+            
+            This pull request has been automatically marked as stale because it has not had recent activity for 30 days.
+            
+            **Next Steps:**
+            - Add a comment to keep this PR active
+            - Push new commits to continue development
+            - Request review if ready for merge
+            - Close if no longer needed
+            
+            **Need Help?** Feel free to ask questions or request assistance from maintainers.
+            
+            Thank you for your contribution! 
           stale-pr-label: '⌛ stale'
           exempt-pr-labels: '✨ content enhancement,✍️ new content'
           exempt-draft-pr: true
@@ -32,5 +45,4 @@ jobs:
           
           operations-per-run: 30
           enable-statistics: true
-
           exempt-all-pr-milestones: true
