@@ -11,23 +11,6 @@
      to automatically close the issue when the PR is merged.
      [Learn more](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue). -->
 
-
-## Type of Change
-
-Please check the appropriate box that describes your PR:
-
-- [ ] 🐛 Bug Fix — Fixes a documented issue or incorrect behavior
-- [ ] ✨ Content Enhancement — Updates or improves existing content
-- [ ] ✍️ New Content — Adds new chapters, examples, or significant sections
-- [ ] 🛠️ Other — Please describe in the *Description of Changes* section
-
-
-## Additional Notes (Optional)
-
-<!-- Add any other relevant context or information about the changes here.
-     Include screenshots or references if helpful. -->
-
-
 ## Checklist
 
 - [ ] I have searched [open pull requests](https://github.com/numfocus/DISCOVER-Cookbook/pulls) to avoid duplicates.
