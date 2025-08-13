@@ -115,6 +115,27 @@ tx pull -a
 
 ### Optional: Add Multiple Resources
 
-To register all .po files refer to [guide](https://developers.transifex.com/docs/cli).
+To register all .po files under locales/en/LC_MESSAGES:
+```
+Get-ChildItem -Path locales/en/LC_MESSAGES -Filter *.po | ForEach-Object {
+    $filename = $_.Name -replace '\.po$', ''
+    $sourcePath = "locales/en/LC_MESSAGES/$($filename).po"
+    $fileFilter = "locales/<lang>/LC_MESSAGES/$($filename).po"
 
+    & "tx" add `
+        --organization numfocus `
+        --project DISCOVER-Cookbook `
+        --resource $filename `
+        --file-filter $fileFilter `
+        --type PO `
+        "$sourcePath"
+}
+```
 
+## Tips:
+
+- Always use forward slashes (/) in paths for compatibility.
+- Run tx status to check resource sync.
+- Use tx config discovery to auto-detect new files.
+
+### Need help? Reach out to the maintainers or open an issue!
