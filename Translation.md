@@ -48,15 +48,14 @@ and opening it in your browser.
 > Note: Contributors working on multilingual support should ensure .po file updates are included in commits.
 
 
-## Syncing with Transifex
+## Translation Workflow with Transifex
 
-We use Transifex as our translation service for the Cookbook, in order to collaborate on translations via Transifex, follow these steps:
+We use Transifex to manage translations for the DISCOVER Cookbook. This guide outlines when and how to interact with Transifex during development. You likely won’t need every step each time—focus on the ones relevant to your task.
 
-### Step 1: Install the Transifex CLI
+### Step 1: Installing the Transifex CLI
 
-Download the latest Go-based CLI from the [Transifex CLI releases](https://github.com/transifex/cli/releases).
+Transifex provides a Go-based CLI for syncing translation files. Follow the (official installation instructions)[https://developers.transifex.com/docs/cli] for your operating system.
 
-Place the binary in a folder like ```C:\tx-cli``` and add it to your system’s PATH.
 
 Verify installation:
 ```sh
@@ -69,70 +68,53 @@ TX CLient, version=1.6.x
 
 ### Step 2: Authenticate with Transifex
 
-Create a ```.transifexrc``` file in your home directory ```(C:\Users\<yourname>\)``` with:
+To authenticate, create a ```.transifexrc``` file in your home directory. Refer to the [official authentication guide](https://developers.transifex.com/reference/api-authentication) for details.
 
-```python
-[https://www.transifex.com]
-rest_hostname = https://rest.api.transifex.com
-token = 1/your_api_token_here
-```
+
 Get your token from [Transifex Account Settings](https://app.transifex.com/user/settings/api/).
 
 
-### Step 3: Configure ```.tx/config```
-This file lives in the root of the project and maps source files to Transifex resources.
+### Step 3: Updating ```.tx/config```
 
-```python
-[main]
-host = https://www.transifex.com
-source_lang = en
+The ```.tx/config``` file maps source files to Transifex resources. You’ll only need to modify this when:
 
-[o:numfocus:p:DISCOVER-Cookbook:r:01_about]
-source_file = locales/en/LC_MESSAGES/01_about.po
-file_filter = locales/<lang>/LC_MESSAGES/01_about.po
-type = PO
+- Adding a new chapter or page to the Cookbook
+- Removing or renaming existing translation files
+
+Use the CLI to register new resources:
+```
+tx add \
+  --organization numfocus \
+  --project DISCOVER-Cookbook \
+  --resource <resource_name> \
+  --file-filter locales/<lang>/LC_MESSAGES/<filename>.po \
+  --type PO \
+  locales/en/LC_MESSAGES/<filename>.po
 ```
 
-### Step 4: Push Source Files
-To upload updated source files to Transifex:
+Refer to the [Transifex CLI reference](https://developers.transifex.com/docs/cli) for more information.
+
+
+### Step 4: Pushing Source and Translation Files
+
+After updating content or adding new chapters:
+- Regenerate ```.po``` files using ```sphinx-gettext``` and ```sphinx-intl```.
+- Open a PR with the updated files.
+- Push to Transifex:
 ```
-tx push -s
+tx push -s -t
 ```
 
-To push translation files:
-```
-tx push -t
-```
+This uploads both source and translation files.
 
-### Step 5: Pull Translations
-To download all available translations:
+### Step 5: Pulling Translations
+To fetch updated translations from Transifex (done manually before publishing):
 ```
 tx pull -a
 ```
 
 ### Optional: Add Multiple Resources
 
-To register all .po files under locales/en/LC_MESSAGES:
-```
-Get-ChildItem -Path locales/en/LC_MESSAGES -Filter *.po | ForEach-Object {
-    $filename = $_.Name -replace '\.po$', ''
-    $sourcePath = "locales/en/LC_MESSAGES/$($filename).po"
-    $fileFilter = "locales/<lang>/LC_MESSAGES/$($filename).po"
+To register all .po files refer to [guide](https://developers.transifex.com/docs/cli).
 
-    & "tx" add `
-        --organization numfocus `
-        --project DISCOVER-Cookbook `
-        --resource $filename `
-        --file-filter $fileFilter `
-        --type PO `
-        "$sourcePath"
-}
-```
 
-## Tips:
-
-- Always use forward slashes (/) in paths for compatibility.
-- Run tx status to check resource sync.
-- Use tx config discovery to auto-detect new files.
-
-### Need help? Reach out to the maintainers or open an issue!
