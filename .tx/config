@@ -1,7 +1,7 @@
 [main]
 host = https://app.transifex.com
 
-[o:numfocus:p:DISCOVER-Cookbook:r:01_about]
+[o:numfocus:p:DISCOVER-Cookbook:r:01_aboutmd]
 file_filter            = locales/<lang>/LC_MESSAGES/01_about.po
 source_file            = DISCOVER/01_about.md
 type                   = MARKDOWN
@@ -9,7 +9,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:02_minimal_measures]
+[o:numfocus:p:DISCOVER-Cookbook:r:02_minimal_measuresmd]
 file_filter            = locales/<lang>/LC_MESSAGES/02_minimal_measures.po
 source_file            = DISCOVER/02_minimal_measures.md
 type                   = MARKDOWN
@@ -17,7 +17,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:03_organizing_committee]
+[o:numfocus:p:DISCOVER-Cookbook:r:03_organizing_committeemd]
 file_filter            = locales/<lang>/LC_MESSAGES/03_organizing_committee.po
 source_file            = DISCOVER/03_organizing_committee.md
 type                   = MARKDOWN
@@ -25,7 +25,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:04_venue_selection]
+[o:numfocus:p:DISCOVER-Cookbook:r:04_venue_selectionmd]
 file_filter            = locales/<lang>/LC_MESSAGES/04_venue_selection.po
 source_file            = DISCOVER/04_venue_selection.md
 type                   = MARKDOWN
@@ -33,7 +33,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:05_catering]
+[o:numfocus:p:DISCOVER-Cookbook:r:05_cateringmd]
 file_filter            = locales/<lang>/LC_MESSAGES/05_catering.po
 source_file            = DISCOVER/05_catering.md
 type                   = MARKDOWN
@@ -41,7 +41,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:06_childcare]
+[o:numfocus:p:DISCOVER-Cookbook:r:06_childcaremd]
 file_filter            = locales/<lang>/LC_MESSAGES/06_childcare.po
 source_file            = DISCOVER/06_childcare.md
 type                   = MARKDOWN
@@ -49,7 +49,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:07_code_of_conduct]
+[o:numfocus:p:DISCOVER-Cookbook:r:07_code_of_conductmd]
 file_filter            = locales/<lang>/LC_MESSAGES/07_code_of_conduct.po
 source_file            = DISCOVER/07_code_of_conduct.md
 type                   = MARKDOWN
@@ -57,7 +57,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:08_grants_scholarships]
+[o:numfocus:p:DISCOVER-Cookbook:r:08_grants_scholarshipsmd]
 file_filter            = locales/<lang>/LC_MESSAGES/08_grants_scholarships.po
 source_file            = DISCOVER/08_grants_scholarships.md
 type                   = MARKDOWN
@@ -65,7 +65,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:09_participant_selection]
+[o:numfocus:p:DISCOVER-Cookbook:r:09_participant_selectionmd]
 file_filter            = locales/<lang>/LC_MESSAGES/09_participant_selection.po
 source_file            = DISCOVER/09_participant_selection.md
 type                   = MARKDOWN
@@ -73,7 +73,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:10_event_registration]
+[o:numfocus:p:DISCOVER-Cookbook:r:10_event_registrationmd]
 file_filter            = locales/<lang>/LC_MESSAGES/10_event_registration.po
 source_file            = DISCOVER/10_event_registration.md
 type                   = MARKDOWN
@@ -81,7 +81,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:11_inclusive_practices_during_checkin]
+[o:numfocus:p:DISCOVER-Cookbook:r:11_inclusive_practices_during_checkinmd]
 file_filter            = locales/<lang>/LC_MESSAGES/11_inclusive_practices_during_checkin.po
 source_file            = DISCOVER/11_inclusive_practices_during_checkin.md
 type                   = MARKDOWN
@@ -89,7 +89,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:12_assessment]
+[o:numfocus:p:DISCOVER-Cookbook:r:12_assessmentmd]
 file_filter            = locales/<lang>/LC_MESSAGES/12_assessment.po
 source_file            = DISCOVER/12_assessment.md
 type                   = MARKDOWN
@@ -97,7 +97,7 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:14_how_to_contribute]
+[o:numfocus:p:DISCOVER-Cookbook:r:14_how_to_contributemd]
 file_filter            = locales/<lang>/LC_MESSAGES/14_how_to_contribute.po
 source_file            = DISCOVER/14_how_to_contribute.md
 type                   = MARKDOWN
@@ -105,11 +105,10 @@ minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
 
-[o:numfocus:p:DISCOVER-Cookbook:r:intro]
+[o:numfocus:p:DISCOVER-Cookbook:r:intromd]
 file_filter            = locales/<lang>/LC_MESSAGES/intro.po
 source_file            = DISCOVER/intro.md
 type                   = MARKDOWN
 minimum_perc           = 0
 replace_edited_strings = false
 keep_translations      = false
-
