@@ -1,196 +1,56 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
-# This file is distributed under the same license as the Project name not
-# set package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: Project name not set \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-20 18:41+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: es\n"
-"Language-Team: es <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
+(about)=
+# About
 
-#: ../DISCOVER/01_about.md:2
-msgid "About"
-msgstr ""
+## TL;DR
+This cookbook is intended as a resource for organizers of conferences and events with a particular focus on the tech sector in the United States. It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event. The cookbook does not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
-#: ../DISCOVER/01_about.md:4
-msgid "TL;DR"
-msgstr ""
+## About this Cookbook:
 
-#: ../DISCOVER/01_about.md:5
-msgid ""
-"This cookbook is intended as a resource for organizers of conferences and"
-" events with a particular focus on the tech sector in the United States. "
-"It focuses specifically on plans, decisions, and actions organizers can "
-"take to produce and manage a more diverse and inclusive event. The "
-"cookbook does not provide any specific advice about budgeting, "
-"scheduling, A/V capabilities, how to structure tracks, etc."
-msgstr ""
+This cookbook is intended as a resource for **organizers of conferences and events** — with a particular focus on the tech sector in the United States — to **support and encourage diversity and inclusion** at those events.
 
-#: ../DISCOVER/01_about.md:7
-msgid "About this Cookbook:"
-msgstr ""
+It focuses specifically on plans, decisions, and actions organizers can take to produce and manage a more diverse and inclusive event.
 
-#: ../DISCOVER/01_about.md:9
-msgid ""
-"This cookbook is intended as a resource for **organizers of conferences "
-"and events** — with a particular focus on the tech sector in the United "
-"States — to **support and encourage diversity and inclusion** at those "
-"events."
-msgstr ""
+_Funding to produce this cookbook was made possible by a generous grant from the_ **Moore Foundation** _._
 
-#: ../DISCOVER/01_about.md:11
-msgid ""
-"It focuses specifically on plans, decisions, and actions organizers can "
-"take to produce and manage a more diverse and inclusive event."
-msgstr ""
+## What this Cookbook is not:
 
-#: ../DISCOVER/01_about.md:13
-msgid ""
-"_Funding to produce this cookbook was made possible by a generous grant "
-"from the_ **Moore Foundation** _._"
-msgstr ""
+This cookbook is **not** intended to provide **general instructions** on how to run a successful conference or event. We do not provide any specific advice about budgeting, scheduling, A/V capabilities, how to structure tracks, etc.
 
-#: ../DISCOVER/01_about.md:15
-msgid "What this Cookbook is not:"
-msgstr ""
+Some &quot;basic&quot; best practice is understood to be a prerequisite for many of our recommendations. For example, live-captioning support for the hearing-impaired is not possible without reliable internet and good A/V setup. In general, we have avoided explicitly calling out these implied dependencies in order to maintain focus and keep the cookbook to a more manageable length.
 
-#: ../DISCOVER/01_about.md:17
-msgid ""
-"This cookbook is **not** intended to provide **general instructions** on "
-"how to run a successful conference or event. We do not provide any "
-"specific advice about budgeting, scheduling, A/V capabilities, how to "
-"structure tracks, etc."
-msgstr ""
+This cookbook also does not offer reasons or rationale for **why inclusion and diversity are important**. The cookbook presumes the organizing committee is already interested in improving diversity and inclusion at their conference or event, hence the suggestions herein are focused on the &quot;how&quot; rather than the &quot;why&quot;.
 
-#: ../DISCOVER/01_about.md:19
-msgid ""
-"Some &quot;basic&quot; best practice is understood to be a prerequisite "
-"for many of our recommendations. For example, live-captioning support for"
-" the hearing-impaired is not possible without reliable internet and good "
-"A/V setup. In general, we have avoided explicitly calling out these "
-"implied dependencies in order to maintain focus and keep the cookbook to "
-"a more manageable length."
-msgstr ""
 
-#: ../DISCOVER/01_about.md:21
-msgid ""
-"This cookbook also does not offer reasons or rationale for **why "
-"inclusion and diversity are important**. The cookbook presumes the "
-"organizing committee is already interested in improving diversity and "
-"inclusion at their conference or event, hence the suggestions herein are "
-"focused on the &quot;how&quot; rather than the &quot;why&quot;."
-msgstr ""
+## Acknowledgements:
 
-#: ../DISCOVER/01_about.md:24
-msgid "Acknowledgements:"
-msgstr ""
+We sincerely appreciate the efforts and input of the many individuals who contributed to the creation of this cookbook. We also thank the numerous individuals and organizations whose work we have drawn from in order to compile this cookbook. Resources we consulted are collected at the end of each section under the heading &quot;Further Reading&quot;.
 
-#: ../DISCOVER/01_about.md:26
-msgid ""
-"We sincerely appreciate the efforts and input of the many individuals who"
-" contributed to the creation of this cookbook. We also thank the numerous"
-" individuals and organizations whose work we have drawn from in order to "
-"compile this cookbook. Resources we consulted are collected at the end of"
-" each section under the heading &quot;Further Reading&quot;."
-msgstr ""
+- In particular, we thank: 
 
-#: ../DISCOVER/01_about.md:28
-msgid "In particular, we thank:"
-msgstr ""
+  - The NumFOCUS DISC Committee members who compiled the initial skeleton of this cookbook: Jennifer Klay, Reshama Shaikh, and Gina Helfrich. And those who set up this page: Mwai Karimi, Bojan Božić and Leonie Mueck
 
-#: ../DISCOVER/01_about.md:30
-msgid ""
-"The NumFOCUS DISC Committee members who compiled the initial skeleton of "
-"this cookbook: Jennifer Klay, Reshama Shaikh, and Gina Helfrich. And "
-"those who set up this page: Mwai Karimi, Bojan Božić and Leonie Mueck"
-msgstr ""
+  - Participants in the 2017 DISC Unconference who expanded and elaborated upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, Sarah Supp, Raniere Silva, and Tania Allard.
 
-#: ../DISCOVER/01_about.md:32
-msgid ""
-"Participants in the 2017 DISC Unconference who expanded and elaborated "
-"upon the initial skeleton: Kasia Rachuta, Ashley Otero, Dave Clements, "
-"Sarah Supp, Raniere Silva, and Tania Allard."
-msgstr ""
 
-#: ../DISCOVER/01_about.md:35
-msgid "Other Considerations"
-msgstr ""
+## Other Considerations
 
-#: ../DISCOVER/01_about.md:37
-msgid "**Further reading:**"
-msgstr ""
+**Further reading:**
 
-#: ../DISCOVER/01_about.md:39
-msgid ""
-"[Scent and smoking policy](https://adacamp.org/adacamp-"
-"toolkit/policies/#scent)"
-msgstr ""
+- [Scent and smoking policy](https://adacamp.org/adacamp-toolkit/policies/#scent)
+- [Conference booklet template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)
 
-#: ../DISCOVER/01_about.md:40
-msgid ""
-"[Conference booklet "
-"template](http://geekfeminism.wikia.com/wiki/Conference_booklet_template)"
-msgstr ""
 
-#: ../DISCOVER/01_about.md:43
-msgid "Special Considerations Depending on Geographic Context"
-msgstr ""
+## Special Considerations Depending on Geographic Context
 
-#: ../DISCOVER/01_about.md:45
-msgid ""
-"Most of the material contained herein is written from the U.S. "
-"perspective (e.g. Americans with Disabilities Act (ADA) protections)."
-msgstr ""
+- Most of the material contained herein is written from the U.S. perspective (e.g. Americans with Disabilities Act (ADA) protections). 
+- Something to be aware of: some U.S. states may have discriminatory laws in place which could affect whether or not you should choose to host an event or conference there. 
+- We welcome input on considerations for events and conferences in other countries.
+- Additional considerations made need to be made for very remote event locations with no public transit, e.g. for folks who are mobility impaired.
 
-#: ../DISCOVER/01_about.md:46
-msgid ""
-"Something to be aware of: some U.S. states may have discriminatory laws "
-"in place which could affect whether or not you should choose to host an "
-"event or conference there."
-msgstr ""
+---
 
-#: ../DISCOVER/01_about.md:47
-msgid ""
-"We welcome input on considerations for events and conferences in other "
-"countries."
-msgstr ""
+## REQUEST FOR INPUT
 
-#: ../DISCOVER/01_about.md:48
-msgid ""
-"Additional considerations made need to be made for very remote event "
-"locations with no public transit, e.g. for folks who are mobility "
-"impaired."
-msgstr ""
+NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
-#: ../DISCOVER/01_about.md:52
-msgid "REQUEST FOR INPUT"
-msgstr ""
-
-#: ../DISCOVER/01_about.md:54
-msgid ""
-"NumFOCUS invites the community to make suggestions for improvements to "
-"the DISCOVER Cookbook via pull request (PR). PRs will be evaluated by the"
-" NumFOCUS DISC Committee and/or its volunteers. PRs should be written so "
-"as to conform to the [NumFOCUS Contributor Code of "
-"Conduct](https://www.numfocus.org/about/code-of-conduct/)."
-msgstr ""
-
-#: ../DISCOVER/01_about.md:56
-msgid ""
-"For a full statement of the NumFOCUS DISC Program mission and the "
-"NumFOCUS position on diversity and inclusion, please see [Diversity and "
-"Inclusion](https://www.numfocus.org/programs/diversity-and-inclusion/)."
-msgstr ""
-
+For a full statement of the NumFOCUS DISC Program mission and the NumFOCUS position on diversity and inclusion, please see [Diversity and Inclusion](https://www.numfocus.org/programs/diversity-and-inclusion/).
