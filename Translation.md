@@ -88,7 +88,7 @@ tx add \
   --project DISCOVER-Cookbook \
   --resource <resource_name> \
   --file-filter locales/<lang>/LC_MESSAGES/<filename>.po \
-  --type PO \
+  --type MARKDOWN \
   locales/en/LC_MESSAGES/<filename>.po
 ```
 
