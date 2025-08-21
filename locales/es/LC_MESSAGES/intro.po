@@ -1,0 +1,54 @@
+(intro)=
+# Recetario DISCOVER
+
+![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)
+
+El recetario DISCOVER de NumFOCUS (DISCOVER por sis siglas en inglés: Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources, _Espacios y Conferencias Diversas e Inclusivas: Visión General y Recursos Esenciales) es mantenido por el [programa DISC (Diversidad e Inclusión en Computación Científica) de NumFOCUS](https://www.numfocus.org/programs/diversity-and-inclusion/) con el soporte de la  [fundación Moore](https://www.moore.org/).
+
+## Introducción
+
+Este recetario quiere ser un recurso para que los **organizadores de conferencias y eventos** puedan **acomodar y fomentar la diversidad e inclusión** en estos eventos. Este recetario **no** intenta dar **instrucciones generales** sobre como organizar con éxito una conferencia o evento.
+
+Lea más sobre este recetario [aquí](/01_about.md).
+
+Para leer la descripción completa sobre la misión del programa DISC de NumFOCUS y su posición sobre diversidad e inclusión, puede consultar [NumFOCUS Diversity and Inclusion Program](https://www.numfocus.org/programs/diversity-and-inclusion/).
+
+---
+
+## Como usar este recetario
+
+**No hace falta que implemente todas las sugerencias** que hay en el recetario para que el evento se "califique" como diverso e inclusivo!
+
+El recetario tiene como objetivo ayudaros, en vuestro rol como organizador de eventos, a entender el campo de mejores prácticas para diversidad e inclusión **a nivel general**.
+
+**We encourage you to do as much as you can manage**, on the understanding that implementing a few well-supported and fully realized suggestions is preferable to implementing many suggestions that are poorly-supported or incomplete.
+
+To facilitate ease of use, we have highlighted suggestions that are relatively **easy to implement** and which have a **strong positive impact**. These are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎.
+
+We also encourage you to do **at least one thing** in the &quot;High Impact, High Effort&quot; quadrant. These are marked with a green checkmark: ✅.
+
+                                     |
+
+             🍎                      |                ✅
+
+        High Impact,                 |           High Impact,
+
+        Low Effort                   |           High Effort
+
+                                     |
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+
+                                    |
+
+                                    |
+
+         Low Impact,                |           Low Impact,
+
+         Low Effort                 |           High Effort
+
+                                    |
+
+The "high impact, low effort" and "high impact, high effort" suggestions are summarized on the [Summary page](/02_minimal_measures.md).
+
+Please see the [NumFOCUS Privacy Policy](https://numfocus.org/privacy-policy) for more information about how we collect data.

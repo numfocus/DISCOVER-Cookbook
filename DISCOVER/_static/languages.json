@@ -1,0 +1,14 @@
+[
+    {
+        "code": "en",
+        "name_local": "English",
+        "direction": "ltr"
+    },
+    {
+        "code": "es",
+        "name_local": "Español",
+        "direction": "ltr",
+        "hidden": true
+    }
+   
+]
