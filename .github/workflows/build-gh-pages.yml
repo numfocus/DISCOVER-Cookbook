@@ -6,8 +6,6 @@ on:
       - main
       - next
       - '*-translations'
-    tags:
-      - '*'
 
 jobs:
   get-info:
