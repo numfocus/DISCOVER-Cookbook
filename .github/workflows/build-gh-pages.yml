@@ -6,6 +6,10 @@ on:
       - main
       - next
       - '*-translations'
+      
+concurrency:
+  group: "gh-pages"
+  cancel-in-progress: true
 
 jobs:
   get-info:
