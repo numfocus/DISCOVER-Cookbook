@@ -6,7 +6,7 @@ on:
       - main
       - next
       - '*-translations'
-      
+
 concurrency:
   group: "gh-pages"
   cancel-in-progress: true
@@ -59,9 +59,11 @@ jobs:
           python-version: '3.13'
 
       - name: Build documentation with script
+        env:
+          VERSION: ${{ needs.get-info.outputs.version }}
+          LANGUAGE: ${{ matrix.language }}
         run: |
-          chmod +x ci/build_website.sh
-          ci/build_website.sh "${{ needs.get-info.outputs.version }}" "${{ matrix.language }}"
+          bash ci/build_website.sh
 
       - name: Deploy language to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -100,4 +102,30 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./temp_redirect
           destination_dir: ${{ needs.get-info.outputs.version }}
+          keep_files: true
+
+  deploy-root-files:
+    needs: [get-info, deploy-book]
+    runs-on: ubuntu-latest
+    if: github.ref_name == 'main'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create root files directory
+        run: |
+          mkdir -p root_files
+          if [ -f "DISCOVER/_static/404.html" ]; then
+            cp DISCOVER/_static/404.html root_files/
+          fi
+          if [ -f "DISCOVER/_static/index.html" ]; then
+            cp DISCOVER/_static/index.html root_files/
+          fi
+
+      - name: Deploy root files to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./root_files
+          destination_dir: .
           keep_files: true

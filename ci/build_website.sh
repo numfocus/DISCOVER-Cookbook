@@ -1,9 +1,9 @@
-
+#!/usr/bin/env bash
 echo "Starting build process..."
 
 # Get parameters with defaults 
-VERSION=${1:-"dev"}
-LANGUAGE=${2:-"en"}
+VERSION=${VERSION:-${1:-"dev"}}
+LANGUAGE=${LANGUAGE:-${2:-"en"}}
 
 echo "Building version: $VERSION, language: $LANGUAGE"
 
@@ -14,18 +14,6 @@ pip install -r requirements.txt
 rm -rf DISCOVER/_tags/*
 
 echo "Building $LANGUAGE version..."
-sphinx-build -b html \
-  -D version="$VERSION" \
-  -D language="$LANGUAGE" \
-  DISCOVER/ DISCOVER/_build/html
-
-# Copy root level files if they exist
-if [ -f "DISCOVER/_static/404.html" ]; then
-  cp DISCOVER/_static/404.html DISCOVER/_build/html/
-fi
-
-if [ -f "DISCOVER/_static/index.html" ]; then
-  cp DISCOVER/_static/index.html DISCOVER/_build/html/
-fi
+WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 
 echo "Build completed successfully: $VERSION/$LANGUAGE"
