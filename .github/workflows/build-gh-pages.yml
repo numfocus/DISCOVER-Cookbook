@@ -114,12 +114,9 @@ jobs:
       - name: Create root files directory
         run: |
           mkdir -p root_files
-          if [ -f "DISCOVER/_static/404.html" ]; then
-            cp DISCOVER/_static/404.html root_files/
-          fi
-          if [ -f "DISCOVER/_static/index.html" ]; then
-            cp DISCOVER/_static/index.html root_files/
-          fi
+          cp DISCOVER/404.html root_files/
+          cp index.html root_files/
+          cp DISCOVER/_static/versions.json root_files/
 
       - name: Deploy root files to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
