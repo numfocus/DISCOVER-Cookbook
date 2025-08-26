@@ -1,0 +1,114 @@
+[main]
+host = https://app.transifex.com
+
+[o:numfocus:p:DISCOVER-Cookbook:r:01_about]
+file_filter            = locales/<lang>/LC_MESSAGES/01_about.po
+source_file            = DISCOVER/_build/gettext/01_about.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:02_minimal_measures]
+file_filter            = locales/<lang>/LC_MESSAGES/02_minimal_measures.po
+source_file            = DISCOVER/_build/gettext/02_minimal_measures.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:03_organizing_committee]
+file_filter            = locales/<lang>/LC_MESSAGES/03_organizing_committee.po
+source_file            = DISCOVER/_build/gettext/03_organizing_committee.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:04_venue_selection]
+file_filter            = locales/<lang>/LC_MESSAGES/04_venue_selection.po
+source_file            = DISCOVER/_build/gettext/04_venue_selection.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:05_catering]
+file_filter            = locales/<lang>/LC_MESSAGES/05_catering.po
+source_file            = DISCOVER/_build/gettext/05_catering.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:06_childcare]
+file_filter            = locales/<lang>/LC_MESSAGES/06_childcare.po
+source_file            = DISCOVER/_build/gettext/06_childcare.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:07_code_of_conduct]
+file_filter            = locales/<lang>/LC_MESSAGES/07_code_of_conduct.po
+source_file            = DISCOVER/_build/gettext/07_code_of_conduct.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:08_grants_scholarships]
+file_filter            = locales/<lang>/LC_MESSAGES/08_grants_scholarships.po
+source_file            = DISCOVER/_build/gettext/08_grants_scholarships.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:09_participant_selection]
+file_filter            = locales/<lang>/LC_MESSAGES/09_participant_selection.po
+source_file            = DISCOVER/_build/gettext/09_participant_selection.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:10_event_registration]
+file_filter            = locales/<lang>/LC_MESSAGES/10_event_registration.po
+source_file            = DISCOVER/_build/gettext/10_event_registration.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:11_inclusive_practices_during_checkin]
+file_filter            = locales/<lang>/LC_MESSAGES/11_inclusive_practices_during_checkin.po
+source_file            = DISCOVER/_build/gettext/11_inclusive_practices_during_checkin.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:12_assessment]
+file_filter            = locales/<lang>/LC_MESSAGES/12_assessment.po
+source_file            = DISCOVER/_build/gettext/12_assessment.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:14_how_to_contribute]
+file_filter            = locales/<lang>/LC_MESSAGES/14_how_to_contribute.po
+source_file            = DISCOVER/_build/gettext/14_how_to_contribute.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:numfocus:p:DISCOVER-Cookbook:r:intro]
+file_filter            = locales/<lang>/LC_MESSAGES/intro.po
+source_file            = DISCOVER/_build/gettext/intro.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false

@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-26 13:06+0200\n"
+"PO-Revision-Date: 2025-08-26 10:52+0000\n"
+"Language-Team: Spanish (https://app.transifex.com/numfocus/teams/280847/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../08_grants_scholarships.md:1
+msgid ""
+"Tags: Scholarships, Participant-Diversity, Global-South-and-Developing-"
+"Countries, Newcomers-and-First-Timers, Location-and-Venue"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:5
+msgid "Grants/Scholarships"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:7
+msgid "**Why funding is important**"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:9
+msgid "Registration vs. Travel &amp; Lodging"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:10
+msgid ""
+"Registration waver scholarships can be highly effective in creating "
+"opportunities for underrepresented folks to attend your event."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:11
+msgid ""
+"Most [PyData](http://www.pydata.org) Diversity Scholarship recipients "
+"indicated that receiving funding to cover registration was make-or-break for"
+" their ability to attend."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:12
+msgid "However, registration waivers alone often aren't enough."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:13
+msgid ""
+"Sometimes [PyData](http://www.pydata.org) Diversity Scholarship recipients "
+"who didn&#39;t have additional outside sources of funding for travel &amp; "
+"lodging were unable to attend even though their registration was covered."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:14
+msgid ""
+"Interest in [Galaxy "
+"fellowships](https://galaxyproject.org/news/2017-03-gcc2017-fellowships/) "
+"went up when covering the first $n of travel costs was added, as well."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:16
+msgid "✅ **Offer grants to support attendance**"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:18
+msgid "Eligibility Requirements"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:19
+msgid "Applicants should be"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:20
+msgid ""
+"from a traditionally underrepresented and/or marginalized group in the "
+"technology and/or open source communities including, but not limited to: "
+"persons identifying as LGBTQ, indigenous, women, persons of color, and/or "
+"persons with disabilities"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:21
+msgid ""
+"and be unable to attend without some financial assistance. (language adapted"
+" from [The Linux Foundation](https://www.linuxfoundation.org/event/api-"
+"strategy-practice-conference-2017/diversity-scholarship/))"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:22
+msgid ""
+"Also consider providing support for applicants from developing economies."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:23
+msgid ""
+"You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and"
+" low-middle income."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:24
+msgid ""
+"Your organizing committee should decide which career stages are eligible: "
+"Everyone? Just students and post-docs? Junior faculty/researchers? "
+"Unemployed?"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:26
+msgid ""
+"The legal issues of specifically funding underrepresented groups varies by "
+"country."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:27
+msgid ""
+"[Galaxy](https://galaxyproject.org) deals with this by having a separate "
+"entity (the Galaxy Community Fund) offer sponsorships."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:29
+msgid "Payment"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:30
+msgid ""
+"Typically, recipients either submit receipts for reimbursement, have direct "
+"expenses paid for by the organizing committee, or are granted a lump sum up-"
+"front."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:31
+msgid ""
+"We encourage conferences to pay for things directly rather than making "
+"attendees pay and wait to be reimbursed, or at least offer this as an option"
+" for people who want to use it."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:32
+msgid ""
+"Waiting for reimbursement can be a financial burden on scholarship "
+"recipients."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:34
+msgid "**Where to seek funding**"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:36
+msgid "How to attract funding for scholarships?"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:37
+msgid ""
+"Consider posting an opportunity for attendees or community members to make "
+"individual donations in support of travel scholarships."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:38
+msgid ""
+"Make corporate sponsor levels specifically tied to travel+lodging and/or "
+"registration scholarships. (e.g. [PyData offers Diversity Scholarships as "
+"sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:39
+msgid ""
+"Run a crowdfunding campaign to support particular inclusion efforts (e.g. "
+"childcare expenses — Open Source Bridge [did "
+"this](http://opensourcebridge.org/blog/2016/05/childcare-and-"
+"scholarships/).)"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:40
+msgid "Dedicate surpluses from previous events to funding fellowships."
+msgstr ""
+
+#: ../../08_grants_scholarships.md:41
+msgid "Possible Funding Sources (needs more research)"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:42
+msgid "[Python Software Foundation](http://legacy.python.org/psf/grants/)"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:43
+msgid ""
+"[NumFOCUS Foundation](https://www.numfocus.org/programs/grants-sponsored-"
+"events/)"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:44
+msgid "Offers grants to organizing committees for diversity scholarships"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:45
+msgid "[PyLadies](http://www.pyladies.com/)"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:46
+msgid "Gives scholarships to PyCon participants"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:48
+msgid "**Further reading:**"
+msgstr ""
+
+#: ../../08_grants_scholarships.md:50
+msgid ""
+"[Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)"
+msgstr ""

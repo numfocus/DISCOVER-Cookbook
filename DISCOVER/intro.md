@@ -1,4 +1,3 @@
-(intro)=
 # DISCOVER Cookbook
 
 ![disc-horizontal-rgb-tl](https://user-images.githubusercontent.com/7980466/34578828-09c97342-f14c-11e7-85b5-35b49567bef4.png)

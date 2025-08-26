@@ -2,6 +2,9 @@
 DISCOVER/_build/
 DISCOVER/_tags/
 
+# helper files for translations
+*.mo
+
 # Pycharm
 .idea/
 
