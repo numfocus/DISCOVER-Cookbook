@@ -17,3 +17,65 @@
       width: 160px;
       margin: 0 auto;
 }
+
+.banner {
+  background-color: #f9e1e4;
+  color: #000000;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  min-height: 3rem;
+  padding: .5rem 1rem;
+  gap: 1rem;
+}
+
+.banner .bold {
+  font-weight: bold;
+}
+
+.banner-content {
+  flex: 1;
+  text-align: center;
+}
+
+.banner-button {
+  background-color: #d72d47;
+  color: white;
+  padding: .5rem .75rem;
+  text-decoration: none;
+  border-radius: .25rem;
+  white-space: nowrap;
+  box-shadow: 0 .2rem .5rem rgba(0, 0, 0, .1);
+}
+
+.banner-close {
+  background: none;
+  border: none;
+  color: #000000;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: .25rem;
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    padding: .5rem;
+    gap: .5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner {
+    position: relative;
+  }
+  
+  .banner-close {
+    position: absolute;
+    right: .5rem;
+  }
+  
+  .banner-content {
+    margin-right: 2rem;
+  }
+}
