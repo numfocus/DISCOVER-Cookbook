@@ -1,9 +1,10 @@
-version = 'dev'
-language = 'en'
-baseurl = 'https://discover-cookbook.numfocus.org'
-
 import json
 import os
+
+version = os.environ.get("WEBSITE_VERSION", "dev")
+language = os.environ.get("WEBSITE_LANGUAGE", "en")
+
+baseurl = 'https://discover-cookbook.numfocus.org'
 
 # Load language data from languages.json
 language_json_path = os.path.join(os.path.dirname(__file__), '_static', 'languages.json')
