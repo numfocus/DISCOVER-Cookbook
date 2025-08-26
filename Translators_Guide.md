@@ -17,7 +17,7 @@ We’re inviting volunteer translators to help make the DISCOVER Cookbook access
 ### 1. **Read the Blog Post:** 
 
 - The blog post serves as the official invitation to join the DISCOVER Cookbook translation project, outlining its mission to make inclusive event planning resources accessible across languages and cultures. It introduces the Cookbook’s purpose, explains the impact of translation, and calls for volunteer translators fluent in English and another language—while welcoming all language backgrounds. It also shares key dates, contributor benefits, and links to the application form and project resources, acting as the gateway for interested contributors to get involved and help communities worldwide.
-- Learn about the project and its goals → [Become a Volunteer Translator](<link>)  
+- Learn about the project and its goals → [Become a Volunteer Translator](link to be added soon)  
 
 
 ### 2. **Explore the Cookbook:** 
