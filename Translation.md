@@ -23,7 +23,7 @@ Replace <language-code> with your target language (e.g., en, fr, de).
 Once .po files are updated, compile them to .mo for use in the built documentation:
 
 ```sh
-sphinx-build -D language=<language-code> -b html DISCOVER/ DISCOVER/_build/html
+WEBSITE_LANGUAGE=<language-code> sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 
 ```
 After compiling, rebuild the book to see the translations applied:
@@ -76,10 +76,7 @@ Get your token from [Transifex Account Settings](https://app.transifex.com/user/
 
 ### Step 3: Updating ```.tx/config```
 
-The ```.tx/config``` file maps source files to Transifex resources. You’ll only need to modify this when:
-
-- Adding a new chapter or page to the Cookbook
-- Removing or renaming existing translation files
+The ```.tx/config``` file maps source files to Transifex resources. You’ll only need to modify this whenever a new release is made:
 
 Use the CLI to register new resources:
 ```
@@ -88,8 +85,8 @@ tx add \
   --project DISCOVER-Cookbook \
   --resource <resource_name> \
   --file-filter locales/<lang>/LC_MESSAGES/<filename>.po \
-  --type MARKDOWN \
-  locales/en/LC_MESSAGES/<filename>.po
+  --type PO \
+  DISCOVER/_build/gettext/<filename>.pot
 ```
 
 Refer to the [Transifex CLI reference](https://developers.transifex.com/docs/cli) for more information.
@@ -97,7 +94,7 @@ Refer to the [Transifex CLI reference](https://developers.transifex.com/docs/cli
 
 ### Step 4: Pushing Source and Translation Files
 
-After updating content or adding new chapters:
+Perform the following steps only when a release is made:
 - Regenerate ```.po``` files using ```sphinx-gettext``` and ```sphinx-intl```.
 - Open a PR with the updated files.
 - Push to Transifex:
@@ -110,7 +107,7 @@ This uploads both source and translation files.
 ### Step 5: Pulling Translations
 To fetch updated translations from Transifex (done manually before publishing):
 ```
-tx pull -a
+tx pull -a -m reviewed
 ```
 
 ### Optional: Add Multiple Resources
