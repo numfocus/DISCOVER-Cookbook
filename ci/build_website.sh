@@ -2,7 +2,7 @@
 echo "Starting build process..."
 
 # Get parameters with defaults 
-VERSION=${VERSION:-${1:-"dev"}}
+VERSION=${VERSION:-${1:-"2.0"}}
 LANGUAGE=${LANGUAGE:-${2:-"en"}}
 
 echo "Building version: $VERSION, language: $LANGUAGE"
@@ -16,5 +16,3 @@ rm -rf DISCOVER/_tags/*
 
 echo "Building $LANGUAGE version..."
 WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html
-
-echo "Build completed successfully: $VERSION/$LANGUAGE"
