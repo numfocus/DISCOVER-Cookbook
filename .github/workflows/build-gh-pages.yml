@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - '*-translations'
+      - '!1.0-translations'
 
 concurrency:
   group: "gh-pages"
@@ -23,7 +24,7 @@ jobs:
       - name: Get languages directly with jq
         id: get-languages
         run: |
-          languages=$(jq -c '[.[] | select(.hidden != true) | .code]' DISCOVER/_static/languages.json)
+          languages=$(jq -c '[.[] | .code]' DISCOVER/_static/languages.json)
           echo "languages=${languages}" >> "$GITHUB_OUTPUT"
       
       - name: Determine version from GitHub context

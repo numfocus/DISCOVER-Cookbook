@@ -16,5 +16,3 @@ rm -rf DISCOVER/_tags/*
 
 echo "Building $LANGUAGE version..."
 WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html
-
-echo "Build completed successfully: $VERSION/$LANGUAGE"
