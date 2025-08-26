@@ -11,12 +11,12 @@ permalink:           pretty
 title:               DISCOVER Cookbook
 tagline:             'Diverse & Inclusive Spaces and Conferences'
 description:         'The NumFOCUS DISCOVER Cookbook'
-url:                 https://discover-cookbook.github.io/
-giturl:              https://github.com/discover-cookbook/discover-cookbook.github.io
+url:                 https://discover-cookbook.numfocus.org/1.0/en
+giturl:              https://github.com/numfocus/DISCOVER-Cookbook
 baseurl:             / 
 paginate:            5
 
 # Custom vars
 version:             1.0
 
-github.repo: https://github.com/discover-cookbook/discover-cookbook.github.io
+github.repo: https://github.com/numfocus/DISCOVER-Cookbook
