@@ -34,6 +34,19 @@ Get familiar with the content and tone of the DISCOVER Cookbook before you begin
 
 To ensure smooth collaboration and high-quality translations, our Transifex team is organized into three key roles. Each plays a vital part in the localization workflow:
 
+#### Translator
+
+Translators adapt content from the source language into their target language, helping us reach global audiences.
+
+**Responsibilities:**
+
+- Translate and submit content  
+- Join team discussions to ask questions or share insights  
+
+Whether you're new to localization or a seasoned polyglot, this role is a great starting point for contributing meaningfully.
+
+---
+
 #### Language Coordinator
 
 Language Coordinators oversee translation efforts for a specific language. They act as language-level team leads, guiding contributors and ensuring consistency.
@@ -65,16 +78,6 @@ If you're confident in your translation skills and detail-oriented, this role is
 
 ---
 
-#### Translator
-
-Translators adapt content from the source language into their target language, helping us reach global audiences.
-
-**Responsibilities:**
-
-- Translate and submit content  
-- Join team discussions to ask questions or share insights  
-
-Whether you're new to localization or a seasoned polyglot, this role is a great starting point for contributing meaningfully.
 
 > If you're interested in taking on one of these roles—Translator, Reviewer, or Language Coordinator—please indicate your preferred role, language expertise, and any relevant experience in the application form. This helps us match you with the right responsibilities and support your growth in the team.
 
