@@ -2,7 +2,7 @@
 echo "Starting build process..."
 
 # Get parameters with defaults 
-VERSION=${VERSION:-${1:-"2.0"}}
+VERSION=${VERSION:-${1:-"dev"}}
 LANGUAGE=${LANGUAGE:-${2:-"en"}}
 
 echo "Building version: $VERSION, language: $LANGUAGE"
