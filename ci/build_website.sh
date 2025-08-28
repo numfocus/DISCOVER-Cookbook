@@ -16,3 +16,14 @@ rm -rf DISCOVER/_tags/*
 
 echo "Building $LANGUAGE version..."
 WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html
+
+
+# Install dependencies
+pip install -r requirements.txt
+pip install sphinx-intl
+
+# Build English site
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html -D language=en
+
+# Build Spanish site (translations live in locales/es/)
+sphinx-build -b html DISCOVER/ DISCOVER/_build/html/es -D language=es

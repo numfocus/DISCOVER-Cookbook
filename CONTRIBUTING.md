@@ -44,6 +44,15 @@ While content is the heart of the project, the quality of the content needs to r
 - Only then submit a PR referencing the approved issue.
 
 
+### Translations
+
+We welcome contributions that improve translations of the DISCOVER Cookbook.  
+
+- Please follow the [Translation Guide](https://discover-cookbook.numfocus.org/translation_guide.html) for detailed instructions.  
+- Ensure that translated content remains faithful to the original intent.  
+- If you’d like to suggest a new language, open a [discussion](https://github.com/numfocus/DISCOVER-Cookbook/discussions) first.
+
+
 ### Bug Fixes
 
 For technical issues with the book:
