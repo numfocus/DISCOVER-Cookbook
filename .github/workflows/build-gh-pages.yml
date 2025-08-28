@@ -45,6 +45,7 @@ jobs:
     needs: get-info
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         language: ${{ fromJSON(needs.get-info.outputs.languages) }}
     steps:
@@ -105,7 +106,7 @@ jobs:
           keep_files: true
 
   deploy-root-files:
-    needs: [get-info, deploy-book]
+    needs: [create-redirect]
     runs-on: ubuntu-latest
     if: github.ref_name == 'main'
     steps:
