@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
+    <!-- Meta tags and title -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DISCOVER Cookbook</title>
+
+    <!-- External CSS libraries -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom styles -->
     <style>
         body { font-family: 'Inter', sans-serif; }
         [data-bs-theme="dark"] {
@@ -20,9 +25,11 @@
     </style>
 </head>
 <body>
+    <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg sticky-top border-bottom">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="#home">
+            <!-- Main Logo -->
+            <a class="navbar-brand fw-bold" href="#">
                 <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
                 <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
             </a>
@@ -32,10 +39,8 @@
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#versions">Versions</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
-                    <li class="nav-item ms-lg-3">
+                    <li class="nav-item d-flex gap-2 ms-lg-3">
                         <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository"><i class="bi bi-github"></i></a>
-                    </li>
-                    <li class="nav-item ms-lg-3">
                         <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme">
                             <i class="bi bi-sun-fill d-none" id="light-icon"></i>
                             <i class="bi bi-moon-stars-fill" id="dark-icon"></i>
@@ -45,15 +50,19 @@
             </div>
         </div>
     </nav>
+
+    <!-- Main content -->
     <div class="container py-5">
         <div class="text-center py-5 mb-5">
             <h1 class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
             <p class="lead text-muted mb-4 mx-auto" style="max-width: 600px;">Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector</p>
             <div class="d-flex flex-wrap justify-content-center gap-3">
-                <a href="https://discover-cookbook.numfocus.org/2.0/en" class="btn btn-success btn-lg"><i class="bi bi-book"></i> Read the Cookbook</a>
+                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg"><i class="bi bi-book"></i> Read the Cookbook</a>
                 <a href="#contribute" class="btn btn-outline-secondary btn-lg"><i class="bi bi-people"></i> Contribute</a>
             </div>
         </div>
+
+        <!-- About section -->
         <section id="about" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -63,6 +72,8 @@
                 </div>
             </div>
         </section>
+
+        <!-- How to use this Cookbook section -->
         <section class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -73,6 +84,8 @@
                 </div>
             </div>
         </section>
+
+         <!-- Versions section -->
         <section id="versions" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -87,8 +100,8 @@
                                 </div>
                                 <p class="text-muted mb-3">The current stable release, recommended for all users. Includes the latest best practices and comprehensive updates.</p>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <a href="https://discover-cookbook.numfocus.org/2.0/en" class="btn btn-success btn-sm">English</a>
-                                    <a href="https://discover-cookbook.numfocus.org/2.0/es" class="btn btn-outline-secondary btn-sm">Español</a>
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-sm">English</a>
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/es/" class="btn btn-outline-secondary btn-sm">Español</a>
                                 </div>
                             </div>
                         </div>
@@ -99,13 +112,15 @@
                                     <h4 class="mb-0">Version 1.0</h4>
                                 </div>
                                 <p class="text-muted mb-3">Archived for historical context and for users referencing earlier guidelines.</p>
-                                <a href="https://discover-cookbook.github.io/" class="btn btn-outline-secondary btn-sm">English</a>
+                                <a href="https://discover-cookbook.numfocus.org/1.0/en/" class="btn btn-outline-secondary btn-sm">English</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+        <!-- Development version -->
         <section class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -117,7 +132,7 @@
                     <div class="row gy-3 align-items-end">
                         <div class="col-md">
                             <small class="text-muted d-block mb-2">Read:</small>
-                            <a href="https://discover-cookbook.numfocus.org/dev/" class="btn btn-outline-secondary btn-sm">English</a>
+                            <a href="https://discover-cookbook.numfocus.org/dev/en/" class="btn btn-outline-secondary btn-sm">English</a>
                         </div>
                         <div class="col-md">
                             <small class="text-muted d-block mb-2">Contribute:</small>
@@ -125,13 +140,15 @@
                                 <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=new_chapter_proposal.yml" class="btn btn-success btn-sm"><i class="bi bi-journal-plus me-1"></i> Write Chapter</a>
                                 <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=content_enhancement.yml" class="btn btn-outline-secondary btn-sm"><i class="bi bi-pen"></i> Improve Content</a>
                                 <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=bug_report.yml" class="btn btn-outline-danger btn-sm"><i class="bi bi-bug me-1"></i> Report Bug</a>
-                                <a href="#" class="btn btn-outline-success btn-sm"><i class="bi bi-translate"></i> Help Translate</a>
+                                <a href="https://github.com/numfocus/DISCOVER-Cookbook/pull/377" class="btn btn-outline-success btn-sm"><i class="bi bi-translate"></i> Help Translate</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+        <!-- Contribute section -->
         <section id="contribute" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -147,10 +164,12 @@
             </div>
         </section>
     </div>
+
+    <!-- Footer -->
     <footer class="container py-4 border-top">
         <div class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
             <span class="text-muted">NumFOCUS &copy; <span id="copyright-year"></span></span>
-            <div class="d-flex gap-3 flex-wrap justify-content-center">
+            <div class="d-flex gap-4 flex-wrap justify-content-center">
                 <a href="https://numfocus.org/privacy-policy" target="_blank" rel="noopener" class="text-muted">Privacy Policy</a>
                 <a href="https://numfocus.org/code-of-conduct" target="_blank" rel="noopener" class="text-muted">Code of Conduct</a>
                 <a href="https://numfocus.org/support" target="_blank" rel="noopener" class="text-muted">Support</a>
@@ -163,7 +182,11 @@
             </div>
         </div>
     </footer>
+
+    <!-- External JS libraries -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+    
+     <!-- Theme switcher script -->
     <script>
         const html = document.documentElement;
         const themeSwitcher = document.getElementById('theme-switcher');
