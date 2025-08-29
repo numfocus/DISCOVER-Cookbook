@@ -171,12 +171,18 @@ html[data-theme=dark] .social-links a:hover {
 .version-switcher__menu .list-group-item:hover,
 .dropdown-item:hover {
   background-color: #f8f9fa !important;
+  color:  #e89217 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.15rem !important;
 }
 
 .dropdown-item.active {
   color: #528fe4 !important;
   background-color: #ffffff !important;
   box-shadow: inset 3px 0 0 #528fe4 !important;
+}
+
+.dropdown-menu > li:not(:last-child) {
   border-bottom: 1px solid #dee2e6 !important;
 }
 
@@ -188,8 +194,16 @@ html[data-theme=dark] #language-switcher-button {
 }
 
 html[data-theme=dark] .version-switcher__button:hover,
-html[data-theme=dark] #language-switcher-button:hover {
+html[data-theme=dark] #language-switcher-button:hover,
+html[data-theme=dark] .version-switcher__button:focus,
+html[data-theme=dark] #language-switcher-button:focus{
   color: #ced6dd !important;
+  border-color: transparent !important;
+}
+
+html[data-theme=dark] .version-switcher__button:focus,
+html[data-theme=dark] #language-switcher-button:focus{
+  outline: none !important;
 }
 
 html[data-theme=dark] .version-switcher__button::after,
@@ -210,15 +224,16 @@ html[data-theme=dark] .version-switcher__menu .list-group-item {
 html[data-theme=dark] .version-switcher__menu .list-group-item:hover,
 html[data-theme=dark] .dropdown-item:hover {
   background-color: #000000 !important;
+  color:  #e89217 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.15rem !important;
 }
 
 html[data-theme=dark] .dropdown-item.active {
   background-color: #121212 !important;
-  border-bottom-color: #48566b !important;
 }
 
 html[data-theme=dark] .dropdown-item.active:hover {
-  color: #ced6dd !important;
   background-color: #121212 !important;
 }
 
@@ -226,3 +241,19 @@ html[data-theme=dark] .dropdown-item.active:hover {
 .bd-header-article #language-switcher-button {
   margin: 0 !important;
 }
+
+html[data-theme=dark] .dropdown-menu > li:not(:last-child) {
+  border-bottom: 1px solid #48566b !important;
+}
+
+.dropdown-itemactive{
+  padding-left: 0.5rem !important;
+  text-decoration: none !important;
+  box-shadow: inset 0.17rem 0 0 #528fe4 !important;
+}
+
+.dropdown-itemactive:hover{
+   text-decoration: underline !important;
+   text-decoration-thickness: 0.15rem !important;
+}
+
