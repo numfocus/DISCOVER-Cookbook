@@ -2,6 +2,7 @@ import json
 import os
 
 version = os.environ.get("WEBSITE_VERSION", "dev")
+release = version
 language = os.environ.get("WEBSITE_LANGUAGE", "en")
 
 baseurl = 'https://discover-cookbook.numfocus.org'
