@@ -1,7 +1,9 @@
 import json
 import os
 
+# Get version and language from environment variables
 version = os.environ.get("WEBSITE_VERSION", "dev")
+release = version
 language = os.environ.get("WEBSITE_LANGUAGE", "en")
 
 baseurl = 'https://discover-cookbook.numfocus.org'
@@ -42,6 +44,9 @@ html_favicon = ''
 html_logo = 'logo.png'
 html_sourcelink_suffix = ''
 html_static_path = ['_static']
+html_css_files = [
+    'css/Switchers.css',
+]
 html_theme = 'sphinx_book_theme'
 templates_path = ["_templates"]
 html_theme_options = {
@@ -57,11 +62,13 @@ html_theme_options = {
     'use_repository_button': True, 
     'use_edit_page_button': False, 
     'use_issues_button': True,
-    
-    
+
+    # Header layout
     "article_header_start": ["toggle-primary-sidebar","version-switcher","language-switcher"],
     "navigation_with_keys": False,
     "show_version_warning_banner": True,
+
+    # Version switcher config
     "switcher": {
         "json_url": "https://discover-cookbook.numfocus.org/versions.json", 
         "version_match": version,
