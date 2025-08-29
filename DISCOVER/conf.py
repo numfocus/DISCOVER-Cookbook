@@ -2,6 +2,7 @@ import json
 import os
 
 version = os.environ.get("WEBSITE_VERSION", "dev")
+release = version
 language = os.environ.get("WEBSITE_LANGUAGE", "en")
 
 baseurl = 'https://discover-cookbook.numfocus.org'
@@ -42,6 +43,9 @@ html_favicon = ''
 html_logo = 'logo.png'
 html_sourcelink_suffix = ''
 html_static_path = ['_static']
+html_css_files = [
+    'css/Switchers.css',
+]
 html_theme = 'sphinx_book_theme'
 templates_path = ["_templates"]
 html_theme_options = {
