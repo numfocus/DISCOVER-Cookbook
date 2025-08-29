@@ -1,6 +1,7 @@
 import json
 import os
 
+# Get version and language from environment variables
 version = os.environ.get("WEBSITE_VERSION", "dev")
 release = version
 language = os.environ.get("WEBSITE_LANGUAGE", "en")
@@ -73,10 +74,12 @@ html_theme_options = {
     'use_edit_page_button': False, 
     'use_issues_button': True,
     
-    
+    # Header layout
     "article_header_start": ["toggle-primary-sidebar","version-switcher","language-switcher"],
     "navigation_with_keys": False,
     "show_version_warning_banner": True,
+
+    # Version switcher config
     "switcher": {
         "json_url": "https://discover-cookbook.numfocus.org/versions.json", 
         "version_match": version,

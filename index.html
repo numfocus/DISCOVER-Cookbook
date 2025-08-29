@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
+    <!-- Meta tags and title -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DISCOVER Cookbook</title>
+
+    <!-- External CSS libraries -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom styles -->
     <style>
         body { font-family: 'Inter', sans-serif; }
         [data-bs-theme="dark"] {
@@ -20,8 +25,10 @@
     </style>
 </head>
 <body>
+    <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg sticky-top border-bottom">
         <div class="container">
+            <!-- Main Logo -->
             <a class="navbar-brand fw-bold" href="#">
                 <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
                 <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
@@ -43,6 +50,8 @@
             </div>
         </div>
     </nav>
+
+    <!-- Main content -->
     <div class="container py-5">
         <div class="text-center py-5 mb-5">
             <h1 class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
@@ -52,6 +61,8 @@
                 <a href="#contribute" class="btn btn-outline-secondary btn-lg"><i class="bi bi-people"></i> Contribute</a>
             </div>
         </div>
+
+        <!-- About section -->
         <section id="about" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -61,6 +72,8 @@
                 </div>
             </div>
         </section>
+
+        <!-- How to use this Cookbook section -->
         <section class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -71,6 +84,8 @@
                 </div>
             </div>
         </section>
+
+         <!-- Versions section -->
         <section id="versions" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -104,6 +119,8 @@
                 </div>
             </div>
         </section>
+
+        <!-- Development version -->
         <section class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -130,6 +147,8 @@
                 </div>
             </div>
         </section>
+
+        <!-- Contribute section -->
         <section id="contribute" class="mb-5">
             <div class="card border">
                 <div class="card-body p-4">
@@ -145,6 +164,8 @@
             </div>
         </section>
     </div>
+
+    <!-- Footer -->
     <footer class="container py-4 border-top">
         <div class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
             <span class="text-muted">NumFOCUS &copy; <span id="copyright-year"></span></span>
@@ -161,7 +182,11 @@
             </div>
         </div>
     </footer>
+
+    <!-- External JS libraries -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+    
+     <!-- Theme switcher script -->
     <script>
         const html = document.documentElement;
         const themeSwitcher = document.getElementById('theme-switcher');
