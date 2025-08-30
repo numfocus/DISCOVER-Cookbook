@@ -1,15 +1,10 @@
 ## Description of Changes
 
-<!-- Clearly and concisely describe the changes introduced by this Pull Request.
-     What problem does it solve? What new content or improvements does it bring? -->
-
+<!-- Briefly describe what you're adding/fixing and why -->
 
 ## Related Issue
 
-<!-- Link this Pull Request to the relevant GitHub Issue.
-     Use keywords like `Closes #<issue-number>`, `Fixes #<issue-number>`, or `Resolves #<issue-number>`
-     to automatically close the issue when the PR is merged.
-     [Learn more](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue). -->
+<!-- Link using: Closes #123, Fixes #456, or Resolves #789 -->
 
 ## Checklist
 
