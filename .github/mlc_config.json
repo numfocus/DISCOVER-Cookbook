@@ -1,0 +1,26 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^\\.git/"
+    },
+    {
+      "pattern": "^http://localhost"
+    },
+    {
+      "pattern": "^https://translatewiki\\.net"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["^https?://"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+      }
+    }
+  ],
+  "timeout": "40s",
+  "retryOn429": true,
+  "aliveStatusCodes": [0, 200, 206, 403, 429],
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s"
+}
