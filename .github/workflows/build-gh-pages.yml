@@ -21,7 +21,7 @@ jobs:
       version: ${{ steps.version-info.outputs.version }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Read languages from JSON file
       - name: Get languages directly with jq
@@ -55,7 +55,7 @@ jobs:
         language: ${{ fromJSON(needs.get-info.outputs.languages) }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -120,7 +120,7 @@ jobs:
     if: github.ref_name == 'main'
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Copy important files to root
       - name: Create root files directory
