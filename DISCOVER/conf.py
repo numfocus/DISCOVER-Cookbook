@@ -1,7 +1,9 @@
 import json
 import os
 
+# Get version and language from environment variables
 version = os.environ.get("WEBSITE_VERSION", "dev")
+release = version
 language = os.environ.get("WEBSITE_LANGUAGE", "en")
 
 baseurl = 'https://discover-cookbook.numfocus.org'
@@ -50,7 +52,7 @@ extensions = [
 external_toc_exclude_missing = False
 external_toc_path = '_toc.yml'
 html_baseurl = ''
-html_css_files = ['css/mainLogo.css']
+html_css_files = ['css/mainLogo.css','css/Switchers.css']
 html_favicon = ''
 html_js_files = ['js/footer.js', 'js/logo-switcher.js']
 html_logo = '_static/images/logo-light.png'
@@ -72,10 +74,12 @@ html_theme_options = {
     'use_edit_page_button': False, 
     'use_issues_button': True,
     
-    
+    # Header layout
     "article_header_start": ["toggle-primary-sidebar","version-switcher","language-switcher"],
     "navigation_with_keys": False,
     "show_version_warning_banner": True,
+
+    # Version switcher config
     "switcher": {
         "json_url": "https://discover-cookbook.numfocus.org/versions.json", 
         "version_match": version,

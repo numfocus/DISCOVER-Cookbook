@@ -6,7 +6,7 @@
   <ul class="dropdown-menu" aria-labelledby="language-switcher-button">
     {% for item in languages %}
         <li>
-          <a class="dropdown-item{% if current_language == item.code %}active{% endif %}" 
+          <a class="dropdown-item{% if current_language == item.code %} active{% endif %}" 
             href="{{ baseurl }}/{{ current_version }}/{{ item.code }}/{{ pagename }}.html"
             {% if item.direction %}dir="{{ item.direction }}"{% endif %}>
             {{ item.name_local }}
