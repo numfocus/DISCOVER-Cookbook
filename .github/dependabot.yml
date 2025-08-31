@@ -13,7 +13,18 @@ updates:
       day: "monday"
       time: "09:00"
 
-    reviewers:
-      - "username"
     labels:
-      - "dependencies"
+      - "CI"
+      - "Dependencies"
+
+  # Python dependencies
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      day: "monday"
+      time: "09:00"
+
+    labels:
+      - "Dependencies"
+      - "Python"

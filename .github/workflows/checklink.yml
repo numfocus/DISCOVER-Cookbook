@@ -1,14 +1,22 @@
 name: Check Markdown links
 
-on: workflow_dispatch
-# on: [pull_request]
+on:
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 1 * *' # Monthly
+  workflow_dispatch:
 
 jobs:
   markdown-link-check:
+    name: Check for broken links
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-          use-quiet-mode: 'yes'
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run link checker
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: '.github/mlc_config.json'
           use-verbose-mode: 'yes'
