@@ -90,4 +90,10 @@ body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
   body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
   margin-top: 4rem;
   }
+
+  .banner-button {
+    display: block;
+    margin: 0 auto;
+    max-width: 12.5rem;
+  }
 }
