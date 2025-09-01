@@ -18,6 +18,10 @@
       margin: 0 auto;
 }
 
+body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
+  margin-top: 3rem;
+}
+
 .banner {
   background-color: #f9e1e4;
   color: #000000;
@@ -58,6 +62,10 @@
   flex-shrink: 0;
 }
 
+.banner-button:hover{
+  background-color: #bb2239;
+}
+
 @media (max-width: 768px) {
   .banner {
     padding: .5rem;
@@ -77,5 +85,9 @@
   
   .banner-content {
     margin-right: 2rem;
+  }
+
+  body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
+  margin-top: 4rem;
   }
 }
