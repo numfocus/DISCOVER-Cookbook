@@ -88,7 +88,7 @@ body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
   }
 
   body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
-  margin-top: 4rem;
+  margin-top: 5rem;
   }
 
   .banner-button {
@@ -96,4 +96,10 @@ body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
     margin: 0 auto;
     max-width: 12.5rem;
   }
+}
+
+@media (max-width: 375px) {
+  body:has(.banner:not([style*="display: none"])) .sidebar-toggle {
+    margin-top: 6.5rem;
+    }
 }
