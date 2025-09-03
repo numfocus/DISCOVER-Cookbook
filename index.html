@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <!-- Meta tags and title -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DISCOVER Cookbook</title>
+
+    <!-- External CSS libraries -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom styles -->
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        [data-bs-theme="dark"] {
+            --bs-body-bg: #0d1117;
+            --bs-body-color: #e6edf3;
+            --bs-border-color: #30363d;
+            --bs-success-rgb: 35, 134, 54;
+        }
+        .navbar { background-color: rgba(13, 17, 23, 0.85); }
+        [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
+    </style>
+</head>
+<body>
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-expand-lg sticky-top border-bottom">
+        <div class="container">
+            <!-- Main Logo -->
+            <a class="navbar-brand fw-bold" href="#">
+                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
+                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto align-items-center">
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#versions">Versions</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
+                    <li class="nav-item d-flex gap-2 ms-lg-3">
+                        <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository"><i class="bi bi-github"></i></a>
+                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme">
+                            <i class="bi bi-sun-fill d-none" id="light-icon"></i>
+                            <i class="bi bi-moon-stars-fill" id="dark-icon"></i>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main content -->
+    <div class="container py-5">
+        <div class="text-center py-5 mb-5">
+            <h1 class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
+            <p class="lead text-muted mb-4 mx-auto" style="max-width: 600px;">Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector</p>
+            <div class="d-flex flex-wrap justify-content-center gap-3">
+                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg"><i class="bi bi-book"></i> Read the Cookbook</a>
+                <a href="#contribute" class="btn btn-outline-secondary btn-lg"><i class="bi bi-people"></i> Contribute</a>
+            </div>
+        </div>
+
+        <!-- About section -->
+        <section id="about" class="mb-5">
+            <div class="card border">
+                <div class="card-body p-4">
+                    <h2 class="h3 mb-3">About the Cookbook</h2>
+                    <p class="text-muted mb-3">The DISCOVER Cookbook is a hands-on guide for conference and event organizers—especially in the U.S. tech sector—to support and encourage diversity and inclusion. Produced by the <span class="text-success fw-semibold">NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program</span> with support from the <span class="text-success fw-semibold">Moore Foundation </span>, it focuses specifically on practical plans, decisions, and actions organizers can take.</p>
+                    <p class="text-muted mb-4">This cookbook presumes the organizing committee is already interested in improving diversity and inclusion. Hence, the suggestions herein are focused on the "how" rather than the "why".</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- How to use this Cookbook section -->
+        <section class="mb-5">
+            <div class="card border">
+                <div class="card-body p-4">
+                    <h2 class="h3 mb-3">How to Use This Cookbook</h2>
+                    <p class="text-muted mb-3">You do not have to implement every suggestion in the cookbook in order to "qualify" as having a diverse and inclusive event! The cookbook is intended to help you, as an event organizer, to understand the overall landscape of best practices for diversity and inclusion.</p>
+                    <p class="text-muted mb-3">We encourage you to do as much as you can manage, on the understanding that implementing a few well-supported and fully realized suggestions is preferable to implementing many that are poorly-supported or incomplete.</p>
+                    <p class="text-muted mb-0">As a general rule, we encourage conference organizers to implement all the <span class="fw-semibold">🍎 measures</span> and at least one of the <span class="fw-semibold">✅ suggestions</span>. These are the "Minimal Measures" for making your conference inclusive and encouraging diversity.</p>
+                </div>
+            </div>
+        </section>
+
+         <!-- Versions section -->
+        <section id="versions" class="mb-5">
+            <div class="card border">
+                <div class="card-body p-4">
+                    <h2 class="h3 mb-4">Available Versions</h2>
+                    <div class="row g-4">
+                        <div class="col-lg-6">
+                            <div class="bg-success bg-opacity-10 p-4 rounded border border-success border-opacity-25 h-100">
+                                <div class="d-flex align-items-center mb-3">
+                                    <i class="bi bi-star-fill text-warning me-2"></i>
+                                    <h4 class="mb-0">Version 2.0</h4>
+                                    <span class="badge bg-success ms-2">Latest</span>
+                                </div>
+                                <p class="text-muted mb-3">The current stable release, recommended for all users. Includes the latest best practices and comprehensive updates.</p>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-sm">English</a>
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/es/" class="btn btn-outline-secondary btn-sm">Español</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="p-4 rounded h-100 border">
+                                <div class="d-flex align-items-center mb-3">
+                                    <i class="bi bi-archive text-muted me-2"></i>
+                                    <h4 class="mb-0">Version 1.0</h4>
+                                </div>
+                                <p class="text-muted mb-3">Archived for historical context and for users referencing earlier guidelines.</p>
+                                <a href="https://discover-cookbook.numfocus.org/1.0/en/" class="btn btn-outline-secondary btn-sm">English</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Development version -->
+        <section class="mb-5">
+            <div class="card border">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-code-slash text-info me-2"></i>
+                        <h2 class="h3 mb-0">Development Version</h2>
+                    </div>
+                    <p class="text-muted mb-4">The in-progress development version containing the latest community contributions. Ideal for contributors and early adopters, but may be unstable.</p>
+                    <div class="row gy-3 align-items-end">
+                        <div class="col-md">
+                            <small class="text-muted d-block mb-2">Read:</small>
+                            <a href="https://discover-cookbook.numfocus.org/dev/en/" class="btn btn-outline-secondary btn-sm">English</a>
+                        </div>
+                        <div class="col-md">
+                            <small class="text-muted d-block mb-2">Contribute:</small>
+                            <div class="d-flex flex-wrap gap-2">
+                                <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=new_chapter_proposal.yml" class="btn btn-success btn-sm"><i class="bi bi-journal-plus me-1"></i> Write Chapter</a>
+                                <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=content_enhancement.yml" class="btn btn-outline-secondary btn-sm"><i class="bi bi-pen"></i> Improve Content</a>
+                                <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues/new?template=bug_report.yml" class="btn btn-outline-danger btn-sm"><i class="bi bi-bug me-1"></i> Report Bug</a>
+                                <a href="https://github.com/numfocus/DISCOVER-Cookbook/pull/377" class="btn btn-outline-success btn-sm"><i class="bi bi-translate"></i> Help Translate</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contribute section -->
+        <section id="contribute" class="mb-5">
+            <div class="card border">
+                <div class="card-body p-4">
+                    <h2 class="h3 mb-3">Contribute to this Project</h2>
+                    <p class="text-muted mb-4">The DISCOVER Cookbook is a living document that thrives on community contributions. Share your experiences and help make inclusive events accessible worldwide.</p>
+                    <p class="text-muted mb-4">Before contributing, please take a moment to review our full <a href="https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CONTRIBUTING.md" class="text-success fw-semibold">Contribution Guide</a> and ensure all interactions follow our <a href="https://github.com/numfocus/DISCOVER-Cookbook/blob/main/CODE_OF_CONDUCT.md" class="text-success fw-semibold">Code of Conduct</a>.</p>
+                    <div class="row g-3">
+                        <div class="col-md-6 col-lg-4"><a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" class="btn btn-outline-secondary w-100 text-start p-3 h-100"><i class="bi bi-bug text-danger me-2"></i><div><div class="fw-semibold">Report Issues</div><small class="text-muted">Found a typo, a bug in the site, or want to propose a content enhancement? Use our issue templates to formally track the work.</small></div></a></div>
+                        <div class="col-md-6 col-lg-4"><a href="https://github.com/numfocus/DISCOVER-Cookbook/discussions" class="btn btn-outline-secondary w-100 text-start p-3 h-100"><i class="bi bi-lightbulb text-warning me-2"></i><div><div class="fw-semibold">Discuss an Idea</div><small class="text-muted">Have an idea for a new topic or a major change? Start a conversation with the community in our Discussions tab first.</small></div></a></div>
+                        <div class="col-md-6 col-lg-4"><a href="https://github.com/numfocus/DISCOVER-Cookbook/pulls" class="btn btn-outline-secondary w-100 text-start p-3 h-100"><i class="bi bi-code-slash text-info me-2"></i><div><div class="fw-semibold">Contribute Code</div><small class="text-muted">Submit a pull request to fix a technical bug or improve our build process. Please ensure an issue exists and reference it in your PR</small></div></a></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer class="container py-4 border-top">
+        <div class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
+            <span class="text-muted">NumFOCUS &copy; <span id="copyright-year"></span></span>
+            <div class="d-flex gap-4 flex-wrap justify-content-center">
+                <a href="https://numfocus.org/privacy-policy" target="_blank" rel="noopener" class="text-muted">Privacy Policy</a>
+                <a href="https://numfocus.org/code-of-conduct" target="_blank" rel="noopener" class="text-muted">Code of Conduct</a>
+                <a href="https://numfocus.org/support" target="_blank" rel="noopener" class="text-muted">Support</a>
+                <a href="https://numfocus.org/donate" target="_blank" rel="noopener" class="text-muted">Donate</a>
+            </div>
+            <div class="d-flex gap-3">
+                <a href="https://github.com/numfocus" target="_blank" rel="noopener" class="text-muted fs-5"><i class="bi bi-github"></i></a>
+                <a href="https://x.com/numfocus" target="_blank" rel="noopener" class="text-muted fs-5"><i class="bi bi-twitter-x"></i></a>
+                <a href="https://www.linkedin.com/company/numfocus/" target="_blank" rel="noopener" class="text-muted fs-5"><i class="bi bi-linkedin"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- External JS libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+    
+     <!-- Theme switcher script -->
+    <script>
+        const html = document.documentElement;
+        const themeSwitcher = document.getElementById('theme-switcher');
+        const lightIcon = document.getElementById('light-icon');
+        const darkIcon = document.getElementById('dark-icon');
+        const darkLogo = document.querySelector('.dark-logo');
+        const lightLogo = document.querySelector('.light-logo');
+        
+        function setTheme(theme) {
+            html.dataset.bsTheme = theme;
+            localStorage.setItem('theme', theme);
+            const isLight = theme === 'light';
+            lightIcon.classList.toggle('d-none', !isLight);
+            darkIcon.classList.toggle('d-none', isLight);
+            lightLogo.classList.toggle('d-none', !isLight);
+            darkLogo.classList.toggle('d-none', isLight);
+        }
+        themeSwitcher.addEventListener('click', () => {
+            const newTheme = html.dataset.bsTheme === 'dark' ? 'light' : 'dark';
+            setTheme(newTheme);
+        });
+        setTheme(localStorage.getItem('theme') || 'dark');
+        document.getElementById('copyright-year').textContent = new Date().getFullYear()
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<div class="dropdown">
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="language-switcher-button"
+    data-bs-toggle="dropdown" aria-expanded="false">
+      {{current_language_name}}
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="language-switcher-button">
+    {% for item in languages %}
+        <li>
+          <a class="dropdown-item{% if current_language == item.code %} active{% endif %}" 
+            href="{{ baseurl }}/{{ current_version }}/{{ item.code }}/{{ pagename }}.html"
+            {% if item.direction %}dir="{{ item.direction }}"{% endif %}>
+            {{ item.name_local }}
+          </a>
+        </li>
+    {% endfor %}
+  </ul>
+</div>
