@@ -79,7 +79,7 @@ If you're confident in your translation skills and detail-oriented, this role is
 ---
 
 
-> If you're interested in taking on one of these roles—Translator, Reviewer, or Language Coordinator—please indicate your preferred role, language expertise, and any relevant experience in the application form. This helps us match you with the right responsibilities and support your growth in the team.
+> Please note, most contributors begin as Translators. As you gain experience and contribute consistently, you may be invited to take on Reviewer or Language Coordinator responsibilities. This gradual progression ensures everyone feels confident and supported in their role.
 
 ---
 
