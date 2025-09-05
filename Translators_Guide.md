@@ -14,27 +14,94 @@ This guide is your companion throughout the DISCOVER Cookbook translation journe
 
 We’re inviting volunteer translators to help make the DISCOVER Cookbook accessible to communities around the world. Here's how to join:
 
-### 1. **Read the Blog Post:** 
+### 1. Read the Blog Post
 
-- The blog post serves as the official invitation to join the DISCOVER Cookbook translation project, outlining its mission to make inclusive event planning resources accessible across languages and cultures. It introduces the Cookbook’s purpose, explains the impact of translation, and calls for volunteer translators fluent in English and another language—while welcoming all language backgrounds. It also shares key dates, contributor benefits, and links to the application form and project resources, acting as the gateway for interested contributors to get involved and help communities worldwide.
-- Learn about the project and its goals → [Become a Volunteer Translator](link to be added soon)  
+The blog post is your gateway to the project. It outlines our mission to make inclusive event planning resources accessible across languages and cultures. You’ll learn about the Cookbook’s goals, the impact of translation, contributor benefits, and how to apply.
+
+🔗 [Become a Volunteer Translator](link-to-be-added-soon)
+
+---
+
+### 2. Explore the Cookbook
+
+Get familiar with the content and tone of the DISCOVER Cookbook before you begin translating.
+
+🔗 [DISCOVER Cookbook](https://discover-cookbook.numfocus.org/intro.html)
+
+---
+
+### 3. Roles to Join
+
+To ensure smooth collaboration and high-quality translations, our Transifex team is organized into three key roles. Each plays a vital part in the localization workflow:
+
+#### Translator
+
+Translators adapt content from the source language into their target language, helping us reach global audiences.
+
+**Responsibilities:**
+
+- Translate and submit content  
+- Join team discussions to ask questions or share insights  
+
+Whether you're new to localization or a seasoned polyglot, this role is a great starting point for contributing meaningfully.
+
+---
+
+#### Language Coordinator
+
+Language Coordinators oversee translation efforts for a specific language. They act as language-level team leads, guiding contributors and ensuring consistency.
+
+**Responsibilities:**
+
+- Invite new members to their language team  
+- Approve or deny join requests  
+- Assign or change contributor roles  
+- Start and moderate team discussions  
+- Review and proofread translations  
+- Submit finalized translations  
+
+If you're a seasoned contributor and passionate about your language, this role lets you help steward quality and collaboration.
+
+---
+
+#### Reviewer
+
+Reviewers are the quality gatekeepers. They ensure translations are accurate, culturally appropriate, and aligned with our standards.
+
+**Responsibilities:**
+
+- Review and proofread translations  
+- Submit approved translations  
+- Participate in team discussions  
+
+If you're confident in your translation skills and detail-oriented, this role is a great way to elevate the project’s quality.
+
+---
 
 
-### 2. **Explore the Cookbook:** 
+> Please note, most contributors begin as Translators. As you gain experience and contribute consistently, you may be invited to take on Reviewer or Language Coordinator responsibilities. This gradual progression ensures everyone feels confident and supported in their role.
 
-Familiarize yourself with the content → [DISCOVER Cookbook](https://discover-cookbook.numfocus.org/intro.html)  
+---
 
+### 4. Apply
 
-### 3. **Apply:** 
+Fill out the role application form linked in the blog post.
 
+<<<<<<< HEAD
 Fill out the translator application form linked in the blog post  
    - **Deadline:** Wednesday, September 24th, 2025 (AoE)  
    - **Notification:** Saturday, October 04th, 2025 (AoE)  
+=======
+- **Deadline:** Sunday, September 14th, 2025 (AoE)  
+- **Notification:** Wednesday, September 24th, 2025 (AoE)
+>>>>>>> 2e4d261084dcd5affd54f8be2ef36244003f1af8
 
+---
 
-### 4. **Start Translating:** 
+### 5. Start Your Role
 
-The translation period runs from late September to the end of October.  
+The translation period runs from late September to the end of October.
+
 - **Translation Period:** TBD  
 - **When the Contribution is Done:** TBA  
 
@@ -42,36 +109,37 @@ The translation period runs from late September to the end of October.
 
 ## Onboarding & Access
 
-Once selected, you’ll receive access for the following platforms:
+Once selected, you’ll receive access to the following platforms:
 
-- **Transifex:** Our translation management platform. You’ll receive an invite to join the DISCOVER Cookbook project.  
+- **Transifex:** Our translation management platform. You’ll be invited to join the DISCOVER Cookbook project.  
 - **Discord:** Our main space for real-time communication and collaboration.  
-  - You’ll be added to a dedicated **Discord channel** for translators.  
+  - You’ll be added to a dedicated translator channel.  
 - **Email:** Important updates and reminders will be sent via email.  
-- **Meetings:** Optional check-ins or onboarding calls may be scheduled to support contributors.
+- **Meetings:** Optional onboarding calls or check-ins may be scheduled to support contributors.
 
 ---
 
-## Instructions for Translators
+## 🛠Instructions for Translators
 
-### How to Use Transifex  
+### How to Use Transifex
+
 Follow the official instructions here:  
 🔗 [GitHub Pull Request #371](https://github.com/numfocus/DISCOVER-Cookbook/pull/371)
 
-### GitHub Repository  
+### GitHub Repository
+
 The source files and documentation are hosted on GitHub.  
 🔗 [DISCOVER Cookbook GitHub Repo](https://github.com/numfocus/DISCOVER-Cookbook)
 
-### Acknowledgment  
+### Acknowledgment
+
 All contributors will be credited in accordance with the DISCOVER Cookbook license. Your name and language contribution will be listed in the final release.
 
 ---
 
-## 🔄 The Procedure – Roll-in Basis
+## The Procedure – Roll-in Basis
 
 We are onboarding translators on a rolling basis. Once accepted, you’ll be added to the platforms and can begin contributing right away.
 
 - **Acceptance Process:** TBA  
 - **Instructions for Contributors:** TBA  
-
----

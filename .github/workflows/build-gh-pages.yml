@@ -1,32 +1,139 @@
 name: deploy-book
 
-# Only run this when the main branch changes
+# Run when pushing to main or translation branches
 on:
   push:
     branches:
-    - main
+      - main
+      - '*-translations'
+      - '!1.0-translations'
 
-# This job installs dependencies, build the book, and pushes it to `gh-pages`
+concurrency:
+  group: "gh-pages"
+  cancel-in-progress: true
+
 jobs:
+  # Get language and version info
+  get-info:
+    runs-on: ubuntu-latest
+    outputs:
+      languages: ${{ steps.get-languages.outputs.languages }}
+      version: ${{ steps.version-info.outputs.version }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Read languages from JSON file
+      - name: Get languages directly with jq
+        id: get-languages
+        run: |
+          languages=$(jq -c '[.[] | .code]' DISCOVER/_static/languages.json)
+          echo "languages=${languages}" >> "$GITHUB_OUTPUT"
+      
+      # Determine version based on ref type and name
+      - name: Determine version from GitHub context
+        id: version-info
+        env:
+          REF_NAME: ${{ github.ref_name }}
+          REF_TYPE: ${{ github.ref_type }}
+        run: |
+          version="dev"
+          if [[ "$REF_TYPE" == "tag" ]]; then
+            version="${REF_NAME#v}"
+          elif [[ "$REF_NAME" == *-translations ]]; then
+            version="${REF_NAME%-translations}"
+          fi
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+  
+  # Build docs for each language
   deploy-book:
+    needs: get-info
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1 # Build one at a time
+      matrix:
+        language: ${{ fromJSON(needs.get-info.outputs.languages) }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      # Build the documentation
+      - name: Build documentation with script
+        env:
+          VERSION: ${{ needs.get-info.outputs.version }}
+          LANGUAGE: ${{ matrix.language }}
+        run: |
+          bash ci/build_website.sh
+
+      # Deploy the built documentation
+      - name: Deploy language to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./DISCOVER/_build/html
+          destination_dir: ${{ needs.get-info.outputs.version }}/${{ matrix.language }}
+          keep_files: true
+
+  # Create redirect for version
+  create-redirect:
+    needs: [get-info, deploy-book] 
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+      - name: Create version redirect
+        run: |
+          mkdir -p temp_redirect
+          cat > temp_redirect/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>DISCOVER Cookbook - Redirecting...</title>
+              <link rel="canonical" href="./en/">
+              <meta http-equiv="refresh" content="0; url=./en/">
+          </head>
+          <body>
+              <a href="./en/">Redirecting to English...</a>
+          </body>
+          </html>
+          EOF
 
-    - name: Set up Python 3.13
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.13
+      - name: Deploy version redirect
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./temp_redirect
+          destination_dir: ${{ needs.get-info.outputs.version }}
+          keep_files: true
 
-    - name: Build the book
-      run: |
-        bash ci/build_website.sh
+  # Deploy files to root (main branch only)
+  deploy-root-files:
+    needs: [create-redirect]
+    runs-on: ubuntu-latest
+    if: github.ref_name == 'main'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      # Copy important files to root
+      - name: Create root files directory
+        run: |
+          mkdir -p root_files
+          cp DISCOVER/404.html root_files/  # Error page
+          cp index.html root_files/         # Landing page
+          cp DISCOVER/_static/versions.json root_files/  # Versions list
 
-    - name: Push book HTML to gh-pages
-      uses: peaceiris/actions-gh-pages@v3.9.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./DISCOVER/_build/html
-        keep_files: true
-        
+      - name: Deploy root files to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./root_files
+          destination_dir: .
+          keep_files: true
