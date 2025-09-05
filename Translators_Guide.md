@@ -28,8 +28,8 @@ Familiarize yourself with the content → [DISCOVER Cookbook](https://discover-c
 ### 3. **Apply:** 
 
 Fill out the translator application form linked in the blog post  
-   - **Deadline:** Sunday, September 14th, 2025 (AoE)  
-   - **Notification:** Wednesday, September 24th, 2025 (AoE)  
+   - **Deadline:** Wednesday, September 24th, 2025 (AoE)  
+   - **Notification:** Saturday, October 04th, 2025 (AoE)  
 
 
 ### 4. **Start Translating:** 
