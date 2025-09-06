@@ -18,7 +18,7 @@ We’re inviting volunteer translators to help make the DISCOVER Cookbook access
 
 The blog post is your gateway to the project. It outlines our mission to make inclusive event planning resources accessible across languages and cultures. You’ll learn about the Cookbook’s goals, the impact of translation, contributor benefits, and how to apply.
 
-🔗 [Become a Volunteer Translator](link-to-be-added-soon)
+🔗 [Become a Volunteer Translator](https://numfocus.medium.com/help-us-bring-the-discover-cookbook-to-the-world-become-a-volunteer-translator-efe13ee3bc0d)
 
 ---
 
