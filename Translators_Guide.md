@@ -85,24 +85,17 @@ If you're confident in your translation skills and detail-oriented, this role is
 
 ### 4. Apply
 
-Fill out the role application form linked in the blog post.
-
-<<<<<<< HEAD
 Fill out the translator application form linked in the blog post  
    - **Deadline:** Wednesday, September 24th, 2025 (AoE)  
-   - **Notification:** Saturday, October 04th, 2025 (AoE)  
-=======
-- **Deadline:** Sunday, September 14th, 2025 (AoE)  
-- **Notification:** Wednesday, September 24th, 2025 (AoE)
->>>>>>> 2e4d261084dcd5affd54f8be2ef36244003f1af8
+   - **Notification:** Wednesday, October 1st, 2025 (AoE)  
 
----
+----
 
 ### 5. Start Your Role
 
-The translation period runs from late September to the end of October.
+The translation period runs from early October to the end of October.
 
-- **Translation Period:** TBD  
+- **Translation Period:** Monday, October 6th, 2025  
 - **When the Contribution is Done:** TBA  
 
 ---
