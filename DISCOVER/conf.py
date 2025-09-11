@@ -36,6 +36,12 @@ author = 'Community'
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2023'
 exclude_patterns = ['**.ipynb_checkpoints', '.DS_Store', 'Thumbs.db', '_build']
+# configure translations
+locale_dirs = ["../locales"]
+# recommendations from https://docs.readthedocs.com/platform/stable/guides/manage-translations-sphinx.html#create-translatable-files
+gettext_uuid = True
+gettext_compact = False
+
 extensions = [
     'sphinx_togglebutton',
     'sphinx_copybutton',
