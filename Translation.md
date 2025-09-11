@@ -11,6 +11,10 @@ sphinx-build -b gettext DISCOVER/ DISCOVER/_build/gettext
 ```
 This will store extracted strings in .pot files inside DISCOVER/_build/gettext.
 
+> [!NOTE]
+> We have set [`gettext_uuid`](https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-gettext_uuid) to `True` which can be slow.
+> The cookbook isn't very large so it will generally not be relevant, but the linked sphinx docs have tips on accelerating that if relevant.
+
 ## Updating .po Files
 To update existing translations, use the following command:
 
