@@ -15,4 +15,4 @@ rm -rf DISCOVER/_tags/*
 
 # Build the documentation
 echo "Building $LANGUAGE version..."
-WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html
+WEBSITE_VERSION="$VERSION" WEBSITE_LANGUAGE="$LANGUAGE" sphinx-build -b html DISCOVER/ DISCOVER/_build/html -v
