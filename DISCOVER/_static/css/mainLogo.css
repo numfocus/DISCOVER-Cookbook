@@ -8,6 +8,125 @@ html .bd-content img:not(.only-dark,.dark-light) {
     padding: 1rem 0;
 }
 
+/* ===============================
+   CUSTOM SCROLLBAR STYLING
+   =============================== */
+
+/* Modern scrollbar for Webkit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f3f4;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #48566b, #5a6b7f);
+    border-radius: 10px;
+    border: 2px solid #f1f3f4;
+    transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #3a4554, #4a5b6f);
+    box-shadow: 0 2px 8px rgba(72, 86, 107, 0.3);
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: linear-gradient(45deg, #2c3641, #3c4d61);
+}
+
+::-webkit-scrollbar-corner {
+    background: #f1f3f4;
+}
+
+/* Dark theme scrollbar */
+html[data-theme=dark] ::-webkit-scrollbar-track {
+    background: #1a1a1a;
+    border: 1px solid #333;
+}
+
+html[data-theme=dark] ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #4a5568, #718096);
+    border: 2px solid #1a1a1a;
+}
+
+html[data-theme=dark] ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #5a6578, #8a97a8);
+    box-shadow: 0 2px 8px rgba(138, 151, 168, 0.3);
+}
+
+html[data-theme=dark] ::-webkit-scrollbar-thumb:active {
+    background: linear-gradient(45deg, #6a7588, #9aabbf);
+}
+
+html[data-theme=dark] ::-webkit-scrollbar-corner {
+    background: #1a1a1a;
+}
+
+/* Firefox scrollbar styling */
+html {
+    scrollbar-width: thin;
+    scrollbar-color: #48566b #f1f3f4;
+}
+
+html[data-theme=dark] {
+    scrollbar-color: #718096 #1a1a1a;
+}
+
+/* Special styling for sidebar scrollbar */
+.bd-sidebar ::-webkit-scrollbar {
+    width: 8px;
+}
+
+.bd-sidebar ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #48566b, #5a6b7f);
+    border-radius: 6px;
+    border: 1px solid transparent;
+}
+
+.bd-sidebar ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #3a4554, #4a5b6f);
+}
+
+/* Content area scrollbar - slightly thicker */
+.bd-main ::-webkit-scrollbar {
+    width: 6px;
+}
+
+.bd-main ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #48566b, #5a6b7f);
+    border-radius: 6px;
+    border: 1px solid #f1f3f4;
+}
+
+html[data-theme=dark] .bd-main ::-webkit-scrollbar-thumb {
+    border: 1px solid #1a1a1a;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom focus styles for scrollable elements */
+.bd-content:focus {
+    outline: 2px solid #48566b;
+    outline-offset: 2px;
+}
+
+html[data-theme=dark] .bd-content:focus {
+    outline-color: #718096;
+}
+
+/* ===============================
+   END SCROLLBAR STYLING
+   =============================== */
+
 /* Custom footer styles */
 
 .bd-footer-content_inner {
