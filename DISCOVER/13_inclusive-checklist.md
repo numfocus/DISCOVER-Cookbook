@@ -69,7 +69,7 @@
 ### Check-in
 #### 🍎 Low effort, high impact 
 - <input type="checkbox"> System for photography opt-outs in place (e.g. by adding sticker or lanyard to conference badge) 
-- <input type="checkbox"> Pronoun pins (he/him, she/her, they/them), buttons or ribbons in place (optimally colour-coded)
+- <input type="checkbox"> Pronoun pins (he/him, she/her, they/them, ask/other), buttons or ribbons in place with neutral color-coding and accessibility features (shapes, patterns, high contrast) for colorblind attendees
 
 ### Grants/Scholarships
 #### ✅ High effort, high impact 
