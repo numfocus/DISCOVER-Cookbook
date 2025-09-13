@@ -13,7 +13,7 @@
 
 ## Grants 
 
-   - Grants to cover childcare costs are highly popular with attendees. (On-site childcare services can be costly for attendees because of additional travel costs for bringing children along.) 
+   - Based on community reports by organizations such as the [American Physical Society (APS)](https://engage.aps.org/dfd/honors/education-outreach) and the [American Society for Cell Biology (ASCB)](https://www.ascb.org/newsletter-article/empowering-caregivers-ascb-funding-help-you-attend-annual-meeting/) grants to cover childcare costs seem to be popular with attendees. [On-site childcare services can be costly for attendees because of additional travel costs for bringing children along](https://www.science.org/content/article/new-initiatives-offer-child-care-solutions-traveling-scientists)
       - You might survey your participants to determine their preference for grants vs. on-site childcare services.
       - Be sure to consider issues like whether grant recipients will need to submit an invoice or receipt from someone (the childcare provider) with a Tax ID.
   - For those who do bring kids to the event/conference:
