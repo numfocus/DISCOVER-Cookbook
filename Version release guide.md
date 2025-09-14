@@ -62,13 +62,15 @@ Edit `DISCOVER/_static/languages.json` to manage available languages.
     {
         "code": "es",
         "name_local": "Español",
-        "direction": "ltr"
+        "direction": "ltr",
+        "hidden": true // Removed this to make Spanish visible
     },
     {
         "code": "hi",
         "name_local": "हिन्दी",
         "direction": "ltr"
     }
+    // Add New language
 ]
 ```
 
@@ -92,13 +94,11 @@ For example, to unhide Spanish and add Hindi:
         "code": "es",
         "name_local": "Español",
         "direction": "ltr"
-        // "hidden": true was removed to make Spanish visible
     },
     {
         "code": "hi",
         "name_local": "हिन्दी",
         "direction": "ltr"
-        // New language added
     }
 ]
 ```
@@ -204,14 +204,18 @@ Check the **GitHub Actions** tab to monitor progress.
 After the release is deployed and verified:
 
 ```bash
-# Switch back to main
-git checkout main
+#After the release is deployed and verified, create a pull request to merge changes back to main
+git checkout X.Y-translations
 
-# Merge the changes
-git merge X.Y-translations
+# Create a pull request 
+gh pr create --title "Release X.Y: Merge version updates to main" --body "This PR merges the version X.Y updates back to the main branch after successful deployment."
 
-# Push the updated main branch
-git push origin main
+# Or manually create a PR through GitHub web interface:
+# 1. Go to https://github.com/numfocus/DISCOVER-Cookbook
+# 2. Click "New Pull Request"
+# 3. Set base: main, compare: X.Y-translations
+# 4. Add a descriptive title and description
+# 5. Create a Pull Request 
 ```
 
 ## Step 8: Verify the Release
