@@ -100,5 +100,15 @@
 - [Effectiveness of Anonymization in Double-Blind Review] (https://arxiv.org/abs/1709.01609)
 - [A multi-disciplinary perspective on emergent and future innovations in peer review](https://doi.org/10.12688/f1000research.12037.3)
 
+## Visa Application Support for Global South Participants
+
+To improve accessibility and inclusiveness in scientific events, organizers should:
+
+- **Simplify visa guidance:** Provide participants with clear instructions for visa application processes.  
+- **Timely invitations:** Send letters of invitation and support documents at least 8–12 weeks before the event.  
+- **List required documents:** Inform applicants about the typical documents needed (passport, letter of invitation, proof of funding, etc.).  
+- **Organizer support:** Offer templates, cover letters, and a dedicated contact person for visa-related queries.  
+- **Equity in support:** Provide additional assistance (such as covering visa fees or travel grants) for selected applicants from underrepresented regions.  
+
 
 
