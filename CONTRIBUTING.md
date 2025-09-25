@@ -64,9 +64,16 @@ When submitting pull requests:
 
 ## Commit Messages
 
-Write clear, concise, and descriptive commit messages following this format:
+Write clear, concise, and descriptive commit messages to ensure the project history is easy to understand. Follow these guidelines:
 
-**Format:**  
+### General Rules:
+- Use the present tense (e.g., "Fix bug" instead of "Fixed bug").
+- Keep the summary line (the first line) under 50 characters.
+- Separate the summary from the body with a blank line.
+- Provide additional context or reasoning in the body if necessary.
+- Reference related issues at the end of the message.
+
+### Format:
 ```
 <Brief summary of changes (Aim for 50 characters max)>
 
@@ -75,7 +82,7 @@ Write clear, concise, and descriptive commit messages following this format:
 [Reference relevant issues, e.g., Fixes #123] 
 ```
 
-**Examples:**
+### Examples:
 ```
 Fix typo in introduction section
 
@@ -84,7 +91,9 @@ of the documentation.
 
 Fixes #42
 ```
+
 **For more guidance, check out** [How to Write a Git Commit](https://cbea.ms/git-commit/).  
+
 ## Review Process
 
 - **Technical fixes** generally receive faster review.
