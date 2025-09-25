@@ -96,14 +96,20 @@ sphinx-build -b html DISCOVER/ DISCOVER/_build/html
 python -m venv .venv
 ```
 2. Activate the virtual Environment (optional)
-- on Windows:
-```sh
-.venv\Scripts\activate
-```
-- on macOS/Linux:
-```sh
-source .venv/bin/activate
-```
+-* on Windows (choose one):
+
+    # Command Prompt (cmd.exe)
+    .venv\Scripts\activate
+
+    # PowerShell
+    .\.venv\Scripts\Activate.ps1
+    # (If blocked, run in Admin PowerShell: 
+    #   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser)
+
+* on macOS/Linux:
+
+    source .venv/bin/activate
+
 3. Install the required dependencies
 ```sh
 pip install -r requirements.txt
