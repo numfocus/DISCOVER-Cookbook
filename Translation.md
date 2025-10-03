@@ -58,7 +58,8 @@ We use Transifex to manage translations for the DISCOVER Cookbook. This guide ou
 
 ### Step 1: Installing the Transifex CLI
 
-Transifex provides a Go-based CLI for syncing translation files. Follow the (official installation instructions)[https://developers.transifex.com/docs/cli] for your operating system.
+
+Transifex provides a Go-based CLI for syncing translation files. Follow the [official installation instructions](https://developers.transifex.com/docs/cli) for your operating system.
 
 
 Verify installation:
@@ -67,7 +68,7 @@ tx --version
 ```
 Expected output:
 ```
-TX CLient, version=1.6.x
+TX Client, version=1.6.x
 ```
 
 ### Step 2: Authenticate with Transifex
@@ -116,4 +117,4 @@ tx pull -a -m reviewed
 
 ### Optional: Add Multiple Resources
 
-To add multiplt resorces, use [CLI](https://developers.transifex.com/docs/cli) setup.
+To add multiple resources, use [CLI](https://developers.transifex.com/docs/cli) setup.
