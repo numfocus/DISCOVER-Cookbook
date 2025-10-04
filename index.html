@@ -4,7 +4,30 @@
     <!-- Meta tags and title -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DISCOVER Cookbook</title>
+    <meta name="description" content="The DISCOVER Cookbook - A comprehensive guide for organizing diverse, inclusive, and accessible conferences and events in the tech sector. Produced by NumFOCUS DISC Program.">
+    <meta name="keywords" content="diversity, inclusion, accessibility, conference, events, tech, NumFOCUS, DISC, organizing, guide">
+    <meta name="author" content="NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://discover-cookbook.numfocus.org/">
+    <meta property="og:title" content="DISCOVER Cookbook - Diverse & Inclusive Events Guide">
+    <meta property="og:description" content="Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector.">
+    <meta property="og:image" content="https://discover-cookbook.numfocus.org/_static/images/logo-dark.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://discover-cookbook.numfocus.org/">
+    <meta property="twitter:title" content="DISCOVER Cookbook - Diverse & Inclusive Events Guide">
+    <meta property="twitter:description" content="Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector.">
+    <meta property="twitter:image" content="https://discover-cookbook.numfocus.org/_static/images/logo-dark.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="_static/images/logo-dark.png">
+    <link rel="apple-touch-icon" href="_static/images/logo-dark.png">
+    
+    <title>DISCOVER Cookbook - Diverse & Inclusive Events Guide</title>
 
     <!-- External CSS libraries -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
@@ -111,16 +134,42 @@
             background-color: var(--bs-card-bg);
             margin-top: 3rem;
         }
+        
+        /* Skip link for accessibility */
+        .skip-link {
+            position: absolute;
+            top: -40px;
+            left: 6px;
+            background: var(--bs-success);
+            color: white;
+            padding: 8px;
+            text-decoration: none;
+            border-radius: 4px;
+            z-index: 1000;
+        }
+        .skip-link:focus {
+            top: 6px;
+        }
+        
+        /* Focus indicators */
+        .btn:focus-visible,
+        a:focus-visible {
+            outline: 2px solid var(--bs-success);
+            outline-offset: 2px;
+        }
     </style>
 </head>
 <body>
+    <!-- Skip link for accessibility -->
+    <a href="#main-heading" class="skip-link">Skip to main content</a>
+    
     <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg sticky-top border-bottom">
         <div class="container">
             <!-- Main Logo -->
-            <a class="navbar-brand fw-bold" href="#">
-                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
-                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
+            <a class="navbar-brand fw-bold" href="#" aria-label="DISCOVER Cookbook Home">
+                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook Logo" height="75" class="me-2 theme-logo dark-logo" loading="eager">
+                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook Logo" height="75" class="me-2 theme-logo light-logo d-none" loading="eager">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -129,10 +178,10 @@
                     <li class="nav-item"><a class="nav-link" href="#versions">Versions</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
                     <li class="nav-item d-flex gap-2 ms-lg-3">
-                        <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository"><i class="bi bi-github"></i></a>
-                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme">
-                            <i class="bi bi-sun-fill d-none" id="light-icon"></i>
-                            <i class="bi bi-moon-stars-fill" id="dark-icon"></i>
+                        <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository" aria-label="View source code on GitHub"><i class="bi bi-github" aria-hidden="true"></i></a>
+                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme" aria-label="Switch between light and dark theme">
+                            <i class="bi bi-sun-fill d-none" id="light-icon" aria-hidden="true"></i>
+                            <i class="bi bi-moon-stars-fill" id="dark-icon" aria-hidden="true"></i>
                         </button>
                     </li>
                 </ul>
@@ -141,15 +190,15 @@
     </nav>
 
     <!-- Main content -->
-    <div class="container py-5">
-        <div class="hero-section text-center py-5 mb-5">
-            <h1 class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
+    <main class="container py-5">
+        <section class="hero-section text-center py-5 mb-5" aria-labelledby="main-heading">
+            <h1 id="main-heading" class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
             <p class="lead text-muted mb-4 mx-auto" style="max-width: 600px;">Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector</p>
             <div class="d-flex flex-wrap justify-content-center gap-3">
-                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg"><i class="bi bi-book me-2"></i>Read the Cookbook</a>
-                <a href="#contribute" class="btn btn-outline-secondary btn-lg"><i class="bi bi-people me-2"></i>Contribute</a>
+                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg" aria-label="Read the DISCOVER Cookbook online"><i class="bi bi-book me-2" aria-hidden="true"></i>Read the Cookbook</a>
+                <a href="#contribute" class="btn btn-outline-secondary btn-lg" aria-label="Learn how to contribute to the project"><i class="bi bi-people me-2" aria-hidden="true"></i>Contribute</a>
             </div>
-        </div>
+        </section>
 
         <!-- About section -->
         <section id="about" class="mb-5">
@@ -253,7 +302,7 @@
                 </div>
             </div>
         </section>
-    </div>
+    </main>
 
     <!-- Footer -->
     <footer class="container py-4 border-top">
