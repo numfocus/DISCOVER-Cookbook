@@ -53,7 +53,6 @@ To contribute changes:
    ```sh
    sphinx-build -b html DISCOVER/ DISCOVER/_build/html
    python -m http.server 8000 --directory DISCOVER/_build/html/
-
    ```
    Visit [`http://localhost:8000`](http://localhost:8000) in your browser to verify changes.
 
