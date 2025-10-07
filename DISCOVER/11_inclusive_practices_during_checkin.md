@@ -33,6 +33,64 @@
 
 ## Social Events
 
+Social events are a valuable opportunity to foster connection and community. To ensure that these gatherings are inclusive and accessible to all participants, consider the following guidelines:
+
+#### Accessibility Considerations
+
+**Venue Accessibility**:
+
+  * Choose locations that are wheelchair accessible (including entrances, restrooms, and seating areas).
+  * Ensure there are clear signs and wide pathways for mobility aids.
+  * Avoid locations with long walks, stairs, or uneven terrain.
+
+**Sensory Considerations**:
+
+  * Offer quiet spaces or low-sensory zones for attendees who may feel overwhelmed by noise or crowds.
+  * Avoid strobe lighting or loud music unless clearly stated in advance.
+
+**Transportation & Parking**:
+
+  * Provide information on public transportation, accessible parking, and proximity to the main venue.
+
+
+#### Event Timing and Format
+
+**Diverse Timing Options**:
+
+  * Not everyone can attend evening events (due to disabilities, caregiving duties, or other reasons). Offer options like breakfast meetups, lunchtime gatherings, or afternoon breaks.
+
+**Shorter Durations**:
+
+  * Consider hosting shorter events or providing breaks to accommodate attendees who may fatigue easily.
+
+**Hybrid Options**:
+
+  * For virtual/hybrid events, include closed captions and consider providing a live transcript or sign language interpreter.
+
+#### Food & Beverage Inclusivity
+
+* Provide a variety of food and drink options that meet common dietary restrictions (e.g., vegetarian, vegan, gluten-free, halal, kosher).
+* Clearly label all food items and avoid cross-contamination for allergies.
+* Ensure non-alcoholic drinks are always available and just as prominent as alcoholic ones.
+* Avoid centering events entirely around alcohol (e.g., host game nights, arts & crafts, walks, or coffee chats).
+
+#### Code of Conduct Awareness
+
+* Display the Code of Conduct prominently at social events (via signage or handouts).
+* Make it clear who to contact if someone experiences or witnesses inappropriate behavior.
+* Remind attendees that respectful behavior extends beyond official sessions.
+
+#### Welcoming & Inclusive Culture
+
+* Encourage first-timer friendly events (like buddy systems or “Ask Me Anything” tables with staff or volunteers).
+* Use pronoun pins or name tags with space for attendees to write preferred names and pronouns.
+* Avoid cliquish activities — create inclusive games or conversation starters to help everyone engage.
+
+#### Feedback & Continuous Improvement
+
+* Invite feedback after each event to understand what worked and what could be improved.
+* Ask attendees in advance if they have specific accessibility needs via an anonymous RSVP form.
+
 - &quot;First-Time Attendee&quot; lunch/dinner/coffee-break as a welcome and safe place for attendees to ask questions.
 - Consider diversifying the time of day that social events happen.
   - Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
