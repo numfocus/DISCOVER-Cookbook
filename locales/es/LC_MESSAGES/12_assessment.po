@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Project name not
+# set package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Project name not set \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 16:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../DISCOVER/12_assessment.md:2
+msgid "Assessment of the event"
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:4
+msgid ""
+"✅ Survey participants after the event to establish whether your diversity"
+" and inclusion measures had an effect."
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:6
+msgid ""
+"See whether there is any correlation between being part of a minority "
+"group and how welcoming the conference felt to the individual "
+"participants. You can consider specifically asking about diversity and "
+"inclusion on the survey."
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:8
+msgid "Practical considerations"
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:9
+msgid ""
+"Have a plan in place to analyze the data shortly after the event -- this "
+"can be time-consuming and you will need lots of helping hands to clean "
+"data"
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:10
+msgid ""
+"Make sure you review the survey outcomes after the meeting with your "
+"organizing committee"
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:11
+msgid ""
+"Communicate any findings to the next organizing committee if the "
+"conference/event is part of a series"
+msgstr ""
+
+#: ../DISCOVER/12_assessment.md:13
+msgid ""
+"**Further Reading** Be sure to check out the [Event "
+"Registration](./10_event_registration.md) section on \"Demographic Info\""
+" before undertaking any survey that asks participants for information on "
+"their identity."
+msgstr ""
+
