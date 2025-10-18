@@ -95,8 +95,7 @@ Fill out the translator application form linked in the blog post
 
 The translation period runs from early October to the end of October.
 
-- **Translation Period:** Monday, October 6th, 2025  
-- **When the Contribution is Done:** TBA  
+- **Translation Period:** Monday, October 6th, 2025    
 
 ---
 
@@ -110,6 +109,8 @@ Once selected, you’ll receive access to the following platforms:
 - **Email:** Important updates and reminders will be sent via email.  
 - **Meetings:** Optional onboarding calls or check-ins may be scheduled to support contributors.
 
+> Please note, no git or GitHub knowledge is required to become a translator to DISCOVER-Cookbook
+
 ---
 
 ## 🛠Instructions for Translators
@@ -117,16 +118,13 @@ Once selected, you’ll receive access to the following platforms:
 ### How to Use Transifex
 
 Follow the official instructions here:  
-🔗 [GitHub Pull Request #371](https://github.com/numfocus/DISCOVER-Cookbook/pull/371)
+🔗 [Guide for Translators](https://help.transifex.com/en/articles/6248698-getting-started-as-a-translator)
 
 ### GitHub Repository
 
 The source files and documentation are hosted on GitHub.  
 🔗 [DISCOVER Cookbook GitHub Repo](https://github.com/numfocus/DISCOVER-Cookbook)
 
-### Acknowledgment
-
-All contributors will be credited in accordance with the DISCOVER Cookbook license. Your name and language contribution will be listed in the final release.
 
 ---
 
@@ -134,5 +132,4 @@ All contributors will be credited in accordance with the DISCOVER Cookbook licen
 
 We are onboarding translators on a rolling basis. Once accepted, you’ll be added to the platforms and can begin contributing right away.
 
-- **Acceptance Process:** TBA  
-- **Instructions for Contributors:** TBA  
+
