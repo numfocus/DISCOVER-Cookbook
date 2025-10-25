@@ -24,6 +24,12 @@ While content is the heart of the project, the quality of the content needs to r
 
 ### Bug fixes
 
+### Participant and speaker selection
+Selection of participants and speakers should be *transparent, inclusive, and merit-based*.  
+Organizers are encouraged to prioritize *diversity, equity, and fair representation* when selecting speakers and attendees.  
+All contributors should be evaluated based on *expertise and interest*, rather than affiliation, background, or geographic location.
+
+
 ### Improving Accessibility for Global South Participants
 
 To make participation in international scientific events more inclusive, 
