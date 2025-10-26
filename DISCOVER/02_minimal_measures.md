@@ -9,6 +9,19 @@ Making your conference inclusive and encouraging diversity is more and more achi
 
  Just follow the measures below. They are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
 
+ # Contents
+
+ -[Organizing Committee](#organizing-committe)
+ -[Venue Selection & On-site Services](#venue-selection--on-site-services)
+ -[Catering](#catering)
+ -[Code of Conduct](#code-of-conduct)
+ -[Participant and Speaker Selection](#participant-and-speaker-selection)
+ -[Event Registration](#event-registration)
+ -[Childcare](#childcare)
+ -[Inclusive Partices During Check-In](#inclusive-practices-during-check-in)
+ -[Grants/Scholarships](#grantsscholarships)
+ -[Assessment of the Event](#assessment-of-the-event)
+
 
 ## [Organizing Committee](03_organizing_committee.md)
 ✅ The organizing committee itself should reflect the diversity you want to create in your conference!
@@ -22,6 +35,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 -   Consider attendees who may need accommodations for a disability
 
+-	✅ provide a hybrid participation option or live stream access for attendees who cannot travel due to cost, visa,disability, or caregiving responsibilities
 
 ####  Mobility
 
@@ -95,6 +109,7 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 
 -   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
 -   ✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, and nut-free. Shellfish and peanut  especially are usually a serious allergy so take extra care.
+-	🍎 Clearly label allergens and use inclusive language(e.g., "contains meat" instead of "non-vegetarian").
 
 ## [Code of Conduct (CoC)](07_code_of_conduct.md)
 
@@ -209,6 +224,10 @@ What to ask on your registration form (and what not to ask)
 
 	-   Color-coordinate the labels by pronoun for quicker recognition and processing by those who see them. This lowers the barrier to checking (look at the color).
 
+### ✅ Offering badges
+-	Offering useful labelled badges:
+
+	-	Offer badges with optional fields for accessibility needs or communication preferences(e.g., "Happy to chat" vs "Prefer quite conversations").
 
 ## [Grants/Scholarships](08_grants_scholarships.md)
 
@@ -234,8 +253,10 @@ What to ask on your registration form (and what not to ask)
 
  ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
 
-See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
+ 🍎 Share anonymized survey results publicly to demonstrate transparency and commitment to improvement.
+
+ ✅ Include open-ended questions for attendees to suggest new inclusion measures.
 
 [^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference).
 
-*Note:Always ensure accessibility guidelines are followed when planning mimnimal measures.*
+**Note**:Always ensure accessibility guidelines are followed when planning mimnimal measures.
