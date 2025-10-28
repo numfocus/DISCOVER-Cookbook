@@ -4,7 +4,30 @@
     <!-- Meta tags and title -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DISCOVER Cookbook</title>
+    <meta name="description" content="The DISCOVER Cookbook - A comprehensive guide for organizing diverse, inclusive, and accessible conferences and events in the tech sector. Produced by NumFOCUS DISC Program.">
+    <meta name="keywords" content="diversity, inclusion, accessibility, conference, events, tech, NumFOCUS, DISC, organizing, guide">
+    <meta name="author" content="NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://discover-cookbook.numfocus.org/">
+    <meta property="og:title" content="DISCOVER Cookbook - Diverse & Inclusive Events Guide">
+    <meta property="og:description" content="Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector.">
+    <meta property="og:image" content="https://discover-cookbook.numfocus.org/_static/images/logo-dark.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://discover-cookbook.numfocus.org/">
+    <meta property="twitter:title" content="DISCOVER Cookbook - Diverse & Inclusive Events Guide">
+    <meta property="twitter:description" content="Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector.">
+    <meta property="twitter:image" content="https://discover-cookbook.numfocus.org/_static/images/logo-dark.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="_static/images/logo-dark.png">
+    <link rel="apple-touch-icon" href="_static/images/logo-dark.png">
+    
+    <title>DISCOVER Cookbook - Diverse & Inclusive Events Guide</title>
 
     <!-- External CSS libraries -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
@@ -13,25 +36,140 @@
 
     <!-- Custom styles -->
     <style>
-        body { font-family: 'Inter', sans-serif; }
+        body { 
+            font-family: 'Inter', sans-serif;
+            transition: all 0.3s ease;
+        }
+        
+        /* Dark theme variables */
         [data-bs-theme="dark"] {
             --bs-body-bg: #0d1117;
             --bs-body-color: #e6edf3;
             --bs-border-color: #30363d;
             --bs-success-rgb: 35, 134, 54;
+            --bs-card-bg: #161b22;
         }
-        .navbar { background-color: rgba(13, 17, 23, 0.85); }
-        [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
+        
+        /* Light theme variables */
+        [data-bs-theme="light"] {
+            --bs-body-bg: #ffffff;
+            --bs-body-color: #24292f;
+            --bs-border-color: #d1d9e0;
+            --bs-success-rgb: 40, 167, 69;
+            --bs-card-bg: #ffffff;
+        }
+        
+        /* Navbar styling */
+        .navbar { 
+            background-color: rgba(13, 17, 23, 0.95);
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+        [data-bs-theme="light"] .navbar { 
+            background-color: rgba(255, 255, 255, 0.95);
+        }
+        
+        /* Card enhancements */
+        .card {
+            background-color: var(--bs-card-bg);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border-radius: 12px;
+        }
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+        [data-bs-theme="dark"] .card:hover {
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        
+        /* Button enhancements */
+        .btn {
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+        .btn:hover {
+            transform: translateY(-1px);
+        }
+        
+        /* Theme switcher animation */
+        #theme-switcher {
+            position: relative;
+            overflow: hidden;
+        }
+        #theme-switcher i {
+            transition: all 0.3s ease;
+        }
+        
+        /* Logo transition */
+        .theme-logo {
+            transition: opacity 0.3s ease;
+        }
+        
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        /* Hero section gradient */
+        .hero-section {
+            background: linear-gradient(135deg, rgba(40, 167, 69, 0.1) 0%, rgba(40, 167, 69, 0.05) 100%);
+            border-radius: 16px;
+        }
+        [data-bs-theme="dark"] .hero-section {
+            background: linear-gradient(135deg, rgba(35, 134, 54, 0.1) 0%, rgba(35, 134, 54, 0.05) 100%);
+        }
+        
+        /* Version cards special styling */
+        .version-card {
+            transition: all 0.3s ease;
+        }
+        .version-card:hover {
+            transform: scale(1.02);
+        }
+        
+        /* Footer styling */
+        footer {
+            background-color: var(--bs-card-bg);
+            margin-top: 3rem;
+        }
+        
+        /* Skip link for accessibility */
+        .skip-link {
+            position: absolute;
+            top: -40px;
+            left: 6px;
+            background: var(--bs-success);
+            color: white;
+            padding: 8px;
+            text-decoration: none;
+            border-radius: 4px;
+            z-index: 1000;
+        }
+        .skip-link:focus {
+            top: 6px;
+        }
+        
+        /* Focus indicators */
+        .btn:focus-visible,
+        a:focus-visible {
+            outline: 2px solid var(--bs-success);
+            outline-offset: 2px;
+        }
     </style>
 </head>
 <body>
+    <!-- Skip link for accessibility -->
+    <a href="#main-heading" class="skip-link">Skip to main content</a>
+    
     <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg sticky-top border-bottom">
         <div class="container">
             <!-- Main Logo -->
-            <a class="navbar-brand fw-bold" href="#">
-                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
-                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
+            <a class="navbar-brand fw-bold" href="#" aria-label="DISCOVER Cookbook Home">
+                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook Logo" height="75" class="me-2 theme-logo dark-logo" loading="eager">
+                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook Logo" height="75" class="me-2 theme-logo light-logo d-none" loading="eager">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -40,10 +178,10 @@
                     <li class="nav-item"><a class="nav-link" href="#versions">Versions</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
                     <li class="nav-item d-flex gap-2 ms-lg-3">
-                        <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository"><i class="bi bi-github"></i></a>
-                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme">
-                            <i class="bi bi-sun-fill d-none" id="light-icon"></i>
-                            <i class="bi bi-moon-stars-fill" id="dark-icon"></i>
+                        <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository" aria-label="View source code on GitHub"><i class="bi bi-github" aria-hidden="true"></i></a>
+                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme" aria-label="Switch between light and dark theme">
+                            <i class="bi bi-sun-fill d-none" id="light-icon" aria-hidden="true"></i>
+                            <i class="bi bi-moon-stars-fill" id="dark-icon" aria-hidden="true"></i>
                         </button>
                     </li>
                 </ul>
@@ -52,15 +190,15 @@
     </nav>
 
     <!-- Main content -->
-    <div class="container py-5">
-        <div class="text-center py-5 mb-5">
-            <h1 class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
+    <main class="container py-5">
+        <section class="hero-section text-center py-5 mb-5" aria-labelledby="main-heading">
+            <h1 id="main-heading" class="display-4 fw-bold mb-3">Welcome to <span class="text-success">DISCOVER</span> Cookbook</h1>
             <p class="lead text-muted mb-4 mx-auto" style="max-width: 600px;">Your comprehensive guide to creating diverse, inclusive, and accessible conferences and events in the tech sector</p>
             <div class="d-flex flex-wrap justify-content-center gap-3">
-                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg"><i class="bi bi-book"></i> Read the Cookbook</a>
-                <a href="#contribute" class="btn btn-outline-secondary btn-lg"><i class="bi bi-people"></i> Contribute</a>
+                <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-lg" aria-label="Read the DISCOVER Cookbook online"><i class="bi bi-book me-2" aria-hidden="true"></i>Read the Cookbook</a>
+                <a href="#contribute" class="btn btn-outline-secondary btn-lg" aria-label="Learn how to contribute to the project"><i class="bi bi-people me-2" aria-hidden="true"></i>Contribute</a>
             </div>
-        </div>
+        </section>
 
         <!-- About section -->
         <section id="about" class="mb-5">
@@ -92,27 +230,28 @@
                     <h2 class="h3 mb-4">Available Versions</h2>
                     <div class="row g-4">
                         <div class="col-lg-6">
-                            <div class="bg-success bg-opacity-10 p-4 rounded border border-success border-opacity-25 h-100">
+                            <div class="version-card bg-success bg-opacity-10 p-4 rounded border border-success border-opacity-25 h-100">
                                 <div class="d-flex align-items-center mb-3">
-                                    <i class="bi bi-star-fill text-warning me-2"></i>
+                                    <i class="bi bi-star-fill text-warning me-2 fs-5"></i>
                                     <h4 class="mb-0">Version 2.0</h4>
                                     <span class="badge bg-success ms-2">Latest</span>
                                 </div>
                                 <p class="text-muted mb-3">The current stable release, recommended for all users. Includes the latest best practices and comprehensive updates.</p>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-sm">English</a>
-                                    <a href="https://discover-cookbook.numfocus.org/2.0/es/" class="btn btn-outline-secondary btn-sm">Español</a>
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/en/" class="btn btn-success btn-sm"><i class="bi bi-globe me-1"></i>English</a>
+                                    <a href="https://discover-cookbook.numfocus.org/2.0/es/" class="btn btn-outline-secondary btn-sm"><i class="bi bi-globe me-1"></i>Español</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="p-4 rounded h-100 border">
+                            <div class="version-card p-4 rounded h-100 border">
                                 <div class="d-flex align-items-center mb-3">
-                                    <i class="bi bi-archive text-muted me-2"></i>
+                                    <i class="bi bi-archive text-muted me-2 fs-5"></i>
                                     <h4 class="mb-0">Version 1.0</h4>
+                                    <span class="badge bg-secondary ms-2">Archived</span>
                                 </div>
                                 <p class="text-muted mb-3">Archived for historical context and for users referencing earlier guidelines.</p>
-                                <a href="https://discover-cookbook.numfocus.org/1.0/en/" class="btn btn-outline-secondary btn-sm">English</a>
+                                <a href="https://discover-cookbook.numfocus.org/1.0/en/" class="btn btn-outline-secondary btn-sm"><i class="bi bi-globe me-1"></i>English</a>
                             </div>
                         </div>
                     </div>
@@ -163,7 +302,7 @@
                 </div>
             </div>
         </section>
-    </div>
+    </main>
 
     <!-- Footer -->
     <footer class="container py-4 border-top">
@@ -186,8 +325,9 @@
     <!-- External JS libraries -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
     
-     <!-- Theme switcher script -->
+     <!-- Enhanced theme switcher script -->
     <script>
+        // Theme switcher functionality
         const html = document.documentElement;
         const themeSwitcher = document.getElementById('theme-switcher');
         const lightIcon = document.getElementById('light-icon');
@@ -195,21 +335,86 @@
         const darkLogo = document.querySelector('.dark-logo');
         const lightLogo = document.querySelector('.light-logo');
         
+        // Enhanced theme setting function with better error handling
         function setTheme(theme) {
-            html.dataset.bsTheme = theme;
-            localStorage.setItem('theme', theme);
-            const isLight = theme === 'light';
-            lightIcon.classList.toggle('d-none', !isLight);
-            darkIcon.classList.toggle('d-none', isLight);
-            lightLogo.classList.toggle('d-none', !isLight);
-            darkLogo.classList.toggle('d-none', isLight);
+            try {
+                // Validate theme parameter
+                if (!theme || (theme !== 'light' && theme !== 'dark')) {
+                    theme = 'dark'; // Default fallback
+                }
+                
+                html.dataset.bsTheme = theme;
+                localStorage.setItem('theme', theme);
+                
+                const isLight = theme === 'light';
+                
+                // Update icons with null checks
+                if (lightIcon && darkIcon) {
+                    lightIcon.classList.toggle('d-none', !isLight);
+                    darkIcon.classList.toggle('d-none', isLight);
+                }
+                
+                // Update logos with null checks
+                if (lightLogo && darkLogo) {
+                    lightLogo.classList.toggle('d-none', !isLight);
+                    darkLogo.classList.toggle('d-none', isLight);
+                }
+                
+                // Add visual feedback
+                themeSwitcher.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    themeSwitcher.style.transform = 'scale(1)';
+                }, 150);
+                
+            } catch (error) {
+                console.error('Error setting theme:', error);
+            }
         }
-        themeSwitcher.addEventListener('click', () => {
-            const newTheme = html.dataset.bsTheme === 'dark' ? 'light' : 'dark';
-            setTheme(newTheme);
+        
+        // Enhanced theme switcher event listener
+        if (themeSwitcher) {
+            themeSwitcher.addEventListener('click', (e) => {
+                e.preventDefault();
+                const currentTheme = html.dataset.bsTheme || 'dark';
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                setTheme(newTheme);
+            });
+        }
+        
+        // Initialize theme on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            const savedTheme = localStorage.getItem('theme');
+            const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const initialTheme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+            setTheme(initialTheme);
         });
-        setTheme(localStorage.getItem('theme') || 'dark');
-        document.getElementById('copyright-year').textContent = new Date().getFullYear()
+        
+        // Listen for system theme changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+            if (!localStorage.getItem('theme')) {
+                setTheme(e.matches ? 'dark' : 'light');
+            }
+        });
+        
+        // Set copyright year
+        const copyrightYear = document.getElementById('copyright-year');
+        if (copyrightYear) {
+            copyrightYear.textContent = new Date().getFullYear();
+        }
+        
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
     </script>
 </body>
 </html>
