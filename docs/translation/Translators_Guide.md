@@ -14,7 +14,7 @@ This guide is your companion throughout the DISCOVER Cookbook translation journe
 
 We’re inviting volunteer translators to help make the DISCOVER Cookbook accessible to communities around the world. Here's how to join:
 
-### 1. Read the Blog Post
+### Read the Blog Post
 
 The blog post is your gateway to the project. It outlines our mission to make inclusive event planning resources accessible across languages and cultures. You’ll learn about the Cookbook’s goals, the impact of translation, contributor benefits, and how to apply.
 
@@ -22,7 +22,7 @@ The blog post is your gateway to the project. It outlines our mission to make in
 
 ---
 
-### 2. Explore the Cookbook
+### Explore the Cookbook
 
 Get familiar with the content and tone of the DISCOVER Cookbook before you begin translating.
 
@@ -30,7 +30,7 @@ Get familiar with the content and tone of the DISCOVER Cookbook before you begin
 
 ---
 
-### 3. Roles to Join
+### Translation related roles within the team
 
 To ensure smooth collaboration and high-quality translations, our Transifex team is organized into three key roles. Each plays a vital part in the localization workflow:
 
@@ -44,6 +44,20 @@ Translators adapt content from the source language into their target language, h
 - Join team discussions to ask questions or share insights  
 
 Whether you're new to localization or a seasoned polyglot, this role is a great starting point for contributing meaningfully.
+
+---
+
+#### Reviewer
+
+Reviewers are the quality gatekeepers. They ensure translations are accurate, culturally appropriate, and aligned with our standards.
+
+**Responsibilities:**
+
+- Review and proofread translations  
+- Submit approved translations  
+- Participate in team discussions  
+
+If you're confident in your translation skills and detail-oriented, this role is a great way to elevate the project’s quality.
 
 ---
 
@@ -64,40 +78,20 @@ If you're a seasoned contributor and passionate about your language, this role l
 
 ---
 
-#### Reviewer
-
-Reviewers are the quality gatekeepers. They ensure translations are accurate, culturally appropriate, and aligned with our standards.
-
-**Responsibilities:**
-
-- Review and proofread translations  
-- Submit approved translations  
-- Participate in team discussions  
-
-If you're confident in your translation skills and detail-oriented, this role is a great way to elevate the project’s quality.
-
----
-
-
 > Please note, most contributors begin as Translators. As you gain experience and contribute consistently, you may be invited to take on Reviewer or Language Coordinator responsibilities. This gradual progression ensures everyone feels confident and supported in their role.
 
 ---
 
-### 4. Apply
+### Apply - Roll-in Basis
 
-Fill out the translator application form linked in the blog post  
-   - **Deadline:** Wednesday, September 24th, 2025 (AoE)  
-   - **Notification:** Wednesday, October 1st, 2025 (AoE)  
+We are onboarding translators on a rolling basis. Once accepted, you’ll be added to the platforms and can begin contributing right away.
+
+Fill out the translator application form linked in the blog post.
 
 ----
 
-### 5. Start Your Role
+### Start Your Role
 
-The translation period runs from early October to the end of October.
-
-- **Translation Period:** Monday, October 6th, 2025    
-
----
 
 ## Onboarding & Access
 
@@ -117,19 +111,13 @@ Once selected, you’ll receive access to the following platforms:
 
 ### How to Use Transifex
 
-Follow the official instructions here:  
+Follow the official instructions here:
 🔗 [Guide for Translators](https://help.transifex.com/en/articles/6248698-getting-started-as-a-translator)
 
-### GitHub Repository
+### Translation guides
 
-The source files and documentation are hosted on GitHub.  
-🔗 [DISCOVER Cookbook GitHub Repo](https://github.com/numfocus/DISCOVER-Cookbook)
+The translators of each language team work together to define a style guide
+for the translation content and a glossary. Here are the available resources:
 
-
----
-
-## The Procedure – Roll-in Basis
-
-We are onboarding translators on a rolling basis. Once accepted, you’ll be added to the platforms and can begin contributing right away.
-
-
+* [Spanish translation guide](./es.md) (only available in Spanish)
+* Guides for other languages are on standby waiting for translators.
