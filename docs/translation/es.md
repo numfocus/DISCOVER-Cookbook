@@ -32,8 +32,6 @@ Recomendamos revisar el documento entero antes de empezar a traducir.
 
 Se priorizará la segunda persona del singular no formal más extendida **TU** frente al formal _USTED_ o al menos extendido _VOS_. Para el plural, se usará **USTEDES** en lugar de _VOSOTROS/AS_ por las mismas razones.
 
-Sin embargo, allí donde sea posible, se usarán formas impersonales (con se), ya que son comunes a todas las variantes del español.
-
 Trabaja con un español neutro en la medida de lo posible. Evita palabras,  términos o jerga específica de una determinada región o país. 
 
 Se intentará mantener la neutralidad de genero en las expresiones cuando fuera posible. Para eso, se utilizaran pronombres como quienes, quien, alguien. Y para sustantivos colectivos, comunidad, personas o grupo.
@@ -77,17 +75,8 @@ A partir de la segunda aparición se menciona sola la sigla.
 En caso de duda sobre algun término que aparezca multiples veces, se recomienda
 crear un hilo en Discord para discutir las opciones de traducción con el resto del equipo.
 
-#### Attendee
-Asistente. Se recomienda mantener la distinción original entre participante (_participant_) y asistente (_attendee_)
-
-#### Cookbook
-Posibles alternativas: recetario, libro de recetas y manual
-
-#### Participant
-Participante. Se recomienda mantener la distinción original entre participante (_participant_) y asistente (_attendee_)
-
-#### Speaker
-Ponente
-
-#### Sponsor
-Posibles alternativas: _sponsor_ o patrocinador
+*  **Attendee -> Asistente** Se recomienda mantener la distinción original entre participante (_participant_) y asistente (_attendee_)
+* **Cookbook -> guía**
+* **Participant -> Participante** Se recomienda mantener la distinción original entre participante (_participant_) y asistente (_attendee_)
+* **Speaker -> Ponente**
+* **Sponsor -> _sponsor_**
