@@ -14,10 +14,23 @@
   - Indicating pronouns:
     - Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
     - Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color). 
-      - Be sure to choose colors that works for folks with color-blindness. With color-coded pins, needing to actually read them is a stress case rather than the norm. Because people are used to the ease of the normal case, they're more willing to take a little extra effort to read for the stress cases. (purple: he, yellow: she, green: they, blue: ask)
-      - To be aware of: Make pins large enough to be easily seen. Make the pronoun itself the largest text, rather than the word &quot;Pronouns&quot;.
-    - Another option for pronoun indication is ribbons.
-      - Have custom ones printed for Zi/Zir and a "Fill in your own" ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
+      - **Choose neutral colors** that avoid traditional gendered associations (e.g., avoid red/pink for women, blue for men). Consider using colors like: teal, orange, gray, and white for better inclusivity.
+      - **Example neutral color scheme**: teal (he/him), orange (she/her), gray (they/them), white (ask/other pronouns)
+      - **For colorblind accessibility**: Combine colors with additional visual elements such as:
+        - Different geometric shapes (circle, square, triangle, diamond)
+        - Patterns (stripes, dots, solid backgrounds)
+        - Different border styles (thick, thin, dashed)
+        - Text positioning (centered, left-aligned, right-aligned)
+      - **Design best practices**:
+        - Make pins large enough to be easily seen from a reasonable distance
+        - Make the pronoun text the largest element, not the word "Pronouns"
+        - Use high contrast between text and background colors
+        - Consider testing your color choices with colorblind simulation tools
+    - **The "Ask" option is crucial**: Include an "Ask" option for people who use pronouns not covered by the standard options (he/him, she/her, they/them) or who may change their pronouns on different occasions. This shows respect for the full spectrum of gender identity and pronoun usage.
+    - **Alternative ribbon options**:
+      - Have custom ribbons printed for less common pronouns like Zi/Zir, Xe/Xem, or other neo-pronouns
+      - Provide "Fill in your own" ribbons with fabric markers for maximum inclusivity
+      - Consider having blank ribbons available for people who prefer to write their pronouns themselves
 
 **Further reading:**
 - Thanks to [OpenNews](https://opennews.org/) and [SRCCON](https://srccon.org/) for the pronoun pins idea
