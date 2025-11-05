@@ -6,6 +6,12 @@ The NumFOCUS DISCOVER Cookbook (Diverse &amp; Inclusive Spaces and Conferences: 
 If you are looking to read the book please visit https://discover-cookbook.numfocus.org/ for a live version of the book. This is the code that powers that website and is intended for maintainers and contributors.
 
 
+### Public Health and Safety Pledge
+
+Event organizers should commit to prioritizing the health and well-being of all participants.  
+This includes ensuring hygiene, providing accessibility for vulnerable groups,  
+and following public health guidelines to create a safe and inclusive environment.
+
 ## Ways to contribute to this repository
 
 The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
