@@ -3,11 +3,24 @@
 
 ***As a general rule, we encourage conference organizers to implement all the 🍎 measures and at least one of the ✅ suggestions.***
 
-Making your conference inclusive and encouraging diversity is achievable. The measures below are explained in more depth in the other pages of this Cookbook.
+Making your conference inclusive and encouraging diversity is more and more achievable. The measures below are explained in more depth in the other pages of this Cookbook.
 
 ## What are the easiest and most impactful measures?
 
  Just follow the measures below. They are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
+
+ # Contents
+
+ -[Organizing Committee](#organizing-committe)
+ -[Venue Selection & On-site Services](#venue-selection--on-site-services)
+ -[Catering](#catering)
+ -[Code of Conduct](#code-of-conduct)
+ -[Participant and Speaker Selection](#participant-and-speaker-selection)
+ -[Event Registration](#event-registration)
+ -[Childcare](#childcare)
+ -[Inclusive Partices During Check-In](#inclusive-practices-during-check-in)
+ -[Grants/Scholarships](#grantsscholarships)
+ -[Assessment of the Event](#assessment-of-the-event)
 
 
 ## [Organizing Committee](03_organizing_committee.md)
@@ -22,6 +35,7 @@ Conference chairs and lead organizers should take special care to recruit an org
 
 -   Consider attendees who may need accommodations for a disability
 
+-	✅ provide a hybrid participation option or live stream access for attendees who cannot travel due to cost, visa,disability, or caregiving responsibilities
 
 ####  Mobility
 
@@ -91,10 +105,11 @@ Making sure that your attendees have something they can eat at mealtimes is an i
 
 -   It's best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
 
-	-   🍎 Ask your caterer to create and provide the labels.
+-   🍎 Ask your caterer to create and provide the labels.
 
 -   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
 -   ✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, and nut-free. Shellfish and peanut  especially are usually a serious allergy so take extra care.
+-	🍎 Clearly label allergens and use inclusive language(e.g., "contains meat" instead of "non-vegetarian").
 
 ## [Code of Conduct (CoC)](07_code_of_conduct.md)
 
@@ -153,7 +168,7 @@ What to ask on your registration form (and what not to ask)
 
 -   🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
 
-	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g., accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
+-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g., accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
 
 ### Demographic Info
 
@@ -161,7 +176,7 @@ What to ask on your registration form (and what not to ask)
 
 -   ✅ If you do collect demographic info, be thoughtful about the structure of the questions so that they are inclusive and don't contribute to alienating or "othering" marginalized people.
 
-	-   Not having an answer choice that matches your identity can be a very alienating experience.
+-   Not having an answer choice that matches your identity can be a very alienating experience.
 
 -   ✅ Take anonymity and data security seriously. Have a plan for limiting access to this information and keeping it secure.
 
@@ -185,9 +200,9 @@ What to ask on your registration form (and what not to ask)
 
 -   Build it into your budget.
 
-    -   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as a service.
-    -   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
-    -   Collect the data on the registration form. How many people would make use of childcare services or grants?
+-   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as a service.
+-   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
+-   Collect the data on the registration form. How many people would make use of childcare services or grants?
 
 -   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g., on their home babysitter) or 2) provide on-site services.
 
@@ -209,6 +224,10 @@ What to ask on your registration form (and what not to ask)
 
 	-   Color-coordinate the labels by pronoun for quicker recognition and processing by those who see them. This lowers the barrier to checking (look at the color).
 
+### ✅ Offering badges
+-	Offering useful labelled badges:
+
+	-	Offer badges with optional fields for accessibility needs or communication preferences(e.g., "Happy to chat" vs "Prefer quite conversations").
 
 ## [Grants/Scholarships](08_grants_scholarships.md)
 
@@ -234,7 +253,10 @@ What to ask on your registration form (and what not to ask)
 
  ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
 
-See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
+ 🍎 Share anonymized survey results publicly to demonstrate transparency and commitment to improvement.
+
+ ✅ Include open-ended questions for attendees to suggest new inclusion measures.
 
 [^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference).
 
+**Note**:Always ensure accessibility guidelines are followed when planning mimnimal measures.
