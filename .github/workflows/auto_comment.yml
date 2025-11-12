@@ -1,0 +1,112 @@
+name: Auto-comment on issues from PR
+
+on:
+  pull_request_target:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+  pull-requests: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  comment-on-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on and label linked issue
+        uses: actions/github-script@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const prNumber = context.payload.pull_request.number;
+            const prAuthor = context.payload.pull_request.user.login;
+            const prLink = context.payload.pull_request.html_url;
+            const prTitle = context.payload.pull_request.title || '';
+
+            const pattern = /(?:closes|fixes|resolves)\s+#(\d+)|#(\d+)/gi;
+            const issueNumbers = new Set();
+            
+            const findIssues = (text) => {
+              if (!text) return;
+              for (const match of text.matchAll(pattern)) {
+                issueNumbers.add(match[1] || match[2]);
+              }
+            };
+
+            findIssues(context.payload.pull_request.body);
+            findIssues(prTitle);
+
+            const { data: commits } = await github.rest.pulls.listCommits({
+              owner,
+              repo,
+              pull_number: prNumber,
+            });
+
+            for (const commit of commits) {
+              findIssues(commit.commit.message);
+            }
+
+            if (issueNumbers.size === 0) {
+              return;
+            }
+
+            const ISSUE_PROCESSING_LIMIT = 10;
+            const issuesToProcess = Array.from(issueNumbers).slice(0, ISSUE_PROCESSING_LIMIT);
+            
+            for (const issueNumber of issuesToProcess) {
+              try {
+                let issue;
+                try {
+                  const { data: issueData } = await github.rest.issues.get({
+                    owner, repo, issue_number: issueNumber,
+                  });
+                  issue = issueData;
+                } catch (error) {
+                  console.log(`Issue #${issueNumber} not found, skipping.`);
+                  continue;
+                }
+
+                if (issue.state !== 'open') {
+                  console.log(`Issue #${issueNumber} is closed, skipping.`);
+                  continue;
+                }
+
+                const { data: comments } = await github.rest.issues.listComments({
+                  owner, repo, issue_number: issueNumber,
+                });
+
+                const botCommentIdentifier = "This issue has been claimed by";
+                const alreadyCommented = comments.some(comment => comment.body && comment.body.includes(botCommentIdentifier));
+
+                if (alreadyCommented) {
+                  continue;
+                }
+
+                const commentBody = `**Issue Claimed**\n\nThis issue has been claimed by @${prAuthor} via pull request ${prLink}.\n\n**Note for other contributors:**\n\nTo avoid duplicate effort, please coordinate with the contributor or a project maintainer before submitting a new pull request for this issue.`;
+
+                await github.rest.issues.createComment({
+                  owner, repo, issue_number: issueNumber, body: commentBody,
+                });
+
+                const labelToAdd = 'in progress';
+                try {
+                  await github.rest.issues.addLabels({
+                    owner,
+                    repo,
+                    issue_number: issueNumber,
+                    labels: [labelToAdd]
+                  });
+                } catch (error) {
+                  console.log(`Could not add label "${labelToAdd}" to issue #${issueNumber}.`);
+                }
+
+              } catch (error) {
+                console.log(`Failed to process issue #${issueNumber}: ${error.message}`);
+              }
+            }
+
