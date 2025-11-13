@@ -22,6 +22,12 @@
         }
         .navbar { background-color: rgba(13, 17, 23, 0.85); }
         [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
+
+          /* FIX: Add scroll padding to account for fixed navbar */
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 100px; /* Adjust based on navbar height + some spacing */
+        }
     </style>
 </head>
 <body>
@@ -30,8 +36,8 @@
         <div class="container">
             <!-- Main Logo -->
             <a class="navbar-brand fw-bold" href="#">
-                <img src="_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
-                <img src="_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
+                <img src="/DISCOVER/_static/images/logo-dark.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo dark-logo">
+                <img src="/DISCOVER/_static/images/logo-light.png" alt="DISCOVER Cookbook" height="75" class="me-2 theme-logo light-logo d-none">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
