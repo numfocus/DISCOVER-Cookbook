@@ -24,6 +24,12 @@ While content is the heart of the project, the quality of the content needs to r
 
 ### Bug fixes
 
+### Improving Accessibility for Global South Participants
+
+To make participation in international scientific events more inclusive, 
+it's important to simplify visa processes and provide support for applicants 
+from the Global South. This will help ensure equal opportunities for all researchers.
+
 For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
 > **Note:** To contribute effectively, check for active pull requests to avoid duplication, discuss your ideas in active issues or pull requests, and seek approval from maintainers or issue creators before proceeding. Respect others' contributions and collaborate constructively to improve the project.
