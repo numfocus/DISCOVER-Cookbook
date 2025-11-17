@@ -20,7 +20,7 @@ body:
       label: Type of Enhancement
       description: What kind of content improvement are you proposing?
       options:
-        - "Clarification/Rewording (e.g., making text clearer, simplifying language)"
+        - "Clarification or Rewording (improving clarity, readability, and simplicity of existing text)"
         - "Adding a new specific example to an existing measure"
         - "Updating outdated information (e.g., broken links, contact details)"
         - "Proposing a minor new measure (🍎 or ✅) within an existing section"
