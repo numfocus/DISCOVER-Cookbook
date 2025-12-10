@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
     footerContent.innerHTML = `
       <div class="footer-logo">
         <a href="https://numfocus.org" target="_blank" rel="noopener">
-          <img src="_static/images/Numfocus-logo-dark.png" alt="NumFOCUS" class="numfocus-logo light-mode-only">
-          <img src="_static/images/Numfocus-logo-light.png" alt="NumFOCUS" class="numfocus-logo dark-mode-only">
+          <img src="../_static/images/Numfocus-logo-dark.png" alt="NumFOCUS" class="numfocus-logo light-mode-only">
+          <img src="../_static/images/Numfocus-logo-light.png" alt="NumFOCUS" class="numfocus-logo dark-mode-only">
         </a>
       </div>
 
