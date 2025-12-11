@@ -47,7 +47,6 @@ These gatherings should be intentionally designed to foster inclusion, comfort, 
 
 #### 🍎 Low effort, high impact
 - Choose simple, low-cost activities that focus on interaction rather than expense (for example, shared breakfasts, walks, or discussion circles).  
-- Use existing conference spaces for casual meetups instead of booking new venues.  
 - Encourage attendees to suggest or host informal social ideas during registration or check-in.  
 
 #### ✅ High effort, high impact
