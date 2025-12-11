@@ -9,9 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
     footerContent.innerHTML = `
       <div class="footer-logo">
         <a href="https://numfocus.org" target="_blank" rel="noopener">
-          <img src="_static/images/Numfocus-logo-dark.png" alt="NumFOCUS" class="numfocus-logo light-mode-only">
-          <img src="_static/images/Numfocus-logo-light.png" alt="NumFOCUS" class="numfocus-logo dark-mode-only">
-        </a>
+        <img src="_static/images/Numfocus-logo-light.png" alt="NumFOCUS" class="numfocus-logo light-mode-only">
+        <img src="_static/images/Numfocus-logo-dark.png" alt="NumFOCUS" class="numfocus-logo dark-mode-only">
+   </a>
       </div>
 
       <div class="footer-links">
@@ -59,3 +59,60 @@ document.addEventListener('DOMContentLoaded', function() {
     existingFooter.appendChild(footerContent);
   }
 });
+// --- ensure the theme-toggle shows the icon for the NEXT theme (what will be applied) ---
+(function () {
+  const root = document.documentElement;
+
+  function updateToggleIconsForNextTheme() {
+    const current = root.getAttribute('data-theme') || 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+
+    // Where the toggle might be
+    const parentCandidates = ['header', 'nav', '.bd-header', '.navbar', 'body'];
+    parentCandidates.forEach(parentSel => {
+      const parent = document.querySelector(parentSel);
+      if (!parent) return;
+
+      // look for toggle containers (common class/attributes)
+      const toggles = parent.querySelectorAll(
+        '.theme-toggle, .toggle-theme, .theme-switch, .theme-switcher, .switcher, [data-theme-toggle], button[aria-label*="theme"], button[aria-label*="Theme"]'
+      );
+
+      const fallbackTargets = parent.querySelectorAll('.light-mode-only, .dark-mode-only');
+
+      toggles.forEach(toggle => {
+        toggle.querySelectorAll('.light-mode-only').forEach(el => {
+          el.style.display = (next === 'light') ? '' : 'none';
+        });
+        toggle.querySelectorAll('.dark-mode-only').forEach(el => {
+          el.style.display = (next === 'dark') ? '' : 'none';
+        });
+      });
+
+      // fallback: update any light/dark-only found under parent
+      if (toggles.length === 0) {
+        fallbackTargets.forEach(el => {
+          if (el.classList.contains('light-mode-only')) {
+            el.style.display = (next === 'light') ? '' : 'none';
+          } else if (el.classList.contains('dark-mode-only')) {
+            el.style.display = (next === 'dark') ? '' : 'none';
+          }
+        });
+      }
+    });
+  }
+
+  // run once on load
+  updateToggleIconsForNextTheme();
+
+  // keep in sync when the theme attribute changes
+  const observer = new MutationObserver(muts => {
+    for (const m of muts) {
+      if (m.attributeName === 'data-theme') {
+        updateToggleIconsForNextTheme();
+        break;
+      }
+    }
+  });
+  observer.observe(root, { attributes: true, attributeFilter: ['data-theme'] });
+})();
