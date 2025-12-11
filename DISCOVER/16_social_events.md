@@ -26,7 +26,7 @@ These gatherings should be intentionally designed to foster inclusion, comfort, 
 
 #### ✅ High effort, high impact
 - Collaborate with the accessibility or logistics team to audit the social event space and make any temporary accommodations needed.  
-- Design social activities that are engaging for all abilities—for example, games or collaborative activities that do not rely on physical participation.  
+- Design social activities that are engaging for all abilities, for example, games or collaborative activities that do not rely on physical participation.  
 - Collect feedback from participants after the event to continuously improve inclusivity in future social activities.  
 
 
