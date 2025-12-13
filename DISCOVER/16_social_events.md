@@ -51,7 +51,7 @@ These gatherings should be intentionally designed to foster inclusion, comfort, 
 
 #### ✅ High effort, high impact
 - Partner with local community organizations or venues that align with the conference’s inclusion goals.  
-- Offer sponsored or subsidized tickets for social events to ensure equitable access.  
+- Where social events have an associated cost, consider offering sponsored or subsidized tickets to ensure equitable access.
 - Develop a volunteer “social hosts” program to help welcome first-time attendees.  
 
 
