@@ -26,6 +26,20 @@ While content is the heart of the project, the quality of the content needs to r
 
 For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
+
+
+### Inclusive Language
+
+When referring to people with disabilities or impairments, please use respectful, person-first, and inclusive language.  
+Avoid phrasing that reduces a person to their condition (e.g., “the impaired” or “the disabled”). Instead, prefer terms such as  
+**“people with visual impairments”**, **“participants with disabilities”**, or **“community members who use assistive technologies.”**
+
+The goal is to maintain clarity while respecting the dignity, identity, and individuality of all community members.  
+Please avoid assumptions and be mindful of language that may unintentionally stigmatize or generalize individuals.
+
+
+
+
 > **Note:** To contribute effectively, check for active pull requests to avoid duplication, discuss your ideas in active issues or pull requests, and seek approval from maintainers or issue creators before proceeding. Respect others' contributions and collaborate constructively to improve the project.
 
 ### Contribution Workflow

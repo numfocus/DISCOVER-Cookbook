@@ -1,6 +1,3 @@
 [build]
-  publish = "DISCOVER/_build/html"
-  command = "bash ci/build_website.sh"
-
-[build.environment]
-  PYTHON_VERSION = "3.12"
+command = ""
+publish = "."
