@@ -8,38 +8,39 @@
 
 ### Invited Speakers
 
-- ✅ Reach beyond the conference organizers&#39; own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just &quot;the usual suspects&quot; and reach out to your wider network for ideas, suggestions, and introductions.
-- Identify a group of people to solicit as conference speakers
-  - Take extra steps to ensure a diverse speaker pool
-    - Make the list of potential speakers who are underrepresented longer than the list of usual suspects (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented folks are often overburdened with speaking requests, hence the need for a longer list.
-  - Keep and maintain a list of possible speakers with expertise and their contact info
-  - Research and follow speaker lists compiled by other organizations and communities
-  - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up
+- ✅ Reach beyond the conference organizers own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just "the usual suspects"and reach out to your wider network for ideas, suggestions, and introductions.
+- Identify a group of people to solicit as conference speakers.
+  - Take extra steps to ensure a diverse speaker pool.
+    - Make the list of potential speakers who are underrepresented longer than the list of usual suspects 
+    (e.g. — have a longer list of women than men), so when someone declines or drops out you can just move to the next one on the list. Underrepresented individuals are often overburdened with speaking requests. This is why maintaining a longer list is important.
+  - Keep and maintain a list of possible speakers with expertise and their contact info.
+  - Research and follow speaker lists compiled by other organizations and communities.
+  - When querying your network for speaker ideas, specifically ask for suggestions of speakers who could contribute to the diversity of the speaker line-up.
   - If your system is to have speakers come to you &amp; ask, but research shows they tend not to do so, they won&#39;t come.
 - 🍎 Consider the specific wording of how you solicit talks (subtlety can make a big difference) 
   - E.g. &quot;Experts in best practices&quot; may turn away people who don&#39;t self-identify as &quot;expert&quot; or who have impostor syndrome.
   - &quot;Speakers who have advice or expertise to share&quot; &gt; Everyone has some level of expertise or knowledge to share about what they work on, so this phrasing is more inclusive and inviting.
-- Ensure panels and roundtables include a diversity of participants
-  - Make strategic use of the moderator role to help support diverse participation
+- Ensure panels and roundtables include a diversity of participants.
+  - Make strategic use of the moderator role to help support diverse participation.
 
 ### Selecting Speakers
 **Tags:** <span style="color:red"> Calls for Papers and Proposals</span>, <span style="color:red"> Presenter Line-up</span>, <span style="color:red"> Code of Conduct</span>
 
-- 🍎 Call For Proposals (CFP) instructions
+- 🍎 Call For Proposals (CFP) instructions:
   - In the solicitation, be transparent that you want a broad &amp; diverse group to share their expertise.
   - Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
   - If possible, create detailed instructions and/or run workshops to help prepare people to write strong proposals.
-  - Be clear in who you want
-    - If your conference has a long history and you&#39;re trying to change what it&#39;s like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
-  - Consider carefully the way you describe your event and the call for proposals in order to avoid turning away or self-de-selecting of potential speakers.
-- Offer speaker training
+  - Be clear in who you want.
+    - If your conference has a long history and you&#39;re trying to change what it's like, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
+  - Consider carefully how you describe your event and the call for proposals to avoid unintentionally discouraging potential speakers from applying.
+- They Offer speaker training.
   - Let potential speakers know there are resources to help them prepare, and provide them.
-  - Ask potential speakers to ensure the content of their talk abides by the code of conduct
-  - Consider color-blindness in slide design
-  - Provide handouts of slides and/or transcripts (both large and small format)
-  - Verbally describe graphs and illustrations
+  - Ask potential speakers to ensure the content of their talk abides by the code of conduct.
+  - Consider color-blindness in slide design.
+  - Provide handouts of slides and/or transcripts (both large and small format).
+  - Verbally describe graphs and illustrations.
 
-### Incentivize First-Time Speakers:
+### Incentivize First-Time Speakers
 
 **Tags:** <span style="color:red"> Newcomers & First-Timers</span>
 
@@ -75,10 +76,10 @@
     - &quot;Single Blind&quot; or simply &quot;Blind&quot; review means that the author of the proposal does not know the identity of the reviewers.
     - Sometimes the term &quot;Closed&quot; or &quot;Anonymized&quot; is used instead of &quot;Blind&quot;.
    - **Double &quot;Blind&quot; Review**
-     - By changing speaker selection to completely &quot;blind,&quot; you may be able to increase representation from traditionally underrepresented groups. (See &quot;Further Reading&quot; below.)
+     - By changing speaker selection to completely &quot;blind&quot; you may be able to increase representation from traditionally represented groups. (See &quot;Further Reading&quot; below.)
       - You might create a CFP form that instructs the submitter to withhold identifying information.
       - You can assign 1-2 people to remove the identifying information from submissions before passing them to the next group of reviewers/the assessing team.
-        - However, be aware that it's not always possible to do this, particularly if the work is tightly tied to the authors, or is based on their past work, and that reviewers can often determine authors even when they technically shouldn't. Reviewers may also search for information about the subject of the work, which can lead them to a preprint of the submitted material with the authors listed. In this case, you may want to explicitly instruct the reviewers to try not to consider information about the authors they happen to know or find.
+        - However, Be aware that it's not always possible to do this, particularly if the work is tightly tied to the author's, may be  is based on their past work, and that reviewers can often determine authors even when they technically not possible. Reviewers may also search for information about the subject of the work, which can lead them to a preprint of the submitted material with the authors listed. In this case, you may want to explicitly instruct the reviewers to try not to consider information about the authors they happen to know or find.
       - If you recognize a submission author and you&#39;re on the review committee, you should not grade the submission—recuse yourself from reviewing that submission. Of course, if the process is double-blind, you may not be aware that you have a conflict with it.
       - Optionally, the review team can de-anonymize after the review process to ensure that the final selection is representative of the diverse grouping that is desired.
   - **Double Open Review**
