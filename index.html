@@ -41,7 +41,7 @@
                     <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
                     <li class="nav-item d-flex gap-2 ms-lg-3">
                         <a href="https://github.com/numfocus/DISCOVER-Cookbook" class="btn btn-outline-secondary py-1 px-2 rounded-3" title="GitHub Repository"><i class="bi bi-github"></i></a>
-                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme">
+                        <button class="btn btn-outline-secondary py-1 px-2 rounded-3" id="theme-switcher" title="Toggle theme" aria-label="Toggle theme">
                             <i class="bi bi-sun-fill d-none" id="light-icon"></i>
                             <i class="bi bi-moon-stars-fill" id="dark-icon"></i>
                         </button>
@@ -199,6 +199,13 @@
             html.dataset.bsTheme = theme;
             localStorage.setItem('theme', theme);
             const isLight = theme === 'light';
+            themeSwitcher.setAttribute(
+                'aria-label',
+                isLight ? 'Switch to dark mode' : 'Switch to light mode'
+            );
+            themeSwitcher.title =
+            isLight ? 'Switch to dark mode' : 'Switch to light mode';
+
             lightIcon.classList.toggle('d-none', isLight);
             darkIcon.classList.toggle('d-none', !isLight);
             lightLogo.classList.toggle('d-none', !isLight);
