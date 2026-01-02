@@ -22,6 +22,14 @@
         }
         .navbar { background-color: rgba(13, 17, 23, 0.85); }
         [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
+        /* Ensure fragment targets scroll below the fixed/sticky navbar.
+           We set a CSS variable for the navbar height (updated via JS on load/resize)
+           and use both `scroll-padding-top` and `scroll-margin-top` so headings
+           remain visible when navigated to via fragment links. */
+        :root { --navbar-height: 80px; }
+        html { scroll-padding-top: var(--navbar-height); }
+        /* Apply a small extra gap so headings aren't flush against the navbar */
+        section[id] { scroll-margin-top: calc(var(--navbar-height) + 8px); }
     </style>
 </head>
 <body>
@@ -210,6 +218,25 @@
         });
         setTheme(localStorage.getItem('theme') || 'dark');
         document.getElementById('copyright-year').textContent = new Date().getFullYear()
+
+        // Update CSS variable for navbar height so fragment anchors land below the navbar
+        function updateNavOffset() {
+            const nav = document.querySelector('nav');
+            if (!nav) return;
+            const height = nav.offsetHeight;
+            document.documentElement.style.setProperty('--navbar-height', height + 'px');
+        }
+
+        // Recompute on load and resize
+        window.addEventListener('load', () => {
+            updateNavOffset();
+            // If page loaded with a hash, re-scroll to ensure the computed offset applies
+            if (location.hash) {
+                const el = document.getElementById(location.hash.slice(1));
+                if (el) setTimeout(() => el.scrollIntoView(), 0);
+            }
+        });
+        window.addEventListener('resize', updateNavOffset);
     </script>
 </body>
 </html>
