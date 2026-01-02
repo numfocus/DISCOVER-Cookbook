@@ -22,14 +22,6 @@
         }
         .navbar { background-color: rgba(13, 17, 23, 0.85); }
         [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
-        /* Ensure fragment targets scroll below the fixed/sticky navbar.
-           We set a CSS variable for the navbar height (updated via JS on load/resize)
-           and use both `scroll-padding-top` and `scroll-margin-top` so headings
-           remain visible when navigated to via fragment links. */
-        :root { --navbar-height: 80px; }
-        html { scroll-padding-top: var(--navbar-height); }
-        /* Apply a small extra gap so headings aren't flush against the navbar */
-        section[id] { scroll-margin-top: calc(var(--navbar-height) + 8px); }
     </style>
 </head>
 <body>
@@ -207,10 +199,17 @@
             html.dataset.bsTheme = theme;
             localStorage.setItem('theme', theme);
             const isLight = theme === 'light';
-            lightIcon.classList.toggle('d-none', !isLight);
-            darkIcon.classList.toggle('d-none', isLight);
+            // Show the icon for the theme that will be applied when the button is clicked.
+            // If the current theme is light, show the dark (moon) icon and vice-versa.
+            lightIcon.classList.toggle('d-none', isLight); // hide sun when currently light
+            darkIcon.classList.toggle('d-none', !isLight); // hide moon when currently dark
+            // Logos should reflect the current theme (no change)
             lightLogo.classList.toggle('d-none', !isLight);
             darkLogo.classList.toggle('d-none', isLight);
+            // Update accessible title/label to indicate the action (the next theme)
+            const nextTheme = isLight ? 'dark' : 'light';
+            themeSwitcher.title = `Switch to ${nextTheme.charAt(0).toUpperCase()}${nextTheme.slice(1)} theme`;
+            themeSwitcher.setAttribute('aria-label', themeSwitcher.title);
         }
         themeSwitcher.addEventListener('click', () => {
             const newTheme = html.dataset.bsTheme === 'dark' ? 'light' : 'dark';
@@ -218,25 +217,6 @@
         });
         setTheme(localStorage.getItem('theme') || 'dark');
         document.getElementById('copyright-year').textContent = new Date().getFullYear()
-
-        // Update CSS variable for navbar height so fragment anchors land below the navbar
-        function updateNavOffset() {
-            const nav = document.querySelector('nav');
-            if (!nav) return;
-            const height = nav.offsetHeight;
-            document.documentElement.style.setProperty('--navbar-height', height + 'px');
-        }
-
-        // Recompute on load and resize
-        window.addEventListener('load', () => {
-            updateNavOffset();
-            // If page loaded with a hash, re-scroll to ensure the computed offset applies
-            if (location.hash) {
-                const el = document.getElementById(location.hash.slice(1));
-                if (el) setTimeout(() => el.scrollIntoView(), 0);
-            }
-        });
-        window.addEventListener('resize', updateNavOffset);
     </script>
 </body>
 </html>
