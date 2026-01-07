@@ -1,2 +1,11 @@
 jupyter-book
 sphinx-tags
+sphinx-togglebutton
+sphinx-copybutton
+sphinx-external-toc
+sphinx-design
+sphinx-book-theme
+sphinx-multitoc-numbering
+sphinx-jupyterbook-latex
+myst-parser
+linkify-it-py
