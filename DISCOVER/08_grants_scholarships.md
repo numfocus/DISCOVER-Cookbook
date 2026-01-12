@@ -28,7 +28,9 @@ Registration vs. Travel &amp; Lodging
     
 - Payment
   - Supported participants are often required to cover various expenses up front, with the expectation of reimbursement from the sponsor. However, this can be difficult for many participants who may not have the financial resources to do so.
-    - To mitigate this issue, sponsors should cover as many expenses as possible directly, including flights, hotels (and deposits), and other major costs.
+    - To mitigate this issue, sponsors should cover as many expenses as possible directly, including flights, hotels (and deposits), visas, and other major costs.
+    - In some countries, invitation letters for visas need to be authenticated at a notary office. Budget accordingly.
+    - If the event is arranging lodging for scholarship recipients, inform them whether the hotel will request a deposit, the required amount, and the accepted payment methods (card, debit, cash, etc.). Offer an alternative for those who are unable to comply with this requirement.
     - For expenses that cannot be paid directly, sponsors can utilize systems like Ramp, which allow for the creation of virtual credit cards. These cards can be assigned to supported participants, ensuring that expenses are charged directly to the sponsor, eliminating the need for participants to pay out of pocket.
   - Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
   - We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it. 
