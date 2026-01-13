@@ -10,5 +10,5 @@ dependencies:
   - sphinx-copybutton
   - sphinx-design
   - sphinx-book-theme
-  - sphinx-jupyterbook-latex
+  - jupyterbook-latex
   - sphinx-multitoc-numbering
