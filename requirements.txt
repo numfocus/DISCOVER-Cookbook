@@ -1,9 +1,10 @@
 jupyter-book
-sphinx-tags
 sphinx
 myst-parser
 sphinx-copybutton
 sphinx-design
 sphinx-togglebutton
 sphinx-book-theme
+sphinx-tags
+
 
