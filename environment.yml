@@ -4,5 +4,11 @@ channels:
   - defaults
 dependencies:
   - python
-  - jupyter-book
+  - jupyter-book>=1.0.0
   - sphinx-tags
+  - sphinx-togglebutton
+  - sphinx-copybutton
+  - sphinx-design
+  - sphinx-book-theme
+  - jupyterbook-latex
+  - sphinx-multitoc-numbering
