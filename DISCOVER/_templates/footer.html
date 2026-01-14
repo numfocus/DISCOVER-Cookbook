@@ -1,0 +1,15 @@
+{% extends "!footer.html" %}
+
+{% block footer %}
+  {{ super() }}
+
+  <div style="margin-top: 20px; text-align: center;">
+    <a href="https://numfocus.org" target="_blank" rel="noopener">
+      <img
+        src="{{ pathto('_static/images/numfocus-logo.png', 1) }}"
+        alt="NumFOCUS"
+        style="height: 40px;"
+      />
+    </a>
+  </div>
+{% endblock %}
