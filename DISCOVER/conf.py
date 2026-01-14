@@ -72,6 +72,16 @@ html_theme_options = {
     'path_to_docs': 'DISCOVER', 
     'repository_url': 'https://github.com/numfocus/DISCOVER-Cookbook/', 
     'repository_branch': 'main', 
+    'extra_footer': """
+<div class="numfocus-footer">
+  <a href="https://numfocus.org" target="_blank" rel="noopener">
+    <img src="_static/images/numfocus-logo.png"
+         alt="NumFOCUS"
+         style="height:40px; margin-top:10px;">
+  </a>
+</div>
+""",
+
     'extra_footer': '', 
     'home_page_in_toc': True, 
     'announcement': '', 
