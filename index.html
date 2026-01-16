@@ -13,15 +13,34 @@
 
     <!-- Custom styles -->
     <style>
-        body { font-family: 'Inter', sans-serif; }
+        body 
+        {
+             font-family: 'Inter', system-ui, -apple-system, sans-serif;
+             line-height: 1.5;
+             
+        }
         [data-bs-theme="dark"] {
             --bs-body-bg: #0d1117;
             --bs-body-color: #e6edf3;
             --bs-border-color: #30363d;
             --bs-success-rgb: 35, 134, 54;
         }
-        .navbar { background-color: rgba(13, 17, 23, 0.85); }
-        [data-bs-theme="light"] .navbar { background-color: rgba(255, 255, 255, 0.85); }
+        .navbar 
+        { background-color: #c763636f;
+          backdrop-filter: blur(8px);  
+          transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+        }
+        .navbar:hover{
+            box-shadow:  0 4px 12px rgba(223, 25, 25, 0.15);;
+            
+        }
+        a{
+            text-decoration: none;
+        }
+
+
+        [data-bs-theme="light"] .navbar { background-color: rgba(46, 42, 42, 0.85); }
     </style>
 </head>
 <body>
