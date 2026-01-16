@@ -1,10 +1,16 @@
-(how_to_contribute)=
-# Contributing
+#Contributing
 
-NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook via [pull request (PR)](https://github.com/numfocus/DISCOVER-Cookbook/pulls). PRs will be evaluated by the NumFOCUS DISC Committee and/or its volunteers. PRs should be written so as to conform to the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/). You can also [open an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues) to suggest an update.
+NumFOCUS invites the community to suggest improvements to the DISCOVER Cookbook through pull requests (PRs).
+All PRs are reviewed by the NumFOCUS DISC Committee and/or its volunteers.
+Contributions must follow the [NumFOCUS Contributor Code of Conduct](https://www.numfocus.org/about/code-of-conduct/).
 
-If you find this Cookbook useful please support NumFOCUS and our work in these ways:  
-* If you have a GitHub account, "star" the [repository](https://github.com/numfocus/DISCOVER-Cookbook) to elevate its visibility
-* Include a link on your events website to credit NumFOCUS:  **Reference:**  [NumFOCUS DISCOVER Diversity and Inclusion Cookbook](https://discover-cookbook.numfocus.org)
-* Any feedback, positive or suggestions, is welcome and can be placed under [Issues](https://github.com/numfocus/DISCOVER-Cookbook/issues)
+You can also [open an issue](https://github.com/numfocus/DISCOVER-Cookbook/issues) to suggest updates or improvements.
+
+If you find this cookbook useful, you can support NumFOCUS in the following ways:
+
+- If you have a GitHub account, star the [repository](https://github.com/numfocus/DISCOVER-Cookbook) to increase its visibility.
+- Include a link on your event website to credit NumFOCUS:  
+  **Reference:** [NumFOCUS DISCOVER Diversity and Inclusion Cookbook](https://discover-cookbook.numfocus.org)
+- Share feedback, whether positive or suggestions for improvement, by opening an issue under [Issues](https://github.com/numfocus/DISCOVER-Cookbook/issues).
+
 
