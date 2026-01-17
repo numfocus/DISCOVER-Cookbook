@@ -237,4 +237,10 @@ What to ask on your registration form (and what not to ask)
 See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
 
 [^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference).
+- title: Minimal Measures
+  sections:
+    - file: book/02_minimal_measures/color-blindness-guidelines
+    - file: book/02_minimal_measures/scent-sensitivity-guidelines
+    - file: book/02_minimal_measures/refrigerator-access-nursing-mothers
+
 
