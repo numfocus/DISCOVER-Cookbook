@@ -7,234 +7,153 @@ Making your conference inclusive and encouraging diversity is achievable. The me
 
 ## What are the easiest and most impactful measures?
 
- Just follow the measures below. They are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are &quot;low-hanging fruit&quot; and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
+Just follow the measures below. They are explained in more depth in the other pages of this Cookbook. Measures that are **easy to implement** and have a **strong positive impact** are "low-hanging fruit" and marked with a red apple emoji: 🍎. Measures that take more effort but have considerable impact are marked with a green checkmark: ✅.
 
+## Organizing Committee
 
-## [Organizing Committee](03_organizing_committee.md)
-✅ The organizing committee itself should reflect the diversity you want to create in your conference!
-Prioritizing diversity starts with you.
+### Organizing Committee Actions
+✅ The organizing committee itself should reflect the diversity you want to create in your conference! Prioritizing diversity starts with you.
 
 Conference chairs and lead organizers should take special care to recruit an organizing committee that reflects the diversity of the event you aspire to create.
 
-## [Venue Selection &amp; On-Site Services](04_venue_selection.md)
+## Venue Selection & On-Site Services
 
 ### Accessibility Considerations
 
--   Consider attendees who may need accommodations for a disability
+- Consider attendees who may need accommodations for a disability
 
+#### Mobility
 
-####  Mobility
-
--   🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily accessible seats, such as at the end of a row on the aisle.
-
--   🍎 Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
-
+- 🍎 Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily accessible seats, such as at the end of a row on the aisle.
+- 🍎 Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
 
 #### Disability
 
--   🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
-
+- 🍎 Provide large-text signs and easy-to-read maps. Ask conference organizers to announce important information over the microphone, which helps people with impaired vision.
 - ✅ Book sign-language interpreters and/or real-time captioning (someone typing captions) for deaf and hard-of-hearing attendees.
-
 
 ### Bathrooms
 
 #### Gender-Neutral Bathrooms
 
--   🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom
-
-
-	-   "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
-
+- 🍎 Post signs in the restroom and/or on the door instructing what to do if you think someone is in the "wrong" restroom
+    - "If you think someone's gender doesn't match the sign on the door, please follow these steps: Don't worry about it, they know better than you." (via [@LGBTplusBristol](https://twitter.com/lgbtplusbristol))
 - ✅ Ensuring your conference has easily accessible gender-neutral restrooms is a simple way to help non-binary and trans individuals feel included and welcome at your conference.
 
+### Toiletries/Supplies
 
-#### Toiletries/Supplies
+- 🍎 Provide tampons and pads in all restrooms (some people who identify as male have periods and may need them)
 
--   🍎 Provide tampons and pads in all restrooms (some people who identify as male have periods and may need them)
+### Dedicated Rooms
 
+- 🍎 Dedicated rooms (e.g., nursing/pumping rooms, quiet rooms) should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
+- Don't allow anyone (even organizers) to use dedicated rooms for other purposes.
 
-### 🍎 Dedicated rooms
+#### Nursing & Pumping Room
 
--   Dedicated rooms (e.g., those below) should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
+- 🍎 Ensure there is a dedicated, single-occupancy space with a lock.
+- Desired features:
+    - Locking door, comfortable chair, desk/table for pump and bottles, electrical outlet nearby
+    - Cleaning wipes, paper towels, garbage can, masking tape/marker for labeling milk bottles/pump parts
+    - Sink for hand washing and washing of pump parts
+    - Refrigerator for storage of pumped milk in the room or nearby
+    - Dim lighting
 
--   Don't allow anyone (even organizers) to use dedicated rooms for other purposes.
+#### Gender-Neutral Bottle Feeding Room
 
+- 🍎 Bottle-fed babies can be fed by caregivers of any gender
+- Room should be separate from nursing/pumping room, quiet, and accommodate multiple babies
 
-#### 🍎 Nursing & Pumping Room
+#### Quiet Room
 
--   Ensure there is a dedicated, single-occupancy space with a lock.
+- 🍎 Dedicated room for decompression, prayer, or quiet reflection
+- If separate room isn’t possible, create “quiet areas” with soft seating, low lighting, and clear signage
 
--   For the room to be optimally useful, these things are desired:
+## Catering
 
-    -   A locking door, a comfortable chair, a desk or table next to the chair (to set the pump, bottles, etc. on), no more than 4 feet from the nearest electrical outlet, cleaning wipes, paper towels, a garbage can, masking tape and a marker for labeling milk bottles and pump parts, proximity to a sink for hand washing and washing of pump parts, a refrigerator for storage of pumped milk  in the pumping room or nearby, and dim lighting
+- 🍎 Signage with ingredients and common labels (gluten-free, vegan, includes peanuts)
+- 🍎 Variety of beverages including non-alcoholic/non-caffeinated
+- ✅ Plan for common dietary needs: gluten-free, dairy-free, vegan, vegetarian, kosher, halal, nut-free, shellfish-free
 
-#### 🍎 Gender-Neutral Bottle Feeding Room
-
--   Bottle-fed babies can be fed by caregivers of any gender and also benefit from a quiet, low-distraction, private space for feeding.
--   This should be a separate, additional room (NOT the same as the nursing and pumping room) which should be clearly labeled.
--   The room should ideally accommodate multiple babies at a time.
--   The room should be in a quiet area of the conference center/venue.
-
-
-#### 🍎 Quiet Room
-
--   A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference. It’s intended for quiet decompression — no phone calls, talking/socializing, notification beeps! 
-
-- People whose religions require frequent prayer may also need a dedicated space. If possible, provide a separate, nearby room that allows for quiet personal prayer without disrupting others. If space is limited, work with the venue to offer a flexible-use room or provide access upon request.
-
-- If a separate room is not possible, consider "quiet areas" with soft seating, low lighting, and clear signage.
-
-## [Catering](05_catering.md)
-
-Making sure that your attendees have something they can eat at mealtimes is an important element of building an inclusive and welcoming conference.
-
--   It's best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. "gluten-free, vegan, includes peanuts").
-
-	-   🍎 Ask your caterer to create and provide the labels.
-
--   🍎 Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
--   ✅ Common dietary needs to plan for gluten-free, dairy-free, vegan, vegetarian, pork-free, shellfish-free, soy-free, kosher, halal, and nut-free. Shellfish and peanut  especially are usually a serious allergy so take extra care.
-
-## [Code of Conduct (CoC)](07_code_of_conduct.md)
+## Code of Conduct (CoC)
 
 ### Awareness
 
-Make sure that everyone involved in your conference/event is aware that the CoC applies to them: that it not only includes participants, but also speakers, sponsors, committee members, etc.
+- 🍎 Tick box at registration confirming participant has read the CoC
+- 🍎 Include CoC in sponsor packet and speaker guidelines
+- 🍎 CoC on conference website and printed schedule
+- 🍎 Mention CoC in welcome talks and daily start
 
--   🍎 Provide a tick box at registration that confirms that the participant has read the CoC
-
--   🍎 Include a copy of the CoC in the sponsor packet
-
--   🍎 Mention that the CoC applies to the speakers in the speaker guidelines
-
--   🍎 Ensure that CoC is easily accessible on the conference website
-
--   🍎 Include a short version of the CoC on the printed schedule as a reminder
-
--   🍎 Mention the CoC in the welcome talk and at the start of every day, including who to contact if there is a problem/violation
-
-
-## [Participant and Speaker Selection](09_participant_selection.md)
+## Participant and Speaker Selection
 
 ### Speakers
 
--   🍎 Consider the specific wording of how you solicit talks, e.g., call for "Speakers who have advice or expertise to share" rather than "experts in best practices"
+- 🍎 Use inclusive wording for call for talks (e.g., “Speakers who have advice or expertise”)
 
-#### Invited Speakers
--   ✅ Reach beyond the conference organizers' own networks. Take steps to go out and find people who might be lesser-known but would make great speakers. Look for more than just "the usual suspects" and reach out to your wider network for ideas, suggestions, and introductions.
+### Invited Speakers
 
-#### Selecting Speakers
+- ✅ Reach beyond organizer networks to find diverse speakers
 
--   🍎 Call For Proposals instructions -- be clear who you want
+### Call for Proposals Review
 
-	-   In the solicitation, be transparent that you want a broad & diverse group to share their expertise.
+- ✅ Use approaches like double-open or double-closed review to reduce bias
 
-	-   Let applicants know what criteria will be used to assess their submission and how speakers will be chosen.
+## Attracting Attendees
 
-	-   If your conference has a long history, and you're trying to change what the program make-up, be up front about the kinds of people you want to have speak, why, and how this may look different from years past.
+- 🍎 Ensure photos in advertising reflect diverse attendees
 
+## Event Registration
 
-#### Call for Proposals Review
+### Preparing to Meet Accessibility Needs
 
--   ✅ There are many approaches to reviewing and selecting conference contributions, and there is no foolproof type of review that always avoids biases. Regardless of which approach you choose, open or anonymized, we encourage you to make it "double" so that both parties know each other (double-open) or neither party knows the other (double-closed)
-
-
-
-### Attracting Attendees
-
--   🍎 Pay attention to the photos you use to advertise your event - what do people look like who attend?
-
-
-## [Event Registration](10_event_registration.md)
-What to ask on your registration form (and what not to ask)
-
-### Preparing to meet accessibility needs
-
--   🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
-
-	-   "Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g., accessibility considerations). Please [email](mailto:contact@myconference.com) and include the details of your request."
+- 🍎 Ask registrants about additional accessibility needs
+    - "Do you need special accommodations? Email contact@myconference.com with details."
 
 ### Demographic Info
 
--   ✅ Don't collect any demographic info that you don't really need.
-
--   ✅ If you do collect demographic info, be thoughtful about the structure of the questions so that they are inclusive and don't contribute to alienating or "othering" marginalized people.
-
-	-   Not having an answer choice that matches your identity can be a very alienating experience.
-
--   ✅ Take anonymity and data security seriously. Have a plan for limiting access to this information and keeping it secure.
+- ✅ Only collect needed demographic info
+- ✅ Structure questions to be inclusive
+- ✅ Keep data secure and respect anonymity
 
 ### Dietary Restrictions
 
--   🍎 Ask for dietary restrictions on the registration form. Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
+- 🍎 Ask for dietary restrictions on registration form
 
 ### Photo Policy
 
--   🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out in the registration form.
-
-	-   (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
+- 🍎 Include photography information and opt-out option
 
 ### Code of Conduct
 
--   🍎 Show the text of the Code of Conduct and a have a required check-box that the registrant has read it and agrees to abide by it.
+- 🍎 Include CoC text and required acceptance checkbox
 
-## [Childcare](06_childcare.md)
+## Childcare
 
-✅ Offer financial support for childcare.
+- ✅ Offer financial support
+- Include in budget, sponsorship, or registration fee
+- Provide grants or on-site services
 
--   Build it into your budget.
+## Inclusive Practices During Check-In
 
-    -   Link it to sponsorships, or university partners, or make part of the registration fee from all attendees go towards providing childcare support as a service.
-    -   Add an option to the registration, e.g.: "Donate $20 to help with childcare costs."
-    -   Collect the data on the registration form. How many people would make use of childcare services or grants?
+### Photography Permissions
 
--   In general, the two major options are either to 1) award childcare grants (people decide how to spend it, e.g., on their home babysitter) or 2) provide on-site services.
+- 🍎 Use badge lanyards to indicate photo preferences (green = fine, yellow = ask, red = no photos)
 
+### Pronoun Pins, Buttons, or Ribbons
 
-## [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
+- 🍎 Lanyard/badge labels for pronouns
+- Color-coordinate labels for easier recognition
 
-### 🍎 Photography Permissions
+## Grants/Scholarships
 
--   Managing photography opt-outs:
+- ✅ Offer grants to support attendance
+- Eligibility: underrepresented/marginalized groups who need financial assistance
+- Payment: direct payment or reimbursement; avoid financial burden
 
-	-   You can use badge lanyards at registration to indicate photo preferences (e.g., green = photos fine; yellow = ask first; red = no photos)
+## Assessment of the Event
 
+- ✅ Survey participants post-event to measure inclusion/diversity impact
 
-### 🍎 Pronoun Pins, Buttons, or Ribbons
+[^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference/).
 
--   Indicating pronouns:
-
-	-   Select a label (pin/button/ribbon/sticker) for your lanyard/badge to communicate your pronouns. Using one even if you don't feel like you need one helps create a welcoming space for attendees who do.
-
-	-   Color-coordinate the labels by pronoun for quicker recognition and processing by those who see them. This lowers the barrier to checking (look at the color).
-
-
-## [Grants/Scholarships](08_grants_scholarships.md)
-
-✅ Offer grants to support attendance
-
--   Eligibility Requirements
-
-	-   Applicants should be
-
-	    -   from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
-
-          -   and be unable to attend without some financial assistance [^lf-source].
-
--   Payment
-
-	-   Typically, recipients either submit receipts for reimbursement, have direct expenses paid for by the organizing committee, or are granted a lump sum up-front.
-
-	-   We encourage conferences to pay for things directly rather than making attendees pay and wait to be reimbursed, or at least offer this as an option for people who want to use it.
-
-	-   Waiting for reimbursement can be a financial burden on scholarship recipients.
-
-## [Assessment of the event](12_assessment.md)
-
- ✅ Survey participants after the event to establish whether your diversity and inclusion measures had an effect.
-
-See whether there is any correlation between being part of a minority group and how welcoming the conference felt to the individual participants. You can consider specifically asking about inclusion/diversity on the survey.
-
-[^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference).
 
