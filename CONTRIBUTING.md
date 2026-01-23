@@ -1,6 +1,6 @@
-# DISCOVER Cookbook Contribution Guide
+# DISCOVER-Cookbook Contribution Guide
 
-NumFOCUS invites the community to make suggestions for improvements to the DISCOVER Cookbook. This guide outlines how to effectively contribute to this project.
+NumFOCUS invites the community to make suggestions for improvements to the DISCOVER-Cookbook. This guide outlines how to effectively contribute to this project.
 
 ## Table of Contents
 
@@ -27,49 +27,49 @@ The original body of work took place at a series of unconferences and various sp
 ### Ideas, Questions, and Discussions
 
 - For content suggestions, feature ideas, or general discussions, please use the [Discussions tab](https://github.com/numfocus/DISCOVER-Cookbook/discussions).
-- Before submitting major content changes, we encourage starting a discussion to align with the project’s goals.
+- Before submitting any major content changes, we encourage you to start a discussion to align with the project goals.
 
 ### Problems or Issues
 
 - Submit issues on the [GitHub issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/issues) with clear, detailed descriptions.
 - Include steps to reproduce (for bugs) or context (for enhancements).
-- Use appropriate labels/tags to categorize the issue.
+- Use appropriate labels and tags to categorize the issue.
 - Check if a similar issue already exists before creating a new one.
 
 ### Content and Design
 
-While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but understand that thorough review is necessary.
+While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions and appreciate your understanding that a thorough review is necessary.
 
 - Start with an idea in [discussions](https://github.com/numfocus/DISCOVER-Cookbook/discussions).
 - Once the community approves, create an [issue](https://github.com/numfocus/DISCOVER-Cookbook/issues).
-- Only then submit a PR referencing the approved issue.
+- Submit a PR referencing the approved issue only after approval.
 
 
 ### Bug Fixes
 
-For technical issues with the book:
+For technical issues with the DISCOVER-Cookbook:
 
 - **Check for existing issues** in our [issue tracker](https://github.com/numfocus/DISCOVER-Cookbook/issues).
 - **Create a new issue** if none exists, with clear reproduction steps.
 - **Reference the issue** in your pull request.
-- **Test your changes locally** following our [build instructions](README.md) before submitting.
+- **Test your changes locally** by following our [build instructions](README.md) before submitting.
 
 #### Translations
 
-See the [translator guide](./docs/translation/Translators_Guide.md) for all details on how to contribute translations to the Cookbook.
+Go through the [translator guide](./docs/translation/Translators_Guide.md) for all the details on how to contribute translations to the DISCOVER-Cookbook.
 
 ## Pull Request Guidelines
 
 When submitting pull requests:
 
 - Reference related issues (`Fixes #123` or `Related to #123`).
-- Ensure you've built and tested the book locally.
-- Your PR description clearly explains the changes.  
+- Ensure that you've built and tested the DISCOVER-Cookbook locally.
+- Ensure that your PR description is clearly explaining the changes.  
 - You are open to feedback and respond to review comments.
 
 ## Commit Messages
 
-Write clear, concise, and descriptive commit messages following this format:
+Write clear, concise, and descriptive commit messages by following the format given below:
 
 **Format:**  
 ```
@@ -99,7 +99,7 @@ Fixes #42
 
 ## Recognition
 
-This project follows the [all-contributors specification](https://allcontributors.org/). Contributors are recognized in the Contributors section of the [README.md](README.md) file with emoji indicating their contribution types:
+This project follows the [all-contributors specification](https://allcontributors.org/). Contributors are recognized in the Contributors section of the [README.md](README.md) file with an emoji indicating their contribution types:
 
 - 📖 Documentation
 - 💻 Code
@@ -109,8 +109,8 @@ This project follows the [all-contributors specification](https://allcontributor
 - 💬 Answering Questions
 - 🖋 Content
 
-We value all forms of contributions and are grateful for your help in making events more diverse and inclusive.
+We value all forms of the contributions and are grateful for your help in making events more diverse and inclusive.
 
 ---
 
-Thank you for contributing to the DISCOVER Cookbook! Your efforts help create more welcoming and inclusive spaces in the scientific computing community.
+Thank you for contributing to the DISCOVER-Cookbook! Your efforts really help us create more welcoming and inclusive spaces in the scientific computing community.
