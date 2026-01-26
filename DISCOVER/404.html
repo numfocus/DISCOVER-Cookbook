@@ -3,164 +3,279 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - Not Found</title>
+  <title>404 - Page Not Found</title>
   <style>
+    :root {
+      /* Light Theme (Default) */
+      --bg-gradient: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+      --glass-bg: rgba(255, 255, 255, 0.85);
+      --glass-border: rgba(255, 255, 255, 0.6);
+      --text-main: #2d3436;
+      --text-secondary: #636e72;
+      --primary-color: #6c5ce7;
+      --primary-hover: #5649c0;
+      --shadow-color: rgba(0, 0, 0, 0.1);
+      --card-shadow: 0 15px 35px rgba(0,0,0,0.1), 0 5px 15px rgba(0,0,0,0.05);
+    }
+
+    /* Dark Mode Support (Automatic) */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-gradient: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+        --glass-bg: rgba(20, 20, 20, 0.65);
+        --glass-border: rgba(255, 255, 255, 0.1);
+        --text-main: #dfe6e9;
+        --text-secondary: #b2bec3;
+        --primary-color: #a29bfe;
+        --primary-hover: #8e44ad;
+        --shadow-color: rgba(0, 0, 0, 0.4);
+        --card-shadow: 0 20px 50px rgba(0,0,0,0.5);
+      }
+    }
+
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
+
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      min-height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
-      position: relative;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg-gradient);
+      background-size: 200% 200%;
+      animation: gradientMove 15s ease infinite;
+      padding: 1.5rem;
+      color: var(--text-main);
     }
 
-    .light-blur {
-      position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle at center, transparent);
-      border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
-      z-index: 0;
-    }
-
-    @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
+    @keyframes gradientMove {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
 
     .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
+      background: var(--glass-bg);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid var(--glass-border);
+      border-radius: 30px;
+      padding: 3.5rem 2.5rem;
+      max-width: 480px;
+      width: 100%;
       text-align: center;
-      z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: var(--card-shadow);
+      animation: float 6s ease-in-out infinite;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Subtle shimmer effect on the card */
+    .glass-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+      transition: 0.5s;
+      pointer-events: none;
+    }
+    
+    .glass-card:hover::before {
+      left: 100%;
+      transition: 0.7s;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+
+    .error-code {
+      font-size: 6rem;
+      line-height: 1;
+      font-weight: 800;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(45deg, var(--primary-color), #00d2ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      letter-spacing: -2px;
     }
 
     h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 0.5rem;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 600;
     }
 
     p {
-      font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+      line-height: 1.6;
+      font-size: 1.05rem;
     }
 
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
+    .btn-container {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 0.8rem 1.8rem;
+      border-radius: 50px;
       text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
       font-weight: 600;
-      transition: background 0.3s ease;
+      transition: all 0.3s ease;
+      border: none;
+      cursor: pointer;
+      font-size: 0.95rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
-    a:hover {
-      background: #c1aaff;
+    .btn-primary {
+      background: var(--primary-color);
+      color: white;
+      box-shadow: 0 5px 15px rgba(108, 92, 231, 0.4);
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-hover);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(108, 92, 231, 0.6);
+    }
+
+    .btn-secondary {
+      background: transparent;
+      border: 2px solid var(--text-secondary);
+      color: var(--text-secondary);
+    }
+
+    .btn-secondary:hover {
+      background: var(--text-secondary);
+      color: white; /* Inverted on hover */
+      transform: translateY(-3px);
+    }
+
+    .lang-switcher {
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
     }
 
     select {
-      margin-top: 1rem;
-      padding: 0.5rem;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 1em;
-      background: #fff;
+      background: transparent;
+      border: 1px solid var(--glass-border);
+      color: var(--text-main);
+      padding: 5px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      outline: none;
+      font-family: inherit;
+    }
+    
+    select option {
+        background: #fff;
+        color: #333;
+    }
+
+    /* Footer text */
+    .tiny-footer {
+      font-size: 0.8rem;
+      opacity: 0.6;
+      margin-top: 10px;
+    }
+
+    /* Mobile Tweaks */
+    @media (max-width: 500px) {
+      .glass-card { padding: 2rem 1.5rem; }
+      .error-code { font-size: 4.5rem; }
+      .btn { width: 100%; justify-content: center; }
     }
   </style>
 </head>
 <body>
-  <div class="light-blur"></div>
-  <div class="glass-card">
-    <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
 
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
+  <div class="glass-card">
+    <div class="error-code">404</div>
+    <h1 id="title">Page Not Found</h1>
+    <p id="message">Oops! It seems like this page has wandered off into the digital void.</p>
+
+    <div class="btn-container">
+      <a href="./intro.html" id="home" class="btn btn-primary">
+        <span>🏠</span> Back Home
+      </a>
+      <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report" class="btn btn-secondary">
+        <span>🐞</span> Report Issue
+      </a>
+    </div>
+
+    <div class="lang-switcher">
+      <label for="language-switcher">🌐 Language:</label>
       <select id="language-switcher">
         <option value="en">English</option>
         <option value="es">Español</option>
       </select>
     </div>
-
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
+    
+    <p id="footer" class="tiny-footer">If you think this is an error, let us know.</p>
   </div>
 
   <script>
     const translations = {
       en: {
-        title: "404 - Page Not Found",
-        message: "This page might’ve wandered off or was never here at all.",
-        suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
-        whatDo: "What can you do?",
-        home: "⬅️ Back to Home",
-        report: "🐞 Report the Issue",
-        footer: "If you think this is an error, let us know by creating an issue."
+        title: "Page Not Found",
+        message: "Oops! It seems like this page has wandered off into the digital void.",
+        home: "🏠 Back Home",
+        report: "🐞 Report Issue",
+        footer: "If you think this is an error, let us know."
       },
       es: {
-        title: "404 - Página no encontrada",
-        message: "Esta página se ha perdido o nunca existió.",
-        suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
-        whatDo: "¿Qué puedes hacer?",
-        home: "⬅️ Volver al inicio",
-        report: "🐞 Informar del problema",
-        footer: "Si crees que esto es un error, infórmanos creando un issue."
+        title: "Página no encontrada",
+        message: "¡Ups! Parece que esta página se ha perdido en el vacío digital.",
+        home: "🏠 Volver al Inicio",
+        report: "🐞 Reportar Problema",
+        footer: "Si crees que esto es un error, avísanos."
       }
     };
 
     function detectLanguage() {
-      const pathLang = location.pathname.split("/")[1];
-      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
-      const storedLang = localStorage.getItem("preferredLang");
-      return translations[pathLang]
-        ? pathLang
-        : translations[refLang]
-        ? refLang
-        : translations[storedLang]
-        ? storedLang
-        : "en";
+      const stored = localStorage.getItem("preferredLang");
+      if (stored && translations[stored]) return stored;
+      const browserLang = navigator.language.slice(0, 2);
+      return translations[browserLang] ? browserLang : "en";
     }
 
     function applyLanguage(lang) {
       const t = translations[lang] || translations["en"];
       document.getElementById("title").textContent = t.title;
       document.getElementById("message").textContent = t.message;
-      document.getElementById("suggestion").textContent = t.suggestion;
-      document.getElementById("what-do").textContent = t.whatDo;
-      document.getElementById("home").textContent = t.home;
-      document.getElementById("report").textContent = t.report;
+      // Note: We reconstruct the button HTML to keep the icon + text structure
+      document.getElementById("home").innerHTML = `<span>🏠</span> ${t.home.replace('🏠 ', '')}`;
+      document.getElementById("report").innerHTML = `<span>🐞</span> ${t.report.replace('🐞 ', '')}`;
       document.getElementById("footer").textContent = t.footer;
       document.getElementById("language-switcher").value = lang;
       localStorage.setItem("preferredLang", lang);
     }
 
-    const initialLang = detectLanguage();
-    applyLanguage(initialLang);
+    const currentLang = detectLanguage();
+    applyLanguage(currentLang);
 
     document.getElementById("language-switcher").addEventListener("change", function () {
       applyLanguage(this.value);
