@@ -12,55 +12,33 @@
     }
     body {
       height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      background: #f9fafb;
       display: flex;
       align-items: center;
       justify-content: center;
       font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
-      position: relative;
-    }
-
-    .light-blur {
-      position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle at center, transparent);
-      border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
-      z-index: 0;
-    }
-
-    @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
     }
 
     .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      width: 90%;
       padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
       max-width: 500px;
       text-align: center;
       z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     }
 
     h1 {
       font-size: 2.5em;
-      color: rgb(52, 51, 51);
+      color: #111827;
       margin-bottom: 0.5rem;
     }
 
     p {
       font-size: 1.1em;
-      color: rgb(52, 51, 51);
+      color: #4b5563;
       margin-bottom: 1.4rem;
     }
 
@@ -70,14 +48,16 @@
       padding: 0.6rem 1rem;
       border-radius: 8px;
       text-decoration: none;
-      background: #d0bfff;
       color: #1f1f1f;
-      font-weight: 600;
+      background: #e5e7eb;
+      color: #111827;
+      font-weight: 500;
+
       transition: background 0.3s ease;
     }
 
     a:hover {
-      background: #c1aaff;
+      background:#d1d5db;
     }
 
     select {
@@ -91,13 +71,12 @@
   </style>
 </head>
 <body>
-  <div class="light-blur"></div>
   <div class="glass-card">
     <h1 id="title">404 - Page Not Found</h1>
     <p id="message">This page might’ve wandered off or was never here at all.</p>
     <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
     <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
+    <a href="/" id="home" aria-label="Go back to home page">⬅️ Back to Home</a>
     <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
 
     <div>
@@ -151,7 +130,6 @@
       document.getElementById("title").textContent = t.title;
       document.getElementById("message").textContent = t.message;
       document.getElementById("suggestion").textContent = t.suggestion;
-      document.getElementById("what-do").textContent = t.whatDo;
       document.getElementById("home").textContent = t.home;
       document.getElementById("report").textContent = t.report;
       document.getElementById("footer").textContent = t.footer;
@@ -168,3 +146,4 @@
   </script>
 </body>
 </html>
+
