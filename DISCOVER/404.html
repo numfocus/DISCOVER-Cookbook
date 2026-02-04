@@ -3,166 +3,587 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - Not Found</title>
+  <title>404 - Page Not Found | DISCOVER Cookbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --primary-blue: #0066cc;
+      --primary-purple: #6366f1;
+      --primary-orange: #f97316;
+      --dark-bg: #0f172a;
+      --dark-card: #1e293b;
+      --light-text: #f1f5f9;
+      --medium-text: #cbd5e1;
+      --accent-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      --numfocus-blue: #1e40af;
+      --success-green: #10b981;
+    }
+
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
+    
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      min-height: 100vh;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       position: relative;
+      overflow-x: hidden;
+      padding: 1rem;
     }
 
-    .light-blur {
+    /* Animated background elements */
+    .bg-decoration {
       position: absolute;
+      border-radius: 50%;
+      filter: blur(100px);
+      opacity: 0.15;
+      animation: float 20s ease-in-out infinite;
+      pointer-events: none;
+    }
+
+    .decoration-1 {
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, var(--primary-purple), transparent);
+      top: -200px;
+      left: -100px;
+      animation-delay: 0s;
+    }
+
+    .decoration-2 {
       width: 500px;
       height: 500px;
-      background: radial-gradient(circle at center, transparent);
-      border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
-      z-index: 0;
+      background: radial-gradient(circle, var(--primary-blue), transparent);
+      bottom: -150px;
+      right: -100px;
+      animation-delay: 5s;
     }
 
-    @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
+    .decoration-3 {
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, var(--primary-orange), transparent);
+      top: 50%;
+      right: 10%;
+      animation-delay: 10s;
     }
 
-    .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
-      text-align: center;
+    @keyframes float {
+      0%, 100% { transform: translate(0, 0) scale(1); }
+      33% { transform: translate(30px, -30px) scale(1.1); }
+      66% { transform: translate(-20px, 20px) scale(0.9); }
+    }
+
+    /* Main container */
+    .container {
+      background: rgba(30, 41, 59, 0.7);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 24px;
+      padding: 3rem 2.5rem;
+      max-width: 600px;
+      width: 100%;
+      position: relative;
       z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 
+        0 20px 50px rgba(0, 0, 0, 0.5),
+        0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+      animation: slideUp 0.6s ease-out;
     }
 
-    h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* 404 Number */
+    .error-code {
+      font-size: 8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f97316 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-align: center;
+      line-height: 1;
+      margin-bottom: 1rem;
+      animation: glow 3s ease-in-out infinite;
+      letter-spacing: -0.05em;
+    }
+
+    @keyframes glow {
+      0%, 100% { filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5)); }
+      50% { filter: drop-shadow(0 0 40px rgba(102, 126, 234, 0.8)); }
+    }
+
+    /* Title and text */
+    .title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--light-text);
+      text-align: center;
+      margin-bottom: 0.75rem;
+      line-height: 1.3;
+    }
+
+    .description {
+      font-size: 1.125rem;
+      color: var(--medium-text);
+      text-align: center;
       margin-bottom: 0.5rem;
+      line-height: 1.6;
     }
 
-    p {
-      font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+    .suggestion {
+      font-size: 1rem;
+      color: var(--medium-text);
+      text-align: center;
+      margin-bottom: 2rem;
+      opacity: 0.8;
     }
 
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
-      text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
+    /* Divider */
+    .divider {
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+      margin: 2rem 0;
+    }
+
+    /* Action section */
+    .action-label {
+      font-size: 1rem;
       font-weight: 600;
-      transition: background 0.3s ease;
+      color: var(--light-text);
+      text-align: center;
+      margin-bottom: 1.5rem;
     }
 
-    a:hover {
-      background: #c1aaff;
+    .action-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+      margin-bottom: 2rem;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      padding: 1rem 1.5rem;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .btn::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+      transition: left 0.5s;
+    }
+
+    .btn:hover::before {
+      left: 100%;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: #ffffff;
+      box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(102, 126, 234, 0.6);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.1);
+      color: var(--light-text);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.15);
+      border-color: rgba(255, 255, 255, 0.3);
+      transform: translateY(-2px);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .icon {
+      font-size: 1.25rem;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    /* Language selector */
+    .language-section {
+      margin-top: 2rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .language-label {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--medium-text);
+      margin-bottom: 0.75rem;
+    }
+
+    .select-wrapper {
+      position: relative;
+      max-width: 200px;
+      margin: 0 auto;
     }
 
     select {
-      margin-top: 1rem;
+      width: 100%;
+      padding: 0.75rem 2.5rem 0.75rem 1rem;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--light-text);
+      font-size: 1rem;
+      font-weight: 500;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      appearance: none;
+    }
+
+    .select-wrapper::after {
+      content: '▼';
+      position: absolute;
+      right: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--medium-text);
+      pointer-events: none;
+      font-size: 0.75rem;
+    }
+
+    select:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.3);
+    }
+
+    select:focus {
+      outline: none;
+      border-color: var(--primary-purple);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
+    }
+
+    option {
+      background: var(--dark-card);
+      color: var(--light-text);
       padding: 0.5rem;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 1em;
-      background: #fff;
+    }
+
+    /* Footer */
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      font-size: 0.875rem;
+      color: var(--medium-text);
+      text-align: center;
+      opacity: 0.7;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .container {
+        padding: 2.5rem 2rem;
+      }
+
+      .error-code {
+        font-size: 6rem;
+      }
+
+      .title {
+        font-size: 1.75rem;
+      }
+
+      .description {
+        font-size: 1rem;
+      }
+
+      .suggestion {
+        font-size: 0.95rem;
+      }
+
+      .bg-decoration {
+        filter: blur(80px);
+      }
+    }
+
+    @media (max-width: 480px) {
+      body {
+        padding: 0.75rem;
+      }
+
+      .container {
+        padding: 2rem 1.5rem;
+        border-radius: 20px;
+      }
+
+      .error-code {
+        font-size: 4.5rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .title {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .description {
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .suggestion {
+        font-size: 0.875rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .divider {
+        margin: 1.5rem 0;
+      }
+
+      .action-label {
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+      }
+
+      .action-buttons {
+        gap: 0.75rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .btn {
+        padding: 0.875rem 1.25rem;
+        font-size: 0.95rem;
+        border-radius: 10px;
+      }
+
+      .language-section {
+        margin-top: 1.5rem;
+        padding-top: 1.5rem;
+      }
+
+      .footer {
+        margin-top: 1.5rem;
+        padding-top: 1rem;
+        font-size: 0.8rem;
+      }
+
+      .decoration-1,
+      .decoration-2,
+      .decoration-3 {
+        filter: blur(60px);
+      }
+    }
+
+    @media (max-width: 320px) {
+      .error-code {
+        font-size: 3.5rem;
+      }
+
+      .title {
+        font-size: 1.25rem;
+      }
+
+      .btn {
+        padding: 0.75rem 1rem;
+        font-size: 0.9rem;
+      }
+    }
+
+    /* Accessibility */
+    @media (prefers-reduced-motion: reduce) {
+      * {
+        animation: none !important;
+        transition: none !important;
+      }
+
+      .bg-decoration {
+        animation: none;
+      }
+    }
+
+    @media (prefers-contrast: high) {
+      .container {
+        border: 2px solid rgba(255, 255, 255, 0.4);
+      }
+
+      .btn {
+        border: 2px solid currentColor;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="light-blur"></div>
-  <div class="glass-card">
-    <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
+  <!-- Animated background decorations -->
+  <div class="bg-decoration decoration-1"></div>
+  <div class="bg-decoration decoration-2"></div>
+  <div class="bg-decoration decoration-3"></div>
 
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
-      <select id="language-switcher">
-        <option value="en">English</option>
-        <option value="es">Español</option>
-      </select>
+  <!-- Main container -->
+  <div class="container">
+    <!-- Error code -->
+    <div class="error-code" aria-label="Error 404">404</div>
+
+    <!-- Title and description -->
+    <h1 class="title" id="title">Page Not Found</h1>
+    <p class="description" id="message">
+      Looks like this page decided to take a coffee break and forgot to come back!
+    </p>
+    <p class="suggestion" id="suggestion">
+      The page you're looking for might have been moved, deleted, or never existed.
+    </p>
+
+    <!-- Divider -->
+    <div class="divider"></div>
+
+    <!-- Action section -->
+    <p class="action-label" id="action-label">Here's what you can do:</p>
+    
+    <div class="action-buttons">
+      <a href="./intro.html" class="btn btn-primary" id="home-btn">
+        <span class="icon" aria-hidden="true">🏠</span>
+        <span id="home-text">Go Back Home</span>
+      </a>
+      
+      <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" 
+         class="btn btn-secondary" 
+         id="report-btn"
+         target="_blank" 
+         rel="noopener noreferrer">
+        <span class="icon" aria-hidden="true">🐛</span>
+        <span id="report-text">Report This Issue</span>
+      </a>
     </div>
 
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
+    <!-- Language selector -->
+    <div class="language-section">
+      <label class="language-label" for="language-switcher">
+        <span aria-hidden="true">🌐</span>
+        <span id="lang-label">Select Language</span>
+      </label>
+      <div class="select-wrapper">
+        <select id="language-switcher" aria-label="Choose your preferred language">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <p class="footer" id="footer">
+      If this seems like an error, please let us know by creating an issue on GitHub.
+    </p>
   </div>
 
   <script>
     const translations = {
       en: {
-        title: "404 - Page Not Found",
-        message: "This page might’ve wandered off or was never here at all.",
-        suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
-        whatDo: "What can you do?",
-        home: "⬅️ Back to Home",
-        report: "🐞 Report the Issue",
-        footer: "If you think this is an error, let us know by creating an issue."
+        title: "Page Not Found",
+        message: "Looks like this page decided to take a coffee break and forgot to come back!",
+        suggestion: "The page you're looking for might have been moved, deleted, or never existed.",
+        actionLabel: "Here's what you can do:",
+        homeText: "Go Back Home",
+        reportText: "Report This Issue",
+        langLabel: "Select Language",
+        footer: "If this seems like an error, please let us know by creating an issue on GitHub."
       },
       es: {
-        title: "404 - Página no encontrada",
-        message: "Esta página se ha perdido o nunca existió.",
-        suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
-        whatDo: "¿Qué puedes hacer?",
-        home: "⬅️ Volver al inicio",
-        report: "🐞 Informar del problema",
-        footer: "Si crees que esto es un error, infórmanos creando un issue."
+        title: "Página No Encontrada",
+        message: "¡Parece que esta página decidió tomar un descanso para el café y olvidó regresar!",
+        suggestion: "La página que buscas puede haber sido movida, eliminada o nunca existió.",
+        actionLabel: "Esto es lo que puedes hacer:",
+        homeText: "Volver al Inicio",
+        reportText: "Reportar Este Problema",
+        langLabel: "Seleccionar Idioma",
+        footer: "Si esto parece un error, por favor háganoslo saber creando un issue en GitHub."
       }
     };
 
     function detectLanguage() {
-      const pathLang = location.pathname.split("/")[1];
-      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
+      // Try to detect language from URL path
+      const pathLang = location.pathname.split("/").find(seg => seg === "en" || seg === "es");
+      if (pathLang && translations[pathLang]) return pathLang;
+
+      // Try to detect from referrer
+      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/").find(seg => seg === "en" || seg === "es");
+      if (refLang && translations[refLang]) return refLang;
+
+      // Try localStorage
       const storedLang = localStorage.getItem("preferredLang");
-      return translations[pathLang]
-        ? pathLang
-        : translations[refLang]
-        ? refLang
-        : translations[storedLang]
-        ? storedLang
-        : "en";
+      if (storedLang && translations[storedLang]) return storedLang;
+
+      // Default to English
+      return "en";
     }
 
     function applyLanguage(lang) {
       const t = translations[lang] || translations["en"];
+      
       document.getElementById("title").textContent = t.title;
       document.getElementById("message").textContent = t.message;
       document.getElementById("suggestion").textContent = t.suggestion;
-      document.getElementById("what-do").textContent = t.whatDo;
-      document.getElementById("home").textContent = t.home;
-      document.getElementById("report").textContent = t.report;
+      document.getElementById("action-label").textContent = t.actionLabel;
+      document.getElementById("home-text").textContent = t.homeText;
+      document.getElementById("report-text").textContent = t.reportText;
+      document.getElementById("lang-label").textContent = t.langLabel;
       document.getElementById("footer").textContent = t.footer;
       document.getElementById("language-switcher").value = lang;
+      
+      // Save preference
       localStorage.setItem("preferredLang", lang);
+      
+      // Update HTML lang attribute for accessibility
+      document.documentElement.lang = lang;
     }
 
+    // Initialize
     const initialLang = detectLanguage();
     applyLanguage(initialLang);
 
-    document.getElementById("language-switcher").addEventListener("change", function () {
+    // Handle language changes
+    document.getElementById("language-switcher").addEventListener("change", function() {
       applyLanguage(this.value);
     });
   </script>
