@@ -12,7 +12,12 @@
     }
     body {
       height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      background:  radial-gradient(
+        circle at 10% 10%,
+        #0d1117,
+        #0b0d12
+        /*edit light source position as index.html*/
+      );
       display: flex;
       align-items: center;
       justify-content: center;
@@ -40,7 +45,8 @@
     }
 
     .glass-card {
-      background: rgba(255, 255, 255, 0.25);
+      background:  rgba(25, 28, 40, 0.65);
+      /*glass effect colour changed as per dark theme */
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
       padding: 2.5rem 3rem;
@@ -53,33 +59,55 @@
     }
 
     h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
+      font-size: 2.4em;
+      color: #f1f1f1;
       margin-bottom: 0.5rem;
+    }
+    h1 ::before {
+      content: "✕";
+      color : #ff5c5c;
+      font-weight: 700;
+      font-size: 1.6 rem;
+      margin-bottom: 0.4rem;
+      text-shadow: 0 0 10px rgba(255, 92, 92, 0.4);
+      /* Added a red cross before the title for emphasis as a block sign */      
     }
 
     p {
       font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+      color:  #c9c9d4;
+      line-height: 1.6;
+      /*increased font size for better readability */
     }
 
     a {
       display: inline-block;
       margin: 0.4rem;
       padding: 0.6rem 1rem;
+      border: 1px solid rgba(255, 255, 255, 0.2);
       border-radius: 8px;
       text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
+      background: rgba(255, 255, 255, 0.8);;
+      color: #f1f1f1;
       font-weight: 600;
       transition: background 0.3s ease;
     }
 
     a:hover {
-      background: #c1aaff;
+      background: rgba(255, 255, 255, 0.18);
+      /*hover backgrounf colour change as per dark theme */
+      }
     }
-
+      .light-blur.one{
+      top: 15%;
+      left: 15%;
+    /* Added a second light blur for enhanced visual effect */
+    }
+    a:focus-visible {
+      outline: 3px solid #6c63ff;
+      outline-offset: 3px;
+      /*focus outline for better accessibility */
+    }
     select {
       margin-top: 1rem;
       padding: 0.5rem;
@@ -87,6 +115,16 @@
       border: 1px solid #ccc;
       font-size: 1em;
       background: #fff;
+    }
+    .lost-path{
+      width: 60px;  
+      height: 10px;
+      margin: 0.6rem auto 1.2rem;
+      background-image: radial-gradient(circle, rgba(0,0,0,0.25) 2px,transparent 2px);
+      background-size: 10px 10px;
+      opacity: 0.85;
+      /*decorative element*/
+    }
     }
   </style>
 </head>
