@@ -1,24 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="dark">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>404 - Not Found</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
   <style>
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
+
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
-      position: relative;
+      font-family: 'Inter', sans-serif;
+    }
+
+    [data-bs-theme="dark"] {
+      --bs-body-bg: #0d1117;
+      --bs-body-color: #e6edf3;
+      --bs-border-color: #30363d;
+      --bs-success-rgb: 35, 134, 54;
     }
 
     .light-blur {
@@ -35,50 +42,27 @@
     }
 
     @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
+      0% {
+        transform: translate(0, 0);
+      }
+
+      100% {
+        transform: translate(60px, 30px);
+      }
     }
 
-    .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
-      text-align: center;
-      z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-    }
+
 
     h1 {
       font-size: 2.5em;
-      color: rgb(52, 51, 51);
       margin-bottom: 0.5rem;
     }
 
     p {
       font-size: 1.1em;
-      color: rgb(52, 51, 51);
       margin-bottom: 1.4rem;
     }
 
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
-      text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
-      font-weight: 600;
-      transition: background 0.3s ease;
-    }
-
-    a:hover {
-      background: #c1aaff;
-    }
 
     select {
       margin-top: 1rem;
@@ -88,27 +72,111 @@
       font-size: 1em;
       background: #fff;
     }
+
+
+    #language-switcher {
+      background-color: var(--bs-body-bg);
+      border-color: rgb(var(--bs-success-rgb));
+      color: rgb(var(--bs-success-rgb));
+    }
+
+    #language-switcher:focus {
+      border-color: rgb(var(--bs-success-rgb));
+      box-shadow: 0 0 0 0.15rem rgba(var(--bs-success-rgb), 0.35);
+    }
+
+
+    #language-switcher option {
+      background-color: #0d1117;
+      color: #e6edf3;
+    }
+
+    @media (max-width: 576px) {
+
+      .card {
+        padding: 1.5rem !important;
+        margin: 1rem;
+      }
+
+      h1 {
+        font-size: 1.8rem;
+      }
+
+      p {
+        font-size: 0.95rem;
+      }
+
+      .btn-lg {
+        font-size: 0.95rem;
+        padding: 0.6rem 1rem;
+        width: 100%;
+      }
+
+      .light-blur {
+        width: 250px;
+        height: 250px;
+        top: 10%;
+        left: 5%;
+      }
+
+      select {
+        width: 100%;
+      }
+    }
   </style>
 </head>
+
 <body>
   <div class="light-blur"></div>
-  <div class="glass-card">
-    <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
 
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
-      <select id="language-switcher">
-        <option value="en">English</option>
-        <option value="es">Español</option>
-      </select>
+  <div class="container min-vh-100 d-flex align-items-center justify-content-center">
+
+    <div class="card border bg-body bg-opacity-75 shadow-lg text-center p-4 position-relative w-100"
+      style="max-width: 520px;">
+
+      <h1 class="fw-bold mb-3">
+
+        <span id="title-404" class="text-body">404</span>
+        <span id="title-text" class="text-success"> Page Not Found</span>
+      </h1>
+
+
+
+      <p id="message" class="text-body"> This page might’ve wandered off or was never here at all. </p>
+      <p id="suggestion" class="text-body">Maybe it was deleted, renamed, or never existed in the first place.</p>
+      <p><strong id="what-do" class="text-body">What can you do?</strong></p>
+      <div class="d-flex gap-3 justify-content-center flex-wrap flex-column flex-sm-row mt-3">
+
+        <a href="./intro.html" id="home" class="btn btn-success btn-lg">
+
+          <span class="me-2">⬅️</span>Back to Home
+        </a>
+
+
+        <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report" class="btn btn-success btn-lg">
+          <i class="bi bi-bug me-2"></i>
+          Report the Issue
+        </a>
+      </div>
+
+
+
+      <div>
+        <label for="language-switcher" class="text-body fw-bold">
+          🌐 Switch Language:
+        </label>
+
+        <select id="language-switcher" class="form-select form-select-sm w-auto mx-auto text-success">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+        </select>
+
+
+      </div>
+
+      <p id="footer" style="margin-top: 1.2rem;" class="text-body">If you think this is an error, let us know by
+        creating an issue.</p>
     </div>
-
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
   </div>
 
   <script>
@@ -133,22 +201,12 @@
       }
     };
 
-    function detectLanguage() {
-      const pathLang = location.pathname.split("/")[1];
-      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
-      const storedLang = localStorage.getItem("preferredLang");
-      return translations[pathLang]
-        ? pathLang
-        : translations[refLang]
-        ? refLang
-        : translations[storedLang]
-        ? storedLang
-        : "en";
-    }
 
     function applyLanguage(lang) {
       const t = translations[lang] || translations["en"];
-      document.getElementById("title").textContent = t.title;
+      document.getElementById("title-text").textContent =
+        lang === "en" ? " Page Not Found" : " Página no encontrada";
+
       document.getElementById("message").textContent = t.message;
       document.getElementById("suggestion").textContent = t.suggestion;
       document.getElementById("what-do").textContent = t.whatDo;
@@ -158,13 +216,14 @@
       document.getElementById("language-switcher").value = lang;
       localStorage.setItem("preferredLang", lang);
     }
-
-    const initialLang = detectLanguage();
+    const initialLang = localStorage.getItem("preferredLang") || "en";
     applyLanguage(initialLang);
+
 
     document.getElementById("language-switcher").addEventListener("change", function () {
       applyLanguage(this.value);
     });
   </script>
 </body>
+
 </html>
