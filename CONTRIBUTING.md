@@ -22,7 +22,7 @@ All contributions should conform to the [NumFOCUS Contributor Code of Conduct](h
 
 ## Types of Contributions
 
-The original body of work took place at a series of unconferences and various spurts of energy, today the DISCOVER-Cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
+The original body of work took place at a series of unconferences and various spurts of energy. Today, the DISCOVER Cookbook is a living project with numerous contributors. Because it is code to produce a book rather than code for a software library or application, it has different needs than typical open source software systems. Because of these unique needs, we separate various types of contributions:
 
 ### Ideas, Questions, and Discussions
 
@@ -38,7 +38,7 @@ The original body of work took place at a series of unconferences and various sp
 
 ### Content and Design
 
-While content is the heart of the project, the quality of the content needs to remain high. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but understand that thorough review is necessary.
+While content is the heart of the project, maintaining high quality is essential. Due to a high volume of generated text being submitted for review, content takes longer to review and approve. We value these contributions but understand that thorough review is necessary.
 
 - Start with an idea in [discussions](https://github.com/numfocus/DISCOVER-Cookbook/discussions).
 - Once the community approves, create an [issue](https://github.com/numfocus/DISCOVER-Cookbook/issues).
