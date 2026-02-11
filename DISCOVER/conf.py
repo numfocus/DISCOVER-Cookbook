@@ -43,17 +43,16 @@ gettext_uuid = True
 gettext_compact = False
 
 extensions = [
-    'sphinx_togglebutton',
-    'sphinx_copybutton',
-    'myst_parser',
-    'jupyter_book',
-    'sphinx_external_toc',
-    'sphinx.ext.intersphinx',
-    'sphinx_design',
-    'sphinx_book_theme',
-    'sphinx_tags',
-    'sphinx_jupyterbook_latex',
-    'sphinx_multitoc_numbering'
+'sphinx_togglebutton',
+'sphinx_copybutton',
+'myst_parser',
+'sphinx_external_toc',
+'sphinx.ext.intersphinx',
+'sphinx_design',
+'sphinx_book_theme',
+'sphinx_tags',
+'sphinx_multitoc_numbering'
+
 ]
 external_toc_exclude_missing = False
 external_toc_path = '_toc.yml'
