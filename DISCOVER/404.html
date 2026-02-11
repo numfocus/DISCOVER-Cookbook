@@ -2,169 +2,227 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 | DISCOVER Cookbook</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
   <style>
+    :root {
+      --bg-dark: #0b1220;
+      --card-dark: #111a2b;
+      --accent-green: #22c55e;
+      --accent-green-hover: #16a34a;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --border-color: #1e293b;
+    }
+
     * {
-      box-sizing: border-box;
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
     }
+
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      font-family: "Inter", sans-serif;
+      background-color: var(--bg-dark);
+      color: var(--text-primary);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
-      position: relative;
+      min-height: 100vh;
+      padding: 1.5rem;
     }
 
-    .light-blur {
-      position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle at center, transparent);
-      border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
-      z-index: 0;
-    }
-
-    @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
-    }
-
-    .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
+    .container {
+      width: 100%;
+      max-width: 650px;
+      background: var(--card-dark);
+      padding: 3rem 2rem;
+      border-radius: 14px;
+      border: 1px solid var(--border-color);
       text-align: center;
-      z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+    }
+
+    .error-code {
+      font-size: 5rem;
+      font-weight: 700;
+      color: var(--accent-green);
+      margin-bottom: 1rem;
     }
 
     h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 0.5rem;
+      font-size: 1.8rem;
+      margin-bottom: 0.8rem;
     }
 
     p {
-      font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.2rem;
+      line-height: 1.6;
     }
 
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
+    .button-group {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
       border-radius: 8px;
       text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
-      font-weight: 600;
-      transition: background 0.3s ease;
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: 0.3s ease;
+      display: inline-block;
     }
 
-    a:hover {
-      background: #c1aaff;
+    .btn-primary {
+      background-color: var(--accent-green);
+      color: #0b1220;
+    }
+
+    .btn-primary:hover {
+      background-color: var(--accent-green-hover);
+    }
+
+    .btn-outline {
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      background: transparent;
+    }
+
+    .btn-outline:hover {
+      background: #1e293b;
+    }
+
+    .language-switch {
+      margin-top: 2rem;
+    }
+
+    .language-switch label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
     }
 
     select {
-      margin-top: 1rem;
-      padding: 0.5rem;
+      padding: 0.6rem 0.8rem;
       border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 1em;
-      background: #fff;
+      border: 1px solid var(--border-color);
+      background: #0f172a;
+      color: var(--text-primary);
+      font-size: 0.95rem;
+    }
+
+    .footer-text {
+      margin-top: 2rem;
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    @media (max-width: 480px) {
+      .error-code {
+        font-size: 3.5rem;
+      }
+
+      .container {
+        padding: 2rem 1.5rem;
+      }
     }
   </style>
 </head>
-<body>
-  <div class="light-blur"></div>
-  <div class="glass-card">
-    <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
 
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
+<body>
+
+  <main class="container">
+
+    <div class="error-code">404</div>
+
+    <h1 id="title">Page Not Found</h1>
+
+    <p id="message">
+      The page you're looking for doesn't exist or may have been moved.
+    </p>
+
+    <p id="suggestion">
+      You can return to the homepage or report the issue.
+    </p>
+
+    <div class="button-group">
+      <a href="./intro.html" class="btn btn-primary" id="homeBtn">
+        ⬅ Back to Home
+      </a>
+
+      <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues"
+         target="_blank"
+         rel="noopener"
+         class="btn btn-outline"
+         id="reportBtn">
+        🐞 Report the Issue
+      </a>
+    </div>
+
+    <div class="language-switch">
+      <label for="language-switcher">🌐 Switch Language</label>
       <select id="language-switcher">
         <option value="en">English</option>
         <option value="es">Español</option>
       </select>
     </div>
 
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
-  </div>
+    <div class="footer-text" id="footerText">
+      Diversity & Inclusion in Scientific Computing (DISC)
+    </div>
+
+  </main>
 
   <script>
     const translations = {
       en: {
-        title: "404 - Page Not Found",
-        message: "This page might’ve wandered off or was never here at all.",
-        suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
-        whatDo: "What can you do?",
-        home: "⬅️ Back to Home",
+        title: "Page Not Found",
+        message: "The page you're looking for doesn't exist or may have been moved.",
+        suggestion: "You can return to the homepage or report the issue.",
+        home: "⬅ Back to Home",
         report: "🐞 Report the Issue",
-        footer: "If you think this is an error, let us know by creating an issue."
+        footer: "Diversity & Inclusion in Scientific Computing (DISC)"
       },
       es: {
-        title: "404 - Página no encontrada",
-        message: "Esta página se ha perdido o nunca existió.",
-        suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
-        whatDo: "¿Qué puedes hacer?",
-        home: "⬅️ Volver al inicio",
+        title: "Página no encontrada",
+        message: "La página que buscas no existe o puede haber sido movida.",
+        suggestion: "Puedes volver al inicio o informar del problema.",
+        home: "⬅ Volver al inicio",
         report: "🐞 Informar del problema",
-        footer: "Si crees que esto es un error, infórmanos creando un issue."
+        footer: "Diversidad e Inclusión en Computación Científica (DISC)"
       }
     };
 
-    function detectLanguage() {
-      const pathLang = location.pathname.split("/")[1];
-      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
-      const storedLang = localStorage.getItem("preferredLang");
-      return translations[pathLang]
-        ? pathLang
-        : translations[refLang]
-        ? refLang
-        : translations[storedLang]
-        ? storedLang
-        : "en";
-    }
-
     function applyLanguage(lang) {
-      const t = translations[lang] || translations["en"];
+      const t = translations[lang] || translations.en;
       document.getElementById("title").textContent = t.title;
       document.getElementById("message").textContent = t.message;
       document.getElementById("suggestion").textContent = t.suggestion;
-      document.getElementById("what-do").textContent = t.whatDo;
-      document.getElementById("home").textContent = t.home;
-      document.getElementById("report").textContent = t.report;
-      document.getElementById("footer").textContent = t.footer;
-      document.getElementById("language-switcher").value = lang;
+      document.getElementById("homeBtn").textContent = t.home;
+      document.getElementById("reportBtn").textContent = t.report;
+      document.getElementById("footerText").textContent = t.footer;
       localStorage.setItem("preferredLang", lang);
     }
 
-    const initialLang = detectLanguage();
-    applyLanguage(initialLang);
+    const storedLang = localStorage.getItem("preferredLang") || "en";
+    document.getElementById("language-switcher").value = storedLang;
+    applyLanguage(storedLang);
 
-    document.getElementById("language-switcher").addEventListener("change", function () {
-      applyLanguage(this.value);
-    });
+    document.getElementById("language-switcher")
+      .addEventListener("change", function () {
+        applyLanguage(this.value);
+      });
   </script>
+
 </body>
 </html>
