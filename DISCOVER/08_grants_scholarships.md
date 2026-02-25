@@ -52,3 +52,15 @@ Registration vs. Travel &amp; Lodging
 
 - [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
 [^lf-source]: Language adapted from The Linux Foundation's API Strategy & Practice Conference 2017 diversity scholarship announcement. See press release: [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/the-linux-foundation-and-open-api-initiative-announce-agenda-for-apistrat-the-api-strategy-practice-conference).
+
+**Practical Tips for Scholarship Applicants**
+
+- Always check whether the grant covers travel, lodging, and registration fees before applying.
+
+- Prepare necessary documents early, such as identification proofs, visa documents, and financial need statements if required.
+
+- If reimbursement is required, confirm the reimbursement timeline and procedure with the organizing committee.
+
+- Keep backup funds available for unexpected expenses such as local transportation or emergency needs.
+
+- Communicate clearly with event organizers if you face financial barriers that may prevent attendance.
