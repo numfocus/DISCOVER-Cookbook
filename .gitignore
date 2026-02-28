@@ -13,6 +13,9 @@ venv/
 # in case of using pyenv
 .python-version
 
+# Windows null device artifact
+nul
+
 # Ignore translation files
 *.pot
 *.mo
