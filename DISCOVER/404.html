@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>404 - Not Found</title>
   <style>
     * {
@@ -10,116 +10,246 @@
       margin: 0;
       padding: 0;
     }
+
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
+      min-height: 100vh;
+      background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 50%, #dee2e6 100%);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      overflow-x: hidden;
       position: relative;
+      padding: 1rem;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body *,
+      body *::before,
+      body *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
     }
 
     .light-blur {
       position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle at center, transparent);
+      width: min(500px, 90vw);
+      height: min(500px, 90vw);
+      background: radial-gradient(circle at center, rgba(232, 146, 23, 0.08) 0%, transparent 70%);
       border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
+      filter: blur(60px);
+      top: 15%;
+      left: 5%;
+      animation: drift 12s ease-in-out infinite alternate;
       z-index: 0;
+      pointer-events: none;
     }
 
     @keyframes drift {
       0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
+      100% { transform: translate(40px, 25px); }
     }
 
     .glass-card {
-      background: rgba(255, 255, 255, 0.25);
+      background: rgba(255, 255, 255, 0.85);
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
+      padding: 2rem 2.5rem;
+      border-radius: 16px;
+      border: 1px solid rgba(222, 226, 230, 0.8);
+      max-width: 520px;
+      width: 100%;
       text-align: center;
       z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
     }
 
     h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
+      font-size: clamp(1.75rem, 5vw, 2.5rem);
+      color: #222832;
       margin-bottom: 0.5rem;
+      font-weight: 600;
+      line-height: 1.2;
     }
 
-    p {
-      font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+    .card-content p {
+      font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+      color: #495057;
+      margin-bottom: 1rem;
+      line-height: 1.5;
     }
 
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
+    .card-content p:last-of-type {
+      margin-bottom: 1.25rem;
+    }
+
+    .card-content strong {
+      color: #222832;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      justify-content: center;
+      margin-bottom: 1.25rem;
+    }
+
+    a.cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0.6rem 1.25rem;
       border-radius: 8px;
       text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
       font-weight: 600;
-      transition: background 0.3s ease;
+      font-size: 0.95rem;
+      transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+      cursor: pointer;
     }
 
-    a:hover {
-      background: #c1aaff;
+    a.cta-primary {
+      background: #e89217;
+      color: #1a1a1a;
+    }
+
+    a.cta-primary:hover {
+      background: #d48314;
+      box-shadow: 0 2px 8px rgba(232, 146, 23, 0.35);
+    }
+
+    a.cta-secondary {
+      background: #f8f9fa;
+      color: #222832;
+      border: 1px solid #dee2e6;
+    }
+
+    a.cta-secondary:hover {
+      background: #e9ecef;
+      border-color: #ced4da;
+    }
+
+    a.cta:focus {
+      outline: 2px solid #e89217;
+      outline-offset: 2px;
+    }
+
+    .language-section {
+      margin-top: 1.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid #e9ecef;
+    }
+
+    .language-section label {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: #495057;
+      font-size: 0.9rem;
     }
 
     select {
-      margin-top: 1rem;
-      padding: 0.5rem;
+      padding: 0.5rem 2rem 0.5rem 0.75rem;
       border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 1em;
+      border: 1px solid #dee2e6;
+      font-size: 1rem;
       background: #fff;
+      color: #222832;
+      min-height: 40px;
+      cursor: pointer;
+    }
+
+    select:focus {
+      outline: 2px solid #e89217;
+      outline-offset: 2px;
+    }
+
+    #footer {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: #6c757d;
+    }
+
+    /* Tablet */
+    @media (max-width: 768px) {
+      body {
+        padding: 1.5rem;
+      }
+
+      .glass-card {
+        padding: 1.75rem 2rem;
+      }
+
+      .actions {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      a.cta {
+        width: 100%;
+      }
+    }
+
+    /* Mobile */
+    @media (max-width: 480px) {
+      body {
+        padding: 1rem;
+      }
+
+      .glass-card {
+        padding: 1.5rem 1.25rem;
+        border-radius: 12px;
+      }
+
+      .light-blur {
+        width: 70vw;
+        height: 70vw;
+        top: 10%;
+      }
+    }
+
+    /* Small phones */
+    @media (max-width: 320px) {
+      .glass-card {
+        padding: 1.25rem 1rem;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="light-blur"></div>
-  <div class="glass-card">
+  <div class="light-blur" aria-hidden="true"></div>
+  <main class="glass-card" role="main" aria-labelledby="title">
     <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
-
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
-      <select id="language-switcher">
+    <div class="card-content">
+      <p id="message">This page might've wandered off or was never here at all.</p>
+      <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
+      <p><strong id="what-do">What can you do?</strong></p>
+    </div>
+    <div class="actions">
+      <a href="./intro.html" id="home" class="cta cta-primary" aria-label="Back to home page">Back to Home</a>
+      <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report" class="cta cta-secondary" target="_blank" rel="noopener noreferrer" aria-label="Report this issue on GitHub">Report the Issue</a>
+    </div>
+    <div class="language-section">
+      <label for="language-switcher">Switch language</label>
+      <select id="language-switcher" aria-label="Choose page language">
         <option value="en">English</option>
         <option value="es">Español</option>
       </select>
     </div>
-
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
-  </div>
+    <p id="footer">If you think this is an error, let us know by creating an issue.</p>
+  </main>
 
   <script>
     const translations = {
       en: {
         title: "404 - Page Not Found",
-        message: "This page might’ve wandered off or was never here at all.",
+        message: "This page might've wandered off or was never here at all.",
         suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
         whatDo: "What can you do?",
-        home: "⬅️ Back to Home",
-        report: "🐞 Report the Issue",
+        home: "Back to Home",
+        report: "Report the Issue",
         footer: "If you think this is an error, let us know by creating an issue."
       },
       es: {
@@ -127,8 +257,8 @@
         message: "Esta página se ha perdido o nunca existió.",
         suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
         whatDo: "¿Qué puedes hacer?",
-        home: "⬅️ Volver al inicio",
-        report: "🐞 Informar del problema",
+        home: "Volver al inicio",
+        report: "Informar del problema",
         footer: "Si crees que esto es un error, infórmanos creando un issue."
       }
     };
