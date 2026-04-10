@@ -10,6 +10,7 @@ NumFOCUS invites the community to make suggestions for improvements to the DISCO
   - [Problems or Issues](#problems-or-issues)
   - [Content and Design](#content-and-design)
   - [Bug Fixes](#bug-fixes)
+  - [Translations](#translations)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Commit Messages](#commit-messages)
 - [Review Process](#review-process)
@@ -52,6 +53,10 @@ For technical issues with the book:
 - **Create a new issue** if none exists, with clear reproduction steps.
 - **Reference the issue** in your pull request.
 - **Test your changes locally** following our [build instructions](README.md) before submitting.
+
+#### Translations
+
+See the [translator guide](./docs/translation/Translators_Guide.md) for all details on how to contribute translations to the Cookbook.
 
 ## Pull Request Guidelines
 

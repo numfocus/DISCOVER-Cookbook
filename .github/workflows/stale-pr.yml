@@ -1,0 +1,37 @@
+name: Mark stale pull requests
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:      # Allow manual triggering
+
+permissions:
+  pull-requests: write
+  issues: read
+  contents: read
+
+jobs:
+  stale-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          # Disable for issues
+          days-before-issue-stale: -1
+          days-before-issue-close: -1
+          
+          days-before-pr-stale: 30
+          days-before-pr-close: -1
+          stale-pr-message: 'This pull request has been inactive for 30 days. It will be closed in 14 days if no further activity occurs.'
+          stale-pr-label: '⌛ stale'
+          exempt-pr-labels: ✨ content enhancement,✍️ new content'
+          exempt-draft-pr: true
+          delete-branch: false
+          
+          only-pr-labels: ''  # Process all PRs
+          
+
+          operations-per-run: 30
+          enable-statistics: true
+
+          exempt-all-pr-milestones: true
