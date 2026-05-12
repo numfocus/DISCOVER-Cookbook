@@ -10,11 +10,11 @@
 
 ### Per-Version Build Matrix
 
-| Version | 🇺🇸 English (`en`) |
-|---------|-------------------|
-| **`dev`** (main) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://discover-cookbook.numfocus.org/dev/en/) |
-| **`v2.0`** | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=v2.0-translations)](https://discover-cookbook.numfocus.org/v2.0/en/) |
-| **`v1.0`** (archived) | [![View Docs](https://img.shields.io/badge/docs-v1.0%2Fen-blue)](https://discover-cookbook.numfocus.org/v1.0/en/) |
+| Version | 🇺🇸 English (`en`) | 🇪🇸 Spanish (`es`) |
+|---------|-------------------|-------------------|
+| **`dev`** (main) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://discover-cookbook.numfocus.org/dev/en/) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://discover-cookbook.numfocus.org/dev/es/) |
+| **`v2.0`** | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=v2.0-translations)](https://discover-cookbook.numfocus.org/v2.0/en/) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=v2.0-translations)](https://discover-cookbook.numfocus.org/v2.0/es/) |
+| **`v1.0`** (archived) | [![View Docs](https://img.shields.io/badge/docs-v1.0%2Fen-blue)](https://discover-cookbook.numfocus.org/v1.0/en/) | [![View Docs](https://img.shields.io/badge/docs-v1.0%2Fes-blue)](https://discover-cookbook.numfocus.org/v1.0/es/) |
 
 ---
 
