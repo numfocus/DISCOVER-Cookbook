@@ -6,6 +6,7 @@
 |---------|--------|
 | **GitHub Actions** (deploy-book) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml) |
 | **GitHub Actions** (check-links) | [![checklink](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml) |
+| **Website** (Production) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdiscover-cookbook.numfocus.org&label=discover-cookbook.numfocus.org)](https://discover-cookbook.numfocus.org) |
 
 ---
 
