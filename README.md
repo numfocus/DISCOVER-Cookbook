@@ -5,6 +5,7 @@
 | Service | Status |
 |---------|--------|
 | **GitHub Actions** (deploy-book) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml) |
+| **GitHub Actions** (check-links) | [![checklink](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml) |
 
 ---
 
