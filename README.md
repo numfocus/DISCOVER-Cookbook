@@ -1,4 +1,14 @@
 # DISCOVER-Cookbook
+
+## Build Status
+
+| Service | Status |
+|---------|--------|
+| **GitHub Actions** (deploy-book) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml) |
+| **GitHub Actions** (check-links) | [![checklink](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml) |
+
+---
+
 ![All Contributors](https://img.shields.io/github/all-contributors/numfocus/DISCOVER-Cookbook?color=ee8449)
 
 The NumFOCUS DISCOVER Cookbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
