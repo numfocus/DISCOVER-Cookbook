@@ -1,4 +1,23 @@
 # DISCOVER-Cookbook
+
+## Build Status
+
+| Service | Status |
+|---------|--------|
+| **GitHub Actions** (deploy-book) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml) |
+| **GitHub Actions** (check-links) | [![checklink](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml/badge.svg?branch=main)](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/checklink.yml) |
+| **Website** (Production) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdiscover-cookbook.numfocus.org&label=discover-cookbook.numfocus.org)](https://discover-cookbook.numfocus.org) |
+
+### Per-Version Build Matrix
+
+| Version | 🇺🇸 English (`en`) | 🇪🇸 Spanish (`es`) |
+|---------|-------------------|-------------------|
+| **`dev`** (main) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://discover-cookbook.numfocus.org/dev/en/) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=main)](https://discover-cookbook.numfocus.org/dev/es/) |
+| **`v2.0`** | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=v2.0-translations)](https://discover-cookbook.numfocus.org/v2.0/en/) | [![deploy-book](https://github.com/numfocus/DISCOVER-Cookbook/actions/workflows/build-gh-pages.yml/badge.svg?branch=v2.0-translations)](https://discover-cookbook.numfocus.org/v2.0/es/) |
+| **`v1.0`** (archived) | [![View Docs](https://img.shields.io/badge/docs-v1.0%2Fen-blue)](https://discover-cookbook.numfocus.org/v1.0/en/) | [![View Docs](https://img.shields.io/badge/docs-v1.0%2Fes-blue)](https://discover-cookbook.numfocus.org/v1.0/es/) |
+
+---
+
 ![All Contributors](https://img.shields.io/github/all-contributors/numfocus/DISCOVER-Cookbook?color=ee8449)
 
 The NumFOCUS DISCOVER Cookbook (Diverse &amp; Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity &amp; Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation. 
