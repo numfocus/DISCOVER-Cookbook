@@ -1,170 +1,310 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <title>404 - Page Not Found | DISCOVER Cookbook</title>
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
+    :root {
+      --bg: #eef3ff;
+      --blob-1: #6f8cff; --blob-2: #2fd4c0; --blob-3: #b78cff;
+      --blob-opacity: .55;
+      --surface: rgba(255,255,255,.72);
+      --border: rgba(40,60,130,.16);
+      --text: #101a35;
+      --muted: #44506d;
+      --accent: #2f4fd0;
+      --accent-hover: #2140b5;
+      --accent-text: #fff;
+      --g1: #2f4fd0; --g2: #12b8aa; --g3: #8a5cf6;
+      --shadow: 0 30px 80px -30px rgba(30,45,110,.45);
+      --focus: #b45309;
     }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #070b18;
+        --blob-opacity: .38;
+        --surface: rgba(14,22,42,.72);
+        --border: rgba(160,185,255,.2);
+        --text: #f1f5ff;
+        --muted: #aab6d6;
+        --accent: #9db2ff;
+        --accent-hover: #bccaff;
+        --accent-text: #0a1020;
+        --g1: #9db2ff; --g2: #3ddbc8; --g3: #c4a2ff;
+        --shadow: 0 30px 80px -30px rgba(0,0,0,.8);
+        --focus: #fbbf24;
+      }
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { height: 100%; }
     body {
-      height: 100vh;
-      background: linear-gradient(135deg, black, #e4f0ff);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-family: 'Segoe UI', sans-serif;
-      overflow: hidden;
+      min-height: 100dvh;
+      display: grid;
+      place-items: center;
+      padding: max(1.25rem, env(safe-area-inset-top)) 1.25rem max(1.25rem, env(safe-area-inset-bottom));
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Inter", "Segoe UI", system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* aurora background */
+    .aurora { position: fixed; inset: 0; overflow: hidden; pointer-events: none; }
+    .aurora i {
+      position: absolute; border-radius: 50%;
+      width: 46vmax; height: 46vmax;
+      filter: blur(90px); opacity: var(--blob-opacity);
+      animation: float 22s ease-in-out infinite alternate;
+    }
+    .aurora i:nth-child(1) { background: var(--blob-1); top: -18%; left: -12%; }
+    .aurora i:nth-child(2) { background: var(--blob-2); bottom: -22%; right: -10%; animation-duration: 28s; animation-delay: -6s; }
+    .aurora i:nth-child(3) { background: var(--blob-3); top: 30%; left: 45%; width: 32vmax; height: 32vmax; animation-duration: 34s; animation-delay: -12s; }
+    @keyframes float { to { transform: translate(7vw, 6vh) scale(1.15); } }
+    .aurora::after {
+      content: ""; position: absolute; inset: 0;
+      background-image: radial-gradient(var(--border) 1px, transparent 1px);
+      background-size: 30px 30px;
+      -webkit-mask-image: radial-gradient(ellipse at center, #000 10%, transparent 70%);
+      mask-image: radial-gradient(ellipse at center, #000 10%, transparent 70%);
+    }
+
+    main {
       position: relative;
-    }
-
-    .light-blur {
-      position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle at center, transparent);
-      border-radius: 50%;
-      filter: blur(80px);
-      top: 20%;
-      left: 10%;
-      animation: drift 10s ease-in-out infinite alternate;
-      z-index: 0;
-    }
-
-    @keyframes drift {
-      0%   { transform: translate(0, 0); }
-      100% { transform: translate(60px, 30px); }
-    }
-
-    .glass-card {
-      background: rgba(255, 255, 255, 0.25);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      padding: 2.5rem 3rem;
-      border-radius: 20px;
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      max-width: 500px;
+      width: min(100%, 38rem);
+      padding: clamp(2rem, 6vw, 3.5rem) clamp(1.25rem, 6vw, 3.25rem);
       text-align: center;
-      z-index: 1;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      background: var(--surface);
+      border-radius: 32px;
+      box-shadow: var(--shadow);
+      -webkit-backdrop-filter: blur(20px) saturate(140%);
+      backdrop-filter: blur(20px) saturate(140%);
     }
+    main::before {
+      content: ""; position: absolute; inset: 0; border-radius: inherit; padding: 1.5px; pointer-events: none;
+      background: linear-gradient(135deg, var(--g1), transparent 40%, transparent 60%, var(--g2));
+      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite: xor; mask-composite: exclude;
+    }
+
+    .code {
+      direction: ltr;
+      display: flex; align-items: center; justify-content: center;
+      gap: clamp(.15rem, 1.5vw, .6rem);
+      font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+      font-weight: 700;
+      font-size: clamp(5rem, 24vw, 8.5rem);
+      line-height: 1; letter-spacing: -.04em;
+      margin-bottom: 1.5rem;
+    }
+    .code span {
+      color: var(--g1);
+      background: linear-gradient(160deg, var(--g1), var(--g3) 55%, var(--g2));
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 8px 24px color-mix(in srgb, var(--g1) 35%, transparent));
+    }
+    .code svg { width: .86em; height: .86em; overflow: visible; filter: drop-shadow(0 8px 24px color-mix(in srgb, var(--g2) 40%, transparent)); }
+    .ring-track { fill: none; stroke: var(--border); stroke-width: 8; }
+    .ring-draw {
+      fill: none; stroke: url(#rg); stroke-width: 8; stroke-linecap: round;
+      stroke-dasharray: 289; stroke-dashoffset: 289;
+      transform: rotate(-90deg); transform-origin: 50% 50%;
+      animation: draw 1.8s cubic-bezier(.65,0,.25,1) .2s forwards;
+    }
+    .orbit { transform-origin: 50% 50%; animation: spin 9s linear infinite; }
+    .orbit circle { fill: var(--g2); }
+    .core { fill: url(#rg); }
+    @keyframes draw { to { stroke-dashoffset: 60; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
 
     h1 {
-      font-size: 2.5em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 0.5rem;
+      font-family: Georgia, "Iowan Old Style", "Times New Roman", "Noto Serif", serif;
+      font-size: clamp(1.6rem, 5.5vw, 2.25rem);
+      line-height: 1.2; margin-bottom: .75rem;
     }
+    .lead { font-size: 1.1rem; margin-bottom: .4rem; }
+    .sub { color: var(--muted); max-width: 30rem; margin: 0 auto 2rem; }
 
-    p {
-      font-size: 1.1em;
-      color: rgb(52, 51, 51);
-      margin-bottom: 1.4rem;
+    .actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .75rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      min-height: 50px; padding: .7rem 1.6rem; border-radius: 999px;
+      font: inherit; font-weight: 600; text-decoration: none;
+      border: 2px solid transparent;
+      transition: transform .2s, box-shadow .2s, background-color .2s, color .2s;
     }
-
-    a {
-      display: inline-block;
-      margin: 0.4rem;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
-      text-decoration: none;
-      background: #d0bfff;
-      color: #1f1f1f;
-      font-weight: 600;
-      transition: background 0.3s ease;
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 60%, var(--g2)));
+      color: var(--accent-text);
+      box-shadow: 0 10px 28px -10px var(--accent);
     }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 14px 32px -10px var(--accent); }
+    .btn-ghost { color: var(--accent); border-color: var(--accent); background: transparent; }
+    .btn-ghost:hover { background: var(--accent); color: var(--accent-text); }
+    :focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 
-    a:hover {
-      background: #c1aaff;
+    /* language search input */
+    .lang { position: relative; width: min(100%, 20rem); margin: 2.25rem auto 0; }
+    .lang svg { position: absolute; inset-inline-start: 1rem; top: 50%; translate: 0 -50%; width: 20px; height: 20px; color: var(--accent); pointer-events: none; }
+    .lang input {
+      width: 100%; min-height: 50px;
+      padding-block: 0 0; padding-inline: 2.9rem 1rem;
+      border-radius: 999px; border: 1.5px solid var(--border);
+      background: color-mix(in srgb, var(--surface) 70%, transparent);
+      color: var(--text); font: inherit; font-weight: 600;
+      transition: border-color .2s, box-shadow .2s;
     }
+    .lang input::placeholder { color: var(--muted); font-weight: 500; }
+    .lang input:hover { border-color: var(--accent); }
+    .lang input:focus-visible { outline: none; border-color: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 30%, transparent); }
 
-    select {
-      margin-top: 1rem;
-      padding: 0.5rem;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      font-size: 1em;
-      background: #fff;
+    .footer { margin-top: 1.5rem; color: var(--muted); font-size: .95rem; }
+
+    @media (max-width: 440px) { .actions { flex-direction: column; } .btn { width: 100%; } }
+    @media (prefers-reduced-motion: reduce) {
+      .aurora i, .orbit { animation: none; }
+      .ring-draw { animation: none; stroke-dashoffset: 60; }
+      .btn { transition: none; }
     }
   </style>
 </head>
 <body>
-  <div class="light-blur"></div>
-  <div class="glass-card">
-    <h1 id="title">404 - Page Not Found</h1>
-    <p id="message">This page might’ve wandered off or was never here at all.</p>
-    <p id="suggestion">Maybe it was deleted, renamed, or never existed in the first place.</p>
-    <p><strong id="what-do">What can you do?</strong></p>
-    <a href="./intro.html" id="home">⬅️ Back to Home</a>
-    <a href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report">🐞 Report the Issue</a>
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
 
-    <div>
-      <label for="language-switcher" style="display:block; margin-top:1.5rem; color:#444;">🌐 Switch Language:</label>
-      <select id="language-switcher">
-        <option value="en">English</option>
-        <option value="es">Español</option>
-      </select>
+  <main>
+    <div class="code" role="img" aria-label="404">
+      <span aria-hidden="true">4</span>
+      <svg viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+        <defs>
+          <linearGradient id="rg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="var(--g1)" /><stop offset=".55" stop-color="var(--g3)" /><stop offset="1" stop-color="var(--g2)" />
+          </linearGradient>
+        </defs>
+        <circle class="ring-track" cx="50" cy="50" r="46" />
+        <circle class="ring-draw" cx="50" cy="50" r="46" />
+        <g class="orbit"><circle cx="50" cy="20" r="4.5" /></g>
+        <circle class="core" cx="50" cy="50" r="7" />
+      </svg>
+      <span aria-hidden="true">4</span>
     </div>
 
-    <p id="footer" style="margin-top: 1.2rem;">If you think this is an error, let us know by creating an issue.</p>
-  </div>
+    <h1 id="title"></h1>
+    <p class="lead" id="message"></p>
+    <p class="sub" id="suggestion"></p>
+
+    <div class="actions">
+      <a class="btn btn-primary" href="./intro.html" id="home"></a>
+      <a class="btn btn-ghost" href="https://github.com/numfocus/DISCOVER-Cookbook/issues" id="report"></a>
+    </div>
+
+    <div class="lang">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>
+      <input id="lang-input" type="text" list="lang-list" autocomplete="off" autocapitalize="off" spellcheck="false" />
+      <datalist id="lang-list"></datalist>
+    </div>
+
+    <p class="footer" id="footer"></p>
+  </main>
 
   <script>
-    const translations = {
-      en: {
-        title: "404 - Page Not Found",
-        message: "This page might’ve wandered off or was never here at all.",
-        suggestion: "Maybe it was deleted, renamed, or never existed in the first place.",
-        whatDo: "What can you do?",
-        home: "⬅️ Back to Home",
-        report: "🐞 Report the Issue",
-        footer: "If you think this is an error, let us know by creating an issue."
-      },
-      es: {
-        title: "404 - Página no encontrada",
-        message: "Esta página se ha perdido o nunca existió.",
-        suggestion: "Tal vez fue eliminada, renombrada o nunca existió.",
-        whatDo: "¿Qué puedes hacer?",
-        home: "⬅️ Volver al inicio",
-        report: "🐞 Informar del problema",
-        footer: "Si crees que esto es un error, infórmanos creando un issue."
-      }
+    /* code: [native name, English name, title, message, suggestion, home, report, footer, search placeholder, label, (rtl)] */
+    const L = {
+      en: ["English","English","Page not found","We couldn’t find the page you were looking for.","It may have been moved, renamed, or removed. Head back to the start or let us know.","Back to home","Report the issue","Think this is a mistake? Please open an issue.","Search language…","Language"],
+      es: ["Español","Spanish","Página no encontrada","No pudimos encontrar la página que buscabas.","Puede que se haya movido, renombrado o eliminado. Vuelve al inicio o avísanos.","Volver al inicio","Informar del problema","¿Crees que es un error? Abre un issue.","Buscar idioma…","Idioma"],
+      fr: ["Français","French","Page introuvable","Nous n’avons pas trouvé la page que vous cherchez.","Elle a peut-être été déplacée, renommée ou supprimée. Revenez à l’accueil ou signalez-le-nous.","Retour à l’accueil","Signaler le problème","Une erreur ? Ouvrez un ticket (issue).","Rechercher une langue…","Langue"],
+      de: ["Deutsch","German","Seite nicht gefunden","Wir konnten die gesuchte Seite nicht finden.","Sie wurde möglicherweise verschoben, umbenannt oder entfernt. Gehen Sie zur Startseite oder melden Sie es uns.","Zurück zur Startseite","Problem melden","Ein Fehler? Bitte eröffnen Sie ein Issue.","Sprache suchen…","Sprache"],
+      pt: ["Português","Portuguese","Página não encontrada","Não encontramos a página que você procurava.","Ela pode ter sido movida, renomeada ou removida. Volte ao início ou avise-nos.","Voltar ao início","Relatar o problema","Acha que é um erro? Abra uma issue.","Buscar idioma…","Idioma"],
+      it: ["Italiano","Italian","Pagina non trovata","Non abbiamo trovato la pagina che cercavi.","Potrebbe essere stata spostata, rinominata o rimossa. Torna alla home o segnalacelo.","Torna alla home","Segnala il problema","Pensi sia un errore? Apri una issue.","Cerca lingua…","Lingua"],
+      nl: ["Nederlands","Dutch","Pagina niet gevonden","We konden de pagina die je zocht niet vinden.","Ze is mogelijk verplaatst, hernoemd of verwijderd. Ga terug naar het begin of laat het ons weten.","Terug naar home","Probleem melden","Denk je dat dit een fout is? Open een issue.","Taal zoeken…","Taal"],
+      sv: ["Svenska","Swedish","Sidan hittades inte","Vi kunde inte hitta sidan du letade efter.","Den kan ha flyttats, bytt namn eller tagits bort. Gå till startsidan eller berätta för oss.","Tillbaka till startsidan","Rapportera problemet","Tror du att det är ett fel? Öppna ett issue.","Sök språk…","Språk"],
+      pl: ["Polski","Polish","Nie znaleziono strony","Nie udało się znaleźć szukanej strony.","Mogła zostać przeniesiona, przemianowana lub usunięta. Wróć na stronę główną lub daj nam znać.","Wróć na stronę główną","Zgłoś problem","To błąd? Utwórz zgłoszenie (issue).","Szukaj języka…","Język"],
+      ru: ["Русский","Russian","Страница не найдена","Мы не смогли найти нужную страницу.","Возможно, она была перемещена, переименована или удалена. Вернитесь на главную или сообщите нам.","На главную","Сообщить о проблеме","Думаете, это ошибка? Создайте issue.","Поиск языка…","Язык"],
+      uk: ["Українська","Ukrainian","Сторінку не знайдено","Ми не змогли знайти потрібну сторінку.","Її могли перемістити, перейменувати або видалити. Поверніться на головну або повідомте нам.","На головну","Повідомити про проблему","Вважаєте, це помилка? Створіть issue.","Пошук мови…","Мова"],
+      el: ["Ελληνικά","Greek","Η σελίδα δεν βρέθηκε","Δεν βρήκαμε τη σελίδα που ψάχνατε.","Ίσως μετακινήθηκε, μετονομάστηκε ή διαγράφηκε. Επιστρέψτε στην αρχική ή ενημερώστε μας.","Επιστροφή στην αρχική","Αναφορά προβλήματος","Πιστεύετε ότι είναι σφάλμα; Ανοίξτε ένα issue.","Αναζήτηση γλώσσας…","Γλώσσα"],
+      tr: ["Türkçe","Turkish","Sayfa bulunamadı","Aradığınız sayfayı bulamadık.","Taşınmış, yeniden adlandırılmış veya kaldırılmış olabilir. Ana sayfaya dönün ya da bize bildirin.","Ana sayfaya dön","Sorunu bildir","Bunun bir hata olduğunu mu düşünüyorsunuz? Bir issue açın.","Dil ara…","Dil"],
+      ar: ["العربية","Arabic","الصفحة غير موجودة","لم نتمكن من العثور على الصفحة التي تبحث عنها.","ربما تم نقلها أو إعادة تسميتها أو حذفها. عد إلى الصفحة الرئيسية أو أخبرنا.","العودة إلى الرئيسية","الإبلاغ عن المشكلة","هل تعتقد أن هذا خطأ؟ افتح issue.","ابحث عن لغة…","اللغة",1],
+      he: ["עברית","Hebrew","הדף לא נמצא","לא הצלחנו למצוא את הדף שחיפשת.","ייתכן שהוא הועבר, שונה או הוסר. חזור לדף הבית או הודע לנו.","חזרה לדף הבית","דיווח על הבעיה","חושב שזו טעות? פתח issue.","חיפוש שפה…","שפה",1],
+      fa: ["فارسی","Persian","صفحه پیدا نشد","صفحه‌ای که دنبالش بودید پیدا نشد.","ممکن است جابه‌جا، تغییر نام یا حذف شده باشد. به صفحه اصلی برگردید یا به ما اطلاع دهید.","بازگشت به خانه","گزارش مشکل","فکر می‌کنید اشتباه است؟ یک issue باز کنید.","جستجوی زبان…","زبان",1],
+      ur: ["اردو","Urdu","صفحہ نہیں ملا","ہمیں وہ صفحہ نہیں ملا جس کی آپ تلاش کر رہے تھے۔","ہو سکتا ہے اسے منتقل، نام تبدیل یا ہٹا دیا گیا ہو۔ ہوم پر واپس جائیں یا ہمیں بتائیں۔","ہوم پر واپس","مسئلے کی اطلاع دیں","کیا آپ کو لگتا ہے یہ غلطی ہے؟ ایک issue کھولیں۔","زبان تلاش کریں…","زبان",1],
+      hi: ["हिन्दी","Hindi","पृष्ठ नहीं मिला","आप जिस पृष्ठ को खोज रहे थे, वह हमें नहीं मिला।","हो सकता है इसे स्थानांतरित, पुनःनामित या हटा दिया गया हो। होम पर लौटें या हमें बताएं।","होम पर वापस जाएँ","समस्या की रिपोर्ट करें","क्या यह त्रुटि लगती है? कृपया एक issue खोलें।","भाषा खोजें…","भाषा"],
+      bn: ["বাংলা","Bengali","পৃষ্ঠাটি পাওয়া যায়নি","আপনি যে পৃষ্ঠাটি খুঁজছিলেন তা আমরা খুঁজে পাইনি।","এটি সরানো, নাম পরিবর্তন বা মুছে ফেলা হয়ে থাকতে পারে। হোমে ফিরে যান বা আমাদের জানান।","হোমে ফিরে যান","সমস্যাটি জানান","মনে হচ্ছে এটি ভুল? একটি issue খুলুন।","ভাষা খুঁজুন…","ভাষা"],
+      ta: ["தமிழ்","Tamil","பக்கம் கிடைக்கவில்லை","நீங்கள் தேடிய பக்கத்தைக் கண்டுபிடிக்க முடியவில்லை.","இது நகர்த்தப்பட்டிருக்கலாம், பெயர் மாற்றப்பட்டிருக்கலாம் அல்லது நீக்கப்பட்டிருக்கலாம். முகப்புக்குத் திரும்பவும் அல்லது எங்களுக்குத் தெரிவிக்கவும்.","முகப்புக்குத் திரும்பு","சிக்கலைப் புகாரளி","இது பிழை என நினைக்கிறீர்களா? ஒரு issue திறக்கவும்.","மொழியைத் தேடுங்கள்…","மொழி"],
+      te: ["తెలుగు","Telugu","పేజీ కనుగొనబడలేదు","మీరు వెతుకుతున్న పేజీని మేము కనుగొనలేకపోయాము.","అది తరలించబడి, పేరు మార్చబడి లేదా తొలగించబడి ఉండవచ్చు. హోమ్‌కు తిరిగి వెళ్లండి లేదా మాకు తెలియజేయండి.","హోమ్‌కు తిరిగి వెళ్లండి","సమస్యను నివేదించండి","ఇది పొరపాటు అనుకుంటున్నారా? ఒక issue తెరవండి.","భాషను వెతకండి…","భాష"],
+      mr: ["मराठी","Marathi","पृष्ठ सापडले नाही","तुम्ही शोधत असलेले पृष्ठ आम्हाला सापडले नाही.","ते हलवले, नाव बदलले किंवा काढून टाकले गेले असावे. मुख्यपृष्ठावर परत जा किंवा आम्हाला कळवा.","मुख्यपृष्ठावर परत","समस्या नोंदवा","ही चूक वाटते का? कृपया issue उघडा.","भाषा शोधा…","भाषा"],
+      zh: ["中文","Chinese","页面未找到","我们找不到您要访问的页面。","它可能已被移动、重命名或删除。请返回首页，或告知我们。","返回首页","报告问题","认为这是错误？请提交 issue。","搜索语言…","语言"],
+      ja: ["日本語","Japanese","ページが見つかりません","お探しのページは見つかりませんでした。","移動、名前の変更、または削除された可能性があります。ホームに戻るか、お知らせください。","ホームに戻る","問題を報告する","エラーだと思われる場合は、issue を作成してください。","言語を検索…","言語"],
+      ko: ["한국어","Korean","페이지를 찾을 수 없습니다","찾으시는 페이지를 찾을 수 없습니다.","이동되었거나 이름이 바뀌었거나 삭제되었을 수 있습니다. 홈으로 돌아가거나 알려 주세요.","홈으로 돌아가기","문제 신고","오류라고 생각하시나요? 이슈를 등록해 주세요.","언어 검색…","언어"],
+      id: ["Bahasa Indonesia","Indonesian","Halaman tidak ditemukan","Kami tidak dapat menemukan halaman yang Anda cari.","Halaman mungkin dipindahkan, diganti namanya, atau dihapus. Kembali ke beranda atau beri tahu kami.","Kembali ke beranda","Laporkan masalah","Menurut Anda ini kesalahan? Buka sebuah issue.","Cari bahasa…","Bahasa"],
+      vi: ["Tiếng Việt","Vietnamese","Không tìm thấy trang","Chúng tôi không tìm thấy trang bạn cần.","Trang có thể đã bị di chuyển, đổi tên hoặc xóa. Hãy về trang chủ hoặc báo cho chúng tôi.","Về trang chủ","Báo cáo sự cố","Nghĩ đây là lỗi? Hãy mở một issue.","Tìm ngôn ngữ…","Ngôn ngữ"],
+      th: ["ไทย","Thai","ไม่พบหน้านี้","เราไม่พบหน้าที่คุณกำลังมองหา","หน้านี้อาจถูกย้าย เปลี่ยนชื่อ หรือถูกลบ กลับไปที่หน้าแรกหรือแจ้งให้เราทราบ","กลับหน้าแรก","รายงานปัญหา","คิดว่าเป็นข้อผิดพลาดหรือไม่? โปรดเปิด issue","ค้นหาภาษา…","ภาษา"]
     };
+
+    const $ = (id) => document.getElementById(id);
+    const input = $("lang-input");
+    let current = "en";
+
+    function safeGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+    function safeSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+    const has = (c) => Object.prototype.hasOwnProperty.call(L, c);
 
     function detectLanguage() {
       const pathLang = location.pathname.split("/")[1];
-      const refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1];
-      const storedLang = localStorage.getItem("preferredLang");
-      return translations[pathLang]
-        ? pathLang
-        : translations[refLang]
-        ? refLang
-        : translations[storedLang]
-        ? storedLang
-        : "en";
+      let refLang = "";
+      try { refLang = new URL(document.referrer || "", location.origin).pathname.split("/")[1]; } catch (e) {}
+      const candidates = [pathLang, refLang, safeGet("preferredLang"), (navigator.language || "en").slice(0, 2)];
+      return candidates.find(has) || "en";
     }
 
-    function applyLanguage(lang) {
-      const t = translations[lang] || translations["en"];
-      document.getElementById("title").textContent = t.title;
-      document.getElementById("message").textContent = t.message;
-      document.getElementById("suggestion").textContent = t.suggestion;
-      document.getElementById("what-do").textContent = t.whatDo;
-      document.getElementById("home").textContent = t.home;
-      document.getElementById("report").textContent = t.report;
-      document.getElementById("footer").textContent = t.footer;
-      document.getElementById("language-switcher").value = lang;
-      localStorage.setItem("preferredLang", lang);
+    function applyLanguage(code) {
+      const t = L[code];
+      current = code;
+      document.documentElement.lang = code;
+      document.documentElement.dir = t[10] ? "rtl" : "ltr";
+      document.title = "404 - " + t[2] + " | DISCOVER Cookbook";
+      $("title").textContent = t[2];
+      $("message").textContent = t[3];
+      $("suggestion").textContent = t[4];
+      $("home").textContent = t[5];
+      $("report").textContent = t[6];
+      $("footer").textContent = t[7];
+      input.placeholder = t[8];
+      input.setAttribute("aria-label", t[9] + " (" + t[1] + ")");
+      input.value = t[0];
+      safeSet("preferredLang", code);
     }
 
-    const initialLang = detectLanguage();
-    applyLanguage(initialLang);
-
-    document.getElementById("language-switcher").addEventListener("change", function () {
-      applyLanguage(this.value);
+    /* fill the language list */
+    const list = $("lang-list");
+    Object.keys(L).forEach(function (c) {
+      const o = document.createElement("option");
+      o.value = L[c][0];
+      o.label = L[c][1];
+      list.appendChild(o);
     });
+
+    /* match by native name, English name, or code (exact first, then prefix) */
+    function findLang(q) {
+      q = q.trim().toLowerCase();
+      if (!q) return null;
+      const keys = Object.keys(L);
+      return keys.find(function (c) { return c === q || L[c][0].toLowerCase() === q || L[c][1].toLowerCase() === q; })
+          || keys.find(function (c) { return L[c][0].toLowerCase().startsWith(q) || L[c][1].toLowerCase().startsWith(q); })
+          || null;
+    }
+
+    input.addEventListener("focus", function () { input.value = ""; });
+    input.addEventListener("blur", function () { if (!input.value.trim()) input.value = L[current][0]; });
+    input.addEventListener("change", function () {
+      const code = findLang(input.value);
+      applyLanguage(code || current);
+    });
+    input.addEventListener("keydown", function (e) { if (e.key === "Enter") { input.blur(); } });
+
+    applyLanguage(detectLanguage());
   </script>
 </body>
 </html>
