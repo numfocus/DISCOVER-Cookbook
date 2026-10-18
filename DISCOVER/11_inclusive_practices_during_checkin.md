@@ -12,12 +12,13 @@
 ## 🍎 Pronoun Pins, Buttons, or Ribbons
 
   - Indicating pronouns:
-    - Select a pin/button/ribbon for your lanyard to communicate your pronouns. Using a pin even if you don't feel like you need one helps create a welcoming space for attendees who do.
-    - Color-coordinate the pins by pronoun for quicker recognition and processing by those who see the pins. This lowers the barrier to checking (look at the color). 
-      - Be sure to choose colors that works for folks with color-blindness. With color-coded pins, needing to actually read them is a stress case rather than the norm. Because people are used to the ease of the normal case, they're more willing to take a little extra effort to read for the stress cases. (purple: he, yellow: she, green: they, blue: ask)
-      - To be aware of: Make pins large enough to be easily seen. Make the pronoun itself the largest text, rather than the word &quot;Pronouns&quot;.
+    - Offer pins, buttons, or ribbons for attendees who wish to share their pronouns. Wearing one should always be optional, and attendees should never feel pressured to disclose their pronouns. Choosing to wear a pin can also help create a welcoming space for others who wish to share theirs.
+    - If color-coding pins, treat color as an optional visual aid rather than a universal standard. Use readable pronoun labels and, where helpful, another visual cue such as a shape or pattern so attendees do not have to rely on color alone.
+      - Treat color assignments as examples rather than fixed standards, and avoid traditional gender associations such as pink for women or blue for men.
+      - Include an &quot;Ask&quot; option for people who use pronouns not listed on the available pins or who may use different pronouns in different contexts.
+      - To be aware of: Make pins large enough to be easily seen. Make the pronoun itself the largest text, rather than the word &quot;Pronouns&quot;, and use sufficient contrast between the text and its background.
     - Another option for pronoun indication is ribbons.
-      - Have custom ones printed for Zi/Zir and a "Fill in your own" ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
+      - Have custom ones printed for pronouns not included in the standard options, such as Zi/Zir, and provide a &quot;Fill in your own&quot; ribbon. For fill in your own, make sure you provide fabric markers. (h/t @oxinabox)
 
 **Further reading:**
 - Thanks to [OpenNews](https://opennews.org/) and [SRCCON](https://srccon.org/) for the pronoun pins idea
